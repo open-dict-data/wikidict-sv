@@ -1,0 +1,2894 @@
+افريقا	Afrika
+جاپان	Japan
+سوېلي امريکا	Sydamerika
+ناروې	Norge
+د آيرلېنډ جمهوريت	Irland
+هنگري	Ungern
+اسپانیا	Spanien
+د امریکا متحده ایالتونه	USA
+بلجیم	Belgien
+لوگزامبورگ	Luxemburg
+ځمکه	Jorden
+ژوند	Liv
+انسان	Människa
+فېنلانډ	Finland
+سويډن	Sverige
+ډېنمارک	Danmark
+پولنډ	Polen
+لېتوانيا	Litauen
+اېټاليا	Italien
+سويس	Schweiz
+اتريش	Österrike
+يونان	Grekland
+تورکيه	Turkiet
+بير	Öl
+پرتگال	Portugal
+اروپا	Europa
+آسيا	Asien
+شمالي امريکا	Nordamerika
+انټارکټيکا	Antarktis
+ويکيپېډيا	Wikipedia
+هالنډ	Nederländerna
+نيويارک (ښار)	New York
+واشنگټن ډي سي	Washington, D.C.
+برلين	Berlin
+سولگر	Dator
+څوریخ	Zürich
+انټرنټ	Internet
+باراک حسين اوباما	Barack Obama
+لندن	London
+قاهره	Kairo
+مڼه	Äpple
+پاريس	Paris
+گووگل	Google
+اتلانتيک سمندر	Atlanten
+غلی سمندر	Stilla havet
+کالېفورنیا	Kalifornien
+دونۍ	Måndag
+جنوري	Januari
+فبروري	Februari
+مارچ	Mars (månad)
+مريخ	Mars (planet)
+کېنيا	Kenya
+اېتوپیا	Etiopien
+گانا	Ghana
+اپرېل	April
+مې	Maj
+جون	Juni
+جولای	Juli
+اگسټ	Augusti
+سپټمبر	September
+اکتوبر	Oktober
+نومبر	November
+ډيسمبر	December
+درې نۍ	Tisdag
+شورو	Onsdag
+زيارت	Torsdag
+جمعه	Fredag
+خالي	Lördag
+يونۍ	Söndag
+زمری	Lejon
+فرانسه	Frankrike
+سپی	Hund
+بريتانيا	Storbritannien
+پيشو	Katt
+چين د خلکو جمهوريت	Kina
+فرانسوي ژبه	Franska
+اېتنول	Etanol
+برازیل	Brasilien
+روسیه	Ryssland
+نهنگ	Valar
+څلوريځ (مېچپوهنه)	Kvadrat
+بوینگ ۷۴۷	Boeing 747
+ويکيمېډيا بنسټ	Wikimedia Foundation
+آلمان	Tyskland
+بېلاروس	Vitryssland
+آلماني ژبه	Tyska
+آيسلېنډ	Island
+الله	Gud
+اېسټونيا	Estland
+زحل	Saturnus
+الوتکه	Flygplan
+جگړه	Krig
+جورج واکر بوش	George W. Bush
+اوکراین	Ukraina
+چېک جمهوريت	Tjeckien
+سلواکيا	Slovakien
+سلووانیا	Slovenien
+مولدوا	Moldavien
+رومانیا	Rumänien
+بلغاریا	Bulgarien
+د مقدونيې ولسمشريزه	Makedonien
+البانیا	Albanien
+کروواسيا	Kroatien
+آزربايجان	Azerbajdzjan
+اندورا	Andorra
+گرجستان	Georgien
+قزاقستان	Kazakstan
+مالټا	Malta
+مانتېنېگرو	Montenegro
+واټيکان ښار	Vatikanstaten
+سان مارینو	San Marino
+بروکسل	Bryssel (region)
+بېلیز	Belize
+باربادوس	Barbados
+اندونيزيا	Indonesien
+ولفگانگ امادیوس موزارت	Wolfgang Amadeus Mozart
+لیودویگ وان بیتهووین	Ludwig van Beethoven
+تورکي ژبه	Turkiska
+سویلي افریقا	Sydafrika
+الجزاير	Algeriet
+اوزبکستان	Uzbekistan
+تاشکند	Tasjkent
+اوبه	Vatten
+تلويزون	Television
+چېلي	Chile
+عيسی	Jesus
+گاليليو گاليلی	Galileo Galilei
+عطارد	Merkurius
+پېښليک	Historia
+ژبه	Språk
+زورواکي	Diktatur
+مشتري	Jupiter
+میشل باشله	Michelle Bachelet
+ستورپوهنه	Astronomi
+سينگاپور	Singapore
+پوهنه	Vetenskap
+تکړښت	Sport
+اډولف هټلر	Adolf Hitler
+فېس بوک	Facebook
+ويکيلېکس	Wikileaks
+لومړنۍ نړېواله جگړه	Första världskriget
+دويمه نړېواله جگړه	Andra världskriget
+گړيال	Ur
+شچېچېن	Szczecin
+شمېرپوهنه	Matematik
+لاتين ژبه	Latin
+بحرین	Bahrain
+ارمنستان	Armenien
+مېخي ليکدود	Kilskrift
+هیگزبوسون	Higgsboson
+سربيا	Serbien
+سپوږمۍ	Månen
+استنبول	Istanbul
+آسټراليا	Australien
+پنځپوهنه	Fysik
+ارجنټاین	Argentina
+مخابرات	Telekommunikation
+پيرو	Peru
+ژونپوهنه	Biologi
+شمالي کوريا	Nordkorea
+کمبودیا	Kambodja
+قرآن	Koranen
+ډانگسر	Dinosaurier
+ژوپوهنه	Zoologi
+اسلام	Islam
+ناک	Päronsläktet
+بوټپوهنه	Botanik
+لېخ والېسا	Lech Wałęsa
+اروپايي اتحاديه	Europeiska unionen
+WWW	World Wide Web
+شعر	Poesi
+کمپيوټري ويروس	Datorvirus
+ليمو	Citron
+گل	Blomma
+ناپليون بوناپارت	Napoleon I
+لمر	Solen
+آسمان	Himmel
+وېکټور هوگو	Victor Hugo
+اقيانوسيه	Oceanien
+لمريز غونډال	Solsystemet
+هايډروجن	Väte
+انگېلا مېرکل	Angela Merkel
+لوړغږی	Högtalare
+ورځ	Dygn
+شپه	Natt
+کال	År
+پېړۍ	Sekel
+اوسلو	Oslo
+جنسي اړيکې	Sex (aktivitet)
+دوبۍ	Dubai
+آکسيجن	Syre
+سياره	Planet
+سندارا	Musik
+مسکو	Moskva
+چاډ	Tchad
+الومېنيم	Aluminium
+هند	Indien
+اوسپنه	Järn
+لوېديځ	Väster
+گوگړ	Svavel
+ساموا	Samoa
+ختيځ	Öster
+وېليم شېکسپيير	William Shakespeare
+نكل	Fabel
+مارشال ټاپووان	Marshallöarna
+مغولستان	Mongoliet
+سترنج	Schack
+چنگېز خان	Djingis khan
+آس	Häst
+امسټرډام	Amsterdam
+وسله	Vapen
+ژوي	Djur
+سورينام	Surinam
+گويانا	Guyana
+اېکوادور	Ecuador
+ځمکني توتان	Smultronsläktet
+بوديزم	Buddhism
+بولېویا	Bolivia
+تامبه	Koppar
+بوټی	Växt
+سېنټ لوسیا	Saint Lucia
+ليونارډو ډاوېنچي	Leonardo da Vinci
+چڼاس	Svampar
+جمايکا	Jamaica
+گرېنادا	Grenada
+گواتمالا	Guatemala
+هندوراس	Honduras
+ډومنيکان جمهوريت	Dominikanska republiken
+اهلي خوگ	Gris
+شمالي قطبي سمندر	Norra ishavet
+هایتي	Haiti
+اېلسلوادور	El Salvador
+ايران	Iran
+عراق	Irak
+کوسټاریکا	Costa Rica
+اسرائيل	Israel
+پاناما	Panama
+يمن	Jemen
+اردن	Jordanien
+نیکاراگوا	Nicaragua
+قرغزستان	Kirgizistan
+کوېټ	Kuwait
+لاووس	Laos
+لېبنان	Libanon
+مالديپ	Maldiverna
+امريکا لويه وچه	Amerika
+ميانمار	Burma
+نيپال	Nepal
+عمان	Oman
+پاکستان	Pakistan
+قطر	Qatar
+سعودي عربستان	Saudiarabien
+سریلانکا	Sri Lanka
+جوزف سټالين	Josef Stalin
+سوريه	Syrien
+اپلاتون	Platon
+تاجيکستان	Tadzjikistan
+د چين جمهوريت	Taiwan
+يوټيوب	Youtube
+ارستو	Aristoteles
+تايلنډ	Thailand
+اورگاډی	Tåg
+آرسېنيک	Arsenik
+راډيو	Radio
+تورکمنستان	Turkmenistan
+عربي متحده امارات	Förenade Arabemiraten
+چارلس چاپلين	Charlie Chaplin
+سوېلي کوريا	Sydkorea
+سمپسنز	Simpsons
+افغانستان	Afghanistan
+بنگله دېش	Bangladesh
+فرانتس کافکا	Franz Kafka
+مالي	Mali
+سوقرات	Sokrates
+آنگولا	Angola
+بوتان	Bhutan
+ټويټر	Twitter
+برونای	Brunei
+تانزانیه	Tanzania
+پاره	Kvicksilver
+فلېپين	Filippinerna
+د منځنی افريقا ولسمشريزه	Centralafrikanska republiken
+آيزاک نيوټن	Isaac Newton
+آلبرټ آينشټاين	Albert Einstein
+تونس	Tunisien
+زېمبيا	Zambia
+زېمبابوې	Zimbabwe
+بېجنگ	Peking
+سوېلي سوډان	Sydsudan
+بېنين	Benin
+بوتسوانا	Botswana
+بورکینا فاسو	Burkina Faso
+بروندي	Burundi
+کانگو جمهوريت	Kongo-Brazzaville
+جېبوتي	Djibouti
+پولونيم	Polonium
+باډن ورټمبرگ	Baden-Württemberg
+اریتره	Eritrea
+فيودور ميخايلوويچ داستاېفسکي	Fjodor Dostojevskij
+گابن	Gabon
+مهاتما گاندي	Mahatma Gandhi
+گامبيا	Gambia
+عاج ساحل	Elfenbenskusten
+کامرون	Kamerun
+لايبېريا	Liberia
+لېبيا	Libyen
+مادغاسکر	Madagaskar
+مالاوي	Malawi
+موریتانيا	Mauretanien
+ماوریتوس	Mauritius
+مراکش	Marocko
+موزمبيق	Moçambique
+نېمبیا	Namibia
+نایجېر	Niger
+نايجېريا	Nigeria
+راونډا	Rwanda
+سېنېگال	Senegal
+سیشل	Seychellerna
+سېرالیون	Sierra Leone
+سومالیا	Somalia
+سوډان	Sudan
+سوازيلانډ	Swaziland
+شنه زرغونه	Regnbåge
+استقلاب	Metabolism
+ملگري ملتونه	Förenta nationerna
+دانتې الیگيري	Dante Alighieri
+ځمکپېژندنه	Geologi
+ځمکپوهنه	Geografi
+زړه	Hjärta
+ماغزه	Hjärna
+پراگ	Prag
+شين	Blå
+سپين زر	Silver
+يورانيم	Uran
+پلوتونيم	Plutonium
+ممبای	Bombay
+گوا	Goa
+مهاراشترا	Maharashtra
+زارلاند	Saarland
+براندنبورگ	Brandenburg
+برېمن (ايالت)	Bremen (delstat)
+بيت المقدس	Jerusalem
+هندي سمندر	Indiska oceanen
+کلراډو	Colorado
+ژمی	Vinter
+پسرلی	Vår
+دوبی	Sommar
+منی	Höst
+اسامه بن لادن	Usama bin Ladin
+اوپرا	Opera
+کلکته	Calcutta
+ډېلي	Delhi
+بند پایان	Leddjur
+اسلام آباد	Islamabad
+پيسې	Pengar
+خوځندکې	Insekter
+ولادمير ايليچ لېنين	Vladimir Lenin
+نېكولو مكياوېلې	Niccolò Machiavelli
+مايکروسافټ وېنډوز	Microsoft Windows
+مانيلا	Manila
+توکيو	Tokyo prefektur
+استانه	Astana
+بغداد	Bagdad
+هندي ژبه	Hindi
+اوردو ژبه	Urdu
+واليبال	Volleyboll
+وين	Wien
+ډبلن	Dublin
+بوډاپسټ	Budapest
+د مسيح حقيقي کليسا	The True Jesus Church
+انگرېزي ژبه	Engelska
+بانگکوک	Bangkok
+کوالالامپور	Kuala Lumpur
+ديپلوماسي	Diplomati
+کيېف	Kiev
+كونسكوولا	Końskowola
+2012	2012
+2013	2013
+خواړه	Mat
+اېلېکټرون	Elektron
+رغاويز اوښتون	Industriella revolutionen
+د روم ټولواکمني	Romerska kejsardömet
+مايکروسافټ	Microsoft
+پروټون	Proton
+کوروف	Kurów
+کيميا	Kemi
+نيوټرون	Neutron
+صنعا	Sanaa
+آرنولد شوارزنېگر	Arnold Schwarzenegger
+فوټبال	Fotboll
+آيفون	Iphone
+مايکل جېکسن	Michael Jackson
+انتوان دي سينت اکسيوپيري	Antoine de Saint-Exupéry
+سور	Röd
+هوا	Jordens atmosfär
+پېرى	Djinn
+ربات	Rabat
+الجزيره	Alger, Algeriet
+ترابلس	Tripoli
+تهران	Teheran
+جکارتا	Jakarta
+انقره	Ankara
+رياض	Riyadh
+فوټ	Fot (enhet)
+وېشنيزه:د ويکيپېډيا کينډۍ	Kategori:Mallar
+د مشق	Damaskus
+لوم	Lomé
+دوها	Doha
+دودوما	Dodoma
+ښوونځی	Skola
+پوهنتون	Universitet
+د پوهنغونډ په اړه	Wikipedia:Välkommen till Wikipedia
+آسټراليا (لويه وچه)	Australien (kontinent)
+ورونپاسی	Bärbar dator
+الجبر	Algebra
+دونگ هوی هوايي ډگر	Dong Hoi flygplats
+آر دړه	Moderkort
+كوريتيبا	Curitiba
+پنجاب (پاکستان)	Punjab (Pakistan)
+وېشنيزه:د افغانستان پېښليک	Kategori:Afghanistans historia
+توماس شېن کانېري	Sean Connery
+كنفيوشيوس	Konfucius
+کوربن بليو	Corbin Bleu
+وېشنيزه:شمېرپوهنه	Kategori:Matematik
+کينډۍ:د هېواد مالومات ایران	Mall:Landsdata Iran
+وېشنيزه:د ایران تاریخ	Kategori:Irans historia
+امريکايي ډالر	Amerikansk dollar
+عيسويت	Kristendom
+لويه وچه	Världsdelar och kontinenter
+مرغه	Fåglar
+پلازمېنه	Huvudstad
+کينډۍ:اسلام	Mall:Islam
+مياشت (موده)	Månad
+مصطفی کمال اتاتورک	Mustafa Kemal Atatürk
+کينډۍ:تانبه	Mall:Portal
+هوانگ شيان فان	Huang Xianfan
+د فلسفې ليکلړ	Lista över filosofiska ismer
+بقراط	Hippokrates
+الماس	Diamant
+پوهنغونډ	Uppslagsverk
+RAM	Random Access Memory
+لومړی مخ	Portal:Huvudsida
+کانډنسر	Kondensator
+باسکټبال	Basket
+کرېکټ	Cricket
+اوراسيا	Eurasien
+د هېتیانو واکمنۍ	Hettiter
+وينه لږی	Anemi
+کېپ ټاون	Kapstaden
+قراقرم	Karakoram
+هندوکش	Hindukush
+ميترو	Tunnelbana
+کنځری	Oxbärssläktet
+پيکاسو	Pablo Picasso
+بس	Buss
+ټرام	Spårväg
+بابل	Babylon
+آنتون پاولوف چيخوف	Anton Tjechov
+چارلېز ډيکېنز	Charles Dickens
+سپارتا	Sparta
+موينجو دېړو	Mohenjo-daro
+سمرقند	Samarkand
+بخارا	Buchara
+چې گوارا	Che Guevara
+کابل	Kabul
+گوېټه	Johann Wolfgang von Goethe
+مهبل	Slida
+فلسفه	Filosofi
+چای	Te
+کمونيزم	Kommunism
+انارشيزم	Anarkism
+پانگولي	Kapitalism
+لېبراليزم	Liberalism
+فاشېزم	Fascism
+ولسپالنه	Nationalism
+حافظ شېرازي	Hafez
+هېوادپالنه	Patriotism
+هیواد	Land
+ولس	Nation
+هيلري کلنټن	Hillary Clinton
+د برتانيې موزيم	British Museum
+ژان ژاک روسو	Jean-Jacques Rousseau
+هومر	Homeros
+الكساندر هومبولدت	Alexander von Humboldt
+کوارک	Kvark
+اېډوارډ ټېللر	Edward Teller
+اتيزم	Ateism
+نيلز بوهر	Niels Bohr
+ژونکيميا	Biokemi
+ژونپنځپوهنه	Biofysik
+چاپېريالپوهنه	Ekologi
+بارسلونا فوټبال کلب	FC Barcelona
+واگ	Politik
+ووبپوهنه	Histologi
+عربي ټولنه	Arabförbundet
+ولسواکي	Demokrati
+نجيب محفوظ	Naguib Mahfouz
+د سره صليب او سرې مياشتې نړيوال غورځنگ	Röda Korset
+نړيوالتوب	Globalisering
+ناټو	Nato
+جين	Gen
+حکومت	Regering
+نوبل جايزه	Nobelpriset
+چېن شي هوانگ	Qin Shi Huangdi
+منځنی ختيځ	Mellanöstern
+رنځپوهنه	Patologi
+رابندرانات ټاگور	Rabindranath Tagore
+لېو نيكولايوويچ تولستوى	Lev Tolstoj
+مارک ټوېن	Mark Twain
+ايډيالوژي	Ideologi
+ادا لولېس	Ada Lovelace
+مارکسيزم	Marxism
+ولسمشريزه	Republik
+دولت	Stat
+گوند	Politiskt parti
+بډمنټن	Badminton
+يوري الکسويچ گاگارين	Jurij Gagarin
+ابن بطوطه	Ibn Battuta
+اباسين (سيند)	Indus
+فرانز جوزیف هایدن	Joseph Haydn
+غوږ	Öra
+سترگه	Öga
+سندره	Sång
+اوښ	Kameler
+تی لرونکی ځناوران	Däggdjur
+مېږی	Myror
+مارگريت تاچر	Margaret Thatcher
+ډي آکسي رايبونيوکليک اسيد	DNA
+ژباړه	Översättning
+ښامار	Drake
+مور	Moder
+پلار	Fader
+لېږدچارې	Transport
+روسي ژبه	Ryska
+ولادمير پوتين	Vladimir Putin
+حقوق	Juridik
+اساسي قانون	Grundlag
+د بشري حقونو نړېواله اعلاميه	FN:s deklaration om de mänskliga rättigheterna
+د روغتيا نړيوال سازمان	Världshälsoorganisationen
+د سوداگرۍ نړيوال سازمان	Världshandelsorganisationen
+پرېولنځی	Toalett
+طبيعت	Natur
+سادرملنه	Psykiatri
+ژونکه	Cell
+وينه	Blod
+هډوانه	Skelett
+سږي	Lunga
+ساييز غونډال	Respirationssystemet
+رومانيايي ژبه	Rumänska
+بلغاريايي ژبه	Bulgariska
+ښوونپوهنه	Didaktik
+روزنپوهنه	Pedagogik
+يمال	Lavin
+رېږدله	Jordbävning
+طبيعي پوهنې	Naturvetenskap
+ابن سينا بلخي	Avicenna
+وېنسټون چرچل	Winston Churchill
+نېلسن مانډېلا	Nelson Mandela
+انزايم	Enzym
+امينو اسيد	Aminosyror
+ورېځ	Moln
+سولپوهنه	Logik
+مېچپوهنه	Geometri
+وټپوهنه	Nationalekonomi
+پانگه (وټپوهنه)	Kapital
+ارز	Valuta
+رغاوه	Industri
+ورکړېنه	Skatt
+ژبپوهنه	Språkvetenskap
+يوناني ابېڅې	Grekiska alfabetet
+ادبپوهنه	Litteratur
+وېشنيزه:فرانسه	Kategori:Frankrike
+ناول	Roman
+سره گيدړه	Rödräv
+اوستراوا	Ostrava
+کوروش ۲	Kyros II
+ټولنه	Samhälle (sociologi)
+تمدن	Civilisation
+زده کړه	Bildning
+هوگو چاوېز	Hugo Chávez
+واده	Äktenskap
+وگړنيز حقوق	Mänskliga rättigheter
+توکمپالنه	Rasism
+گوډ تېمور	Timur Lenk
+عمر بن خطاب	Umar ibn al-Khattab
+پوځ	Militär
+سلیمان ۱	Süleyman I
+قهوه	Kaffe
+د آمو سيند	Amu-Darja
+شيدې	Mjölk
+غر	Berg
+هري رود	Hari Rud
+توكبنسټ	Databas
+صلاح الدين ايوبي	Saladin
+اشوک	Ashoka
+جلال الدين محمد اکبر	Akbar den store
+هانگ کانگ	Hongkong
+کراچۍ	Karachi
+د ريال مادريد فوټبال کلب	Real Madrid
+سيول	Seoul
+شانگهای	Shanghai
+د ماد واکمني	Medien
+اقليدس	Euklides
+بايټ	Byte
+محمد بن موسی خوارزمي	Muhammad ibn Musa al-Khwarizmi
+ناروېژي ژبه	Norska
+نوم چومسكي	Noam Chomsky
+چيکی ژبه	Tjeckiska
+کارل مارکس	Karl Marx
+موسی	Mose
+پوهه	Kunskap
+هندويزم	Hinduism
+اټوم	Atom
+يوناني ژبه	Grekiska
+چليز غونډال	Operativsystem
+تاج محل	Taj Mahal
+بنسټپالنه	Fundamentalism
+برېښليک	E-post
+پاړسي ژبه	Persiska
+مذهب	Religion
+اېمپاير سټېټ ودانۍ	Empire State Building
+سېگمونډ فرايډ	Sigmund Freud
+جاينيزم	Jainism
+گيورگ ويلهېلم فرېدرېش هېگل	Friedrich Hegel
+باکو	Baku
+تاجکي ژبه	Tadzjikiska
+اوزبکي ژبه	Uzbekiska
+تورکمني ژبه	Turkmeniska
+يهوديت	Judendom
+آزربايجاني ژبه	Azerbajdzjanska
+ابن خلدون	Ibn Khaldun
+امانوېل کانت	Immanuel Kant
+سکيزم	Sikhism
+فرېدرېک وېلهېلم نېتشي	Friedrich Nietzsche
+بشکیک	Bisjkek
+دوشنبه	Dusjanbe
+اينه	Lever
+پښتورگی	Njure
+ادم سمېت	Adam Smith
+احساس	Känsla
+ساپوهنه	Psykologi
+آند	Tänkande
+مهاوېرا	Mahavira
+سمندر	Ocean
+ملکه وېکټوريا	Viktoria av Storbritannien
+محمد	Muhammed
+اخلاق	Etik
+پوهنپوهنه	Epistemologi
+سچين رمېش ټنډولکر	Sachin Tendulkar
+عبدالکلام	Abdul Kalam
+بي بي سي	BBC
+شاهرخ خان	Shahrukh Khan
+سلمان خان	Salman Khan
+محمد الغزالي	Mohammad Ghazali
+عامر خان	Aamir Khan
+اميتاببچن	Amitabh Bachchan
+شيعه	Shia
+گېډه	Buken
+زرتشتيت	Zoroastrism
+تصوف	Sufism
+ژبه (اناتومي)	Tunga
+پانکراس	Bukspottkörtel
+غاړه	Hals
+کمزوره شوي یورانیم	Utarmat uran
+هولي	Holi
+زړه پوهنه	Kardiologi
+ډېوېډ بکهم	David Beckham
+کيم جونگ ايل	Kim Jong Il
+وېشنيزه:وېنزوېلا	Kategori:Venezuela
+روبېرت موگابي	Robert Mugabe
+خاپوړن	Kräldjur
+کوتره	Duvor
+باکټريا	Bakterier
+ونه	Träd
+دوه ژوندوي	Groddjur
+اوښتون	Revolution
+انگور	Druva
+گبين	Honung
+کچالو	Potatis
+سابه	Grönsaker
+ټکنالوجي	Teknologi
+انجينري	Ingenjörsvetenskap
+خبريالي	Journalistik
+ورځپاڼه	Tidning
+غږلېږدی	Telefon
+هڅوب	Kultur
+سانسکریت ژبه	Sanskrit
+د زړه او رگونو غونډال	Hjärt- och kärlsystemet
+د پارکېنسون ناروغي	Parkinsons sjukdom
+گارډيان	The Guardian
+انډيپېنډنټ	The Independent
+درملگري	Medicinsk vetenskap
+مقننه قوه	Lagstiftande församling
+مالگه	Salt
+مايکروسافټ آفېس	Microsoft Office
+وېشنيزه:رومانیا	Kategori:Rumänien
+کيمياوي توکی	Grundämne
+ابن باجه	Ibn Badjdja
+هورمون	Hormon
+اپارتايد	Apartheid
+لوبه	Spel
+جودو	Judo
+مقناطيس	Magnet
+فلم	Film
+ساهيالي	Animering
+کرنه	Jordbruk
+غږ	Ljud
+نانو تکنالوژي	Nanoteknik
+ښيښه	Glas
+وخت	Tid
+ليکپاڼه	Papper
+کازمېکي وړانگې	Kosmiska partiklar
+جوار	Majs
+انځورکښنه	Målarkonst
+تشیالیونی	Astronaut
+انځوراخيستنه	Fotografi
+برېښنايي ټېکنالوژي	Elektronik
+فريکونسي	Frekvens
+خوړنځی	Restaurang
+د لودیانو ټولواکمني	Lodhi
+لاهور	Lahore
+د خپلواکو هېوادونو لړليک	Lista över självständiga stater
+ابوريحان بيروني	Biruni
+څېړۍ	Eksläktet
+سرطان	Cancer
+کولرا	Kolera
+غنم	Vetesläktet
+ناروغي	Sjukdom
+گرېگوري کليز	Gregorianska kalendern
+نیکوتین	Nikotin
+روغتيا	Hälsa
+ملاريا	Malaria
+انټيبايوټيک	Antibiotikum
+پنسلين	Penicillin
+نېمونيا	Lunginflammation
+گوزڼ	Polio
+اېډز	Aids
+نری رنځ	Tuberkulos
+ډايبېټېز مېلېټوز	Diabetes
+صليبي جگړې	Korståg
+منځنۍ پېړۍ	Medeltiden
+عثماني پېر	Osmanska riket
+د کورنيو توليداتو ټوليز ارزښت	Bruttonationalprodukt
+برېښنا	Elektricitet
+یان آموس کمېنسکي	Johan Amos Comenius
+اټومي برېښناکوټ	Kärnenergi
+د بړاس ماشين	Ångmaskin
+توره (وسله)	Svärd
+هستوي وسلې	Kärnvapen
+شوبله	Stridsvagn
+هرمان ون رومپوې	Herman Van Rompuy
+تورتوت	Björnbär
+ناريال	Kokospalm
+انار	Granatäpple
+مالټه	Apelsin
+A New Etymological Vocabulary of Pashto	Kiwi
+گراڅ	Graz
+ډېبټ کارډ	Kontokort
+انجلينا جولي	Angelina Jolie
+عربي ژبه	Arabiska
+کانډوم	Kondom
+تيرانوسور	Tyrannosaurus
+تریسراتوپس	Triceratops
+ستگوسور	Stegosaurus
+کارکارودونتوسور	Carcharodontosaurus
+وچکښ	Blyertspenna
+برنو	Brno
+هوجينتاو	Hu Jintao
+د شوروي سوسياليستي جمهوريتونو اتحاد	Sovjetunionen
+انځورۍ	Kamera
+اېچ آی وي	HIV
+يومکی	Skulderblad
+ځاني سولگر	Persondator
+بروس لي	Bruce Lee
+هايپوتايرايډيزم	Hypotyreos
+نړۍ	Världen
+د روم جمهوريت	Romerska republiken
+ټریلوبیټ	Trilobiter
+گردکه	Cirkel
+گرځنده غږلېږدی	Mobiltelefoni
+اوښمرغه	Struts
+بغ	Hägrar
+پيونگيانگ	Pyongyang
+د لور موندنې نړيوال غونډال	Global Positioning System
+د هېوادونو لړليک د کورنيو توليداتو د ټوليز ارزښت له مخې	Lista över länder efter BNP
+جگتورن	Kapten
+سمندري غڼې	Havsspindlar
+لړم	Skorpioner
+ما اينگ جيو	Ma Ying-jeou
+سمندري لړمان	Havsskorpioner
+انټرنټ لټوونکی ماشين	Söktjänst
+بخارست	Bukarest
+لوور	Louvren
+تیرانا	Tirana
+ويکټوريا بېکهم	Victoria Beckham
+درېڅنډی	Triangel
+سټيف جوبز	Steve Jobs
+معمر القذافي	Muammar al-Gaddafi
+پړانگ	Tiger
+لومړی خوان کارلوس	Juan Carlos I av Spanien
+مېچې	Vermicelli
+لمسنالۍ	Styrplatta
+سامسونگ	Samsung
+سولگرپوهنه	Datavetenskap
+ټولنپوهنه	Sociologi
+گاگره	Betong
+جغرافي کوراډينېټونو سيستم	Geografiska koordinatsystem
+پڼې	Sko
+بهايي	Bahá'í
+بانک	Bank
+د وينا ازادي	Yttrandefrihet
+اډېل	Adele (sångare)
+د نش ميزان	Nash-jämvikt
+هوږه	Vitlök
+وگړپوهنه	Antropologi
+بادرنگ	Gurka
+ارنېست مېلر هېمېنگوې	Ernest Hemingway
+عشق آباد	Asjchabad
+ټاپو	Ö (landområde)
+تور (رنگ)	Svart
+پياز	Lök (art)
+رسمي ژبه	Officiellt språk
+لرغونپوهنه	Arkeologi
+بالکان	Balkanhalvön
+سلاوي ژبې	Slaviska språk
+سر	Huvud
+ولسي لاره	Nationalsång
+تماسي عدسيه	Kontaktlins
+الفرېډ نوبل	Alfred Nobel
+ږمنځ	Kam
+لیلا داونز	Lila Downs
+موسم	Årstid
+ډبرين سکاره	Kol (bränsle)
+يارمخچۍ	Korttålärka
+نينورشک	Nynorska
+بوکمول	Bokmål
+کونگ	Ugglor
+شمزۍ لرونکي ژوي	Ryggradsdjur
+نړېوال تشيال تمځای	Internationella rymdstationen
+کجوره	Dadelpalm
+څټک	Hammare (handverktyg)
+اروپايي کاغۍ	Skata
+چابکۍ	Kackerlackor
+كوچنى شاهزاده	Lille prinsen
+شمالي باز	Duvhök
+غضروفی کبان	Broskfiskar
+ځنگلي سار	Ormvråk
+سيلاني کارغه	Råka
+لويديځي کاغۍ	Kaja
+شودپۍ	Sädesärla
+اېشېريکيا کولي	Escherichia coli
+توتکۍ	Ladusvala
+گنگو	Saffran
+ترکاڼک	Hackspettar
+شامتوره	Stare
+کوشانيان	Kushan
+کومکۍ	Ringduva
+جوک	Hämpling
+آتروپين	Atropin
+شين شارک	Blåhaj
+اورني سمندر	Eldsalamander
+سپوږمکۍ	Satellit
+شينغاړی	Blåhake
+تورياڼۍ	Seglare
+لونگ	Kryddnejlika
+زيره	Kummin
+وژونکی نهنگ	Späckhuggare
+سپېرکونده	Tofslärka
+منځنۍ آسيا	Centralasien
+شمالي افريقا	Nordafrika
+مرکزي افريقا	Centralafrika
+ختيځه اروپا	Östeuropa
+لوېديځه اروپا	Västeuropa
+افريقايي اوراسيا	Afrika-Eurasien
+د فلسفې تاريخ	Filosofins historia
+زي نړیواله جگړه (فلم)	World War Z (film)
+مړز	Vaktel
+مروری	Kamomill
+کمول (مارغه)	Storkar
+اوبدانه	Textil
+توکي	Varor
+سپوږميز ليږديز کليز	Muslimska kalendern
+ميلوش زېمان	Miloš Zeman
+اېف-۱۵	McDonnell Douglas F-15 Eagle
+ليوکېمي	Leukemi
+پارسیمن	Persimon
+ديموکراتيک گوند ( د امريکا متحده ایالتونه)	Demokratiska partiet
+ټيکاله	Lärkor
+شاتو مچی	Honungsbi
+خاورين چينجی	Stor daggmask
+ولسمشر	President
+باشه	Pilgrimsfalk
+رودولف کلاوزيوس	Rudolf Clausius
+تورغوږی	Ökenlo
+ډېل	Dell
+زايلومېټازولين	Xylometazolin
+شمېرنی	Miniräknare
+امير عبدالرحمان خان	Abd ar-Rahman (1845–1901)
+ټکټکی	Göktytor
+د عربستان ټاپووزمه	Arabiska halvön
+امير دوست محمد خان	Dost Muhammed
+بېریف بې-۲۰۰	Beriev Be-200
+وری	Väduren (stjärntecken)
+جېهلم ولسوالۍ	Jhelum (distrikt)
+ملاله يوسفزۍ	Malala Yousafzai
+جومات	Moské
+بلوڅی ژبه	Baluchiska
+د کتاب نړيواله کره شمېره	ISBN
+د مغولو پاچايي	Mogulriket
+گړدود	Dialekt
+ایرانی ژبی	Iranska språk
+لاس	Hand
+خلکو شمېر	Befolkning
+پاڼه	Blad
+لوبگر	Skådespelare
+هاليووډ	Hollywood
+محمد حسنی مبارک	Hosni Mubarak
+دينپوهنه	Teologi
+پابلو نرودا	Pablo Neruda
+زیوس	Zeus
+موساد	Mossad
+یغنابی ژبه	Yaghnobi
+انجيل	Evangelium (bok)
+الېکسانډر گراهام بېل	Alexander Graham Bell
+ستورپېژندنه	Astrologi
+ساز	Musikinstrument
+ويټني هيوسټن	Whitney Houston
+سابون	Tvål
+موشوفتسی	Mošovce
+شکيرا	Shakira
+محمود احمدي نژاد	Mahmoud Ahmadinejad
+كېښكلى ټيكلى (CD)	CD
+چورلکه	Helikopter
+القاعده	Al-Qaida
+محمد فاتح	Mehmet II
+اناستاسيا	Anastacia
+فرات	Eufrat
+البېرټ کامو	Albert Camus
+د فارس خليج	Persiska viken
+قطب نما	Kompass
+ټولنيزې پوهنې	Samhällsvetenskap
+ټاپووزمه	Halvö
+نوی کال	Nyår
+اېف-۱۴	Grumman F-14 Tomcat
+ويټامين	Vitamin
+تورات	Torah
+متل	Ordspråk
+هينداره	Spegel
+لرغونې پاړسي	Fornpersiska
+عربان	Araber
+براډ پېت	Brad Pitt
+کړکۍ	Fönster
+اکدي ژبه	Akkadiska
+څارندوی	Polis
+ولسي جرگه	Parlament
+اوساکا	Osaka
+د کېمبرېج پوهنتون	Universitetet i Cambridge
+اجرايي قوه	Verkställande makt
+تعمید غسل	Dop
+ډډون	Inflation
+سابندي	Astma
+عمر خيام	Omar Khayyam
+وله	Videsläktet
+محمد علي کلي	Muhammad Ali
+خاوره	Jord
+اينځر	Fikon
+ليکوال	Skribent
+د توهوکو سونامي او رېږدله ۲۰۱۱	Jordbävningen vid Tohoku 2011
+واتسلاف هاول	Václav Havel
+د ورېښم لار	Sidenvägen
+جېن آسټن	Jane Austen
+کوردي ژبه	Kurdiska
+زرۍ	Millennium
+علمی نوم	Binomial nomenklatur
+هنرېک ايبسن	Henrik Ibsen
+ماموت	Mammutar
+څلورڅنډی	Fyrhörning
+د سرکوزي والگی	Svininfluensa
+اوزون	Ozon
+جذام	Lepra
+مخ (اناتومي)	Ansikte
+خپلواکي	Självständighet
+ښوون	Olivträd
+سليمان	Salomo
+یاهو!	Yahoo!
+کرښه (مېچپوهنه)	Rät linje
+فرعون	Farao
+کلاشېنکوف اې کې ۴۷	AK-47
+څپه	Vågrörelse
+د وینې سره کرویات	Röd blodkropp
+سند	Sindh
+فرانسېس بیکن	Francis Bacon
+معمولي مندته	Aprikos
+نيکول کېډمېن	Nicole Kidman
+هايکو	Haiku
+عثمان بن عفان	Usman ibn Affan
+وگړشمېرنه	Demografi
+ځمکواکي	Feodalism
+اوبړۍ	Alger
+نتالي پورټمېن	Natalie Portman
+هېرټا مولر	Herta Müller
+مکډونالډز	McDonald’s
+يوکوهوما	Yokohama
+گړپوهنه	Morfologi (lingvistik)
+ويليم فاکنر	William Faulkner
+هندواڼه	Vattenmelon
+پخلی	Matlagning
+بادي ژرنده	Väderkvarn
+د حماس اسلامي غورځنگ	Hamas
+آيت الله روح الله خميني	Ruhollah Khomeini
+ليزر	Laser
+تبه	Feber
+تيد	Teide
+کوچنی وټه	Mikroekonomi
+رجب طيب اردوغان	Recep Tayyip Erdoğan
+خزدکپوهنه	Entomologi
+تبر	Yxa
+علي بن ابي طالب	Ali ibn Abi Talib
+گورجی سپی	Setter
+لویه وټه	Makroekonomi
+انسولين	Insulin
+بازارموندنه	Marknadsföring
+سرشمېرنه	Folkräkning
+ابن رشد	Averroës
+لسيزه	Decennium
+بادام	Mandel
+څښاک	Dryck
+نيانډرټال	Neandertalmänniska
+الهي کمېډي	Den gudomliga komedin
+ووب	Vävnad
+پروېز مشرف	Pervez Musharraf
+لوط	Lot
+دهاډرونو ستر تعجیل کوونکي ماشین	Large Hadron Collider
+يحيی	Johannes Döparen
+دیلما روسف	Dilma Rousseff
+ساندرا بللاک	Sandra Bullock
+جراحي	Kirurgi
+بياتي	Sax
+نفرتيتي	Nefertiti
+لمونځ	Bön
+سکايپ	Skype
+غږپوهنه	Fonologi
+هارولډ پينټر	Harold Pinter
+د حزب الله اسلامی غورځنگ	Hizbollah
+باو	Syfilis
+د آشور واکمني	Assyrien
+ودانۍ	Byggnad
+سوني	Sony
+باريس ولاديميروويچ پاسترناک	Boris Pasternak
+کونستانتين اېدواردوويچ تسيولکوفسکي	Konstantin Tsiolkovskij
+سينما	Biograf
+بودجه	Budget
+څپواټن	Våglängd
+داوود	Kung David
+کنگل هاکي	Ishockey
+کوردستان	Kurdistan
+د موس مقياس	Mohs hårdhetsskala
+بواسيرونه	Hemorrojder
+هېنريک سېنکېويچ	Henryk Sienkiewicz
+ککرۍ پتنگ	Dödskallesvärmare
+كوكايين	Kokain
+فینیکیان	Fenicien
+شهادت	Shahadah
+د بابل ځوړند بڼ	Babylons hängande trädgårdar
+حاکميت	Suveränitet
+خديجه بنت خويلد	Khadidja
+نیلي نهنگ	Blåval
+څېړنه	Forskning
+سولي پرودممه	Sully Prudhomme
+اوبپوهنه	Hydrologi
+بوکر	Kon
+د مورنۍ ژبې نړيواله ورځ	Internationella modersmålsdagen
+سهيونېزم	Sionism
+د طالبانو اسلامي غورځنگ	Taliban
+اناکزیمېنډر	Anaximander
+کورکمن	Gurkmeja
+ځنگلي پيشو	Djungelkatt
+عبدالله گل	Abdullah Gül
+ختيځپوهنه	Orientalism
+کرېشنا	Krishna
+ساباوري	Animism
+ليکچه	Anteckningsbok
+مالیه	Finans
+وچکالي	Torka
+تور مرچ	Pepparplanta
+ياقوت	Rubin
+کشمير	Kashmir
+ټولپوښتنه	Folkomröstning
+كپېړ	Krokodiler
+مولانا جلال الدين محمد بلخي	Jalal al-din Rumi
+کارغه	Corvus
+پلزن	Plzeň
+توکمپوهنه	Etnologi
+مټ	Arm
+زمرد	Smaragd
+وحشي پيشو	Vildkatt
+شکرخوره	Kolibrier
+فدراسيون	Federation
+شونډکيز چرگ	Kalkoner
+انسلم	Anselm av Canterbury
+حامد کرزی	Hamid Karzai
+یان هوس	Jan Hus
+کورني آلو	Plommon
+اندرس بېرينگ برېويک	Anders Behring Breivik
+شينټاغی	Blåkråkor
+احمد سلمان رشدي	Salman Rushdie
+افسانه	Legend
+داریوش ۱	Dareios I
+توت	Mullbärssläktet
+اېنټروپي	Entropi
+ټوبه ټيک سېنگ ولسوالۍ	Toba Tek Singh
+گجرات ولسوالۍ	Gujrat
+هرات	Herat
+کودتا	Statskupp
+کندهار	Kandahar
+تړمه ييزه پراختیا	Utvidgningskoefficient
+غشی	Pil (vapen)
+غږتاندی	Mikrofon
+ابن عربي	Ibn 'Arabi
+توراڼه	Svart drongo
+اپيم	Opium
+اوسيريس	Osiris
+ازاد بازار	Fri marknad
+اوکاړه ولسوالۍ	Okara (distrikt)
+احمد شاه دراني	Ahmed shah Durrani
+اسراييل لرغونتون	Israel Museum
+جي اس ام	GSM
+اېشواريه رای	Aishwarya Rai
+نوغپوهنه	Genealogi
+مېلټون فرايډمېن	Milton Friedman
+بانکنوټ	Sedel
+نړيواله جنايي محکمه	Internationella brottmålsdomstolen
+رادار	Radar
+د اسلامي همکاريو سازمان	Islamiska konferensorganisationen
+د بابل واکمني	Babylonien
+جبران خليل جبران	Khalil Gibran
+روبي وېليمز	Robbie Williams
+د سږو سرطان	Lungcancer
+مهايانا	Mahayana
+امريتسر	Amritsar
+اس ـ ۳۰۰	S-300
+مير تشيال تمځی	Mir
+لنډه کيسه	Novell
+د لبنان جگړه ۲۰۰۶	Libanonkriget 2006
+گرځندويي	Turism
+شاعر	Poet
+بادي توربین	Vindkraftverk
+يو گونديز حکومت	Enpartistat
+مصري ژبه	Egyptiska
+هارون	Aron
+ایبولا ناروغۍ	Ebolafeber
+ژونځمکپوهنه	Biogeografi
+غونډ	Regemente
+سور كانگرو	Röd jättekänguru
+هارپي	Harpyja (fågel)
+ابسيډين	Obsidian
+وېشنيزه:حکومت	Kategori:Myndigheter
+د کيلو کلاس اوبتل	Projekt 877 Paltus
+سپايس گرلز	Spice Girls
+مېزپاسی سولگر	Skrivbordsdator
+پاراستامول	Paracetamol
+عبدالله بن عبدالعزیز آل سعود	Abdullah bin Abdul Aziz
+سيد على خامنه‌اى	Ali Khamenei
+امام علي رحمانوف	Emomalii Rahmon
+اسلام کريموف	Islam Karimov
+گيودو ويسترويلي	Guido Westerwelle
+پښتو ژبه	Pashto
+عرب سمندرگی	Arabiska havet
+گرمټ	Borrmaskin
+دیو جانس کلبی	Diogenes
+هېرويين	Heroin
+کوفین	Koffein
+اندروجن	Androgener
+سيمټيکس	Semtex
+راوړنې	Import
+ببرک کارمل	Babrak Karmal
+حفيظ الله امين	Hafizullah Amin
+يوسف عبدالله القرضاوي	Yusuf al-Qaradawi
+تريخی	Gallblåsa
+انتوني هوپکينز	Anthony Hopkins
+مرکزي بانک	Centralbank
+جيپور	Jaipur
+سيبري پړانگ	Sibirisk tiger
+القلويد	Alkaloid
+ترور	Tant
+یوسيف ۲	Josef II (tysk-romersk kejsare)
+تره	Onkel
+ويلهلم لودويگ گايگر	Wilhelm Geiger
+کریستوف والڅ	Christoph Waltz
+ډورن بورېس اندرېويچ	Bernhard Dorn
+عبدالاحد مومند	Abdul Ahad Mohmand
+ښاري انجنيري	Väg- och vattenbyggnad
+وړانگپوهنه	Radiologi
+اليگارشي	Oligarki
+زړه گراف	Elektrokardiografi
+د افغانستان رپی	Afghanistans flagga
+ايسيس	Isis
+ځوانکې	Akne
+اېترنټ	Ethernet
+چکوتره	Pompelmus
+بشري پوهنې	Humaniora
+ټپوس	Brun glada
+نهنگی شارک	Valhaj
+بېنډۍ	Okra
+د سلطان احمد جومات	Blå moskén, Istanbul
+اټومي بټۍ	Kärnreaktor
+مايکروسافټ اوټلوک	Microsoft Outlook
+بنگالي پړانگ	Bengalisk tiger
+مالداري	Djurskötsel
+معمولي کپر (کب)	Karp
+اولوموڅ	Olomouc
+مورفين	Morfin
+د صرافی ماشین	Uttagsautomat
+نخود	Kikärt
+نوح	Noa
+والټ وايټمېن	Walt Whitman
+غاښۍ	Gaffel
+چوپسټېک	Ätpinnar
+د خوړو او کرهڼې سازمان	FN:s livsmedels- och jordbruksorganisation
+براشوف	Brașov
+زنه	Haka
+قطبي گيدړ	Fjällräv
+سياستوال	Politiker
+شپږڅنډی	Hexagon
+د افغانستان جگړه (۱۹۷۹-۱۹۸۹)	Afghansk-sovjetiska kriget
+ختيځ هند کمپنۍ	Brittiska Ostindiska Kompaniet
+الكساندر نيكولاېويچ رومانوف	Alexander II av Ryssland
+اسکلېپيوس	Asklepios
+ژان اېف کوستو	Jacques-Yves Cousteau
+وزير (حکومت)	Minister
+گرو نانک	Guru Nanak
+کانپوهنه	Mineralogi
+شېنگن تړون	Schengenregelverket
+سابه خوړونکي	Vegetarianism
+امپيدوکلېس	Empedokles
+اوېستا	Avesta (religiös skrift)
+ستر جنرال	General
+شاه جهان	Shah Jahan
+شېر شاه سوري	Sher Shah
+خوشحال خان خټک	Khushal Khan Khattak
+د الله نومونه	Guds 99 namn
+د ساسانيانو واکمني	Sasanider
+هوروس	Horus
+پولنډبال	Polandball
+راټکو مېلادېچ	Ratko Mladić
+انځورگري	Teckning (konst)
+پرېژه	Skilsmässa
+باليووډ	Bollywood
+اېف – ۱۶	Lockheed Martin F-16 Fighting Falcon
+کلوژ-ناپوکا	Cluj-Napoca
+مرزا حسين علي بهاالله	Bahaullah
+نېغ انسان	Homo erectus
+ماهر انسان	Homo habilis
+هاډرون	Hadron
+سوسن	Liljekonvalj
+اينو	Ainu
+تسپود	Inflammation
+بايوم	Biom
+لروين	Kikare
+گبين مچۍ	Honungsbin
+آوسټرالوپیتهېکوس	Australopithecus
+نړېواله جگړه	Världskrig
+روي شنکر	Ravi Shankar
+چندرۍ	Humle
+کرښی	Linjal
+قضايي قوه	Dömande makt
+ماگنوس کارلسن	Magnus Carlsen
+مرزا اسد الله خان غالب	Mirza Ghalib
+خاښۍ	Högaffel
+ايالت	Delstat
+کندوز	Kunduz
+انجه	Dyvelsträck
+مارشال	Marskalk
+انټيکولينرجيک	Antikolinergika
+مالي کړکېچ	Finanskris
+هزاره گان	Hazarer
+سليكان ډای اکسايډ	Kiseldioxid
+کورکورکه	Pärlhalsduva
+د وېلسن ناروغي	Wilsons sjukdom
+الكساندر الكساندروويچ رومانوف	Alexander III av Ryssland
+بلخ ولايت	Balkh (provins)
+مشهد	Mashhad
+رنځورپالنه	Omvårdnad
+ټولنیزه ولسواکي	Socialdemokrati
+د ستنې طب	Akupunktur
+سفارت	Ambassadör
+کجير	Gamar
+عقيق	Agat
+اپلاتون او دولت	Staten (Platon)
+ارستوکراسي	Aristokrati
+زکات	Zakat
+گيورگې ژوکوف	Georgij Zjukov
+د اوبو چينه	Vattenkälla
+بڼ پالنه	Trädgårdsskötsel
+وېليم جېمز	William James
+غوڅندۍ	Såg
+سورلنډی	Schakaler
+د موسم بدلون	Klimatförändring
+واټن	Avstånd
+پراگماتيزم	Pragmatism
+وړکتون	Barnträdgård
+ابن ميمون	Maimonides
+شين یاقوت	Safir
+پينځڅنډی	Pentagon
+ټوټالېټر	Totalitarism
+کوچيان	Nomader
+درملپوهنه	Farmakologi
+د زیات شوي ارزښت ورکړېنه	Mervärdesskatt
+خټنه	Viskositet
+لوي سپين شارک	Vithaj
+د جمشید پلاز	Persepolis
+انتراکس	Mjältbrand
+خشايارشا	Xerxes I
+مزار شريف	Mazar-e Sharif
+مېگ ۲۹	Mikojan-Gurevitj MiG-29
+د ذرو تعجيل کوونکي ماشين	Partikelaccelerator
+ډیمېټروډون	Dimetrodon
+سپاینوسور	Spinosaurus
+خلافت	Kalifat
+معمولي آلوبالو	Surkörsbär
+زغوپرواژی	Bekämpningsmedel
+ډومنيک ډي وېلپين	Dominique de Villepin
+د قم ولايت	Qom (provins)
+گڼرسنۍ	Multimedia
+کوروند	Korund
+سریښ	Lim
+والي	Guvernör
+توکمکښنه	Etnografi
+کرما په هندويزم کې	Karma
+آيورويدا	Ayurveda
+د جال تړونونه	Kommunikationsprotokoll
+جوليوس روبرټ اوپنهايمر	Robert Oppenheimer
+باختر	Baktrien
+ولاديمير ولاديميروويچ ماياکوفسکي	Vladimir Majakovskij
+د هند پېښليک	Indiens historia
+مستعمره	Koloni
+ملخوزه	Bockhornsklöver
+اخوان المسلمون	Muslimska brödraskapet
+تومور	Tumör
+الياس	Elia
+طاعون	Pest
+د سېټريک اسيد څرخ	Citronsyracykeln
+دهرما	Dharma
+ټاسماني شيطان	Tasmansk djävul
+توپاز	Topas
+۹×۱۹ مرمی	9 × 19 mm Parabellum
+آندروختونوس اوسترالیس	Nordafrikansk tjocksvansskorpion
+ابد	Evighet
+میرمېسیا پیلوسولا	Jack Jumper
+زابل ولايت	Zabol (provins)
+زکريا	Sakarias
+مسراشمیت مې-۲۶۲	Messerschmitt Me 262
+ازاد شعر	Fri vers
+شگموښی	Sandpapper
+ايليوشين-۷۶	Iljusjin Il-76
+هربرټ سپېنسر	Herbert Spencer
+زلمی خليلزاد	Zalmay Khalilzad
+سارک	Sydasiatiska regionala samarbetsorganisationen
+يوسف	Josef, Jakobs son
+د لويديځ سلاوي ژبې	Västslaviska språk
+اروپايي صنوبر	Gran
+شين صنوبر	Blågran
+چمبل	Violsläktet
+پولي ونيل کلورايډ	Polyvinylklorid
+نانگه	Röda vinbär
+قبطيان	Kopter
+نارنج	Pomerans
+اناناس	Ananassläktet
+کاجول	Kajol
+ايگلا	9K38 Igla
+ځنگلي مېږی	Röd skogsmyra
+مېگ ۳۱	Mikojan-Gurevitj MiG-31
+پښيميسل اوتاکار ۲	Ottokar II av Böhmen
+رودلف ۲ هابسبورگ	Rudolf II
+عبد العزيز بن عبدالرحمن بن فيصل آل سعود	Ibn Saud
+دېوالي	Konkurs
+بوغمه	Ödem
+محمد ظاهر شاه	Zahir Shah
+ډگر جنرال	Generallöjtnant
+بريد جنرال	Brigadgeneral
+البرخت فون والدشتاین	Albrecht von Wallenstein
+امير امان الله خان	Amanullah Khan
+عمران خان	Imran Khan
+یان لوگزامبورگ	Johan den blinde
+روهتاس	Rohtas fort
+جيارډيا لامبليا	Giardia lamblia
+ميل می ۸	Mil Mi-8
+مېسرشمېت بي اف ۱۰۹	Messerschmitt Bf 109
+مسراشمیت بي اف ۱۱۰	Messerschmitt Bf 110
+یوزي	Uzi
+ريچارډ هولبروک	Richard Holbrooke
+ميل می ۲۴	Mil Mi-24
+ايساف	International Security Assistance Force
+ټې-۷۲	T-72
+یونکرس یو ۸۸	Junkers Ju 88
+کارل ۴	Karl IV (tysk-romersk kejsare)
+مېگ ۲۳	Mikojan-Gurevitj MiG-23
+ارهنډه	Ricin (växt)
+اېرو ال-۳۹ الباتروس	Aero L-39 Albatros
+نېښ لرونکي بوټي	Brännässla
+د آلمان ملي دموکراتیک گوند	Tysklands nationaldemokratiska parti
+رشقه	Blålusern
+لتا منگېشکر	Lata Mangeshkar
+سره غوړیانه	Krollilja
+ادميرال پتنگ	Amiralfjäril
+ځريځه	Safflor
+تورن جنرال	Generalmajor
+گزک بوټي	Svartkämpar
+ال – ۴۱۰	Let L-410
+تبو	Tabu (skådespelare)
+غوماشی	Malariamyggor
+د افغانستان ولايتونه	Afghanistans provinser
+تاووس پتنگ	Påfågelöga
+جوهي چاولا	Juhi Chawla
+پريانکا چوپړا	Priyanka Chopra
+ويديا بالان	Vidya Balan
+ناصر الدين شاه قاجار	Nassredin Shah
+سپما گڼون	Sparkonto
+د اس وې ډې دراگونوف ټوپک	Dragunov
+یرژي پوديېبراد	Georg Podiebrad
+وټه	Ekonomi
+د ځمکې گړۍ	Earth Hour
+رام	Rama
+محمد علی جناح	Muhammed Ali Jinnah
+وچکۍ تبه (محرقه)	Tyfus
+اتره	Torso
+توت خوره	Finkar
+شاتوت	Svart mullbär
+سنځله	Silverbusksläktet
+ښاريتوب	Urbanisering
+غونجېدنه (وټپوهنه)	Deflation
+خپلپالنه	Nepotism
+باور کارټ	Kreditkort
+پامير	Pamir
+وېلنی	Gråmynta
+سيسۍ	Ripor
+سرطانپوهنه	Onkologi
+گلايکوليسېز	Glykolys
+شکودا فابيا	Škoda Fabia
+گایوس واليریوس کاتولوس	Catullus
+بلوچستان (پاکستان)	Baluchistan
+غالۍ	Matta
+موزيکپوهنه	Musikvetenskap
+ليندۍ	Stenbocken (stjärntecken)
+ابسه	Varböld
+گانډۍ	Bikupa
+کدو	Pumpa
+د کرمان ولايت	Kerman (provins)
+بدخشان ولايت	Badakhshan (provins)
+لیکاڼۍ	Penna
+اتڅنډی	Oktogon
+مچ	Husfluga
+وړانديز (وټپوهنه)	Utbud och efterfrågan
+پارلماني حکومت	Parlamentarism
+برغټ	Pallaskatt
+چمپا	Magnolia champaca
+نگوس	Stereotyp
+نورستان ولايت	Nurestan (provins)
+ډولومیت	Dolomit
+جابر بن حیان	Geber
+بورقه	Burka
+کرايووا	Craiova
+کورکوری	Turturduva
+روحانيت	Andlighet
+انافلاکسي	Anafylaxi
+لاسپېله	Handskar
+محمد زکريا رازي	Razi
+گرافېن	Grafen
+رنځېږن	Smittämne
+ليکپاکټ	Kuvert
+کانفدراسيون	Konfederation
+ټي اېن ټي	Trinitrotoluen
+چېکيان	Tjecker
+بغلان ولايت	Baghlan (provins)
+ابټ آباد	Abbottabad
+يزد ولايت	Yazd (provins)
+قم	Qom
+توماس اېډورډ لارېنس	T.E. Lawrence
+بيولوژيکي وسلې	Biologiska vapen
+ټېغکه	Törnskator
+عباس ۱	Abbas den store
+باميان ولايت	Bamiyan (provins)
+ای اچ ۶۴ آباچی	Boeing AH-64 Apache
+لمرگلی	Solros
+د سهېلي خراسان ولايت	Sydkhorasan
+پېښه	Olycka
+کرمان	Kerman
+احمديت	Ahmadiyya
+د اگرې کلا	Röda fortet i Agra
+د مذهب خپلواكي	Religionsfrihet
+تيتر	Pärlhöns
+ځانگړواله	Individualism
+بادغيس ولايت	Badghis
+قبة الصخرة جومات	Klippdomen
+رېبز	Kvast
+ټوپولف ټو-۱۵۴	Tupolev Tu-154
+نړیواله پېغله	Miss World
+آټوکراسي	Envälde
+خواړه ساتنه	Konservering
+مارگريت ميتچېل	Margaret Mitchell
+آرگېنين	Arginin
+سوخوی سو ٢٧	Suchoj Su-27
+ام۱ آبرامس	M1 Abrams
+غزني	Ghazni
+وختتېری	Underhållning
+کندهار ولايت	Kandahar (provins)
+کاپيسا ولايت	Kapisa (provins)
+هلمند ولايت	Helmand (provins)
+فارياب ولايت	Faryab (provins)
+محراب	Mihrab
+د الازهر پوهنتون	Al-Azharuniversitetet
+بوتل پزی څوڅ	Öresvin
+اوسېلوسکوپ	Oscilloskop
+توحيد	Tawhīd
+بي-٥٢ سټراټوفورټرېس	Boeing B-52 Stratofortress
+کوډيين	Kodein
+قبله	Qibla
+بېديانۍ پيشو	Sandkatt
+تانبه:تاریخ	Portal:Historia
+واتسلاف ۱	Wencel I av Böhmen
+د اسلام پنځه بنسټونه	Islams fem pelare
+زوی	Son
+سکاره	Träkol
+شنقار	Jaktfalk
+د ژونکې تيوري	Cellteorin
+فولېرېن	Fulleren
+نېکروسېز	Nekros
+د واشنگټن څلی	Washingtonmonumentet
+آنتونوف-۲۲۵	Antonov An-225
+وييپوهنه	Lexikologi
+ننگرهار ولايت	Nangarhar (provins)
+درونکښ	Lyftkran
+روژه	Sawm
+کاني اوبه	Mineralvatten
+نولۍ	Tamiller
+لگښت ساتنې تگلاره	Protektionism
+آنتیستنس	Antisthenes
+مرکزي حکومت	Enhetsstat
+اسماني کتابونه او صحيفې	Helig skrift
+ژبساپوهنه	Psykolingvistik
+اوبزمکپوهنه	Hydrogeologi
+د مزلو د اړتیاوو د مرتبو سلسله	Behovshierarki
+د بازار وټه	Marknadsekonomi
+اپیکوریزم	Epikurism
+اورمازده	Ahura Mazda
+درملنه	Terapi
+اريايان	Arier
+يعقوب کندي	Al-Kindi
+گورجېس	Gorgias
+سياسي فلسفه	Politisk filosofi
+جوهر دوداییف	Dzjochar Dudajev
+ايوب	Ayub
+د افغانستان ولسي لاره	Sououd-e-Melli
+اېکونومېسټ	The Economist
+تورگوت اوزال	Turgut Özal
+نورتورپ گرومان بي ۲ سپېريټ	Northrop Grumman B-2 Spirit
+لمريز لېږديز کليز	Persiska kalendern
+فراه ولايت	Farah (provins)
+غزني ولايت	Ghazni (provins)
+وړانگدرملنه	Strålbehandling
+کوټه	Sal (rum)
+شاپ	Stolpiller
+پوهنځی	Fakultet
+نکوټي يانا ټیبېکم	Virginiatobak
+سيد حسن نصرالله	Hassan Nasrallah
+دايکندي ولايت	Daikondi (provins)
+پنجشېر ولايت	Panjshir (provins)
+زړه نابری	Hjärtsvikt
+ټوپولف ټو-۹۵	Tupolev Tu-95
+د جانسي راني	Rani Lakshmibai
+بلخ	Balkh
+امونيم نايټرېټ	Ammoniumnitrat
+آسيايي زمري	Asiatiskt lejon
+کامبوجيه ۲	Kambyses II
+سرپل ولايت	Sar-e Pol (provins)
+پکتيا ولايت	Paktia (provins)
+خوارزم	Khwarezm
+بهرونه	Export
+ايټا جېمز	Etta James
+كنسرټ	Konsert
+هرات ولايت	Herat (provins)
+سمنگان ولايت	Samangan (provins)
+نيمروز ولايت	Nimruz
+روزگان ولايت	Oruzgan (provins)
+جوزجان ولايت	Jowzjan (provins)
+ميدان وردگ ولايت	Wardak (provins)
+کورکوړۍ	Biätare (familj)
+شننيزه فلسفه	Analytisk filosofi
+سېموېل کولټ	Samuel Colt
+جلالکوټ	Jalalabad
+خيبر پښتونخوا	Khyber Pakhtunkhwa
+سينوسايټس	Bihåleinflammation
+موکشا	Moksha
+اسماعيل	Ismael
+نسخوږی	Magsmärta
+زينت امان	Zeenat Aman
+لسڅنډی	Dekagon
+چينايي فلسفه	Kinesisk filosofi
+بوينگ بي ۲۹	Boeing B-29 Superfortress
+کرينه کپور	Kareena Kapoor
+بوينگ بي ۱۷ فلاينگ فورټرېس	Boeing B-17 Flying Fortress
+اسيډوسېز	Acidos
+واسلين	Vaselin
+اوبي ژرنده	Vattenkvarn
+فلېپيني عقاب	Apörn
+لغمان ولايت	Laghman (provins)
+پيېرې لويېس ناپولېيون کيوانارې	Louis Cavagnari
+مولتان	Multan
+کوټه (ښار)	Quetta
+پکتيکا ولايت	Paktika (provins)
+خوست ولايت	Khost (provins)
+کيفيت	Kvalitet
+بريدمن	Löjtnant
+علي اکبر هاشمي رفسنجاني	Ali Akbar Hashemi Rafsanjani
+ايمن الظواهري	Ayman az-Zawahiri
+رنځورپاله	Sjuksköterska
+غور ولايت	Ghor
+تخار ولايت	Takhar (provins)
+کندوز ولايت	Kondoz (provins)
+د پاکستان د خلکو گوند	Pakistans folkparti
+د اتریش د خلک ګوند	Österrikiska folkpartiet
+ايبوپروفېن	Ibuprofen
+کارسک گيدړ	Korsakräv
+ابهيشېک بچچن	Abhishek Bachchan
+سالنډي	Dyspné
+کونړ ولايت	Konar (provins)
+پروان ولايت	Parvan (provins)
+آيت	Ayah
+قول اردو	Armékår
+ايمفيسېما	Emfysem
+احمد ياسين	Ahmad Yassin
+برهان الدين رباني	Burhanuddin Rabbani
+پريټي زېنتا	Preity Zinta
+صحابه	Sahaba
+سمایلوډون	Smilodon
+مېرمن	Maka (äktenskap)
+اوڅنډی	Heptagon
+د افغانستان پېښليک	Afghanistans historia
+کابل ولايت	Kabul (provins)
+ټېډ	TED (konferens)
+آندری کاراطايف	Andrej Korotajev
+سلطان محمود غزنوي	Mahmud av Ghazni
+د زړه ارېتميا	Arytmi
+پینټریټ	Pentyl (sprängämne)
+اسلامي هنر	Islamisk konst
+اسلامپالنه	Islamism
+پوښتنه	Fråga
+هیکسوجن	Hexogen
+ميناتو	Minato
+وزيرستان	Waziristan
+اوښلن لوگی	Tårgas
+کوستا کونکورديا	M/S Costa Concordia
+د زړه ناروغۍ	Hjärtsjukdomar
+ابو حنيفه (امام اعظم)	Abu Hanifa
+مرکاوا شوبله	Merkava
+جوهر	Essens
+ټوپولف ټو-۱۶۰	Tupolev Tu-160
+شيطاني آيات	Satansverserna
+خيبر دره	Khyberpasset
+شاپور ۱	Shahpour I
+سيلدينافيل	Sildenafil
+تکبیر	Takbīr
+مالي کال	Räkenskapsår
+سوخوی سو-۲۵	Suchoj Su-25
+پرولاکټين	Prolaktin
+ټانگتوره	Spikklubbesläktet
+تیسفون	Ktesifon
+ډېلي ټيليگراف	The Daily Telegraph
+سټرېپټومايسين	Streptomycin
+هندي څمڅه منگور	Glasögonorm
+ټې-۹۰	T-90
+نادر شاه افشار	Nadir Shah
+د بوټي هورمون	Fytohormoner
+ټېټراسايکلين	Tetracyklin
+اسلامي فلسفه	Islamisk filosofi
+سبسيډي	Subvention
+د پراگ کلا	Pragborgen
+آنتونوف-۱۲۴	Antonov An-124
+هود	Hud (islamisk profet)
+خړانکه	Piplärkor
+ملا محمد عمر	Mohammed Omar
+فريد الدين عطار	Farid ad-din Attar
+کړنی سېک	Aktionspotential
+امام احمد بن حنبل	Ahmad ibn Hanbal
+سوخوی پک فا	Suchoj PAK FA
+احمد ظاهر	Ahmad Zahir
+زيډووډين	AZT
+محمد يونس خالص	Mohammad Yunus Khalis
+افغانۍ	Afghani
+مېگ ۲۵	Mikojan-Gurevitj MiG-25
+د سږو اوندنه خنډيزه ناروغي	Kroniskt obstruktiv lungsjukdom
+احمد شاه مسعود	Ahmad Shah Massoud
+داسو میراژ- ۲۰۰۰	Dassault Mirage 2000
+نهڅنډی	Nonagon
+آزاد کشمير	Azad Kashmir
+اوبسپی	Uttrar
+چينايي دوديزه درملگري	Traditionell kinesisk medicin
+گېلگېت بالتستان	Gilgit-Baltistan
+بلوڅان	Balucher
+ټراک	Trädgårdssångare
+کېټ وېنسلېټ	Kate Winslet
+نيوموتوراکس	Lungkollaps
+اورو لانکاسټر	Avro Lancaster
+لرغونې فلسفه	Antikens filosofi
+زين العابدين بن علي	Zine El Abidine Ben Ali
+يوني ماشين	Jonmotor
+نېټه	Datum
+ایزو ۹۰۰۰	ISO 9000
+اليسع	Elisha
+معمولي څوڅ	Sadeldelfin
+ترچ مير	Tirich Mir
+مطبوعاتي اعلاميه	Pressmeddelande
+محمد نجيب الله	Mohammed Najibullah
+قونسلگري	Konsul (utrikesförvaltning)
+زنځيري غوڅندۍ	Motorsåg
+فدرالي قبايلي سيمې	Federalt administrerade stamområden
+گونگه ښارو	Sidensvansar
+د مذهب فلسفه	Religionsfilosofi
+ډايازيپم	Diazepam
+سوخوی سو-۲۴	Suchoj Su-24
+کورټيکوسټېرويډ	Kortikosteroid
+غوږور ښاپېرک	Långörad fladdermus
+چندړ	Santalum album
+سيد قطب	Sayyid Qutb
+بوکو حرام	Boko Haram
+السلام عليکم	Assalamu alaikum
+خسرو پرويز	Khusrov II
+اېنډوسکوپي	Endoskopi
+مېړه	Make (äktenskap)
+طبله	Tabla
+غونډل	Fågelspindlar
+گندهارا	Gandhara
+کوډېکس	Codex
+يان ژيژکا	Jan Žižka
+يوم	Spade
+ستره لوبه	Det stora spelet
+لاجورد	Lapis lazuli
+مقتدی الصدر	Muqtada al-Sadr
+چت	Golv
+يزيد بن معاويه	Yazid I
+آلانين	Alanin
+ښکلي هنرونه	De sköna konsterna
+افدرين	Efedrin
+ای اچ ۱ کبرا	Bell AH-1 Cobra
+سورة الفاتحة	Al-Fatiha
+سورة البقرة	Al-Baqara
+سورة آل عمران	Al-Imran
+سورة النساء	An-Nisa
+سورة المائدة	Al-Ma'ida
+سورة الأنعام	Al-An'am
+سورة الأعراف	Al-A'raf
+سورة الأنفال	Al-Anfal
+سورة التوبة	At-Tawba
+سورة يونس	Yunus (sura)
+سورة هود	Hud (sura)
+سورة يوسف	Yusuf (sura)
+سورة الرعد	Ar-Ra'd
+سورة إبراهيم	Ibrahim (sura)
+سورة الحجر	Al-Hijr
+جنگسالار	Krigsherre
+سورة النحل	An-Nahl
+د سږو امبولي	Lungemboli
+ښي لاسی او کيڼ لاسی ترافيک	Höger- och vänstertrafik
+سورة الاسراء	Al-Isra
+سورة الكهف	Al-Kahf
+سورة مريم	Maryam
+سورة طه	Ta-Ha
+سورة الأنبياء	Al-Anbiya
+سورة الحج	Al-Hajj
+سورة المؤمنون	Al-Mu'minun
+سورة النور	An-Nur
+سورة الفرقان	Al-Furqan
+سورة الشعراء	Ash-Shuara
+سورة النمل	An-Naml
+سورة القصص	Al-Qasas
+سورة العنکبوت	Al-Ankabut
+سورة الروم	Ar-Rum
+De Havilland Mosquito	De Havilland DH 98 Mosquito
+کيشپ	Sköldpaddor
+شکودا اوکټاويا	Škoda Octavia
+سټېنگر FIM-92	FIM-92 Stinger
+سورة لقمان	Luqman
+دماغي مړينه	Hjärndöd
+مخ (چاپي رسنۍ)	Page
+هېوادپال	Patriot (olika betydelser)
+شوننېزم	Chauvinism
+امريکا غږ	Voice of America
+درې بعدي چاپگر	Friformsframställning
+سورة السجدة	As-Sajda
+سورة الاحزاب	Al-Ahzab
+سورة سبأ	Saba (sura)
+سورة فاطر	Fatir
+سورة يس	Ya Sin
+مامولکه	Ärlesläktet
+سورة الصافات	As-Saffat
+سورة ص	Sad (sura)
+سورة الزمر	Az-Zumar
+سورة غافر	Ghafir
+حسن البنا	Hassan al-Banna
+سورة فصلت	Fussilat
+سورة الشورى	Ash-Shura
+سورة الزخرف	Az-Zukhruf
+سورة الدخان	Ad-Dukhan
+سورة الجاثية	Al-Jathiya
+سورة الأحقاف	Al-Ahqaf
+سورة محمد	Muhammad (sura)
+سورة الفتح	Al-Fath
+سورة الحجرات	Al-Hujurat
+سورة ق	Qaf
+سورة الذاريات	Adh-Dhariyat
+ډېل کارنېگي	Dale Carnegie
+سورة الطور	At-Tur (sura)
+سورة النجم	An-Najm
+روح الله نېکپا	Rohullah Nikpai
+سورة القمر	Al-Qamar
+سورة الرحمن	Ar-Rahman
+سورة الواقعة	Al-Waqia
+سورة الحديد	Al-Hadid
+سورة المجادلة	Al-Mujadila
+سورة الحشر	Al-Hashr
+سورة الممتحنة	Al-Mumtahina
+سورة الجمعة	Al-Jumua
+سورة المنافقون	Al-Munafiqun
+سورة التغابن	At-Taghabun
+سورة الطلاق	At-Talaq
+سورة الملک	Al-Mulk
+سورة القلم	Al-Qalam
+سورة الحاقة	Al-Haqqa
+سورة المعارج	Al-Ma'aridj
+مادهوري ډکشټ	Madhuri Dixit
+سورة نوح	Nuh (sura)
+سورة الجن	Al-Djinn
+سورة المزمل	Al-Muzzammil
+جامنو	Syzygium cumini
+سورة المدثر	Al-Muddathir
+سورة القيامة	Al-Qiyamah
+سورة الإنسان	Al-Insan
+سورة المرسلات	Al-Mursalat
+سورة النبأ	An-Naba
+سورة النازعات	An-Naziat
+سورة عبس	Abasa
+سورة التكوير	At-Takwir
+سورة الانفطار	Al-Infitar
+سورة المطففين	Al-Mutaffifin
+سورة الانشقاق	Al-Inshiqaq
+سورة البروج	Al-Burudj
+سورة الطارق	At-Tariq
+سورة الأعلى	Al-A'la
+سورة الغاشية	Al-Ghashiya
+سورة الفجر	Al-Fajr
+سورة البلد	Al-Balad
+سورة الشمس	Ash-Shams
+سورة الليل	Al-Layl
+سورة الضحى	Ad-Duha
+سورة الشرح	Al-Inshirah
+د ماغزو تومور	Hjärntumör
+سورة التين	At-Tin
+د پاني پت دوهمه جگړه	Andra slaget vid Panipat
+د افغان-انگرېز دويمه جگړه	Andra afghankriget
+سورة العلق	Al-Alaq
+سورة القدر	Al-Qadr
+سورة البينة	Al-Bayyina
+سورة الزلزلة	Az-Zalzala
+سورة العاديات	Al-Adiyat
+سار	Örnvråk
+سورة القارعة	Al-Qāri'ah
+سورة التکاثر	At-Takāthur
+سورة العصر	Al-'Aṣr
+سورة الهمزة	Al-Humazah
+اکشې کمار	Akshay Kumar
+سورة الفيل	Al-Fīl
+سورة قريش	Quraysh (sura)
+سورة الماعون	Al-Mā'ūn
+سورة الکوثر	Al-Kawthar
+سورة الکافرون	Al-Kāfirūn
+سورة النصر	An-Naṣr
+مکه معظمه	Mekka (provins)
+سورة المسد	Al-Masad
+سورة الإخلاص	Al-Ikhlāṣ
+سورة الفلق	Al-Falaq
+سپين توت	Noni
+سورة الناس	An-Nās
+سورت	Sura (islam)
+د هند کمونیست گوند (مارکسیست)	Communist Party of India (Marxist)
+حديث	Hadith
+شاپور ۲	Shahpour II
+حج	Hajj
+سورة الصف	As-Saff
+سورة التحريم	At-Tahrim
+ټې-۸۰	T-80
+ان هيداوې	Anne Hathaway (Shakespeare)
+لونيک	Judaspenningar
+ميل مي - ۲۸	Mil Mi-28
+ديکلوفيناک	Diklofenak
+سوخوی سو ۳۵	Suchoj Su-35
+پيچکاري	Injektion (medicin)
+ابن طفيل	Ibn Tufail
+آسي ژرنده	Hästvandring
+ملالۍ جويا	Malalai Joya
+فيفا	Fifa
+سوشميتا سېن	Sushmita Sen
+ليلا علي	Laila Ali
+هېنري مورټېمر ډيورنډ	Henry Mortimer Durand
+رابعه بصري	Rabia al-Adawiyya
+بېنزيل پېنيسيلين	Bensylpenicillin
+۳۹×۷،۶۲ مرمی	7,62 × 39 mm
+ږدن	Hirs
+سيما ثمر	Sima Samar
+اميشا پټېل	Ameesha Patel
+حاد مايلوييد ليوکېمي	Akut myeloisk leukemi
+حاد کرونري ساينډروم	Akut kranskärlssjukdom
+د کارلشتین کلا	Karlstein
+بلنځه	Haloxylon
+اروپايي اوښاره	Bönsyrsa
+پلسيوسور	Plesiosaurier
+کاموف کا ٥٠	Kamov Ka-50
+گڼ پوهيال	Universalgeni
+شري دېوي	Sridevi
+د سپاه پاسداران انقلاب اسلامی ځواک	Iranska revolutionsgardet
+آنتونوف-۱۲	Antonov An-12
+نوشاخ	Nowshak
+خبري غونډه	Presskonferens
+ايليوشين-۹۶	Iljusjin Il-96
+خټگري	Murverk
+بسم الله الرحمن الرحيم	Basmala
+کلورامفينيکول	Kloramfenikol
+انټر سرويس انټېلېجنس (ISI)	Inter-Services Intelligence
+اېسټروجن	Östrogen
+HACCP	HACCP
+مچواژی	Flugsmälla
+غزل	Ghasel
+سوابۍ ولسوالۍ	Swabi
+شهاب الدين سهروردي	Shihab al-din Suhrawardi
+مېگانېورا	Meganeura
+عبدالله بن عمر البيضاوي	Baidawi
+د ډيورنډ کرښه	Durandlinjen
+يعقوب	Jakob (patriark)
+لارا دتا	Lara Dutta
+الجاحظ	Al-Jahiz
+امام شافعي	Muhammed 'Idris ash-Shafi'i
+سيد جمال الدين افغاني	Jamal al-din Asadabadi
+نصرت فتح علي خان	Nusrat Fateh Ali Khan
+نور محمد ترکی	Nur Muhammad Taraki
+سادات	Sayyid
+د راديوايزوټوپونو ترموبريښنایی جنريټر	Radioisotopgenerator
+آلانين ټرانس امينېز	Alaninaminotransferas
+ايبټ اباد ولسوالۍ	Abbottabad (distrikt)
+ختيځي مچۍ	Östasiatiskt bi
+ختيځه فلسفه	Österländsk filosofi
+اروپایی زرغون څرموښکۍ	Smaragdödla
+عبدالقادر گيلاني	Abd al-Qadir al-Jilani
+لور	Dotter
+عبدالکريم سروش	Abdolkarim Soroush
+ميمنه ولسوالۍ	Meymaneh
+الشباب	Al-Shabab
+سردار محمد داود خان	Mohammed Daoud Khan
+ماخۍ	Alhagi
+عبدالقدير خان	Abdul Kadir Khan
+سلطان قطب الدين ايبک	Qutb ad-Din Aybak
+بيټالکټمېز	ESBL
+پلازموډيم فالسيپارم	Plasmodium falciparum
+نورالدين عبدالرحمن جامي هروي	Abd al-Rahman Jami
+عمران خان (لوبگر)	Imran Khan (skådespelare)
+رودکي	Rudaki
+خان عبدالغفار خان	Khan Abdul Ghaffar Khan
+عبدالرشيد غازي	Abdul Rashid Ghazi
+عبدالله عبدالله	Abdullah Abdullah
+جرمېن جېکسن	Jermaine Jackson
+گلبدين حکمتيار	Gulbuddin Hekmatyar
+احمد شاه قاجار	Ahmad Shah Mirza
+مېلبورن پوهنتون	University of Melbourne
+داسو میراژ اف‌۱	Dassault Mirage F1
+آر پي جي-۷	RPG-7
+آغا محمد خان قاجار	Aga Muhammed Khan
+صالح	Saleh
+گڼونکی	Bokhållare
+د ۲ کا ۱۲ کوب راکټی سیستم	2K12 Kub
+کنکه لېږندويه انسېفلايټس	TBE
+اس-۲۰۰	S-200
+ويي جوړښت	Ordbildning
+تايروکسين	Trijodtyronin
+ادريس	Idris
+د سولې نړيواله ورځ	Internationella fredsdagen
+روماتولوجي	Reumatologi
+ناصر خسرو	Nasir bin Chusrau
+شپې ليد سترگۍ	Bildförstärkare
+پادشاهی جومات	Badshahimoskén
+عبدالرشيد دوستم	Abdul Rashid Dostum
+ذوالکفل	Dhul-Kifl
+کريم خان زند	Karim Khan Zand
+رنجيت سېنگ	Ranjit Singh
+اپورتونېزم	Opportunism
+شمي کپور	Shammi Kapoor
+امير حبيب الله خان	Habibullah Khan
+بيت الله محسود	Baitullah Mehsud
+ابوبکر	Abu Bakr
+ابو مسلم خراساني	Abu Muslim
+جيورج ايډېن	George Eden, 1:e earl av Auckland
+سلطان علاوالدين غلجی	Ala-ed-Din Khaldji
+کاشي	Glasyr (keram)
+تفسير	Tafsīr
+گوگل	Mediastinum
+راجپوت	Rajput
+آیت الله سيستاني	Ali as-Sistani
+نصرت پارسا	Nasrat Parsa
+صليبي غڼه	Korsspindel
+ناوې	Brud
+چورليځ	Axis
+محمد علي شاه قاجار	Mohammad-Ali Shah Qajar
+فرانسېس يسېدرو اېجورت	Francis Ysidro Edgeworth
+محمد نادر شاه	Mohammed Nadir Shah
+آنتونوف-۱۴۰	Antonov An-140
+سلمان ابن عبدالعزیز آل سعود	Salman bin Abdul Aziz
+پټه لرونکی ژگاگ	Strimmig skunk
+سليووويټز	Slivovits
+ابو الاعلى مودودي	Sayyid Abu al-Ala Mawdudi
+اردشیر پاپاکان	Ardashir I Papagan
+هېماټويوريا	Hematuri
+جده	Jeddah
+الېکسانډر برنېس	Alexander Burnes
+هندي فلسفه	Indisk filosofi
+دليپ کمار	Dilip Kumar
+سونيل دت	Sunil Dutt
+د ايران هوايي ځواک	Islamska republiken Irans flygvapen
+دهرمندر	Dharmendra
+ملا دادالله اخوند	Dadullah Akhund
+صبغت الله مجددي	Sibghatullah Mojaddedi
+ابراهيم لودي	Ibrahim Lodhi
+لمن لگښت	Marginalkostnad
+افغان ملي پوځ	Afghanistans krigsmakt
+د افغانستان د فوټبال فدراسيون	Afghanistans fotbollsfederation
+کارلوی واری	Karlovy Vary
+اهل بيت	Ahl al-Bayt
+خوست	Khost
+سوات ولسوالۍ	Swat, Pakistan
+د هخامنشیانو ټولواکمني	Akemenider
+شکودا سوپرب	Škoda Superb
+معیاري ژبه	Standardspråk
+احمد ولي کرزی	Ahmed Wali Karzai
+سايکلوفوسفمايډ	Cyklofosfamid
+ایندومټاسین	Indometacin
+هېکزامېتيلين ټرايپرآکسيډايامين	Hexametylentriperoxiddiamin
+سورلان	Varghund
+سپېرکۍ	Ajowan
+اېنالاپريل	Enalapril
+مېبېندازول	Mebendazol
+اوکټوجن	Oktogen
+اوميپرازول	Omeprazol
+بودېسونايد	Pulmicort
+فېنواکسيمېتيل پېنيسيلين	Fenoximetylpenicillin
+کلوکساسيلين	Kloxacillin
+ديجوکسين	Digoxin
+مېټوټرکسات	Metotrexat
+دوكسيسايكلين	Doxycyklin
+لوپيناوير	Lopinavir
+امټريسيټابين	Emtricitabin
+سټاووډين	Stavudin
+وانکومايسين	Vankomycin
+سالمېټېرول	Salmeterol
+الاقصی جومات	Al-Aqsamoskén
+د افغانستان اسلامي امارت	Islamiska emiratet Afghanistan
+مسجد الحرام	Masjid al-Haram
+الخالد شوبله	Al-Khalid
+منبر	Minbar
+اسلامي بانکوالی	Islamiskt bankväsende
+سوخوی سو ٣٧	Suchoj Su-37
+کرېشما کپور	Karisma Kapoor
+ملکه رضيه	Radiyya Begum
+اناهيتا راتبزاد	Anahita Ratebzad
+حميرا بېگم	Humaira Begum
+شبانه اعظمي	Shabana Azmi
+ديا مرزا	Dia Mirza
+آلماني چابکۍ	Tysk kackerlacka
+فرېدرېک بارټ	Fredrik Barth
+مظفر الدين شاه قاجار	Muzaffar al-din Shah Qajar
+د درانيانو ټولواکمني	Huset Durrani
+ملټيپل ميولوما	Myelom
+بوينگ بي ۴۷ سټراټوجېټ	Boeing B-47 Stratojet
+اسکاريس لومبريکويډېس	Spolmask
+ابن زهر	Ibn Zuhr
+امير عنايت الله خان	Inayatullah Khan
+حبيب الله کلکاني	Habibullah Kalakâni
+تالقان	Taloqan
+دوشکا (د الوتکو ويشتونکي ماشيندار)	DSjK
+شريعت	Sharia
+اوزبکان	Uzbeker
+ازمېښتون	Laboratorium
+جيروسكوپ	Gyroskop
+تاجکيان	Tadzjiker
+سني اسلام	Sunni
+آزربايجاني منات	Azerbajdzjansk manat
+بې پيلوټه الوتکه	Obemannad luftfarkost
+محمد اقبال	Mohammad Iqbal
+فقه	Fiqh
+چنگېز ايتمانوف	Tjingiz Ajtmatov
+مۍ	Mungböna
+د باميانو بودايي پژۍ	Kulturlandskapet och fornlämningarna i Bamiyandalen
+تورکمنان	Turkmener
+نړیوال سازمان	Internationell organisation
+د ژبې فلسفه	Språkfilosofi
+شانگهای د همکاريو سازمان	Shanghai Co-operation Organisation
+کلبيان	Kyniska skolan
+د آزادۍ راډيو	Radio Free Europe
+اورنگزیب عالمگیر	Aurangzeb
+راني موکېرجي	Rani Mukerji
+مسجد نبوي	Masjid an-Nabawi
+اسلاموفوبيا	Islamofobi
+ازبکستاني سوم	Uzbekistansk som
+ابن تيميه	Taqi al-Din Ibn Taymiyya
+بولندوی	Överstelöjtnant
+مېټامتريال	Metamaterial
+الوتکه (فلم)	Titta vi flyger
+ختيځي کيکه	Pestloppa
+د شاه فیصل جومات	Shah Faisal-moskén
+د اوبو ښاپېرک	Vattenfladdermus
+نېفروټېک ساينډروم	Nefrotiskt syndrom
+ادريس شاه	Idries Shah
+انځور خبريالي	Bildjournalistik
+د افغانستان د لارښودانو لړليک	Lista över Afghanistans statsöverhuvuden
+سنتره	Tangerin
+نخاعي شريان	Kotartären
+هريپور (پاکستان)	Haripur
+د الماني ژبې گرامر	Tysk grammatik
+ISO 22000	ISO 22000
+صلی الله عليه وسلم	Salla Allahu ʿalayhi wa sallam
+اشاعره	Asharitiska skolan
+پېښور ولسوالۍ	Peshawar (distrikt)
+څاڅکي	Ögondroppar
+خواجه عبدالله انصاري	Ansâri från Herat
+پريتويراج چوهان	Prithvi Raj Chauhan
+سمېع يوسف	Sami Yusuf
+ډانگ لکۍ	Asiatisk paradisflugsnappare
+پروټينيوريا	Proteinuri
+بوللـه	Qasida
+رضوي خراسان ولايت	Razavikhorasan
+بفر سټېټ	Buffertstat
+کونډه	Karbinhake
+څارنوال	Åklagare
+ټرانس امينېشن	Transaminering
+گلومېرولونېفرايټس	Glomerulonefrit
+د پاني پت لومړۍ جگړه	Första slaget vid Panipat
+بوکان	Bukan
+پوپلزي	Popalzai-klanen
+آنتونوف-۱۴۸	Antonov An-148
+امير ډنډ	Band-e Amir
+امير محمد يعقوب خان	Muhammed Jakub Khan
+ټوپولف ټو-۳۳۴	Tupolev Tu-334
+ډئيزم	Deism
+دگماتېزم	Dogm
+گلسر	Rödpannad gulhämpling
+اوبدرملنه	Hydroterapi
+برېښنامېچ	Elmätare
+ښځه په اسلام کې	Könsroller inom islam
+جان گرين	John Green
+اسلامي تاريخ	Islams historia
+امام جومات	Shahmoskén
+کتيتر	Kateter
+آريانا افغان هوايي شرکت	Ariana Afghan Airlines
+معتزله	Mu'taziliter
+شهاب ۳	Shahab-3
+اسحاق	Isak (Bibeln)
+بانکي گڼون	Bankkonto
+ويکيپېډيا:ډ-ځ-پ/ښوونځي	Wikipedia:Använda Wikipedia i undervisningen
+زو – ۲۳ – ۲	ZU-23
+ټاټرا ۸۱۵	Tatra T815
+ټاټرا ۸۱۳	Tatra T813
+اجاره	Hyreskontrakt
+د اشراق فلسفه	Illuminationsteorin
+درملپېژندنه	Farmakodynamik
+ريگويدا	Rigveda
+کوهستان ولسوالۍ (پښتونخوا)	Kohistan
+طيبه لښکر	Lashkar-e-Taiba
+سيد محمد حسين طباطبايي	Allameh Tabatabaei
+لاله سری	Rödhuvad falk
+چنجری	Frankoliner
+فرهاد دريا	Farhad Darya
+د غشی زهر آبي چونگښه	Dendrobates azureus
+جي اېف ۱۷ تهنډر	CAC/PAC JF-17 Thunder
+حامد کرزی نړيوال هوايي ډگر	Kabuls internationella flygplats
+وزلوبه	Buzkashi
+تپندۍ	Murslev
+معمولي وامبټ	Nakennosvombat
+کورکورۍ	Vitbukad flyghöna
+تور-ام۱	9K330 Tor
+بوټځمکپوهنه	Växtgeografi
+امام حسين جومات	Husayn ibn Alis helgedom
+لېیوروس قوینقوېستریاتوس	Leiurus quinquestriatus
+ساييز غږونه	Vesikulär
+تجويد	Tajwīd
+ملتون	Företag
+اسلامي ساينس	Islamisk vetenskap
+ظهير الدين محمد بابر	Babur
+پاکستان مسلم لیگ ن	Pakistanska muslimska förbundet - N
+ږيره ور خوگ	Skäggsvin
+درېيځ (مېچپوهنه)	Kub
+آتريال فېبرېلېشن	Förmaksflimmer
+هډپوهنه	Osteologi
+چاپېريال ساتنه	Miljövård
+جنت	Jannah
+فيزيکي کتنه	Medicinsk undersökning
+يهودي فلسفه	Judisk filosofi
+اومان	Efedraväxter
+لوېديځه فلسفه	Västerländsk filosofi
+اسلامي زده کړې	Islamologi
+د زړه عضلاتي اعتلال	Hjärtmuskelsjukdom
+نيوروفېبروماټوسېز	Neurofibromatos
+کومييز سرطان	Strupcancer
+پېرودونکی	Kund
+تېزپر	Vadarsvalor
+عيسوي فلسفه	Kristen filosofi
+زوم	Brudgum
+تورړۍ	Svart stenskvätta
+د سږو بوغمه	Lungödem
+آی خانم	Ai Khanoum
+وییزېرمه	Ordlista
+د مهدي پوځ	Mahdimilisen
+پاکستان مسلم لیگ ق	Pakistanska muslimska förbundet - Q
+د اکولا اوبتل	Projekt 971 Sjtjuka-B
+د بازار جوړښت	Marknadsform
+چترال ولسوالۍ	Chitral
+سمونتيا	Reform
+توردلی	Buskskvättor
+ماليکولي ننوونی	Molekylsikt
+مونټ سټوارټ الفنسټن	Mountstuart Elphinstone
+برېښنایي مرمري سکيټ کب	Marmorerad darrocka
+تور نس لرونکي ستن	Större sjötrollslända
+هېماټوپويسز	Hematopoes
+اسلامي وييپانگه	Islamisk ordlista
+جهنگ ولسوالۍ	Jhang
+د سيستان او بلوچستان ولايت	Sistan och Baluchistan
+د افغانستان اسلامي حزب	Hezb-i-Islami
+د علیت برهان	Kosmologiska gudsbeviset
+سپين باز	Vitvråk
+غازي محمد ايوب خان	Ayub Khan (afghan)
+ډانا ټايرون روهراباکر	Dana Rohrabacher
+اېکزېما	Eksem
+د افغان-انگرېز لومړۍ جگړه	Första anglo-afghanska kriget
+يشناټکی	Kokpunkt
+د فارس ولايت	Fars (provins)
+د نړۍ برحاله هېوادمشران	Lista över statsöverhuvuden
+هالي بېري	Halle Berry
+غبرگه ښیښه	Isolerruta
+د روسيې دولتي کتابتون	Ryska statsbiblioteket
+د بوټي ژونکه	Växtcell
+فېروز خان	Feroz Khan
+د استخباراتو پرانيستى سرچينه	Open source intelligence
+اږبکه	Blå storsvala
+ووبرنځپوهنه	Histopatologi
+د لوگر ولايت د بيارغونې ډله	Provincial Reconstruction Team
+لادا اوبتل	Projekt 677 Lada
+پېښور	Peshawar
+کرک ولسوالۍ	Karak
+آر پي جي – ۲۹	RPG-29
+څېړنيزه خبريالي	Grävande journalistik
+جرمنۍ غومبسه	Tyskgeting
+زهوب	Exsudat
+حدود	Hudud
+فرعوني مېږی	Faraomyra
+اداينه	Betalning
+خروشتي	Kharosthi
+جل وهنه	Värmerelaterade sjukdomstillstånd
+اپولینارېزم	Apollinarism
+دوتنه	File
+گڼيه	Bostadslån
+تعبیه شوی چاودیدونکی وسیله	Improviserade sprängmedel
+د پاني پت دريمه جگړه	Tredje slaget vid Panipat
+د افغان-انگرېز درېمه جگړه	Tredje anglo-afghanska kriget
+تورغاړي ـ اوږدمښوکي مارغه	Svartbukad kolibri
+سولگریز جال	Datornätverk
+د حکومت بڼې	Regeringsform
+ځنگلي خزدکه	Anoplotrupes stercorosus
+افغان پيکا	Afghansk piphare
+پر اسلام نيوکه	Kritik av islam
+موسکيټ	P-270 Moskit
+د اصفهان ولايت	Esfahan (provins)
+ويکيپېډيا:وييپانگه	Wikipedia:Ordlista
+مرتضی مطهري	Morteza Motahhari
+محمد موسى شفيق	Musa Shafiq
+وېليم حې مېکناټن	William Macnaghten
+وېشنيزه:د امريکا متحده ايالات	Kategori:USA
+وېشنيزه:روسيه	Kategori:Ryssland
+وېشنيزه:کاناډا	Kategori:Kanada
+وېشنيزه:برطانيه	Kategori:Storbritannien
+وېشنيزه:چين	Kategori:Kina
+وېشنيزه:هندوستان	Kategori:Indien
+وېشنيزه:سعودي عربستان	Kategori:Saudiarabien
+وېشنيزه:ايران	Kategori:Iran
+لامبوځنه ښیښه	Floatglasmetoden
+ابدالي	Abdalistammen
+وېشنيزه:افغانستان	Kategori:Afghanistan
+وېشنيزه:الجېريا	Kategori:Algeriet
+وېشنيزه:عراق	Kategori:Irak
+وېشنيزه:نېدرلانډ/هالېنډ	Kategori:Nederländerna
+وېشنيزه:نايجېريا	Kategori:Nigeria
+وېشنيزه:پاکستان	Kategori:Pakistan
+وېشنيزه:د روم امپراطوری	Kategori:Romerska riket
+وېشنيزه:مارغان	Kategori:Fåglar
+وېشنيزه:بوټي	Kategori:Växter
+وېشنيزه:ژونپوهنه	Kategori:Biologi
+وېشنيزه:پېښليک	Kategori:Historia
+وېشنيزه:ځمکپوهنه	Kategori:Geografi
+وېشنيزه:ټولنه	Kategori:Samhälle
+وېشنيزه:مذهب	Kategori:Religion
+وېشنيزه:ورزښت	Kategori:Sport
+وېشنيزه:اروپايي اتحاديه	Kategori:Europeiska unionen
+وېشنيزه:ټوليزې رسنۍ	Kategori:Massmedia
+وېشنيزه:ځمکه	Kategori:Jorden
+مړاپ زره پوښ گاډي	MRAP
+د قرآن مخينه	Koranens tillkomst
+بر دير ولسوالۍ	Upper Dir
+د بشري حقونو نړېواله اسلامي اعلاميه	Kairodeklarationen om de mänskliga rättigheterna i islam
+خواږه مرچ	Paprika
+گوند مشر	Partiledare
+حبيب قادري	Habib Qaderi
+چاودونکي شکل لرونکي مردک	Explosivt formad projektil
+شهاب الدين محمد غوري	Muhammad av Ghor
+سرپل	Sar-e Pol
+څېړونکی	Forskare
+سهيلا صديقي	Suhaila Seddiqi
+اورمکۍ	Nattfjärilar
+کينډۍ:/بکس-پايليک	Mall:Box-footer
+وټیزه ولسواکي	Ekonomisk demokrati
+ابراهيم	Ibrahim (islamisk profet)
+نړيواله ټولنه	Internationella samfundet
+ملهم	Balsam
+کاربون نانو نل	Nanorör
+محصول	Produkt
+بابر بڼ	Bagh-e Babur
+خبريال	Journalist
+د ملي دفاع پوهنتون	National Defense University
+وېشنيزه:فلسفه	Kategori:Filosofi
+وېشنيزه:عيسويت	Kategori:Kristendom
+وېشنيزه:اسلام	Kategori:Islam
+وېشنيزه:يهوديت	Kategori:Judendom
+پارت	Partien
+اخوان الصفا	Ichwan as-safa
+ملا صدرا	Mulla Sadra
+خمس	Khums
+لکي مروت ولسوالۍ	Lakki Marwat
+بونير ولسوالۍ	Buner
+رهبانيت	Religiös orden
+گوادر ولسوالۍ	Gwadar (distrikt)
+گوربت	Örnar
+اسلام شاه سوري	Islam Shah
+چرگ	Tupp
+ساتنه	Beskydd
+وړانگه	Ray (olika betydelser)
+حافظ آباد ولسوالۍ	Hafizabad
+بولان ولسوالۍ	Bolan
+بابېړی	Skov
+چکوال ولسوالۍ	Chakwal
+بهکر ولسوالۍ	Bhakkar (distrikt)
+مانسهره ولسوالۍ	Mansehra
+مردان ولسوالۍ	Mardan
+چارسده ولسوالۍ	Charsadda
+هنگو ولسوالۍ	Hangu
+شنگله ولسوالۍ	Shangla
+بوښوتنيکا	Bochotnica
+الاسمای	Al-Asma'i
+د خښتي پل جومات	Pul-e Khishti-moskén
+راجنپور ولسوالۍ	Rajanpur
+ويهاړي ولسوالۍ	Vehari
+ليه ولسوالۍ	Layyah
+نارووال ولسوالۍ	Narowal
+منډي بهاوالدين ولسوالۍ	Mandi Bahauddin
+تولید (سوداگري)	Produkt (ekonomi)
+د عراق او شام اسلامي دولت	Islamiska staten
+يونس	Yunus
+د فيلسوفانو لړليک	Lista över filosofer
+ویدانتا	Vedanta
+پښتانه	Pashtuner
+سکندر لودي	Sikandar Lodhi
+خوشاب ولسوالۍ	Khushab
+تخنيک	Teknik
+چامبېلي	Jasminum grandiflorum
+رسنۍ	Medelvärde
+سمبالښت	Management
+وېشنيزه:هڅوب	Kategori:Kultur
+وېشنيزه:لويې وچې	Kategori:Världsdelar
+وېشنيزه:ځمکپېژنده	Kategori:Geologi
+وېشنيزه:الوتکې	Kategori:Luftfarkoster
+ثريا طرزي	Soraya Tarzi
+وکيل احمد متوکل	Abdul Wakil Muttawakil
+محمد رباني	Mohammed Rabbani
+نانسي دوپري	Nancy Hatch Dupree
+ايشوبی	Oljepanna
+غوړگه	Vaden
+بټگرام ولسوالۍ	Batagram
+هنرونه	Konstarterna
+مالاکنډ ولسوالۍ	Malakand
+رحمت عزيز چترالي	Rehmat Aziz Chitrali
+تانبه:ځمکپوهنه	Portal:Geografi
+مماڼه	Sageretia brandrethiana
+جلغوزه	Pinus gerardiana
+تانبه:فلسفه	Portal:Filosofi
+د کوکا کولا شرکت	The Coca-Cola Company
+ببی	Beckasiner
+ذکر	Zekr
+هريړه	Terminalia chebula
+کيمياوي وسلې	Kemiska vapen
+ناصر پورپيرار	Nasser Pourpirar
+وېشنيزه:د پوهنغونډ روباټان	Kategori:Wikipedia:Robotar
+سورلکۍ	Rödstjärtar
+لويېس دوپري	Louis Dupree
+تانبه:هنرونه	Portal:Konst
+اميرزی سنگين	Amirzai Sangin
+احمد شاه خان	Ahmad Shah Khan
+کينډۍ:دوراشې کامه	Mall:Citat
+وېشنيزه:هېوادونه	Kategori:Världens länder
+وېشنيزه:وټپوهنه	Kategori:Nationalekonomi
+ويکيپېډيا:پازوالان	Wikipedia:Administratörer
+ويکيپېډيا:روباټان	Wikipedia:Robotar
+وېشنيزه:وخت	Kategori:Tid
+وېشنيزه:انټرنټ	Kategori:Internet
+وېشنيزه:بوټپوهنه	Kategori:Botanik
+وېشنيزه:اناتومي	Kategori:Anatomi
+وېشنيزه:طب	Kategori:Medicin
+وېشنيزه:سياست	Kategori:Politik
+گڼنه	Redovisning
+مصر	Egypten
+وېشنيزه:فيلسوفان	Kategori:Filosofer
+کينډۍ:Bot	Mall:Bot
+کاناډا	Kanada
+وېشنيزه:هنګري	Kategori:Ungern
+وېشنيزه:د اروپایي اتحادیې غړي هیوادونه	Kategori:Europeiska unionens medlemsstater
+وېشنيزه:چېک جمهوريت	Kategori:Tjeckien
+وېشنيزه:سلواکيا	Kategori:Slovakien
+وېشنيزه:مايکروسافټ	Kategori:Microsoft
+تانبه:پوهنه	Portal:Naturvetenskap
+کينډۍ:Flagicon	Mall:Flaggbild
+وېشنيزه:د اروپا هېوادونه	Kategori:Europas länder
+وېشنيزه:اروپا	Kategori:Europa
+يک تلويزيون	1TV (afghansk TV-kanal)
+تانبه:تازه پېښې	Portal:Aktuella händelser
+کينډۍ:لاسوند	Mall:Dokumentation
+ويکيپېډيا:د ټولنې تانبه	Wikipedia:Deltagarportalen
+وېشنيزه:User languages	Kategori:Användare efter språk
+ويکيپېډيا:کارن-نوم	Wikipedia:Användarkonto
+عايشه بنت ابي بکر	Aisha
+سوداگري	Näringsliv
+تانبه:ټکنالوجي	Portal:Teknik
+کينډۍ:Softredirect	Mall:Mjuk omdirigering
+کينډۍ:ړنگول	Mall:Radera
+ليکبڼه	Vikt (typografi)
+وېشنيزه:ژبې	Kategori:Språk
+ويکيپېډيا:General disclaimer	Wikipedia:Allmänt förbehåll
+کينډۍ:Navbox	Mall:Navbox
+ويکيپېډيا:Shortcut	Mall:Genväg
+وېشنيزه:د ایران ښارونه	Kategori:Orter i Iran
+خيميران	Havsmusartade fiskar
+کينډۍ:Citation needed	Mall:Källa behövs
+بينگړۍ	Squash (växt)
+کينډۍ:!	Mall:!
+کينډۍ:Tnavbar	Mall:Navbar
+ايمان	Tro
+کينډۍ:Clear	Mall:Clear
+کينډۍ:Col-begin	Mall:Col-begin
+کينډۍ:Col-end	Mall:Col-end
+کينډۍ:Anchor	Mall:Ankare
+کينډۍ:Babel	Mall:Babel
+کينډۍ:Commons	Mall:Commons
+کينډۍ:AFG	Mall:AFG
+کينډۍ:نابشپړ	Mall:Stub
+کينډۍ:User de	Mall:Användare de
+کينډۍ:User en-3	Mall:Användare en-3
+کينډۍ:User en-1	Mall:Användare en-1
+کينډۍ:User en-2	Mall:Användare en-2
+کينډۍ:User en	Mall:Användare en
+کينډۍ:User fa	Mall:Användare fa
+وېشنيزه:افغاني هڅوب	Kategori:Kultur i Afghanistan
+کينډۍ:User ja	Mall:Användare ja
+کينډۍ:User ja-1	Mall:Användare ja-1
+وېشنيزه:امريکايي لرغونپوهان	Kategori:Amerikanska arkeologer
+کينډۍ:د هېواد مالومات تاجکستان	Mall:Landsdata Tadzjikistan
+وېشنيزه:آسيا	Kategori:Asien
+کينډۍ:Esoteric	Mall:Komplicerad kod
+کينډۍ:د هېواد مالومات کویټ	Mall:Landsdata Kuwait
+کينډۍ:Mod	Mall:Mod
+کينډۍ:ISO639-3Documentation	Mall:Språk/kodlista
+کينډۍ:د هېواد مالومات بلجيم	Mall:Landsdata Belgien
+کينډۍ:د هېواد مالومات سلواکيا	Mall:Landsdata Slovakien
+کينډۍ:د هېواد مالومات اېل سلوادور	Mall:Landsdata El Salvador
+کينډۍ:د هېواد مالومات پاناما	Mall:Landsdata Panama
+کينډۍ:د هېواد مالومات اېکوادور	Mall:Landsdata Ecuador
+کينډۍ:د هېواد مالومات اېتوپيا	Mall:Landsdata Etiopien
+کينډۍ:د هېواد مالومات تونېسيا	Mall:Landsdata Tunisien
+کينډۍ:د هېواد مالومات د چېک جمهوريت	Mall:Landsdata Tjeckien
+کينډۍ:د هېواد مالومات تايلنډ	Mall:Landsdata Thailand
+کينډۍ:د هېواد مالومات کيوبا	Mall:Landsdata Kuba
+کينډۍ:د هېواد مالومات اندونېزيا	Mall:Landsdata Indonesien
+کينډۍ:د هېواد مالومات کمبوډيا	Mall:Landsdata Kambodja
+کينډۍ:د هېواد مالومات سېنېگال	Mall:Landsdata Senegal
+کينډۍ:د هېواد مالومات ماداګاسکر	Mall:Landsdata Madagaskar
+کينډۍ:د هېواد مالومات البانيا	Mall:Landsdata Albanien
+وېشنيزه:درملپوهنه	Kategori:Farmakologi
+کينډۍ:د هېواد مالومات پېرو	Mall:Landsdata Peru
+کينډۍ:د هېواد مالومات پاراګوای	Mall:Landsdata Paraguay
+کينډۍ:د هېواد مالومات کېنيا	Mall:Landsdata Kenya
+کينډۍ:د هېواد مالومات نيکاراګوا	Mall:Landsdata Nicaragua
+کينډۍ:د هېواد مالومات هندوراس	Mall:Landsdata Honduras
+کينډۍ:د هېواد مالومات ازبکستان	Mall:Landsdata Uzbekistan
+کينډۍ:د هېواد مالومات بولېويا	Mall:Landsdata Bolivia
+کينډۍ:د هېواد مالومات د ډومينيکان جمهوريت	Mall:Landsdata Dominikanska republiken
+کينډۍ:د هېواد مالومات توگو	Mall:Landsdata Togo
+کينډۍ:د هېواد مالومات ګواتمالا	Mall:Landsdata Guatemala
+وېشنيزه:ژبپوهنه	Kategori:Lingvistik
+کينډۍ:د هېواد مالومات هايېتي	Mall:Landsdata Haiti
+کينډۍ:د هېواد مالومات مالي	Mall:Landsdata Mali
+کينډۍ:د هېواد مالومات مولدووا	Mall:Landsdata Moldavien
+کينډۍ:د هېواد مالومات لاتويا	Mall:Landsdata Lettland
+کينډۍ:د هېواد مالومات مالټا	Mall:Landsdata Malta
+کينډۍ:د هېواد مالومات ډېنمارک	Mall:Landsdata Danmark
+کينډۍ:د هېواد مالومات آيسلېنډ	Mall:Landsdata Island
+کينډۍ:د هېواد مالومات پولنډ	Mall:Landsdata Polen
+کينډۍ:د هېواد مالومات کېپ وردا	Mall:Landsdata Kap Verde
+کينډۍ:د هېواد مالومات بلغاريه	Mall:Landsdata Bulgarien
+کينډۍ:د هېواد مالومات بوسنيا او هېرزگوينا	Mall:Landsdata Bosnien och Hercegovina
+کينډۍ:د هېواد مالومات ګايانا	Mall:Landsdata Guyana
+کينډۍ:Wikivar	Mall:Wikivar
+کينډۍ:د هېواد مالومات ناروې	Mall:Landsdata Norge
+کينډۍ:د هېواد مالومات سوېلي افريقا	Mall:Landsdata Sydafrika
+کينډۍ:د هېواد مالومات جمايکا	Mall:Landsdata Jamaica
+کينډۍ:د هېواد مالومات ګورجستان	Mall:Landsdata Georgien
+کينډۍ:د هېواد مالومات ارجنټاين	Mall:Landsdata Argentina
+کينډۍ:د هېواد مالومات يوروګوای	Mall:Landsdata Uruguay
+کينډۍ:Country showdata	Mall:Land showdata
+کينډۍ:د هېواد مالومات ټرېنېډاډ او توباګو	Mall:Landsdata Trinidad och Tobago
+کينډۍ:د انځور نښه	Mall:Image label
+کينډۍ:د هېواد مالومات برونای	Mall:Landsdata Brunei
+کينډۍ:د هېواد مالومات سريلانکا	Mall:Landsdata Sri Lanka
+کينډۍ:د هېواد مالومات مکسيکو	Mall:Landsdata Mexiko
+کينډۍ:د هېواد مالومات یونان	Mall:Landsdata Grekland
+کينډۍ:د هېواد مالومات لوکسېمبورگ	Mall:Landsdata Luxemburg
+کينډۍ:د هېواد مالومات سعودي عربستان	Mall:Landsdata Saudiarabien
+کينډۍ:د هېواد مالومات بهاماس	Mall:Landsdata Bahamas
+کينډۍ:د هېواد مالومات کرواتيا	Mall:Landsdata Kroatien
+کينډۍ:د هېواد مالومات عراق	Mall:Landsdata Irak
+کينډۍ:ليکوال-مالوماتبکس/لاسوند	Mall:Författare
+کينډۍ:د هېواد مالومات متحده عرب امارات	Mall:Landsdata Förenade Arabemiraten
+کينډۍ:د هېواد مالومات ماروکو	Mall:Landsdata Marocko
+کينډۍ:د هېواد مالومات سربيا	Mall:Landsdata Serbien
+کينډۍ:د هېواد مالومات آسټراليا	Mall:Landsdata Australien
+کينډۍ:د هېواد مالومات فرانسه	Mall:Landsdata Frankrike
+کينډۍ:Ambox	Mall:Ambox
+کينډۍ:هېواد-مالوماتبکس	Mall:Landsfakta
+کينډۍ:د هېواد مالومات لاووس	Mall:Landsdata Laos
+کينډۍ:د هېواد مالومات اتريش	Mall:Landsdata Österrike
+کينډۍ:د هېواد مالومات نيپال	Mall:Landsdata Nepal
+کينډۍ:ترسره شو	Mall:Utfört
+کينډۍ:د هېواد مالومات فېنلاند	Mall:Landsdata Finland
+کينډۍ:Audio	Mall:Audio
+کينډۍ:د هېواد مالومات مصر	Mall:Landsdata Egypten
+کينډۍ:د هېواد مالومات لېتوانيا	Mall:Landsdata Litauen
+کينډۍ:د هېواد مالومات جاپان	Mall:Landsdata Japan
+کينډۍ:ساينسپوه-مالوماتبکس	Mall:Infobox forskare
+کينډۍ:پوهنتون مالوماتبکس/لاسوند	Mall:Universitet
+کينډۍ:د هېواد مالومات آذربايجان	Mall:Landsdata Azerbajdzjan
+کينډۍ:د فايرفاکس کارن	Mall:Användare Firefox
+کينډۍ:Ar	Mall:Lang-ar
+کينډۍ:د هېواد مالومات وېتنام	Mall:Landsdata Vietnam
+کينډۍ:Featured article	Mall:Utmärkt
+کينډۍ:د هېواد مالومات لېبيا	Mall:Landsdata Libyen
+کينډۍ:د هېواد مالومات روسیه	Mall:Landsdata Ryssland
+وېشنيزه:User en	Kategori:Användare en
+وېشنيزه:User en-2	Kategori:Användare en-2
+کينډۍ:مالوماتبکس	Mall:Faktamall
+کينډۍ:د ايران ولايتونه	Mall:Irans provinser
+کينډۍ:Navy	Mall:Flotta
+کينډۍ:د هېواد مالومات اېکواټوريال گوينا	Mall:Landsdata Ekvatorialguinea
+کينډۍ:User zh	Mall:Användare zh
+کينډۍ:Colorbox	Mall:Färglåda
+وېشنيزه:دوتر توکي	Kategori:Kontorsvaror
+کينډۍ:د هېواد مالومات اټاليا	Mall:Landsdata Italien
+کينډۍ:د المان ايالتي نقشه	Mall:Tysklands förbundsländer
+کينډۍ:User ru-4	Mall:Användare ru-4
+کينډۍ:د هېواد مالومات سويډن	Mall:Landsdata Sverige
+وېشنيزه:کرهڼه	Kategori:Jordbruk
+کينډۍ:User ru	Mall:Användare ru
+کينډۍ:نغا	Mall:IPA
+وېشنيزه:سياستوال	Kategori:Politiker
+وېشنيزه:امريکا	Kategori:Amerika
+کينډۍ:د هېواد مالومات کوسټاريکا	Mall:Landsdata Costa Rica
+کينډۍ:د هېواد مالومات هند	Mall:Landsdata Indien
+کينډۍ:د هېواد مالومات الجېريا	Mall:Landsdata Algeriet
+کينډۍ:د هېواد مالومات وېنېزوېلا	Mall:Landsdata Venezuela
+کينډۍ:د هېواد مالومات فيجي	Mall:Landsdata Fiji
+کينډۍ:Infobox Officeholder	Mall:Infobox politiker
+کينډۍ:د هېواد مالومات انډورا	Mall:Landsdata Andorra
+کينډۍ:د هېواد مالومات آنگولا	Mall:Landsdata Angola
+کينډۍ:د هېواد مالومات بوټسوانا	Mall:Landsdata Botswana
+کينډۍ:د هېواد مالومات اروپايي اتحاديه	Mall:Landsdata Europeiska unionen
+کينډۍ:Border	Mall:Border
+کينډۍ:د هېواد مالومات ډومنيکا	Mall:Landsdata Dominica
+کينډۍ:د هېواد مالومات پارتوګال	Mall:Landsdata Portugal
+کينډۍ:د هېواد مالومات واټيکان ښار	Mall:Landsdata Vatikanstaten
+کينډۍ:د هېواد مالومات چین	Mall:Landsdata Kina
+کينډۍ:د هېواد مالومات بېنين	Mall:Landsdata Benin
+کينډۍ:د هېواد مالومات د کانگو جمهوريت	Mall:Landsdata Republiken Kongo
+کينډۍ:ويکيسازنه	Mall:Ickewiki
+کينډۍ:د هېواد مالومات ترکيه	Mall:Landsdata Turkiet
+وېشنيزه:ليکوال	Kategori:Författare
+کينډۍ:د هېواد مالومات قبرس	Mall:Landsdata Cypern
+کينډۍ:د هېواد مالومات سويتزرلاند	Mall:Landsdata Schweiz
+کينډۍ:د هېواد مالومات فلېپين	Mall:Landsdata Filippinerna
+کينډۍ:د هېواد مالومات نايجېريا	Mall:Landsdata Nigeria
+کينډۍ:د هېواد مالومات آيرلنډ	Mall:Landsdata Vitryssland
+کينډۍ:د هېواد مالومات مالېزيا	Mall:Landsdata Malaysia
+کينډۍ:د هېواد مالومات ارمنستان	Mall:Landsdata Armenien
+کينډۍ:د هېواد مالومات زېمبابوې	Mall:Landsdata Zimbabwe
+کينډۍ:د هېواد مالومات ختيځ تېمور	Mall:Landsdata Östtimor
+وېشنيزه:تومانچې	Kategori:Pistoler
+کينډۍ:د هېواد مالومات ماينامار	Mall:Landsdata Myanmar
+کينډۍ:د هېواد مالومات قزاقستان	Mall:Landsdata Kazakstan
+کينډۍ:د هېواد مالومات چېلي	Mall:Landsdata Chile
+کينډۍ:د هېواد مالومات سلووېنيا	Mall:Landsdata Slovenien
+کينډۍ:د هېواد مالومات لبنان	Mall:Landsdata Libanon
+کينډۍ:د کتاب مالوماتبکس-1	Mall:Bokfakta
+وېشنيزه:اسلامي وييپانګه	Kategori:Ord och fraser på arabiska
+کينډۍ:د هېواد مالومات بهوټان	Mall:Landsdata Bhutan
+کينډۍ:Booland	Mall:Both
+وېشنيزه:څارګرې ادارې	Kategori:Underrättelseorgan
+کينډۍ:سورت	Mall:Suror
+کينډۍ:Lang-la	Mall:Lang-la
+کينډۍ:Lang-el	Mall:Lang-el
+محمد هاشم زماني	Mohammad Hashem Zamani
+وېشنيزه:اخلاق	Kategori:Etik
+د سره صليب نړيواله ټولنه	Internationella Rödakorskommittén
+وېشنيزه:چاودېدونكى مواد	Kategori:Sprängämnen
+کينډۍ:Mergefrom	Mall:Infoga från
+وېشنيزه:سولګر	Kategori:Datorer
+وېشنيزه:توکي	Kategori:Utrustning
+کينډۍ:MMAstatsbox	Mall:MMA-utövare
+وېشنيزه:پخوانی ژبې	Kategori:Utdöda språk
+وېشنيزه:User ja-N	Kategori:Användare ja-N
+تانبه:اسلام	Portal:Islam
+کينډۍ:Polytonic	Mall:Polytonic
+کينډۍ:تانبې گرځښتپټه	Mall:Browsebar
+کينډۍ:نامبهمېدنه	Mall:Förgrening
+وېشنيزه:اسرائیلي جوماتونه	Kategori:Moskéer i Israel
+وېشنيزه:د ایران امپراتورۍ او پاچاهۍ	Kategori:Persien
+وېشنيزه:پوځي الوتکې	Kategori:Stridsflygplan
+کينډۍ:Lang-grc	Mall:Lang-grc
+کينډۍ:د هېواد مالومات کوموروس	Mall:Landsdata Komorerna
+کينډۍ:د فلسفې سرليکونه	Mall:Filosofi navigation
+کينډۍ:Lang-pt	Mall:Lang-pt
+کينډۍ:د هېواد مالومات قطر	Mall:Landsdata Qatar
+کينډۍ:FRA	Mall:FRA
+کينډۍ:د هېواد مالومات اسرایل	Mall:Landsdata Israel
+کينډۍ:د هېواد مالومات اوکراين	Mall:Landsdata Ukraina
+کينډۍ:د هېواد مالومات کولمبيا	Mall:Landsdata Colombia
+کينډۍ:د هېواد مالومات ګانا	Mall:Landsdata Ghana
+کينډۍ:د هېواد مالومات رومانیا	Mall:Landsdata Rumänien
+کينډۍ:د هېواد مالومات سوېلي کوريا	Mall:Landsdata Sydkorea
+کينډۍ:Npov	Mall:POV
+کينډۍ:د هېواد مالومات بحرين	Mall:Landsdata Bahrain
+وېشنيزه:User ja	Kategori:Användare ja
+وېشنيزه:User ko-N	Kategori:Användare ko-N
+وېشنيزه:User ru-N	Kategori:Användare ru-N
+وېشنيزه:وختتېری	Kategori:Nöjen
+وېشنيزه:افغاني ټولنه	Kategori:Afghanistans samhälle
+وېشنيزه:تاريخپوهان	Kategori:Historiker
+وېشنيزه:User de	Kategori:Användare de
+وېشنيزه:User de-N	Kategori:Användare de-N
+کينډۍ:د افغانستان ولايتونه	Mall:Afghanistans provinser
+وېشنيزه:User en-3	Kategori:Användare en-3
+وېشنيزه:User en-N	Kategori:Användare en-N
+وېشنيزه:User fa	Kategori:Användare fa
+کينډۍ:N/A	Mall:N/a
+وېشنيزه:د اسلام پيغمبران	Kategori:Islamiska profeter
+کينډۍ:د هېواد مالومات برونډي	Mall:Landsdata Burundi
+کينډۍ:د هېواد مالومات جرمني	Mall:Landsdata Tyskland
+کينډۍ:د هېواد مالومات بريتانيه	Mall:Landsdata Storbritannien
+وېشنيزه:مېچپوهنه	Kategori:Geometri
+کينډۍ:د هېواد مالومات اېسټونيا	Mall:Landsdata Estland
+کينډۍ:Weather box	Mall:Klimattabell
+وېشنيزه:هنرمندان	Kategori:Konstnärer
+وېشنيزه:User ja-1	Kategori:Användare ja-1
+وېشنيزه:ژمنۍ لوبې	Kategori:Vintersport
+وېشنيزه:User ko	Kategori:Användare ko
+وېشنيزه:د امريکا د متحده ايالاتو ايالتونه	Kategori:USA:s delstater
+کينډۍ:Smallsup	Mall:Smallsup
+وېشنيزه:بانکوالی	Kategori:Bankväsen
+کينډۍ:د هېواد مالومات د عاج ساحل	Mall:Landsdata Elfenbenskusten
+وېشنيزه:د ایران ولایتونه	Kategori:Irans provinser
+وېشنيزه:User ru-1	Kategori:Användare ru-1
+وېشنيزه:مخدره مواد	Kategori:Droger
+وېشنيزه:اند	Kategori:Tänkande
+وېشنيزه:سياسي هڅوب	Kategori:Politisk kultur
+وېشنيزه:لمريز غونډال	Kategori:Solsystemet
+کينډۍ:د هېواد مالومات برازیل	Mall:Landsdata Brasilien
+وېشنيزه:مخترعين	Kategori:Uppfinnare
+وېشنيزه:سر او غاړه	Kategori:Huvud och hals
+کينډۍ:د هېواد مالومات سوازيلاند	Mall:Landsdata Swaziland
+وېشنيزه:ژوپوهنه	Kategori:Zoologi
+تانبه:دين	Portal:Religion
+وېشنيزه:هلیکوپترونه	Kategori:Helikoptrar
+وېشنيزه:ټولنيزې پوهنې	Kategori:Samhällsvetenskap
+کينډۍ:د هېواد مالومات هنګري	Mall:Landsdata Ungern
+وېشنيزه:د آفریقاهیوادونه	Kategori:Afrikas länder
+کينډۍ:د هېواد مالومات نيوزيلاند	Mall:Landsdata Nya Zeeland
+وېشنيزه:القاعده	Kategori:Al-Qaida
+وېشنيزه:User ro-3	Kategori:Användare ro-3
+وېشنيزه:User ru	Kategori:Användare ru
+وېشنيزه:User ru-2	Kategori:Användare ru-2
+وېشنيزه:User ru-3	Kategori:Användare ru-3
+وېشنيزه:User ru-4	Kategori:Användare ru-4
+کينډۍ:انبيا په قرآن كې	Mall:Profeter i Koranen
+کينډۍ:Lang	Mall:Lang
+کينډۍ:د هېواد مالومات ترکمنستان	Mall:Landsdata Turkmenistan
+وېشنيزه:د ۱۹۵۷ کال زېږېدنې	Kategori:Födda 1957
+کينډۍ:د هېواد مالومات سهېلي کوريا	Mall:Landsdata Nordkorea
+کينډۍ:د هېواد مالومات افغانستان	Mall:Landsdata Afghanistan
+کينډۍ:د هېواد مالومات بنگله دېش	Mall:Landsdata Bangladesh
+لوگر ولايت	Lowgar (provins)
+وېشنيزه:افغانان	Kategori:Afghaner
+وېشنيزه:بي بي سي	Kategori:BBC
+د آلمان دپاره آلترناتیف	Alternativ för Tyskland
+کينډۍ:د هېواد مالومات د کانگو ډيموکراتيک جمهوريت	Mall:Landsdata Demokratiska republiken Kongo
+کينډۍ:ICDO	Mall:ICDO
+وېشنيزه:اوبتلونه	Kategori:Ubåtar
+وېشنيزه:ماشیندارونه	Kategori:Kulsprutepistoler
+وېشنيزه:ليبيا	Kategori:Libyen
+وېشنيزه:افغاني رسنۍ	Kategori:Media i Afghanistan
+مجاور احمد زيار	Mujawar Ahmad Ziar
+وېشنيزه:په وچې پورې تړلي هیوادونه	Kategori:Kustlösa stater
+وېشنيزه:د افغانستان وټه	Kategori:Afghanistans ekonomi
+کينډۍ:Infobox Language/family-color	Mall:Språk/familj-färg
+کينډۍ:User ru-1	Mall:Användare ru-1
+کينډۍ:د هېواد مالومات بېلاز	Mall:Landsdata Belize
+کينډۍ:د هېواد مالومات کوسووا	Mall:Landsdata Kosovo
+کينډۍ:د هېواد مالومات ماورېتانيا	Mall:Landsdata Mauretanien
+کينډۍ:د هېواد مالومات ګابون	Mall:Landsdata Gabon
+کينډۍ:د هېواد مالومات جبوتي	Mall:Landsdata Djibouti
+کينډۍ:د هېواد مالومات آروبا	Mall:Landsdata Aruba
+کينډۍ:د هېواد مالومات سوډان	Mall:Landsdata Sudan
+کينډۍ:د هېواد مالومات چاډ	Mall:Landsdata Tchad
+وېشنيزه:روسي ساينسپوهان	Kategori:Ryska forskare
+وېشنيزه:بازارموندنه	Kategori:Marknadsföring
+وېشنيزه:د نړۍ هېوادونه	Kategori:Internationella relationer
+کينډۍ:د هېواد مالومات انټيگ او بربودا	Mall:Landsdata Antigua och Barbuda
+کينډۍ:د هېواد مالومات ګامبيا	Mall:Landsdata Gambia
+وېشنيزه:غږپوهنه	Kategori:Fonologi
+کينډۍ:د هېواد مالومات نامېبيا	Mall:Landsdata Namibia
+کينډۍ:Tnavbar-header	Mall:Navbar-header
+وېشنيزه:مالیه	Kategori:Finansväsen
+وېشنيزه:د افغانستان ولايتونه	Kategori:Afghanska provinser
+وېشنيزه:د چېک خلک	Kategori:Tjecker
+وېشنيزه:مرکزي بانکونه	Kategori:Centralbanker
+وېشنيزه:کيمياوي توکي	Kategori:Grundämnen
+وېشنيزه:امريکايي فيلسوفان	Kategori:Amerikanska filosofer
+وېشنيزه:ساينسپوهان	Kategori:Forskare
+وېشنيزه:سولګر ملتونونه	Kategori:Datorföretag
+وېشنيزه:د افغانستان پوځ	Kategori:Afghanistans militär
+وېشنيزه:سهېلي کوريا	Kategori:Nordkorea
+وېشنيزه:د ليبيا خلک	Kategori:Libyer
+وېشنيزه:د آسيا ارزونه	Kategori:Asiatiska valutor
+وېشنيزه:ايراني سیاستوال	Kategori:Iranska politiker
+وېشنيزه:د پاکستان سياستوال	Kategori:Pakistanska politiker
+کينډۍ:د هېواد مالومات بورکينا فاسو	Mall:Landsdata Burkina Faso
+کينډۍ:د هېواد مالومات د منځنۍ افريقا جمهوريت	Mall:Landsdata Centralafrikanska republiken
+وېشنيزه:خبريالي	Kategori:Journalistik
+وېشنيزه:اوزبکستان	Kategori:Uzbekistan
+وېشنيزه:عثماني پېر	Kategori:Osmanska riket
+وېشنيزه:افغاني ليکوال	Kategori:Afghanska författare
+کينډۍ:د هېواد مالومات سېچېلېس	Mall:Landsdata Seychellerna
+کينډۍ:د هېواد مالومات پاپوا نيوګوينا	Mall:Landsdata Papua Nya Guinea
+وېشنيزه:پاکستاني هېوادمشران	Kategori:Pakistans presidenter
+وېشنيزه:مېوې	Kategori:Frukter
+وېشنيزه:د اروپا سيمې	Kategori:Regioner i Europa
+وېشنيزه:د آسیا جغرافیا	Kategori:Asiens geografi
+وېشنيزه:جوماتونه	Kategori:Moskéer
+وېشنيزه:د ترکیې جوماتونه	Kategori:Moskéer i Turkiet
+وېشنيزه:دانټي رېټرووايرل درملونه	Kategori:Antiretrovirala läkemedel
+وېشنيزه:انتي بيوتيکونه	Kategori:Antibiotika
+وېشنيزه:مسکنونه	Kategori:Analgetika
+وېشنيزه:ددرمل شکل	Kategori:Beredningsformer
+وېشنيزه:د شمېرپوهنې ډګرونه	Kategori:Delområden inom matematik
+وېشنيزه:خبري اژانس	Kategori:Nyhetsbyråer
+وېشنيزه:بشرِی حقوق	Kategori:Mänskliga rättigheter
+تورن	Kapten (olika betydelser)
+وېشنيزه:ناټو	Kategori:Nato
+وېشنيزه:پوځي وييونه	Kategori:Militära termer och begrepp
+وېشنيزه:غړي	Kategori:Organ
+وېشنيزه:وسلې	Kategori:Vapen
+وېشنيزه:افغان سندرغاړي	Kategori:Afghanska sångare
+وېشنيزه:بم غورځونکي الوتکې	Kategori:Bombflygplan
+وېشنيزه:د بېټا-لاکټاماز انتي بيوتيکونه	Kategori:Beta-laktamantibiotika
+وېشنيزه:پاړسي ژبه	Kategori:Persiska
+وېشنيزه:اېډز	Kategori:HIV/AIDS
+وېشنيزه:قران	Kategori:Koranen
+وېشنيزه:ناروغۍ	Kategori:Sjukdomar
+وېشنيزه:ترافيک ترانسپورت	Kategori:Transport
+وېشنيزه:کورنۍ	Kategori:Familjeliv
+وېشنيزه:قضاء	Kategori:Rättvisa
+وېشنيزه:سندرغاړي	Kategori:Sångare
+وېشنيزه:وټپوهان	Kategori:Nationalekonomer
+کينډۍ:Flagcountry	Mall:Flaggbild2
+کينډۍ:د ژبې مالوماتبکس	Mall:Språk
+وېشنيزه:ځمکپوهان	Kategori:Geografer
+وېشنيزه:ولسواکي	Kategori:Demokrati
+وېشنيزه:درمل	Kategori:Läkemedel
+وېشنيزه:ټانکونه	Kategori:Stridsvagnar
+وېشنيزه:د آفریقا د هېوادونو پلازمېنې	Kategori:Afrikas huvudstäder
+وېشنيزه:ايراني هڅوب	Kategori:Kultur i Iran
+وېشنيزه:د رومانیا ښارونه	Kategori:Orter i Rumänien
+وېشنيزه:کراچۍ	Kategori:Karachi
+وېشنيزه:کابل	Kategori:Kabul
+وېشنيزه:د آسیا د هېوادونو پلازمېنې	Kategori:Asiens huvudstäder
+وېشنيزه:چېکي واکمنان	Kategori:Böhmens regenter
+وېشنيزه:د افغانستان ژبې	Kategori:Språk i Afghanistan
+وېشنيزه:هندوکش	Kategori:Hindukush
+وېشنيزه:هزاره ګان	Kategori:Hazarer
+وېشنيزه:شوبلې ضد وسلې	Kategori:Pansarvärnsrobotar
+وېشنيزه:افغاني ګوندونه	Kategori:Politiska partier i Afghanistan
+کينډۍ:د هېواد مالومات اسپانيا	Mall:Landsdata Spanien
+کينډۍ:دچينايي-لوبگراوسندرغاړي-مالوماتبکس	Mall:Kinesisk skådespelare och musiker
+کينډۍ:د هېواد مالومات کاناډا	Mall:Landsdata Kanada
+کينډۍ:د هېواد مالومات بربادوس	Mall:Landsdata Barbados
+کينډۍ:د هېواد مالومات ګرېنادا	Mall:Landsdata Grenada
+کينډۍ:د هېواد مالومات اردن	Mall:Landsdata Jordanien
+کينډۍ:د هېواد مالومات قرغزستان	Mall:Landsdata Kirgizistan
+کينډۍ:د هېواد مالومات لېسوتو	Mall:Landsdata Lesotho
+کينډۍ:د هېواد مالومات لايبېريا	Mall:Landsdata Liberia
+کينډۍ:د هېواد مالومات ملاوي	Mall:Landsdata Malawi
+کينډۍ:د هېواد مالومات مالديپ	Mall:Landsdata Maldiverna
+کينډۍ:د هېواد مالومات ماورېشوس	Mall:Landsdata Mauritius
+کينډۍ:د هېواد مالومات مغولستان	Mall:Landsdata Mongoliet
+کينډۍ:د هېواد مالومات نايجېر	Mall:Landsdata Niger
+کينډۍ:د هېواد مالومات فلسطين	Mall:Landsdata Palestina
+کينډۍ:د هېواد مالومات پورټو ريکو	Mall:Landsdata Puerto Rico
+کينډۍ:د هېواد مالومات راوانډا	Mall:Landsdata Rwanda
+کينډۍ:د هېواد مالومات سېراليون	Mall:Landsdata Sierra Leone
+کينډۍ:د هېواد مالومات سورينام	Mall:Landsdata Surinam
+کينډۍ:د هېواد مالومات سوريه	Mall:Landsdata Syrien
+کينډۍ:د هېواد مالومات سېنگاپور	Mall:Landsdata Singapore
+کينډۍ:د هېواد مالومات يوگانډا	Mall:Landsdata Uganda
+کينډۍ:د هېواد مالومات ونواتو	Mall:Landsdata Vanuatu
+کينډۍ:د هېواد مالومات يمن	Mall:Landsdata Jemen
+کينډۍ:د هېواد مالومات زېمبيا	Mall:Landsdata Zambia
+وېشنيزه:افغان جنګسالاران	Kategori:Afghanska krigsherrar
+کينډۍ:د هېواد مالومات اېرېتېريا	Mall:Landsdata Eritrea
+کينډۍ:رنگ مالوماتبکس	Mall:Färg infobox
+وېشنيزه:د آسیا هېوادونه	Kategori:Asiens länder
+کينډۍ:تصوف	Mall:Sufism
+کينډۍ:سياسي اندونه	Mall:Politiska ideologier
+وېشنيزه:مسافروړونکي الوتکې	Kategori:Passagerarflygplan
+کينډۍ:د هېواد مالومات عربي ټولنه	Mall:Landsdata Arabförbundet
+وېشنيزه:د القلوید مواد	Kategori:Alkaloider
+کينډۍ:د هېواد مالومات لوېديځه سحارا	Mall:Landsdata Västsahara
+کينډۍ:د هېواد مالومات د فالکلاند ټاپوان	Mall:Landsdata Falklandsöarna
+نومونپوهنه	Terminologi
+کينډۍ:د هېواد مالومات ګونې	Mall:Landsdata Guinea
+کينډۍ:د هېواد مالومات ګوينې بېساو	Mall:Landsdata Guinea-Bissau
+کينډۍ:وسله مالوماتبکس	Mall:Faktamall vapen
+کينډۍ:د هېواد مالومات آذربايجان-SSR	Mall:Landsdata Azerbajdzjanska SSR
+کينډۍ:غوږ شه	Mall:Lyssna
+وېشنيزه:د ساسانیانو حکمرانان	Kategori:Sasanidiska dynastin
+کينډۍ:د هېواد مالومات مقدونيه	Mall:Landsdata Makedonien
+وېشنيزه:بسونه	Kategori:Bussar
+وېشنيزه:تصوف	Kategori:Sufism
+وېشنيزه:ورکړېنې	Kategori:Skatter
+کينډۍ:د هېواد مالومات تانزانيا	Mall:Landsdata Tanzania
+وېشنيزه:ټراکټورونه	Kategori:Traktorer
+وېشنيزه:پاکستانی جنرالان	Kategori:Pakistanska generaler
+کينډۍ:د هېواد مالومات سوماليا	Mall:Landsdata Somalia
+وېشنيزه:پاکستاني جوماتونه	Kategori:Moskéer i Pakistan
+وېشنيزه:پښتو ژبه	Kategori:Pashto
+وېشنيزه:د چیک ولسمشران	Kategori:Tjeckiens presidenter
+وېشنيزه:قراني سورتونه	Kategori:Suror
+وېشنيزه:User en-1	Kategori:Användare en-1
+وېشنيزه:اسلامپوهان	Kategori:Islamologer
+ويکيپېډيا:ځان زده کړه (په ياد ولره)	Wikipedia:Kom ihåg
+دويم بريدمن	Underlöjtnant
+کينډۍ:Col-2	Mall:Booleq
+ټنک ولسوالۍ	Tank (distrikt)
+کينډۍ:Supranational European Bodies	Mall:Överstatliga europeiska organ
+کينډۍ:د بلوچستان ولسوالۍ (پاکستان)	Mall:Baluchistans administrativa indelning
+کينډۍ:د پنجاب ولسوالۍ (پاکستان)	Mall:Punjab Pakistan administrativa indelning
+کوکۍ	Dagfjärilar
+قيامت	Qiyamah
+درملتون	Apotek
+کينډۍ:Style/ril	Mall:Style/ril
+کينډۍ:Style/IPA	Mall:Style/IPA
+کينډۍ:Style/yid	Mall:Style/yid
+سوفيست	Sofister
+کينډۍ:Booleq/eq2	Mall:Booleq/eq2
+کينډۍ:د هېواد مالومات عمان	Mall:Landsdata Oman
+کينډۍ:د هېواد مالومات موزمبيق	Mall:Landsdata Moçambique
+کينډۍ:د هېواد مالومات کېمرون	Mall:Landsdata Kamerun
+Module:Roman	Modul:Roman
+Module:ConvertNumeric	Modul:ConvertNumeric
+Module:Factorization	Modul:Factorization
+ځانګړی:اوسني بدلونونه	Special:Senaste ändringar
+Module:Coordinates	Modul:Coordinates

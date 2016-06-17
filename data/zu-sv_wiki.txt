@@ -1,0 +1,786 @@
+IAfrika	Afrika
+IJapani	Japan
+IMelika Eningizimu	Sydamerika
+INoki	Norge
+INgilandi	England
+IsiKotilandi	Skottland
+IWelisi	Wales
+I-Ayilendi	Irland
+ISpeyini	Spanien
+IMelika	USA
+IFinlandi	Finland
+ISwidi	Sverige
+IDenimaki	Danmark
+IPolandi	Polen
+ILithuwaniya	Litauen
+ITaliya	Italien
+I-Ostriya	Österrike
+IGreki	Grekland
+ITheki	Turkiet
+IPhothugali	Portugal
+IYurobhu	Europa
+I-Eshiya	Asien
+IMelika Enyakatho	Nordamerika
+I-Antatika	Antarktis
+Wikipedia	Wikipedia
+Netherlands	Nederländerna
+New York (idolobha)	New York
+IBerlini	Berlin
+Ikhompiyutha	Dator
+Barack Obama	Barack Obama
+ILondon	London
+Ihhabhula	Äpple
+IParisi	Paris
+IMekisiko	Mexiko
+California	Kalifornien
+IKenya	Kenya
+I-Ithiopia	Etiopien
+IGana	Ghana
+Ibhubesi	Lejon
+IFulansi	Frankrike
+Isi-Esperanto	Esperanto
+Inja	Hund
+Umbuso Ohlangeneyo	Storbritannien
+Ikati	Katt
+IShayina	Kina
+IsiFulentshi	Franska
+IBrazili	Brasilien
+IRashiya	Ryssland
+Ulwandle	Hav
+IJalimani	Tyskland
+IBelarusi	Vitryssland
+IsiJalimani	Tyska
+I-Ayisilandi	Island
+UNkulunkulu	Gud
+I-Estoniya	Estland
+David Cameron	David Cameron
+USatureni	Saturnus
+George W. Bush	George W. Bush
+ILatviya	Lettland
+ITsheki	Tjeckien
+ISlovaki	Slovakien
+IVilnyusi	Vilnius
+IBulgariya	Bulgarien
+Azerbaijan	Azerbajdzjan
+IMalta	Malta
+Indolobha yaseVathikhani	Vatikanstaten
+USanti Marino	San Marino
+Belize	Belize
+Volkswagen	Volkswagen
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+IRiphabliki yaseNingizimu Afrika	Sydafrika
+IAljiriya	Algeriet
+IWarshawa	Warszawa
+Amanzi	Vatten
+Isi-Icelandic	Isländska
+ITshile	Chile
+Apple	Apple Inc.
+UVenusi	Venus
+U-Uranu	Uranus
+UNepetuni	Neptunus
+UPluto	Pluto
+Facebook	Facebook
+Ubuntu (uhlelo)	Ubuntu
+Imathemathiki	Matematik
+U2	U2
+ILatin	Latin
+ISerbiya	Serbien
+Inyanga	Månen
+I-Ostreliya	Australien
+Peru	Peru
+Mount Everest	Mount Everest
+Ilanga	Solen
+I-Osheaniya	Oceanien
+Uhlelo Lemihlaba YeLanga	Solsystemet
+Wikimedia Commons	Wikimedia Commons
+Football Club Internazionale Milano	FC Internazionale Milano
+Umculo	Musik
+IMoskwa	Moskva
+IsiTaliya	Italienska
+ITshedi	Tchad
+INyuzilandi	Nya Zeeland
+INdiya	Indien
+Ubuciko bomlomo	Saga
+IFiji	Fiji
+Venezuela	Venezuela
+I-Amsterdami	Amsterdam
+Isilwane	Djur
+IKolombiya	Colombia
+UbuBudha	Buddhism
+Umthofu	Koppar
+Leonardo da Vinci	Leonardo da Vinci
+Massachusetts	Massachusetts
+Guatemala	Guatemala
+Connecticut	Connecticut
+Hawaii	Hawaii
+Honduras	Honduras
+El Salvador	El Salvador
+I-Irani	Iran
+I-Iraki	Irak
+Costa Rica	Costa Rica
+Isreyili	Israel
+Panama	Panama
+IYemen	Jemen
+IsiPholisi	Polska
+Nicaragua	Nicaragua
+Florida	Florida
+Arizona	Arizona
+Utah	Utah
+IPakistani	Pakistan
+Sri Lanka	Sri Lanka
+Joseph Stalin	Josef Stalin
+I-YouTube	Youtube
+IViyetnami	Vietnam
+I-Afganistani	Afghanistan
+Igolide	Guld
+Bangladesh	Bangladesh
+IMali	Mali
+I-Angola	Angola
+ITanzania	Tanzania
+Central African Republic	Centralafrikanska republiken
+ITogo	Togo
+ITunisia	Tunisien
+IZambiya	Zambia
+IZimbabwe	Zimbabwe
+ISudan yaseNingizimu	Sydsudan
+IBenini	Benin
+IButswana	Botswana
+IBukhina Faso	Burkina Faso
+IBurundi	Burundi
+IsiKhomorosi	Komorerna
+IKongo	Kongo-Brazzaville
+IRiphabliki Labantu weKongo	Kongo-Kinshasa
+IJibuthi	Djibouti
+IGini Enkabazwe	Ekvatorialguinea
+I-Eritrea	Eritrea
+IGaboni	Gabon
+IGambia	Gambia
+IGini	Guinea
+IGini Bisawu	Guinea-Bissau
+Ugu Emhlophe	Elfenbenskusten
+IKamerooni	Kamerun
+IKhepi Vedhi	Kap Verde
+OSotho	Lesotho
+ILiberia	Liberia
+ILibiya	Libyen
+IMadagasika	Madagaskar
+IMalawi	Malawi
+IMoritaniya	Mauretanien
+IMorishisi	Mauritius
+IMorokho	Marocko
+IMozambiki	Moçambique
+INamibhiya	Namibia
+INayighe	Niger
+INigeria	Nigeria
+IYuganda	Uganda
+IRuwanda	Rwanda
+ISawu Tome noPhrinitshipeyi	São Tomé och Príncipe
+ISenegal	Senegal
+IsiSeyisheli	Seychellerna
+ISiera Liyoni	Sierra Leone
+ISomalia	Somalia
+ISudan	Sudan
+ISwazilandi	Swaziland
+Amazwe Ohlangeneyo	Förenta nationerna
+IPraha	Prag
+Isiliva	Silver
+Bill Clinton	Bill Clinton
+Usain Bolt	Usain Bolt
+John Lennon	John Lennon
+Wyoming	Wyoming
+Idaho	Idaho
+Washington (isifunda eMelika)	Washington (delstat)
+Nevada	Nevada
+Colorado	Colorado
+Chicago	Chicago
+Ama-Beatles	The Beatles
+IsiSpeyini	Spanska
+Virginia	Virginia
+New York Isifunda	New York (delstat)
+Maryland	Maryland
+Vladimir Lenin	Vladimir Lenin
+Pennsylvania	Pennsylvania
+I-Uetersen	Uetersen
+New Jersey	New Jersey
+Indiana	Indiana
+Texas	Texas
+ITokyo	Tokyo prefektur
+I-Athene	Aten
+IRiga	Riga
+IBhayibheli	Bibeln
+IHochiminh	Ho Chi Minh-staden
+True Jesus Church	The True Jesus Church
+IsiNgisi	Engelska
+IDonghoi	Dong Hoi
+Concepción, ITshile	Concepción, Chile
+IKiyevi	Kiev
+2000	2000
+2001	2001
+2012	2012
+2009	2009
+2013	2013
+2014	2014
+1991	1991
+1993	1993
+3 uJanuwali	3 januari
+Kurów	Kurów
+8 uFebruwari	8 februari
+1985	1985
+1981	1981
+1969	1969
+Paul McCartney	Paul McCartney
+S.S. Lazio	SS Lazio
+Ringo Starr	Ringo Starr
+George Harrison	George Harrison
+1968	1968
+25 uJuni	25 juni
+14 uJulayi	14 juli
+29 uJulayi	29 juli
+Ibhola	Fotboll
+29 uAgasti	29 augusti
+Michael Jackson	Michael Jackson
+17 uSepthemba	17 september
+5 uNovemba	5 november
+Algiers	Alger, Algeriet
+Amazon.com	Amazon.com
+IGaborone	Gaborone
+IHarara	Harare
+IPitoli	Pretoria
+Wikipedia:Sandbox	Wikipedia:Sandlådan
+Ilaptop	Bärbar dator
+Umfula	Flod
+Osasco	Osasco
+Curitiba	Curitiba
+Corbin Bleu	Corbin Bleu
+Category:Imathemathiki	Kategori:Matematik
+Euro	Euro
+IDola	Amerikansk dollar
+Celine Dion	Céline Dion
+IsiQongo	Huvudstad
+IsiPutukezi	Portugisiska
+1948	1948
+1958	1958
+IsiJapani	Japanska
+Ikhasi Elikhulu	Portal:Huvudsida
+ISaratov	Saratov
+Ikhilikithi	Cricket
+Umbhoxo	Rugby
+IKapa	Kapstaden
+ITheku	Durban
+Michelangelo	Michelangelo
+Pablo Picasso	Pablo Picasso
+Iziqhingi iKhaneli	Kanarieöarna
+Ceuta	Ceuta
+IMelilla	Melilla
+Category:Candidates for speedy deletion	Kategori:Snabbraderingar
+Ipiyano	Piano
+Category:Ukufunda umkhathi	Kategori:Astronomi
+IsiKrowati	Kroatiska
+IsiKhathalani	Katalanska
+UBudha	Buddha (titel)
+Iqoqo i-Afrika	Afrikanska unionen
+IBhange woMhlaba	Världsbanken
+Imvu	Tamfår
+IsiHolandi	Nederländska
+Ukuhumusha	Översättning
+IsiRashiya	Ryska
+Vladimir Putin	Vladimir Putin
+Yurobhu Idaladala	Europas historia
+1884	1884
+IsiShayina	Kinesiska
+Imvelo	Natur
+Winston Churchill	Winston Churchill
+Nelson Mandela	Nelson Mandela
+Category:Umculo	Kategori:Musik
+Icilongo	Trumpet
+Ikhofi	Kaffe
+Ubisi	Mjölk
+Intaba	Berg
+Miami, Florida	Miami
+IsiSwidishi	Svenska
+IsiTsheki	Tjeckiska
+IsiLatviya	Lettiska
+IsiLithuwaniya	Litauiska
+IsiGreki	Grekiska
+Iphengwini	Pingviner
+Ugenesis	Första Moseboken
+Isi-Indonesia	Indonesiska
+IsiHebheru	Hebreiska
+IPod	Ipod
+Martin Luther	Martin Luther
+Gerald Ford	Gerald Ford
+Richard Nixon	Richard Nixon
+Lyndon B. Johnson	Lyndon B. Johnson
+Michael Schumacher	Michael Schumacher
+Elizabeth II	Elizabeth II
+John F. Kennedy	John F. Kennedy
+Ronald Reagan	Ronald Reagan
+IsiZulu	Zulu (språk)
+Fernando Alonso	Fernando Alonso
+Category:Venezuela	Kategori:Venezuela
+Robert Mugabe	Robert Mugabe
+Ushizi	Ost
+Izambane	Potatis
+Imifino	Grönsaker
+Category:IBrazili	Kategori:Brasilien
+Ama-elementhi	Grundämne
+Isigubhu	Trumma
+Ukhamba	Krukmakeri
+Silvio Berlusconi	Silvio Berlusconi
+Abayizithulu	Dövhet
+Mona Lisa	Mona Lisa
+IsiXhosa	Xhosa
+IMac	Imac
+IsiOsithani	Occitanska
+IsiBhunu	Afrikaans
+Indlulamithi	Giraff
+Queen	Queen
+Freddie Mercury.	Freddie Mercury
+ICrailsheim	Crailsheim
+Vermont	Vermont
+IMayotte	Mayotte
+IRiyunion	Réunion
+Umakhalekhukhwini	Mobiltelefoni
+INhatrang	Nha Trang
+Rafael Correa	Rafael Correa
+Umfula Thames	Themsen
+Motorhead	Motörhead
+UKhisimusi	Jul
+Lady Gaga	Lady Gaga
+IVungtau	Vung Tau
+IPhasika	Påsk
+ILondon Kakhulu	Storlondon
+Idolobha weLondon	City of London
+Die Antwoord	Die Antwoord
+Inyamazane	Hjortdjur
+Iqhwa	Is
+IMoshchena	Mosjtjena
+Utamatisi	Tomat
+George H. W. Bush	George H.W. Bush
+IPaltoga	Paltoga
+Isichazamazwi	Ordbok
+Jimmy Carter	Jimmy Carter
+Inkondlo yesizwe	Nationalsång
+Avatar	Avatar (film)
+Upondo	Brittiskt pund
+Felidae	Kattdjur
+IDanang	Da Nang
+Canidae	Hunddjur
+Imvubu yolwandle	Sirendjur
+IMadira	Madeira
+University Niccolò Cusano	Università degli Studi Niccolò Cusano
+IMelika Wenkaba	Centralamerika
+Shaka	Shaka Zulu
+Pinnipedia	Sälar
+Avril Lavigne	Avril Lavigne
+IsiHawayi	Hawaiiska
+IsiSwazi	SiSwati
+Impophoma	Vattenfall
+Justin Bieber	Justin Bieber
+Ibhulonze	Brons
+IsiTswana	Setswana
+Ngolimi lwezandla	Teckenspråk
+IsiSuthu	Sesotho
+Rotterdam	Rotterdam
+Mošovce	Mošovce
+Shakira	Shakira
+IGoli	Johannesburg
+Isonto	Kyrkan
+Imitholoji lamaGreki	Grekisk mytologi
+I-eliki	Älg
+IsiNdebele	Sydndebele
+Rihanna	Rihanna
+Umoya ongcwele	Den Helige Ande
+Internet Movie Database	Internet Movie Database
+Arara	Arara
+IBloemfontein	Bloemfontein
+Inyamazane yase-Athiki	Ren
+Radio Studio 54 Network	Radio Studio 54 Network
+Porto Alegre	Porto Alegre
+Inkalankala	Krabbor
+God Save the Queen	God Save the Queen
+Iwalerosi	Valross
+Demi Lovato	Demi Lovato
+Ibhayisikobho	Biograf
+Castel Goffredo	Castel Goffredo
+The Star-Spangled Banner	The Star-Spangled Banner
+The Doors	The Doors
+John Cale	John Cale
+Nadine Gordimer	Nadine Gordimer
+Template:Commonscat	Mall:Commonscat
+Hans Holbein the Younger	Hans Holbein den yngre
+Isifo segciwane le-Ebola	Ebolafeber
+Category:Amafilimu	Kategori:Filmer
+Jacob Zuma	Jacob Zuma
+C. C. Catch	C.C. Catch
+Alla Pugatshova	Alla Pugatjova
+KwaZulu-Natal	KwaZulu-Natal
+African National Congress	African National Congress
+Selena Gomez	Selena Gomez
+Amaqanda	Ägg (livsmedel)
+Thabo Mbeki	Thabo Mbeki
+IHolandi	Holland (region)
+2001: A Space Odyssey	2001 – Ett rymdäventyr (film)
+The Velvet Underground	The Velvet Underground
+Marin County	Marin County
+Ibhayi	Port Elizabeth
+IKipi laseNtshonalanga	Västra Kapprovinsen
+Isayiklopsi	Cykloper
+The Last Supper	Nattvarden
+AmaZulu	Zulu
+KwaXhosa	Östra Kapprovinsen
+Brighton	Brighton
+Mpumalanga	Mpumalanga
+IKipi laseNyakatho	Norra Kapprovinsen
+IGauteng	Gauteng
+Limpopo	Limpopoprovinsen
+Frederik Willem de Klerk	F.W. de Klerk
+Kgalema Motlanthe	Kgalema Motlanthe
+Joan Miró	Joan Miró
+Nina Badrić	Nina Badrić
+Henri Rousseau	Henri Rousseau
+IFleyistata	Fristatsprovinsen
+T.A.T.u.	T.A.T.u.
+Nyakatho-Ntshonalanga	Nordvästprovinsen, Sydafrika
+University of London	University of London
+Syngman Rhee	Syngman Rhee
+David (Michelangelo)	David (staty)
+Boris Johnson	Boris Johnson
+Ostankino Tower	Ostankinotornet
+IRandi	Rand (valuta)
+Pietermaritzburg	Pietermaritzburg
+Chang Myon	Chang Myon
+Lou Reed	Lou Reed
+Transvaal Province	Transvaal
+Plazas de soberanía	Plazas de soberanía
+Izifundazwe zaseNingizimu Afrika	Sydafrikas provinser
+Yun Bo-seon	Yun Bo-seon
+Insindiso	Frälsning
+Umbuso waseNingizimu Afrika	Sydafrikanska unionen
+Banovci (Nijemci)	Banovci
+Oscar Pistorius	Oscar Pistorius
+Freshlyground	Freshlyground
+IMito	Mito
+University La Sapienza	La Sapienza
+Bhisho	Bhisho
+Steve Biko	Steve Biko
+The Vitruvian Man	Vitruvianske mannen
+Soweto	Soweto
+Alexa Internet	Alexa Internet
+Nkosi Sikelel' iAfrika	Sydafrikas nationalsång
+Ingelosi	Ängel
+Pietà (Michelangelo)	Pietà (Michelangelo)
+Julie Newmar	Julie Newmar
+OpenSolaris	Opensolaris
+Impalampala	Sabelantilop
+Hugh Masekela	Hugh Masekela
+Ladysmith Black Mambazo	Ladysmith Black Mambazo
+Trevor Jones	Trevor Jones
+Umongameli waseNingizimu Afrika	Lista över Sydafrikas statschefer
+Lacey Duvalle	Lacey Duvalle
+Marjorie Estiano	Marjorie Estiano
+Jan van Riebeeck	Jan van Riebeeck
+Of Montreal	Of Montreal
+Maurice Sendak	Maurice Sendak
+Alex Sparrow	Aleksej Vorobjov
+Teamgeist	+Teamgeist
+James Deen	James Deen
+Lucky Dube	Lucky Dube
+Cetshwayo	Cetshwayo kaMpande
+Nyomi Banxxx	Nyomi Banxxx
+Sara Takanashi	Sara Takanashi
+Dingane	Dingane kaSenzangakhona
+Paramore	Paramore
+Izinkundla	Stadium
+Himno Nacional de Chile	Himno nacional de Chile
+Ron Jeremy	Ron Jeremy
+Vereeniging	Vereeniging
+University of the Witwatersrand	University of the Witwatersrand
+Angus MacLise	Angus MacLise
+Johnny Clegg	Johnny Clegg
+Indluzele	Hartebeest
+Igogo	Klippspringare
+University of South Africa	University of South Africa
+The Weather Girls	Weather Girls
+Mpande	Mpande kaSenzangakhona
+Khayelitsha	Khayelitsha
+Jonava	Jonava
+Inxala	Råbocksantilop
+Abantu abansundu	Svart (hudfärg)
+Dinizulu	Dinuzulu kaCetshwayo
+Boksburg	Boksburg
+Londinium	Londinium
+Pornhub	Pornhub
+IsiNguni	Ngunispråk
+Julius Malema	Julius Malema
+Enoch Sontonga	Enoch Sontonga
+Tiburon	Tiburon, Kalifornien
+Mvezo	Mvezo
+Vrahovice	Vrahovice
+Internet Adult Film Database	Internet Adult Film Database
+Cyril Ramaphosa	Cyril Ramaphosa
+University of Sussex	University of Sussex
+The Ambassadors (Holbein)	Ambassadörerna
+Jelena Rozga	Jelena Rozga
+Agnes Monica	Agnes Monica
+Pornopedia	Pornopedia
+Category:IJalimani	Kategori:Tyskland
+Category:IMelika	Kategori:USA
+Category:IRashiya	Kategori:Ryssland
+Category:Umbuso Ohlanganeyo	Kategori:Storbritannien
+Category:IJapani	Kategori:Japan
+Category:IMekisiko	Kategori:Mexiko
+Category:Ningizimu Afrika	Kategori:Sydafrika
+Izilimi zaseNingizimu Afrika	Språk i Sydafrika
+Category:IPolandi	Kategori:Polen
+Category:IPhothugali	Kategori:Portugal
+Category:IViyetnamu	Kategori:Vietnam
+Category:Umdlalo	Kategori:Sport
+Category:ISayensi	Kategori:Vetenskap
+Category:Ubefa 2012	Kategori:Avlidna 2012
+Rhomani	Romerska riket
+Category:Ububudha	Kategori:Buddhism
+Category:Ubukrestu	Kategori:Kristendom
+University of Fort Hare	University of Fort Hare
+ǀXam	ǀXam
+IBaria	Ba Ria
+Solomon kaDinizulu	Solomon kaDinuzulu
+Category:Stubs	Kategori:Stubbar
+Category:Amazwekazi	Kategori:Världsdelar
+Edmond Debeaumarché	Edmond Debeaumarché
+Portal:Umculo	Portal:Musik
+Venus and Amor	Venus och Amor
+Fernanda Vasconcellos	Fernanda Vasconcellos
+Template:Succession box	Mall:Succession box
+Category:Amabhendi	Kategori:Musikgrupper
+Idutywa	Idutywa
+Category:Izwe	Kategori:Världens länder
+Wikipedia:Administrators	Wikipedia:Administratörer
+Wikipedia:Requests for adminship	Wikipedia:Ansökan om administrativ behörighet
+Category:Internet	Kategori:Internet
+Wikipedia:Vital 100	Wikipedia:100 viktiga artiklar
+IGibhithe	Egypten
+Template:Bot	Mall:Bot
+IKhanada	Kanada
+Category:ITsheki	Kategori:Tjeckien
+Category:IEstoniya	Kategori:Estland
+Category:ILatviya	Kategori:Lettland
+Category:ILithuwaniya	Kategori:Litauen
+Category:ISwidi	Kategori:Sverige
+Category:ISlovakiya	Kategori:Slovakien
+Izulu	Himmelriket
+Category:IBerlin	Kategori:Berlin
+Category:IYurophu	Kategori:Europa
+Template:Documentation	Mall:Dokumentation
+Template:Softredirect	Mall:Mjuk omdirigering
+Template:Delete	Mall:Radera
+Category:Ulimi	Kategori:Språk
+Wikipedia:Statistics	Wikipedia:Statistik
+Template:Navbox	Mall:Navbox
+Portrait of Sir Thomas More (Holbein)	Porträtt av Sir Thomas More
+Category:Abantu baphilile	Kategori:Levande personer
+Template:!	Mall:!
+Template:Clear	Mall:Clear
+Template:Col-break	Mall:Col-break
+Template:Col-begin	Mall:Col-begin
+Template:Col-end	Mall:Col-end
+Template:Trim	Mall:Str trim
+Template:Nowrap	Mall:Nowrap
+Wikipedia:Vital articles	Wikipedia:Artiklar som bör finnas på Wikipedia
+Category:IAfrika	Kategori:Afrika
+Template:Babel	Mall:Babel
+Template:Commons	Mall:Commons
+Template:Stub	Mall:Stub
+Template:See also	Mall:Se även
+Template:User de	Mall:Användare de
+Template:User es	Mall:Användare es
+Template:User en-2	Mall:Användare en-2
+Template:User en	Mall:Användare en
+Template:User fr-1	Mall:Användare fr-1
+Template:User sk	Mall:Användare sk
+Template:User fr-2	Mall:Användare fr-2
+Category:Izilimi zaseNingizimu Afrika	Kategori:Språk i Sydafrika
+Category:Izilimi weNamibhiya	Kategori:Språk i Namibia
+Category:IAshiya	Kategori:Asien
+Category:IMelika eNingizimu	Kategori:Sydamerika
+Template:Mod	Mall:Mod
+Template:SIL	Mall:Språk/kodlista
+Template:Infobox football club	Mall:Lagfakta
+Template:Welcome	Mall:Nybörjare
+Template:Country data BEL	Mall:Landsdata Belgien
+Template:Football kit	Mall:Fotbollkit
+Template:Country data South Africa	Mall:Landsdata Sydafrika
+Template:Official website	Mall:Officiell webbplats
+Category:Izinkondlo zamazwe	Kategori:Nationalsånger
+Template:Country data Egypt	Mall:Landsdata Egypten
+Template:Nom	Mall:Nom2
+Template:Cite journal	Mall:Tidskriftsref
+Template:Wikibooks	Mall:Wikibooks
+Template:S-aft	Mall:S-aft
+Category:IParisi	Kategori:Paris
+Category:User en	Kategori:Användare en
+Category:User en-2	Kategori:Användare en-2
+Template:Infobox	Mall:Faktamall
+Template:Template other	Mall:Mall annan
+Template:Legend	Mall:Legend
+Template:Lang-bg	Mall:Lang-bg
+Template:Cite web	Mall:Webbref
+Template:Country data	Mall:Landsdata
+Template:Won	Mall:Vinst
+Template:Min	Mall:Lägsta
+Template:Wiktionary	Mall:Wiktionary
+Category:Abongameli yamazwe	Kategori:Presidenter
+Category:Language user templates	Kategori:Babelmallar
+Template:Country data Algeria	Mall:Landsdata Algeriet
+Template:List of African capitals	Mall:Huvudstäder i Afrika
+Template:Infobox ethnic group	Mall:Folkgrupp
+Template:Country data Venezuela	Mall:Landsdata Venezuela
+Template:Allmusic	Mall:Allmusic
+Template:Country data Botswana	Mall:Landsdata Botswana
+Template:Infobox model	Mall:Infobox fotomodell
+Category:Abafileyo 1884	Kategori:Avlidna 1884
+Template:Country data China	Mall:Landsdata Kina
+Template:Country data SUI	Mall:Landsdata Schweiz
+Template:Country data Zimbabwe	Mall:Landsdata Zimbabwe
+Template:Country data Taiwan	Mall:Landsdata Taiwan
+Template:Increase	Mall:Öka
+Template:Infobox website	Mall:Infobox webbplats
+Template:Image label end	Mall:Image label end
+Template:Myspace	Mall:Myspace
+Template:Female adult bio	Mall:Porraktör
+Template:Lang-af	Mall:Lang-af
+Template:NASDAQ	Mall:Nasdaq
+Template:Image label small	Mall:Image label small
+Template:S-ttl	Mall:S-ttl
+Template:S-bef	Mall:S-bef
+Template:Lang-ru	Mall:Lang-ru
+Template:Resize	Mall:Resize
+Template:Lang-nl	Mall:Lang-nl
+Template:Country data Israel	Mall:Landsdata Israel
+Template:Country data South Korea	Mall:Landsdata Sydkorea
+Category:Amadolobha e-Netherlands	Kategori:Orter i Nederländerna
+Template:Citation/make link	Mall:Link
+Category:User sk	Kategori:Användare sk
+Category:User sk-N	Kategori:Användare sk-N
+Category:User en-N	Kategori:Användare en-N
+Template:N/a	Mall:N/a
+Template:Country data United Kingdom	Mall:Landsdata Storbritannien
+Category:Izifunda weMelika	Kategori:USA:s delstater
+Wikipedia:Babel	Wikipedia:Babel
+Category:Umlando idaladala	Kategori:Antiken
+Category:INgilandi	Kategori:England
+Template:Lang-it	Mall:Lang-it
+Template:Country data Brazil	Mall:Landsdata Brasilien
+Template:Title without disambig	Mall:Exkludera särskiljning
+Category:Amazwe eAfrika	Kategori:Afrikas länder
+Category:Ubezalwa ngo-1452	Kategori:Födda 1452
+Category:User ru	Kategori:Användare ru
+Category:User ru-3	Kategori:Användare ru-3
+Category:Abongameli yaseNingizimu Afrika	Kategori:Sydafrikas presidenter
+Category:Ubefa ngo-1519	Kategori:Avlidna 1519
+Category:Ubezalwa ngo-1676	Kategori:Födda 1676
+Template:En icon	Mall:En ikon
+Template:Lang	Mall:Lang
+Category:Abapendi	Kategori:Målare
+Category:Ubezalwa ngo-1483	Kategori:Födda 1483
+Category:Ubezalwa ngo-1844	Kategori:Födda 1844
+Category:Ubezalwa ngo-1873	Kategori:Födda 1873
+Category:Ubezalwa 1928	Kategori:Födda 1928
+Category:Ubezalwa ngo-1961	Kategori:Födda 1961
+Category:Ubezalwa ngo-1972	Kategori:Födda 1972
+Template:Allow wrap	Mall:Allow wrap
+Template:Twitter	Mall:Twitter
+Category:Abafileyo 1745	Kategori:Avlidna 1745
+Category:Ubefa ngo-1749	Kategori:Avlidna 1749
+Category:Abafileyo 1781	Kategori:Avlidna 1781
+Template:Main	Mall:Huvudartikel
+Category:New York Isifunda	Kategori:Delstaten New York
+Category:Hawaii	Kategori:Hawaii
+Template:IAFD name	Mall:IAFD namn
+Category:Felidae	Kategori:Kattdjur
+Category:IBenini	Kategori:Benin
+Category:Ugu Emhlophe	Kategori:Elfenbenskusten
+Template:Citation/core	Mall:Citation/core
+Category:Abafileyo 1816	Kategori:Avlidna 1816
+Category:Abafileyo 1828	Kategori:Avlidna 1828
+Category:Abafileyo 1840	Kategori:Avlidna 1840
+Category:Abafileyo 1872	Kategori:Avlidna 1872
+Category:Ubefa ngo-1905	Kategori:Avlidna 1905
+Category:Ubefa ngo-1910	Kategori:Avlidna 1910
+Category:Abafileyo 1913	Kategori:Avlidna 1913
+Category:Abafileyo 1968	Kategori:Avlidna 1968
+Category:Abafileyo 2000	Kategori:Avlidna 2000
+Category:2001	Kategori:2001
+Category:2009	Kategori:2009
+Category:IZimbabwe	Kategori:Zimbabwe
+Template:Unbulleted list	Mall:Unbulleted list
+Category:Ababhali womculo baseFulansi	Kategori:Franska kompositörer
+Category:AbAfrika baseningizimu	Kategori:Sydafrikaner
+Category:Izintatheli isiNgisi	Kategori:Brittiska journalister
+Category:Abafileyo 1933	Kategori:Avlidna 1933
+Category:IRhomani idaladala	Kategori:Antikens Rom
+AbeLungu	Kaukasisk ras
+Category:Abongameli weMelika	Kategori:USA:s presidenter
+Category:Amazwe Caribbean	Kategori:Västindiens länder
+Category:Amazwe e-Osheaniya	Kategori:Oceaniens länder
+Category:Amazwe eMelika Enyakatho	Kategori:Nordamerikas länder
+Paradise Cay	Paradise Cay
+Category:Izithelo	Kategori:Frukter
+Category:Amafilimu waseNingizimu Afrika	Kategori:Sydafrikanska filmer
+Category:Uhambo amafu	Kategori:Rymdfart
+Category:Izilimi weBotswana	Kategori:Språk i Botswana
+Category:ILondon	Kategori:London
+Category:Isilwane	Kategori:Djur
+Category:Amazwe eMelika eNingizimu	Kategori:Sydamerikas länder
+Category:Amakoloni weSpeyini edlulile	Kategori:Tidigare spanska besittningar
+Category:IMelika Wenkaba	Kategori:Centralamerika
+Template:MedalCompetition	Mall:MedaljTävling
+Category:Amadolobha eRiphabliki yaseNingizimu Afrika	Kategori:Orter i Sydafrika
+Category:Imidwebo nga-Leonardo da Vinci	Kategori:Målningar av Leonardo da Vinci
+Category:Afrika Enyakatho	Kategori:Nordafrika
+Category:Afrika Empumalanga	Kategori:Östafrika
+Category:IMelika Enyakatho	Kategori:Nordamerika
+Category:Ezingcolile ifilimu abadlali	Kategori:Porrskådespelare
+Category:I-Osheaniya	Kategori:Oceanien
+Category:Amabhendi weMzansi	Kategori:Sydafrikanska musikgrupper
+The Prodigy	The Prodigy
+Category:Izilimi weZimbabwe	Kategori:Språk i Zimbabwe
+Category:IGoli	Kategori:Johannesburg
+Category:Iziqongo eyurobhu	Kategori:Europas huvudstäder
+Portal:Izilwane	Portal:Djur
+Category:Izinyuvesi weNingizimu Afrika	Kategori:Universitet och högskolor i Sydafrika
+Template:Lang-pl	Mall:Lang-pl
+Category:Zulu kings	Kategori:Zulukungar
+Trojany	Trojany
+Template:Lang-oc	Mall:Lang-oc
+Template:Lang-gd	Mall:Lang-gd
+Template:IPA audio link	Mall:IPA audio link
+Category:Vilnius	Kategori:Vilnius
+Template:Sister	Mall:Interwikimall
+Category:Amazwe eMelika Wenkaba	Kategori:Centralamerikas länder
+Category:Iziqhingi we-Afrika	Kategori:Afrikas öar
+Category:Izinhlobo	Kategori:Människoraser
+Category:Izilimi seSotho-seTswana	Kategori:Sotho-Tswanaspråk
+Category:Abadlali wama-Beatles	Kategori:Medlemmar i The Beatles
+Template:Image label begin	Mall:Image label begin
+Category:Amadolobha	Kategori:Städer
+Category:Ubezalwa ngo-1946	Kategori:Födda 1946
+Category:Ubezalwa ngo-1924	Kategori:Födda 1924
+Category:Ukuzala ngo-1964	Kategori:Födda 1964
+Template:Frac	Mall:Frac
+Template:Start date	Mall:Startdatum
+Module:Footnotes	Modul:Footnotes
+Template:Wayback	Mall:Wayback
+Template:Discogs artist	Mall:Discogs artist
+Template:S-ach	Mall:Successionsbox utmärkelser
+Template:S-inc	Mall:S-inc
+Template:Longitem	Mall:Longitem
+Template:Dec to frac	Mall:Decimaltal till bråktal
+Template:Birth year and age	Mall:Födelseår och ålder
+Template:Style/IPA	Mall:Style/IPA
+Template:Style/yid	Mall:Style/yid
+Module:Yesno	Modul:Yesno
+Module:Arguments	Modul:Arguments
+Special:RecentChanges	Special:Senaste ändringar
+Module:Math	Modul:Math
+Tiffany Mason	Tiffany Mason

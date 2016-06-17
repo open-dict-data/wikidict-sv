@@ -1,0 +1,1602 @@
+Africa	Afrika
+Japan	Japan
+South America	Sydamerika
+Norway	Norge
+Scotland	Skottland
+Wales	Wales
+Ireland	Irland
+Hungary	Ungern
+Spain	Spanien
+United States of America	USA
+Belgium	Belgien
+Luxembourg	Luxemburg
+Rudunhumwe	Universum
+Rinopasi	Jorden
+Finland	Finland
+Sweden	Sverige
+Denmark	Danmark
+Poland	Polen
+Lithuania	Litauen
+Italy	Italien
+Switzerland	Schweiz
+Austria	Österrike
+Greece	Grekland
+Turkey	Turkiet
+Doro	Öl
+Portugal	Portugal
+Europe	Europa
+Asia	Asien
+North America	Nordamerika
+Netherlands	Nederländerna
+Mboro	Penis
+Washington, DC	Washington, D.C.
+Bern	Bern
+Uruguay	Uruguay
+London	London
+Cairo	Kairo
+Alexandria	Alexandria
+Paris	Paris
+Mexico	Mexiko
+Gungwa reAtlantic	Atlanten
+Gungwa rePacific	Stilla havet
+Muvhuro	Måndag
+Kenya	Kenya
+Ethiopia	Etiopien
+Ghana	Ghana
+Gunyana	September
+Chipiri	Tisdag
+Chitatu	Onsdag
+China (Musi)	Torsdag
+Chishanu (musi)	Fredag
+Mugovera	Lördag
+Svondo (musi)	Söndag
+Shumba	Lejon
+France	Frankrike
+Imbwa	Hund
+United Kingdom	Storbritannien
+Katsi	Katt
+China (nyika)	Kina
+Hove	Fiskar
+Brazil	Brasilien
+Russian Federation	Ryssland
+Skweya	Kvadrat
+Germany	Tyskland
+Belarus	Vitryssland
+Iceland	Island
+Mwari	Gud
+Estonia	Estland
+Ndege	Flygplan
+Hondo	Krig
+Motsi	1 (tal)
+Piri	2 (tal)
+Tatu	3 (tal)
+China	4 (tal)
+Shanu	5 (tal)
+Chipasina	0 (tal)
+Ruramamakonyo	Rektangel
+Rurama (pimanyika)	Rät vinkel
+Latvia	Lettland
+Ukraine	Ukraina
+Czechia	Tjeckien
+Slovakia	Slovakien
+Slovenia	Slovenien
+Vilnius	Vilnius
+Moldova	Moldavien
+Romania	Rumänien
+Bulgaria	Bulgarien
+Rome	Rom
+Macedonia	Makedonien
+Albania	Albanien
+Croatia	Kroatien
+Bosnia and Herzegovina	Bosnien och Hercegovina
+Azerbaijan	Azerbajdzjan
+Andorra	Andorra
+Cyprus	Cypern
+Georgia	Georgien
+Kazakhstan	Kazakstan
+Malta	Malta
+Monaco	Monaco
+Montenegro	Montenegro
+Vatican City	Vatikanstaten
+San Marino	San Marino
+Brussels	Bryssel (region)
+Cuba	Kuba
+Belize	Belize
+Barbados	Barbados
+Indonesia	Indonesien
+South Africa	Sydafrika
+Algeria	Algeriet
+Uzbekistan	Uzbekistan
+Tashkent	Tasjkent
+Warsaw	Warszawa
+Mvura	Vatten
+Dehwe	Läder
+Chile	Chile
+Nhoroondo	Historia
+Mutauro	Språk
+Zvechadenga	Astronomi
+Singapore	Singapore
+Liechtenstein	Liechtenstein
+Hondo yePasirose yeChiposhi	Första världskriget
+Hondo yePasirose yeChipiri	Andra världskriget
+Skopje	Skopje
+Masvomhu	Matematik
+Bahrain	Bahrain
+Armenia	Armenien
+Serbia	Serbien
+Mwedzi (mutumbi)	Månen
+Australia	Australien
+Fundoyetsimba	Fysik
+Argentina	Argentina
+Peru	Peru
+Ketaupenyu	Biologi
+North Korea	Nordkorea
+Cambodia	Kambodja
+Ketamhuka	Zoologi
+Islam	Islam
+Ljubljana	Ljubljana
+Rugare	Fred
+Mukadzi	Kvinna
+Sofia	Sofia
+Husimbe	Indolens
+Nyemwerera	Leende
+Milan	Milano
+Dhodhi	Avföring
+Mukosho	Analöppning
+Ruva	Blomma
+Guta	Stad
+Nyenyedzi	Stjärna
+Zuva	Solen
+Dandira reMushana	Solsystemet
+Bhuku	Bok
+Musi	Dygn
+East Timor	Östtimor
+Husiku	Natt
+Gore	År
+Mwaka wechizana	Sekel
+Oslo	Oslo
+Lisbon	Lissabon
+Nyeredzi	Planet
+Mimhanzi	Musik
+Moscow	Moskva
+Chad	Tchad
+Maodzanyemba	Norr
+New Zealand	Nya Zeeland
+Chamhembe	Söder
+India	Indien
+Tuvalu	Tuvalu
+Tonga	Tonga
+Madokero	Väster
+Samoa	Samoa
+Mabvazuva	Öster
+Solomon Islands	Salomonöarna
+Vanuatu	Vanuatu
+Papua New Guinea	Papua Nya Guinea
+Palau	Palau
+Nauru	Nauru
+Federated States of Micronesia	Mikronesiens federerade stater
+Marshall Islands	Marshallöarna
+Kiribati	Kiribati
+Mongolia	Mongoliet
+Fiji	Fiji
+Venezuela	Venezuela
+Bhiza	Häst
+Amsterdam	Amsterdam
+Zvombo	Vapen
+Mhuka	Djur
+Suriname	Surinam
+Paraguay	Paraguay
+Guyana	Guyana
+Ecuador	Ecuador
+Colombia	Colombia
+Bolivia	Bolivia
+Trinidad and Tobago	Trinidad och Tobago
+Madzinde	Växt
+Saint Vincent and the Grenadines	Saint Vincent och Grenadinerna
+Zeng'e	Zink
+Saint Lucia	Saint Lucia
+Saint Kitts and Nevis	Saint Kitts och Nevis
+Jamaica	Jamaica
+Grenada	Grenada
+Guatemala	Guatemala
+The Bahamas	Bahamas
+Huku	Tamhöna
+Antigua and Barbuda	Antigua och Barbuda
+Honduras	Honduras
+Dominica	Dominica
+Dominican Republic	Dominikanska republiken
+Nguruve	Gris
+Haiti	Haiti
+El Salvador	El Salvador
+Iran	Iran
+Iraq	Irak
+Costa Rica	Costa Rica
+Israel	Israel
+Panama	Panama
+Yemen	Jemen
+Jordan	Jordanien
+Nicaragua	Nicaragua
+Florida	Florida
+Kyrgyzstan	Kirgizistan
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Libanon
+Maldives	Maldiverna
+America (dzose)	Amerika
+Malaysia	Malaysia
+Burma	Burma
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudi Arabia	Saudiarabien
+Sri Lanka	Sri Lanka
+Syria	Syrien
+Tajikistan	Tadzjikistan
+Taiwan	Taiwan
+Thailand	Thailand
+Chitima	Tåg
+Turkmenistan	Turkmenistan
+United Arab Emirates	Förenade Arabemiraten
+Vietnam	Vietnam
+South Korea	Sydkorea
+Afghanistan	Afghanistan
+Muronga Suez Canal	Suezkanalen
+Bangladesh	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Tanzania	Tanzania
+Philippines	Filippinerna
+Central African Republic	Centralafrikanska republiken
+Isaac Newton	Isaac Newton
+Togo	Togo
+Tunisia	Tunisien
+Zambia (nyika)	Zambia
+Zimbabwe	Zimbabwe
+Beijing	Peking
+South Sudan	Sydsudan
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Comoros	Komorerna
+Republic of the Congo	Kongo-Brazzaville
+Democratic Republic of the Congo	Kongo-Kinshasa
+Djibouti	Djibouti
+Equatorial Guinea	Ekvatorialguinea
+Eritrea	Eritrea
+New Delhi	New Delhi
+Tbilisi	Tbilisi
+Mucheche	Spädbarn
+Gabon	Gabon
+Gambia	Gambia
+Guinea	Guinea
+Guinea-Bissau	Guinea-Bissau
+Côte d'Ivoire	Elfenbenskusten
+Cameroon	Kamerun
+Cape Verde	Kap Verde
+Lesotho	Lesotho
+Liberia	Liberia
+Libya	Libyen
+Madagascar	Madagaskar
+Malawi	Malawi
+Mauritania	Mauretanien
+Mauritius	Mauritius
+Morocco	Marocko
+Mozambique	Moçambique
+Namibia	Namibia
+Niger	Niger
+Nigeria	Nigeria
+Uganda	Uganda
+Rwanda	Rwanda
+Sao Tome and Principe	São Tomé och Príncipe
+Senegal	Senegal
+Seychelles	Seychellerna
+Sierra Leone	Sierra Leone
+Somalia	Somalia
+Julius Caesar	Julius Caesar
+Sudan	Sudan
+Swaziland	Swaziland
+Mubatanidzwa weNyika Pasirose	Förenta nationerna
+Ketanyika	Geologi
+Taranyika	Geografi
+Moyo	Hjärta
+Huropi	Hjärna
+Prague	Prag
+Jerusalem	Jerusalem
+Kosovo	Kosovo
+Chicago	Chicago
+Chirimo	Vår
+Tsazahusiku	Dagjämning
+Montevideo	Montevideo
+Dhaka	Dhaka
+Buwe	Spindlar
+Islamabad	Islamabad
+Muchero	Frukt
+Mari	Pengar
+Zagreb	Zagreb
+Manila	Manila
+Buenos Aires	Buenos Aires
+Mexico City	Mexico City
+Tokyo	Tokyo prefektur
+La Paz	La Paz
+Dziva rokushambira	Bassäng
+Abu Dhabi	Abu Dhabi
+Astana	Astana
+Athens	Aten
+Baghdad	Bagdad
+Caracas	Caracas
+Guatemala City	Guatemala City
+Havana	Havanna
+Fodya	Tobak
+Vienna	Wien
+Copenhagen	Köpenhamn
+Stockholm	Stockholm
+Helsinki	Helsingfors
+Dublin	Dublin
+Reykjavík	Reykjavik
+Tallinn	Tallinn
+Riga	Riga
+Bratislava	Bratislava
+Budapest	Budapest
+Vaduz	Vaduz
+Bhaibheri	Bibeln
+City of San Marino	San Marino (stad)
+Phnom Penh	Phnom Penh
+Guta reHo Chi Minh	Ho Chi Minh-staden
+Hanoi	Hanoi
+True Jesus Church	The True Jesus Church
+Chirungu	Engelska
+Bangkok	Bangkok
+Andorra la Vella	Andorra la Vella
+Kuala Lumpur	Kuala Lumpur
+Taipei	Taipei
+Dong Hoi	Dong Hoi
+Kyiv	Kiev
+Ottawa	Ottawa
+Juba	Juba
+Yerevan	Jerevan
+Dar es Salaam	Dar es-Salaam
+Khartoum	Khartoum
+Kudya	Mat
+Nyoka	Ormar
+Nhanzvi	Oralsex
+Minsk	Minsk
+Chemishonga	Kemi
+Mogadishu	Mogadishu
+Nassau	Nassau, Bahamas
+Sana'a	Sanaa
+Nhabvu	Fotboll
+Rutsvamhumburu	Förintelsen
+Madrid	Madrid
+Bogotá	Bogotá
+Brasília	Brasília
+Lima	Lima
+Santiago	Santiago de Chile
+Quito	Quito
+Asunción	Asunción
+Mbudzi	Tamget
+Mhuru	Kalv (ungdjur)
+Paramaribo	Paramaribo
+Mukomana	Pojke
+Musikana	Flicka
+Kathmandu	Katmandu
+Belmopan	Belmopan
+San José	San José, Costa Rica
+San Salvador	San Salvador
+Canberra	Canberra
+Moto	Eld
+Tegucigalpa	Tegucigalpa
+Managua	Managua
+Panama City	Panama City
+Rwizi Nile	Nilen
+Rabat	Rabat
+Algiers	Alger, Algeriet
+Tunis	Tunis
+Tripoli	Tripoli
+Djibouti (city)	Djibouti (stad)
+Tehran	Teheran
+Addis Ababa	Addis Abeba
+Jakarta	Jakarta
+Ankara	Ankara
+Asmara	Asmara
+N'Djamena	N'Djamena
+Nouakchott	Nouakchott
+Riyadh	Riyadh
+Bamako	Bamako
+Belgrade	Belgrad
+Dakar	Dakar
+Banjul	Banjul
+Conakry	Conakry
+Bissau	Bissau
+Monrovia	Monrovia
+Praia	Praia
+Accra	Accra
+Damascus	Damaskus
+Yamoussoukro	Yamoussoukro
+French Guiana	Franska Guyana
+Ouagadougou	Ouagadougou
+Freetown	Freetown
+Abuja	Abuja
+Lomé	Lomé
+Porto-Novo	Porto-Novo
+Amman	Amman
+Yaoundé	Yaoundé
+Malabo	Malabo
+Beirut	Beirut
+Libreville	Libreville
+Muscat	Muskat
+Bangui	Bangui
+Kinshasa	Kinshasa
+Brazzaville	Brazzaville
+Bujumbura	Bujumbura
+Nicosia	Nicosia
+Kigali	Kigali
+Doha	Doha
+Dodoma	Dodoma
+Nairobi	Nairobi
+Lilongwe	Lilongwe
+Lusaka	Lusaka
+Manama	Manama
+Kudzikatidzwa kwezuva	Solförmörkelse
+Maputo	Maputo
+Kampala	Kampala
+Luanda	Luanda
+Moroni	Moroni
+Mbabane	Mbabane
+Maseru	Maseru
+Muravanembiri	Binära talsystemet
+Chikoro	Skola
+Antananarivo	Antananarivo
+Gaborone	Gaborone
+Harare	Harare
+Pretoria	Pretoria
+Port Louis	Port Louis
+São Tomé	São Tomé
+Windhoek	Windhoek
+Victoria (Seychelles)	Victoria, Seychellerna
+Imba	Hus
+Rwizi	Flod
+Boterekwa	Omloppsbana
+Dong Hoi Airport	Dong Hoi flygplats
+Mukaha weChadenga	Rymden
+Chiringakure	Teleskop
+Curitiba	Curitiba
+Sango	Skog
+Category:Masvomhu	Kategori:Matematik
+Mbiru	Kolonn (arkitektur)
+Gungwa Mediterranean	Medelhavet
+Chitendero chechiKristu	Kristendom
+Mupunga	Ris
+Ziwumbe	Världsdelar och kontinenter
+Shiri	Fåglar
+Mwedzi (Mwaka)	Månad
+Peji Rekutanga	Portal:Huvudsida
+Cape Town	Kapstaden
+Durban	Durban
+Bhazi	Buss
+Kabul	Kabul
+Gumbeze	Filt (textil)
+Kusvira	Samlag
+Mbutu	Slida
+Category:Candidates for speedy deletion	Kategori:Snabbraderingar
+Shambira	Simning
+Category:Zvechadenga	Kategori:Astronomi
+Mbayo	Materialism
+Matongerwo eNyika	Politik
+Baradzira	Propaganda
+Kilimanjaro	Kilimanjaro
+Kutsvoda	Kyss
+Rudzi rwaIsrael	Judar
+Nzeve	Öra
+Mhuno	Nos
+Ziso	Öga
+Humhutu	Stickmyggor
+Hwayi	Tamfår
+Nghamera	Kameler
+Dzinoyamwisa	Däggdjur
+Amai (vakakubereka)	Moder
+Sinowo	Snö
+Baba	Fader
+Vabereki	Förälder
+Vana	Barn
+Ngongoni	Gnuer
+Chingwa	Bröd
+Sangano reHutano Pasirose	Världshälsoorganisationen
+Chimbuzi	Toalett
+Sera (rezvinorarama)	Cell
+Ropa	Blod
+Mapapu	Lunga
+Casablanca	Casablanca
+Kundengenyeka kwenyika	Jordbävning
+Muchegwa	Mineral
+Chokwadi	Sanning
+Mashandiro eZvinhu Zvisingararami	Naturvetenskap
+Dombo	Bergart
+Chikwatamabwe	Vulkan
+Pimagonyonhatu	Trigonometri
+Pimanyika	Geometri
+Mhepo	Vind
+Gute romweya	Atmosfär
+Muchenga Pfuma	Nationalekonomi
+Hushangazhi	Industri
+Misambo paBonde	Lista över samlagsställningar
+Bonyora	Onani
+Chita	Samhälle (sociologi)
+Mhuri	Familj
+Murume	Man
+Rusaruraganda	Rasism
+Muranda	Slaveri
+Mukaka	Mjölk
+Gomo	Berg
+Gwenga	Öken
+Lagos	Lagos
+Seoul	Seoul
+Ruzivo	Kunskap
+Zamu	Kvinnobröst
+Chiedza	Ljus
+Chinamato	Religion
+Genesisi	Första Moseboken
+Eksodo	Andra Moseboken
+Baku	Baku
+Thimphu	Thimphu
+Bandar Seri Begawan	Bandar Seri Begawan
+Dili	Dili
+Vientiane	Vientiane
+Malé	Malé
+Bishkek	Bisjkek
+Dushanbe	Dusjanbe
+Chitaka	Lever
+Itsvo	Njure
+Jende	Testikel
+Tsuro	Kaniner
+Gungwa	Ocean
+Tsindi	Ekorrar
+Kufema	Andning
+Muzongoza	Ryggmärg
+Chibereko	Livmoder
+Rurimi	Tunga
+Dzira (nhengo)	Nerv
+Makandiro	Äggstock
+Mutsipa	Hals
+Matumbu	Tarm
+Chipfuva	Bröst
+Tsatsadzi	Körtel
+Muronga wechikafu	Mag- och tarmkanalen
+Huronyo	Sädesvätska
+Nouméa	Nouméa
+Ronald Reagan	Ronald Reagan
+Cardiff	Cardiff
+Robert Gabriel Mugabe	Robert Mugabe
+Georgetown	Georgetown, Guyana
+Bununu	Nakenhet
+Dzinokambaira	Kräldjur
+Muti	Träd
+Dzehugaro huviri	Groddjur
+Huchi	Honung
+Nyama	Kött
+Mbatatisi	Potatis
+Shuga	Socker
+Muriwo	Grönsaker
+Pepanhau	Tidning
+Runhare	Telefon
+Tsika	Kultur
+Sarajevo	Sarajevo
+Mhetapawa	Logaritm
+Huwandu	Aritmetik
+Zviringani	Koordinatsystem
+Munyu	Salt
+Enzane	Ekvation
+Munangatire	Funktion
+Gonyo	Vinkel
+Chidenhi	Hormon
+Rufangu	Acceleration
+Simba	Energi
+Manikidzo	Kraft
+Ngoma	Trumma
+Chinyenze	Flöjt
+Gunganidzo	Gravitation
+Huremu	Massa
+Simbi	Metall
+Misandu yeSebhe	Aggregationstillstånd
+Gasi	Gas
+Mutuvi	Vätska
+Godo	Fast form
+Kurima	Jordbruk
+Donje	Bomull
+Zvipfeko	Kläder
+Kurima neMombe	Plog
+Muchacha	Hastighet
+Hujoto	Temperatur
+Kukorora Simbi	Metallurgi
+Nguva	Tid
+Nharaunda	Area
+Dudzirazivo raPythagoras	Pythagoras sats
+Nhamba	Tal
+Chibage	Majs
+Kudzana	Dans
+Rufuvha (magetsi)	Elektrisk ström
+Hwiriro	Frekvens
+Sikarudzi	Fortplantning
+Nhumbu	Graviditet
+Gorosi	Vetesläktet
+Mapfunde	Durrasläktet
+Hutano	Hälsa
+Kufuta	Fetma
+Zambuko	Bro
+Dhamu	Dammbyggnad
+Kupimirana	Symmetri
+Nhamba mhumburu	Heltal
+Mburungwa	Sfär
+Danhiko	Trappa
+Munondo	Svärd
+Zvombo zveShomwe	Kärnvapen
+Majuro	Majuro
+Dehenya	Kranium
+Ranjisi	Apelsin
+Ruomba	Grädde
+Bhodhi	Behå
+Penzura	Blyertspenna
+Tafura	Bord
+Twiza	Giraff
+Muromo	Läpp
+Tsoka	Fot
+Dzvinyu	Ödlor
+Template:Link FA	Mall:Link FA
+Pasirose	Världen
+Wikipedia:Community Portal	Wikipedia:Bybrunnen
+Guam	Guam
+American Samoa	Amerikanska Samoa
+Northern Mariana Islands	Nordmarianerna
+Chipatara	Sjukhus
+Kereke	Kyrka
+Zai	Ägg
+Denderedzwa	Cirkel
+Mutsendo	Plan (geometri)
+Chizinganhare	Mobiltelefoni
+Mhou (shiri)	Struts
+Dudzirazivo	Teori
+Pyongyang	Pyongyang
+Pfumbamwe	9 (tal)
+Tirana	Tirana
+Mbongoro	Åsna
+Gonyonhatu	Triangel
+Cecil John Rhodes	Cecil Rhodes
+Chișinău	Chișinău
+Gumbapamwe reZviringani ZveTaranyika	Geografiska koordinatsystem
+Njanji	Järnväg
+Shangu	Sko
+Nomwe	7 (tal)
+Nhuta	Guldmullvadar
+Sere	8 (tal)
+Vhiki	Vecka
+Nyanza	Insjö
+Ulaanbaatar	Ulan Bator
+Edinburgh	Edinburgh
+Ashgabat	Asjchabad
+Chitsuwa	Ö (landområde)
+Tanhatu	6 (tal)
+Madomasi	Tomat
+Muenzanisi	Ekvator
+Podgorica	Podgorica
+Duramahwi	Ordbok
+Musoro	Huvud
+Wellington	Wellington
+Valletta	Valletta
+Gumi	10 (tal)
+Dindingwe	Gepard
+Mwaka yepaNyika	Årstid
+Zizi	Ugglor
+Nguva dzezuva	Timme
+Dzemuzongoza	Ryggradsdjur
+Nowy Dwór Królewski	Nowy Dwór Królewski
+Pristina	Pristina
+Nyundo	Hammare (handverktyg)
+Pichilemu	Pichilemu
+Bete	Kackerlackor
+Pawa	Effekt
+Shuramurove	Vit stork
+Mukweso	Resistans
+Haka	Myrkottar
+Mukwava	Hörn
+Cook Islands	Cooköarna
+Chipo (huwandu)	Approximation
+Vhudzi	Hår
+Pimamuganhu	Omkrets
+Jira	Textil
+Chedza	Försök till brott
+Huduma	Densitet
+Mbiti	Utter
+Mafuro	Betesmark
+Twana	Ökenlo
+Alofi	Alofi
+Jamestown	Jamestown, Sankta Helena
+French Polynesia	Franska Polynesien
+Hagåtña	Hagåtña
+Mata-Utu	Mata-Utu
+Yaren	Yaren
+Tambo	Tågvirke
+Hanzvadzi	Syskon
+Mwenda porepore	Maskning
+Wedzaniso	Addition
+Tsiva	Boxning
+Banga	Kniv
+Mbizi	Zebror
+ChiBantu	Bantuspråk
+Muradanuro	Potens
+New Caledonia	Nya Kaledonien
+Hugari hwevanhu	Befolkning
+Shizha	Blad
+ChiShona	Shona
+Niue	Niue
+Rumbariro	Latitud
+Mapopoma	Vattenfall
+Funafuti	Funafuti
+Humburumbira	Cylinder
+Port-au-Prince	Port-au-Prince
+Chitendero	Tro (kognition)
+Sipo	Tvål
+Mugwagwa	Väg
+Mvuu	Flodhäst
+Mirairo gumi yaMwari	De tio budorden
+Johannesburg	Johannesburg
+Jecha	Sand
+Kingston	Kingston
+Mbada	Leopard
+Chipembere	Noshörningar
+Santo Domingo	Santo Domingo
+Kuwait City	Kuwait (stad)
+Arab	Araber
+Colombo	Colombo
+Bako	Grotta
+Wallis and Futuna	Wallis- och Futunaöarna
+Mhakatwa	Materia
+Huni	Vedeldning
+Kukotsira	Sömn
+Kubhabhatidza	Dop
+Igwa	Båt
+Mushenjere	Bambu
+Ivhu (Dhaga)	Jord
+Bridgetown	Bridgetown
+Hurefu	Längd
+Apia	Apia
+Saint John's	Saint John's, Antigua och Barbuda
+Roseau	Roseau
+Chiroto	Dröm
+Hunhungo	Longitud
+Port Moresby	Port Moresby
+Kupirimuka kwemishonga	Kemisk reaktion
+Chipfambi	Prostitution
+Gonhi	Dörr
+Gonyoina	Fyrhörning
+Tokelau	Tokelauöarna
+Gumi nembiri	12 (tal)
+Chiso	Ansikte
+Shambadza	Reklam
+Mutsetse	Rät linje
+Gumi neimwe	11 (tal)
+Gumi nenhatu	13 (tal)
+Masaisai	Vågrörelse
+Gurapakati	Diameter
+Mudzidzisi	Lärare
+Mweya Mutsvene	Den Helige Ande
+Nzungu	Jordnöt
+Naypyidaw	Naypyidaw
+Zana	100 (tal)
+Mabvi	Knä
+Bvungapfunga	Dimma
+Gonyozhinji	Polygon
+Chivhuramabwe	Hagel
+Musika (Kunotengeswa)	Marknad (ekonomi)
+Rwavhi	Kameleonter
+Bloemfontein	Bloemfontein
+Mawuto ehondo	Armé
+Port Vila	Port Vila
+Firiji	Kylskåp
+Mbambaira	Sötpotatis
+Mitemo yeruhambo yaNewton	Newtons rörelselagar
+Gumi neina	14 (tal)
+Nwiwa	Vattenmelon
+Gumi neshanu	15 (tal)
+Gumi nesere	18 (tal)
+Suva	Suva
+Nukuʻalofa	Nuku'alofa
+Port of Spain	Port of Spain
+Mbeva	Möss
+Mumhu	Volym
+Puresha	Tryck
+Chiremba	Läkare
+Mupata	Dal
+Kuverengwa kweVanhu	Folkräkning
+Gumi nepfumbamwe	19 (tal)
+Mudhebhe	Byxor
+Mwaka wechikumi	Decennium
+Zvidhinha	Murtegel
+Denderende	Ellips (matematik)
+Gumi nenomwe	17 (tal)
+Gumi nenhanhatu	16 (tal)
+Kuunga huwandu	Multiplikation
+Makumi maviri	20 (tal)
+Gweta	Advokat
+Kubvisa	Subtraktion
+Mbeu	Frö
+Mhando	Kata
+Gakanje	Krabbor
+Honiara	Honiara
+Mutundo	Urin
+Huma	Panna (anatomi)
+Mapisarema	Psaltaren
+Dova	Dagg
+Gonyoina tsazamativi	Romb
+Mburungwagama rekuchamhembe	Södra halvklotet
+Runhanhira	Rörelsemängd
+Basseterre	Basseterre
+Kingstown	Kingstown
+St. George's, Grenada	Saint George's
+Castries	Castries
+Rudzi	Etnicitet
+Fanza	Kokning
+Chisumamunyati	Hypotes
+Zvakazarurwa	Uppenbarelseboken
+Bere	Hyenor
+Magaro	Stjärt
+Mubhedha	Säng
+Basa	Fysikaliskt arbete
+Gwenzi	Buske
+Munyakwe	Lera
+Makumi mana	40 (tal)
+Charaka	Kon
+Mutsimba	Brottning
+Nzunza	Serval
+Palikir	Palikir
+Ndebvu	Skägg
+Makumi matatu	30 (tal)
+Muchovha	Fordon
+Muduso	Finans
+Shangwa	Torka
+Rwizi Zambezi	Zambezi
+Garwe	Krokodiler
+Tsivatsaona	Försäkring
+Gonyeti	Lastbil
+Victoria Falls	Victoriafallen
+Gunguwo	Corvus
+Nzvari	Hona
+Ruwoko	Arm
+Tsime	Vattenbrunn
+Cotonou	Cotonou
+Sokisi	Strumpor
+Ngarikuni	Kalkoner
+Guvhu	Navel
+Hono	Hane
+Injini	Motor
+Kudzikatidzwa kwemwedzi	Månförmörkelse
+Cayenne	Cayenne
+Madziya	Värme
+Pfumo	Spjut
+Chigayo	Kvarn
+Mugodhi	Gruvdrift
+Poyindi	Punkt (geometri)
+Gonyoina sambamba	Parallellogram
+Museve	Pil (vapen)
+Annaba	Annaba
+Hweru	Jordsvin
+Dandare remagetsi	Elektriskt fält
+Simba reNhekairo	Kinetisk energi
+Gonyoina sambambiri	Parallelltrapets
+Uta	Pilbåge
+Kamba	Landsköldpaddor
+Mandundu	Bergskedja
+Chindori	Fingerring
+Saint-Denis	Saint-Denis, Réunion
+Mugomo	Hink
+Chiyero chekupimisa	Måttenhet
+Bhoni	Glödlampa
+Chitupa	Legitimationshandling
+Template:Commons category	Mall:Commonscat
+Chitunha	Lik
+Kennedy Space Center	John F. Kennedy Space Center
+Penti	Trosor
+Kuramwa Basa	Strejk
+Muchato	Bröllop
+Gwaro	Dokument
+Muzasedimbu	Proportionalitet (matematik)
+Pago Pago	Pago Pago
+Saipan	Saipan
+Chirwere cheEbola	Ebolafeber
+Hurukuro	Samtal
+Datya	Stjärtlösa groddjur
+Sambamba	Parallell (matematik)
+Musenerera	Osmos
+Choya	Könshår
+Ndiro (yokudyira)	Tallrik
+Morgan Tsvangirai	Morgan Tsvangirai
+Nhare	Befästning
+Dandira (zvakarongeka)	System
+Swakopmund	Swakopmund
+Chivi (kutadza)	Synd
+Pakati	Center
+Chanduru	Gallblåsa
+Kugetsenura	Elektrolys
+Dimbu	Bråk
+Rutsaudzo rwechiedza	Refraktion
+Doworume	Spermie
+Duvurwi	Platå
+Misodzi	Tårar
+Mushonga	Kemikalier
+Makumi matanhatu	60 (tal)
+Mukonikoni	Egentliga trollsländor
+Bhodhoro	Flaska
+Jerenyenje	Manguster
+Derere	Okra
+Fes	Fès
+Nhevedzwa dzeMvura	Vattnets kretslopp
+Mupurwa	Varaner
+Muravanegumi	Decimala talsystemet
+Chikara (mhuka)	Köttätare
+Kurwadziwa	Smärta
+Nyanga	Horn (utskott)
+Mhesvi	Katalys
+Rudzindi	Friktion
+Dunhu	Region
+Zita	Egennamn
+Gonyonhanhatu	Hexagon
+Denga (Remba)	Yttertak
+Chidembo	Skunkar
+Dzingiswa	Manlig omskärelse
+Huchenjeri	Intelligens
+Honha	Tacka (gjutning)
+Mazita eMhuri	Efternamn
+Dare	Klocka
+Lobamba	Lobamba
+Marrakesh	Marrakech
+Mhopo	Vårta
+Chitofu (mugodhi)	Malm
+Nyauka	Smältning
+Kayiti	Drake (geometri)
+Marin County	Marin County
+Kuperekera magetsi	Resistivitet
+Bumha	Svärmning
+Chinepfu (ruhambo)	Tröghet
+Tsika yekurava nhamba	Talsystem
+Gora	Gamar
+Zuvaragodza	Solstånd
+Mhanda (Kurwa)	Våld
+Chisipiti	Vattenkälla
+Chindunduma	Uppror
+Port Elizabeth	Port Elizabeth
+Nhambwe	Avstånd
+Tangier	Tanger
+Kurutsa	Kräkning
+Gavakava	Aloesläktet
+Bhomba	Bomb
+Makunakuna	Incest
+Tsanga (ziso)	Grå starr
+Mafuta	Fett
+Zvidya	Lår
+Papeetē	Papeete
+Jekanyika	Geodesi
+Badza	Hacka
+South Tarawa	South Tarawa
+Chidzayo	Kil (enkel maskin)
+2 Johane	Andra Johannesbrevet
+Muprofita Isaya	Jesaja
+3 Johane	Tredje Johannesbrevet
+Judi	Judasbrevet
+Nhoo	Sköld
+Menduru	Medalj
+Sandhuru	Sandaler
+Kuverereka	Sublimering
+Oran	Oran
+Zano	Idé
+Mhara	Impala
+Mamoudzou	Mamoudzou
+Sasauka	Avdunstning
+Mhondi	Mord
+Africa Zasi kweSahara	Subsahariska Afrika
+Haro	Bergspass
+Gumbo	Ben (kroppsdel)
+Bvurunuro	Diffraktion
+Bhande (chipfeko)	Bälte (kläddetalj)
+Chikero	Våg (instrument)
+Pombi	Pump
+Kun'ura	Korrosion
+Nhoro	Större kudu
+Tsono (kusona)	Synål
+Gwaya	Braxen
+Munyungu	Lösningsmedel
+Kisangani	Kisangani
+Dovi	Jordnötssmör
+Rumanda	Stängsel
+Mufundisi	Pastor
+Chisuvi chemvura	Vattendelare
+Dota	Aska
+Kamba dzenhapwa	Koncentrationsläger
+Kamba dzekuuraya	Förintelseläger
+Poto	Kokkärl
+Chidzudzani	Kongruens (geometri)
+Simba reChakunga	Potentiell energi
+Gonyonhatu tsazakose	Liksidig triangel
+Zenda	Förlovning
+Garoua	Garoua
+Ramallah	Ramallah
+Nhokwe	Papyrus (växt)
+Gonje	Sisal
+Chiwundudzi	Mögel
+Gudo	Babianer
+Mapatya	Tvillingar
+Mureza weZimbabwe	Zimbabwes flagga
+Mumvuri	Skugga
+Nyati	Afrikansk buffel
+Mhene	Slätt
+Ruchichinuko	Konvektion
+Keetmanshoop	Keetmanshoop
+Muchacha pima negonya	Vinkelhastighet
+Munyonga	Kurva
+Hudonongodzwa	List
+Ketamabwe	Petrologi
+Mukoko	Bikupa
+Mhiripiri	Chilipeppar
+Tsanga	Arundo
+Nhanga (Muchero)	Pumpa
+Francistown	Francistown
+Nhunzi	Husfluga
+Kubundira	Kondensering
+Betafo	Betafo
+Mhete	Örhängen
+Hargeisa	Hargeisa
+Hwata	Sekreterarfågel
+Nelspruit	Nelspruit
+Matoro	Våtmark
+Avarua	Avarua
+Agadir	Agadir
+Maun	Maun
+Zvombo zvinechefu	Biologiska vapen
+Nhovo	Madrass
+Sunflower	Solros
+Bwato	Kanot
+Tsaona	Olycka
+Hanga	Pärlhöns
+Rukuvhute	Navelsträng
+Fosi yeRutondapakati	Centripetalkraft
+Nhoozhinji	Polyeder
+Hunzwi	Sinne
+Bantu	Bantu
+Guva	Gravskick
+Mhumhi	Afrikansk vildhund
+Taramunyongo	Radie
+Bara	Kula (ammunition)
+Chitsitsinho	Häl
+Mukondo	Auktoritet
+Ruwa	Landsbygd
+Kuswedera	Konvergens
+Toamasina	Toamasina
+Rutsuwa rwemagetsi	Isolator
+Rukwarapakati	Centrifugalkraft
+Ruzha	Brus
+Shaya	Käke
+Zhumwi	Prisma (geometri)
+Dhuku	Sjalett
+Nhanzva	Släde
+Mutemo waPareto	Paretoprincipen
+Maungira	Eko
+Kano	Kano
+Njiri	Vårtsvin
+Ibadan	Ibadan
+Shato	Pytonormar
+Rhekeni	Katapult
+Gwati (muti)	Bark
+Tlemcen	Tlemcen
+Nyamukuta	Barnmorska
+Gwee	Galagoer
+Chirambo (misandu)	Fasövergång
+Pietermaritzburg	Pietermaritzburg
+Donhwe	Droppe
+Mukoti	Sjuksköterska
+Bota	Gröt
+Constantine, Algeria	Constantine (stad)
+Chifufuro	Muta
+Lumumbashi	Lubumbashi
+Chikuwo	Typvärde
+Idi	Faktum
+Choto	Eldstad
+Rovambira	Svart mamba
+Munda	Åker
+Manyene	Schabrakschakal
+Chikwereti	Lån
+Abomey	Abomey
+Guramakonyo	Diagonal
+Harar	Harar, Etiopien
+Bhutsu	Stövlar
+Kumhura	Förtal
+Mbonga	Nunna
+Mhute	Dis
+Madamvura	Hydrofil
+Cherechedza	Observation
+Gambamutengo	Subvention
+Bulawayo	Bulawayo
+Mweya (wemunhu)	Ande
+Dire Dawa	Dire Dawa
+Mbabvu	Revben
+Chapupu	Vittne
+Kuvaviwa	Klåda
+Chikupo	Slunga
+Nhamba ndemera	Negativa tal
+Rifa	Arv
+Hupfumi	Förmögenhet
+Rokwe	Klänning
+Ziguinchor	Ziguinchor
+Avhareji	Lägesmått
+Bandiko	Cirkelsektor
+Chitofu (Kubika)	Kamin
+Goma	Goma
+Pito	Visselpipa
+Mutwi	Vinkelrät
+Kananga	Kananga
+Dendera pa Mineti	Varv per minut
+Tafura yekuunga huwandu	Multiplikationstabell
+Vanga	Ärr
+Rudzindi rwemweya	Luftmotstånd
+Ruremekedzo	Heder
+Huswa	Gräsmatta
+Masvingo eZimbabwe	Stora Zimbabwe
+Njiva	Columba
+East London	East London, Sydafrika
+Mbandaka	Mbandaka
+Matadi	Matadi
+Hudyu	Ljumske
+Dzinza	Klan
+Kupambadzirwa	Duktilitet
+Zera (chizvarwa)	Generation
+Kukohwa (kuunganidza)	Skörd
+Furo	Skum
+Mhofu	Vanlig eland
+Bilda	Blida, Algeriet
+Port Harcourt	Port Harcourt
+Hungwe	Skrikhavsörn
+Hunyoro	Fukt
+Mahajanga	Mahajanga
+Gondar	Gonder
+Antsiranana	Antsiranana
+Palestine	Palestina (stat)
+Chikare (bonde)	Missionärsställningen
+Matyamvura	Hydrofob
+Walvis Bay	Walvis Bay
+Chapfunga	Snäckfeber
+Bukavu	Bukavu
+Hukama	Social relation
+Boma	Boma
+Musunamiswa	Invers
+Mombasa	Mombasa
+Hwendedzo	Medium
+Dungidzira	Alternative
+Chinangwa	AIM
+Kusuduruka	Divergens
+Chipakati	Median
+Kushumira	Parning
+Zvinoshandiswa kuchengetedza	Åtkomstkontroll
+Saga	Saga (olika betydelser)
+Runda	Sena
+Hupombwe	Hor
+Boka (masvomhu)	Set
+Varungu	Vit (hudfärg)
+Makumi mapfumbamwe	90 (tal)
+Ngwarati	Sabelantilop
+Mhakure	Egyptisk kobra
+Kutandauka	Expansion
+Mupfunga	Ånga
+Rukweza	Hirs
+Mutupo	Totem
+Mhomho	Otillåtet spel och olämpligt uppträdande (fotboll)
+Kindu	Kindu
+Saint-Louis, Senegal	Saint-Louis
+Mhembwe	Dykarantiloper
+Kirsty Coventry	Kirsty Coventry
+Chiremera	Människovärde
+Mawere	Riktningskoefficient
+Massawa	Massawa
+Makumi mashanu nena	54 (tal)
+Rwizi Save	Save
+Hwembwa (bonde)	Hundställningen
+Nungu	Jordpiggsvin
+Mukunda	Dotter
+Musami	Hägring
+Kuronga	Planering
+Madora	Gonimbrasia belina
+Buea	Buea
+Ian Smith	Ian Smith
+Amai (mukadzi Wa-)	Fru
+Rwendo	Journey
+Abel Tendekai Muzorewa	Abel Muzorewa
+Mukwende	Last (transport)
+Mbuji-Mayi	Mbuji-Mayi
+Benin City	Benin City
+Kugunzva	Känsel
+Mek'ele	Mekele
+Muchovha Mota	Transportmedel
+Makumi masere nesere	88 (tal)
+Hubumbe	Konvex
+Adama	Nazret
+Mukova	Threshold (olika betydelser)
+Mhene (mhuka)	Stenantilop
+Kugera	Rakning
+Kuchepa	Standardisering
+Chiva	Pufform
+George, Western Cape	George, Västra Kapprovinsen
+Bonga-musakwani	Gabonhuggorm
+Chibeto	Såll
+Mukombe	Trofé
+Kadoma	Kadoma
+Jimma	Jimma
+Dziva	Pool
+Murayiro	Kommando
+Chitungwiza	Chitungwiza
+Gweru	Gweru
+Mutare	Mutare
+Laghouat	Laghouat
+Mhango	Kavitet
+Kutsveyama	Tilt
+Humba	Busksvin
+Makumi mapfumbamwe nepfumbamwe	99 (tal)
+Mashonaland West	Mashonaland West
+Bhuku raMormoni	Mormons bok
+Kutapira	Sötma
+Bahir Dar	Bahir Dar
+Manicaland	Manicaland
+Mahusekwa	Mashonaland East
+Salé	Salé
+Joshua Nkomo	Joshua Nkomo
+Nyota	Törst
+Chiso (Chiumbwa)	Yta
+Hutong'o	Seghet
+Chipika	Krage (kläder)
+Edinburgh of the Seven Seas	Edinburgh of the Seven Seas
+Nyemba	Ögonböna
+Chinyamudzura	Stridsörn
+Tôlanaro	Taolanaro
+Fianarantsoa	Fianarantsoa
+Bamenda	Bamenda
+Keren, Eritrea	Keren
+Mongo	Benmärg
+Ishwa	Termiter
+Antsirabe	Antsirabe
+Sisi	Syster
+Okahandja	Okahandja
+Thiès	Thiès
+Mudzi wenhamba	Rot av tal
+Gungano renhenderedzi	Koncentrisk
+Kusamhura	Beräkning
+Chengu	Hartebeest
+Ngururu	Klippspringare
+Dhumukwa	Ellipsvattenbock
+Tsumeb	Tsumeb
+Atafu	Atafu
+Mushandi	Anställd
+Touba, Senegal	Touba
+Kuwurutsa	Vindsikt
+Homwe	Bankkonto
+Kunatsa	Raffinering
+Makumi mashanu neshanu	55 (tal)
+Parakou	Parakou
+Bhuru	Tjur
+Georgetown (Ascension Island)	Georgetown, Ascension
+Nyamuragira	Nyamuragira
+Makumi masere	80 (tal)
+Makumi maviri nembiri	22 (tal)
+Makumi manomwe	70 (tal)
+Makumi mashanu	50 (tal)
+Makumi matatu nenhatu	33 (tal)
+Makumi mana nena	44 (tal)
+Makumi matanhatu nenhanhatu	66 (tal)
+Makumi manomwe nenomwe	77 (tal)
+Mazana maviri	200 (tal)
+Zana negumi	110 (tal)
+Bandundu (city)	Bandundu (stad)
+Mabharani	Kontorist
+Mutowo	Metod
+Ngaoundéré	Ngaoundéré
+Nhova	Fontanell
+Dessie	Dese
+Jijiga	Jijiga
+Awasa	Awasa
+Rondo (hurongwa)	Tronföljd
+Roora	Brudpris
+Kusiya basa	Avsked
+Beitbridge	Beitbridge
+SADC	Southern African Development Community
+Toliara	Toliara
+Chishanu (mhoresa)	Handskakning
+Musasa	Campingplats
+Kumbumba	Let There Be Rock
+Hupfu	Majsmjöl
+Banda	Bår
+Calabar	Calabar
+Zvinyanye	Extremum
+Mucheko	Tvärsnitt
+Rukodzi	Hökar
+Kaolack	Kaolack
+Ouidah	Ouidah
+Serowe	Serowe
+Kudzinda	Reluktans
+Chimukuyu	Biltong
+Morondava	Morondava
+Rukanda runosarura zvinobvinina	Semipermeabelt membran
+Djougou	Djougou
+Hukoshi	Värde (ekonomi)
+Gongo	Klitoris
+Ladysmith, KwaZulu-Natal	Ladysmith
+Boka	Grupp (sociologi)
+Mujawo	Racing
+Chivhuni	Sprödhet
+Maunga huwandu	Produkt (matematik)
+Mhandamabwe	Stenkross
+Uvira	Uvira
+Chinokoro	Scoop (olika betydelser)
+Kurega basa	Pensionering
+Mukuwasha	Svågerlag
+Rusero	Kastskovel
+Tiburon	Tiburon, Kalifornien
+Grootfontein	Grootfontein
+Chubhu dzinotakura ropa	Blodkärl
+Otjiwarongo	Otjiwarongo
+Germiston	Germiston
+Natitingou	Natitingou
+Klerksdorp	Klerksdorp
+Rufisque	Rufisque
+M'Bour	M'bour
+Mthatha	Mthatha
+Dumbu	Magsäck
+Bimha	Rörbockar
+Mambara	Gråberg
+Tonderai	Personnamn
+Vanhu vemuAfrica	Afrikan
+Bindu	Trädgård
+Njodzi	Hot
+Muururo	Navare
+MDC	Rörelsen för demokratisk förändring
+Nhururwa	Utdata
+Zimbabwean presidential election, 2008	Presidentvalet i Zimbabwe 2008
+Gwara (Humaneja)	Policy
+Zingizi	Snickarbin
+Nhamba Ndandira	Signum (matematik)
+Ketamukadzi	Gynekologi
+Govaniso	Division (matematik)
+Chidavado	Dekoration
+Nhamba svinu	Rationella tal
+Rwodzi	Bast (material)
+Dowokadzi	Äggcell
+Tsiru	Kviga
+Humbowo	Bevis
+Puranga	Planka
+Mutape	Koncentrat
+Hwabvu	Blygdläppar
+Makonyo Mhirikano	Supplementvinkel
+Muchovha Masvomhu	Vektor (olika betydelser)
+Miko	Löfte
+Mhemberero	Helgdag
+Category:Vietnam	Kategori:Vietnam
+Category:Madzinde	Kategori:Växter
+Category:Fundoyetsimba	Kategori:Fysik
+Category:Chezvipenyu	Kategori:Biologi
+Category:Chemishonga	Kategori:Kemi
+Category:Taranyika	Kategori:Geografi
+Category:Chinamato	Kategori:Religion
+Richards Bay	Richard's Bay
+Mhitsa dzehondo	Supermakt
+Mutoro	Load
+Ndabaningi Sithole	Ndabaningi Sithole
+Katahwi	Hymen
+El Oued	El Oued
+Tsika yezvinzvimbo zvenhamba	Positionssystem
+Nyundwa	Kruppa
+Munatsi	Raffinaderi
+Zanu-PF	Zanu-PF
+Dowera (nyoka)	Mullvadssnok
+Chanza	Handflata
+Goronga	Dike
+Gondo	Örnar
+Belon'i Tsiribihina	Belo-Tsiribihina
+Jongwe	Tupp
+Nyamafingu	Kobra
+Twasuka	Straight
+Mungongoma	Schinziophyton rautanenii
+Sazita	Namne
+Tsono (zviridzwa)	Stylus
+Category:Tsika	Kategori:Kultur
+Category:Ziwumbe	Kategori:Världsdelar
+Hata (chiumbwa)	Spole
+Bumbiro	Collection
+Tsapfu	Vaden
+Hukukutu	Hårdhet
+Ganda	Människoraser
+Dumba	Pyramid (geometri)
+Yambiro	Varning
+Dzihwa	Slem
+Category:Wikipedia bots	Kategori:Wikipedia:Robotar
+Hutapiri	Koncentration
+Chipangidzo	Skylt
+Spidhi	Fart
+Akiso	Spegelsymmetri
+Template:Tl	Mall:Mall
+Category:Muviri	Kategori:Anatomi
+Category:Hurapi	Kategori:Medicin
+Category:Dzidzo	Kategori:Utbildning
+Egypt	Egypten
+Template:Bot	Mall:Bot
+Canada	Kanada
+Nzenda	Dimension
+Denga (raMwari)	Himmelriket
+Category:Europe	Kategori:Europa
+Template:Documentation	Mall:Dokumentation
+Nhengo dzesikarudzi	Könsorgan
+Category:User languages	Kategori:Användare efter språk
+Template:Softredirect	Mall:Mjuk omdirigering
+Template:Delete	Mall:Radera
+Kugocha	Rostning
+Category:Wikipedia	Kategori:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Allmänt förbehåll
+Wikipedia:Statistics	Wikipedia:Statistik
+Template:Navbox	Mall:Navbox
+Cynthia Muvirimi	Cynthia Muvirimi
+Template:!	Mall:!
+Template:!-	Mall:!-
+Template:Nowrap	Mall:Nowrap
+Template:Bots	Mall:Bots
+Category:Africa	Kategori:Afrika
+Category:Zviperengo Zvehuwandu	Kategori:Tal
+Category:Bhaibheri	Kategori:Bibeln
+Template:Babel	Mall:Babel
+Template:User af-1	Mall:Användare af-1
+Template:User als-1	Mall:Användare als-1
+Template:User ar-1	Mall:Användare ar-1
+Template:User ast-1	Mall:Användare ast-1
+Template:User az	Mall:Användare az
+Template:User eo-1	Mall:Användare eo-1
+Template:User da-2	Mall:Användare da-2
+Template:User da	Mall:Användare da
+Template:User ca-1	Mall:Användare ca-1
+Template:User ca-4	Mall:Användare ca-4
+Template:User be-2	Mall:Användare be-2
+Template:User da-1	Mall:Användare da-1
+Template:User cs-1	Mall:Användare cs-1
+Template:User bg-1	Mall:Användare bg-1
+Template:User eo-3	Mall:Användare eo-3
+Template:User de	Mall:Användare de
+Template:User de-1	Mall:Användare de-1
+Template:User el	Mall:Användare el
+Template:User es	Mall:Användare es
+Template:User de-3	Mall:Användare de-3
+Template:User en-3	Mall:Användare en-3
+Template:User el-1	Mall:Användare el-1
+Template:User en-1	Mall:Användare en-1
+Template:User en-2	Mall:Användare en-2
+Template:User eo-2	Mall:Användare eo-2
+Template:User en-4	Mall:Användare en-4
+Template:User en-0	Mall:Användare en-0
+Template:User en	Mall:Användare en
+Template:User de-2	Mall:Användare de-2
+Template:User es-1	Mall:Användare es-1
+Template:User sk	Mall:Användare sk
+Template:User tr	Mall:Användare tr
+Template:Location map/Info	Mall:Kartposition/Info
+Category:User uk	Kategori:Användare uk
+Category:User uk-N	Kategori:Användare uk-N
+Template:Mod	Mall:Mod
+Template:User uk	Mall:Användare uk
+Template:User es-2	Mall:Användare es-2
+Template:Africa	Mall:Afrika
+Template:Rnd	Mall:Rnd
+Template:Max	Mall:Högsta
+Template:Navbox with columns	Mall:Navbox with columns
+Template:Location map	Mall:Kartposition
+Category:User en-4	Kategori:Användare en-4
+Category:User en	Kategori:Användare en
+Category:User en-2	Kategori:Användare en-2
+Template:Infobox	Mall:Faktamall
+Template:Protected title	Mall:Skyddad sida
+Template:GeoTemplate	Mall:GeoTemplate
+Category:Kurima	Kategori:Jordbruk
+Template:About	Mall:Hänvisning
+Template:Both	Mall:Both
+Wikipedia:Nospam	Wikipedia:Skyddade sidnamn
+Template:User lt	Mall:Användare lt
+Template:Kujekesa	Mall:Förgrening
+Template:Convert	Mall:Convert
+Template:Citation/make link	Mall:Link
+Category:Gonyazhinji	Kategori:Polygoner
+Template:Europe	Mall:Europa
+Category:User az	Kategori:Användare az
+Category:User be	Kategori:Användare be
+Category:User sk	Kategori:Användare sk
+Category:User eo	Kategori:Användare eo
+Category:User lt	Kategori:Användare lt
+Category:User cs-1	Kategori:Användare cs-1
+Category:User da-1	Kategori:Användare da-1
+Category:User ar-1	Kategori:Användare ar-1
+Category:User be-2	Kategori:Användare be-2
+Category:User da-2	Kategori:Användare da-2
+Category:User lt-N	Kategori:Användare lt-N
+Category:User af	Kategori:Användare af
+Category:User af-1	Kategori:Användare af-1
+Category:User als	Kategori:Användare als
+Category:User als-1	Kategori:Användare als-1
+Category:User ar	Kategori:Användare ar
+Category:User ast	Kategori:Användare ast
+Category:User ast-1	Kategori:Användare ast-1
+Category:User az-N	Kategori:Användare az-N
+Category:User bg	Kategori:Användare bg
+Category:User bg-1	Kategori:Användare bg-1
+Category:User ca	Kategori:Användare ca
+Category:User ca-1	Kategori:Användare ca-1
+Category:User ca-4	Kategori:Användare ca-4
+Category:User cs	Kategori:Användare cs
+Category:User da	Kategori:Användare da
+Category:User sk-N	Kategori:Användare sk-N
+Category:User de	Kategori:Användare de
+Category:User de-2	Kategori:Användare de-2
+Category:User de-3	Kategori:Användare de-3
+Category:User el	Kategori:Användare el
+Category:User el-1	Kategori:Användare el-1
+Category:User el-N	Kategori:Användare el-N
+Category:User en-3	Kategori:Användare en-3
+Category:User en-N	Kategori:Användare en-N
+Category:User eo-1	Kategori:Användare eo-1
+Category:User eo-2	Kategori:Användare eo-2
+Category:User eo-3	Kategori:Användare eo-3
+Category:User es	Kategori:Användare es
+Category:User es-1	Kategori:Användare es-1
+Category:User es-2	Kategori:Användare es-2
+Category:User es-4	Kategori:Användare es-4
+Category:User es-N	Kategori:Användare es-N
+Category:Pimanzvimbo	Kategori:Geometri
+Template:Weather box	Mall:Klimattabell
+Hukwidza	Meter över havet
+Template:Sup	Mall:Sup
+Template:Talk other	Mall:Diskussion annan
+Simudzo	Flytkraft
+Ruchiva	Lust
+Nhungu	Barack
+Category:Hushangazhi	Kategori:Industri
+Category:User tr	Kategori:Användare tr
+Category:User tr-N	Kategori:Användare tr-N
+Template:•	Mall:•
+Template:Citation/core	Mall:Citation/core
+Category:Rwizi	Kategori:Vattendrag
+Category:Zimbabwe	Kategori:Zimbabwe
+Paradise Cay	Paradise Cay
+Category:Musangano	Kategori:Politiska partier
+Category:Gonyanhatu	Kategori:Trianglar
+Category:Mhuka	Kategori:Djur
+Category:Dzemuzongoza	Kategori:Ryggradsdjur
+Category:Zvombo	Kategori:Vapen
+Category:Zvipfeko	Kategori:Kläder
+Category:Mhuri	Kategori:Familjeliv
+Category:Chitendero	Kategori:Tro
+Category:Nyoka	Kategori:Ormar
+Category:North America	Kategori:Nordamerika
+Category:Chadenga	Kategori:Rymden
+Category:Nzwimbo	Kategori:Platser
+Module:BaseConvert	Modul:BaseConvert
+Template:Module other	Mall:Modul annan
+Template:Sister	Mall:Interwikimall
+Category:Huwandu	Kategori:Aritmetik
+Category:Bhuku Ramorimoni	Kategori:Mormons bok
+Category:Jekanyika	Kategori:Geodesi
+Kuhamba	Rörelse
+Category:User en-1	Kategori:Användare en-1
+Category:User de-1	Kategori:Användare de-1
+Category:User da-N	Kategori:Användare da-N
+Nhutirwa	Indata
+Mutauro wePasirose	Världsspråk
+Template:Location map+	Mall:Kartposition+
+Module:Yesno	Modul:Yesno
+Module:Arguments	Modul:Arguments
+Special:RecentChanges	Special:Senaste ändringar
+Module:HtmlBuilder	Modul:HtmlBuilder
+Module:Coordinates	Modul:Coordinates
+Module:Math	Modul:Math
+Module:Navbox	Modul:Navbox
+Module:Infobox	Modul:Infobox
+Module:Location map	Modul:Location map
+Makosi Musambasi	Makosi Musambasi

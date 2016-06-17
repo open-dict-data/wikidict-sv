@@ -1,0 +1,363 @@
+Abĩrika	Afrika
+Japan	Japan
+Amerika ya Kuthini	Sydamerika
+Ngeretha	England
+Macartsa	Ungern
+United States	USA
+Binirandi	Finland
+Cuindeni	Sverige
+Ndenimaki	Danmark
+Rithuĩnia	Litauen
+Itari	Italien
+Ngiriki	Grekland
+Takĩ	Turkiet
+Wikipedia	Wikipedia
+Netharandi	Nederländerna
+Los Angeles	Los Angeles
+Kenya	Kenya
+Ethiopia	Etiopien
+Ghana	Ghana
+Baranja	Frankrike
+Esperanto	Esperanto
+China	Kina
+Wiktionary	Wiktionary
+Brazil	Brasilien
+Racia	Ryssland
+Wikimedia	Wikimedia Foundation
+Jimmy Wales	Jimmy Wales
+Njĩrĩmani	Tyskland
+Azerbaijan	Azerbajdzjan
+Canimarino	San Marino
+Intel	Intel
+Indonesia	Indonesien
+Abĩrika ya Kuthini	Sydafrika
+Algeria	Algeriet
+Mai	Vatten
+Terebiceni	Television
+Singapore	Singapore
+Wikibooks	Wikibooks
+Bahrain	Bahrain
+Armenia	Armenien
+İstanbul	Istanbul
+Australia	Australien
+Physics	Fysik
+Argentina	Argentina
+Peru	Peru
+Bayorojĩ	Biologi
+Mount Everest	Mount Everest
+Napoleon	Napoleon I
+Hydrogen	Väte
+Helium	Helium
+Lithium	Litium
+Beryllium	Beryllium
+Carbon	Kol
+Nitrogen	Kväve
+Oxygen	Syre
+Chad	Tchad
+Sodium	Natrium
+Magnesium	Magnesium
+Aluminium	Aluminium
+Silicon	Kisel
+Phosphorous	Fosfor
+Iron	Järn
+Potasium	Kalium
+Calcium	Kalcium
+Titanium	Titan
+Ecuador	Ecuador
+Copper	Koppar
+Mĩmera	Växt
+Zinc	Zink
+Fungi	Svampar
+Jamaica	Jamaica
+Haiti	Haiti
+Iraq	Irak
+Panama	Panama
+Yemen	Jemen
+Virus	Virus
+Laos	Laos
+Malaysia	Malaysia
+Burma	Burma
+Pakistan	Pakistan
+Sri Lanka	Sri Lanka
+Syria	Syrien
+Thailand	Thailand
+United Arab Emirates	Förenade Arabemiraten
+Platinum	Platina
+Vietnam	Vietnam
+South Korea	Sydkorea
+Afghanistan	Afghanistan
+Gold	Guld
+Bangladesh	Bangladesh
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Tanzania	Tanzania
+Isaac Newton	Isaac Newton
+Zimbabwe	Zimbabwe
+Sũdana ya Kuthini	Sydsudan
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Republic of the Congo	Kongo-Brazzaville
+Democratic Republic of the Congo	Kongo-Kinshasa
+Djibouti	Djibouti
+Gabon	Gabon
+Gambia	Gambia
+Côte d'Ivoire	Elfenbenskusten
+Cameroon	Kamerun
+Lesotho	Lesotho
+Madagascar	Madagaskar
+Malawi	Malawi
+Namibia	Namibia
+Nigeria	Nigeria
+Uganda	Uganda
+Rwanda	Rwanda
+Somalia	Somalia
+Julius Caesar	Julius Caesar
+Sũdana	Sudan
+Usain Bolt	Usain Bolt
+Piemonte	Piemonte
+Valle d'Aosta	Aostadalen
+Emilia-Romagna	Emilia-Romagna
+Chicago	Chicago
+Uetersen	Uetersen
+Augustus	Augustus
+Campania	Kampanien
+Puglia	Apulien
+Biblia	Bibeln
+Kanitha wa Jesũ wa ma	The True Jesus Church
+Dong Hoi	Dong Hoi
+Concepción	Concepción, Chile
+Microsoft	Microsoft
+Kemu	Kemi
+Ankara	Ankara
+Nairobi	Nairobi
+Osasco	Osasco
+Curitiba	Curitiba
+Monzón	Monzón
+Almazán	Almazán
+Bill Gates	Bill Gates
+Main Page	Portal:Huvudsida
+Cipiyu	Central Processing Unit
+Penza	Penza
+Frank Lloyd Wright	Frank Lloyd Wright
+Category:Candidates for speedy deletion	Kategori:Snabbraderingar
+Niels Bohr	Niels Bohr
+Bengi ya Thĩ	Världsbanken
+Ndemookirathĩ	Demokrati
+Kĩheo ya Nobero	Nobelpriset
+Mount Kilimajaro	Kilimanjaro
+Mammal	Däggdjur
+WHO	Världshälsoorganisationen
+Thayathi cia ndũire	Naturvetenskap
+Tsunami	Tsunami
+Logic	Logik
+Algorithm	Algoritm
+Thomas Edison	Thomas Edison
+Michael Faraday	Michael Faraday
+Henry Ford	Henry Ford
+Cancún	Cancún
+Atomu	Atom
+Erwin Schrodinger	Erwin Schrödinger
+Ronald Reagan	Ronald Reagan
+Metha Njokereri	Periodiska systemet
+Bacteria	Bakterier
+Robot	Robot
+Macini	Maskin
+Injiniarini	Ingenjörsvetenskap
+Gatheti	Tidning
+Microsoft obici	Microsoft Office
+Bobbio	Bobbio
+AIDS	Aids
+Thiori ya Seti	Mängdteori
+Abacus	Abakus
+Piacenza	Piacenza
+Taranto	Taranto
+ISO	Internationella standardiseringsorganisationen
+Province ya Piacenza	Piacenza (provins)
+Province ya Taranto	Taranto (provins)
+Template:Link FA	Mall:Link FA
+Wikipedia:Community Portal	Wikipedia:Bybrunnen
+GPS	Global Positioning System
+Friedrich Schiller	Friedrich Schiller
+Moshchena	Mosjtjena
+Paltoga	Paltoga
+Kihuruta	Fjärilar
+Paradigm	Paradigm
+Gĩgĩkũyũ	Kikuyu (språk)
+Linus Torvalds	Linus Torvalds
+Thayathi cia social	Samhällsvetenskap
+İzmir	Izmir
+Siligo	Siligo
+Markup languages	Märkspråk
+IBM	IBM
+John Michael Talbot	John Michael Talbot
+Mawatho matano ma Newton	Newtons rörelselagar
+Radio Studio 54 Network	Radio Studio 54 Network
+Neural networks	Neuronnät
+Montehermoso	Montehermoso
+Ford	Ford Motor Company
+Template:Commonscat	Mall:Commonscat
+Toyota	Toyota
+Cartesian Coordinates	Kartesiskt koordinatsystem
+RFID	Radio Frequency Identification
+Cybernetics	Cybernetik
+Bioinformatics	Bioinformatik
+Euclidean Geometry	Euklidisk geometri
+Macini ya Turing	Turingmaskin
+Silicon Valley	Silicon Valley
+Maywood	Maywood, Illinois
+Kĩrĩnyaga	Mount Kenya
+Boolean Logic	Boolesk algebra
+Jomo Kenyatta	Jomo Kenyatta
+Thomas Kuhn	Thomas Kuhn
+Fujitsu	Fujitsu
+Ũramati ũũgĩ	Knowledge Management
+Tectonics	Tektonik
+Banovci (Nijemci)	Banovci
+Microscope	Mikroskop
+Tigranes II	Tigran II
+Cyberspace	Cyberrymden
+Palestine	Palestina (stat)
+Anggun	Anggun
+Fuzzy Logic	Suddig logik
+Ũtuĩria na ũthondeki	Forskning och utveckling
+Ngũgĩ wa Thiong'o	Ngũgĩ wa Thiong'o
+Gatagati mkoa, Kenya	Centralprovinsen, Kenya
+Bengi ya Gũkũria Abĩrika	Afrikanska utvecklingsbanken
+Hithitorĩ ya Kemu	Kemins historia
+Gatundu	Gatundu
+Kikuyu	Kikuyu (stad)
+Bayo-egekia	Biomimetik
+Category:German	Kategori:Tyskland
+Category:Italy	Kategori:Italien
+Category:USA	Kategori:USA
+Category:Urusi	Kategori:Ryssland
+Category:Spain	Kategori:Spanien
+Category:Turkey	Kategori:Turkiet
+Ngima	Ugali
+Category:South Korea	Kategori:Sydkorea
+Category:Thayathi cia ndũire	Kategori:Naturvetenskap
+Category:Kemu	Kategori:Kemi
+Category:Sport	Kategori:Sport
+Category:Thayathi	Kategori:Vetenskap
+Molo	Molo, Kenya
+Wikipedia:Administrators	Wikipedia:Administratörer
+Category:Medicine	Kategori:Medicin
+Category:Politics	Kategori:Politik
+Egypt	Egypten
+Template:Bot	Mall:Bot
+Canada	Kanada
+Category:Rũraya	Kategori:Europa
+Template:Documentation	Mall:Dokumentation
+Template:Softredirect	Mall:Mjuk omdirigering
+Template:Delete	Mall:Radera
+Wikipedia:Statistics	Wikipedia:Statistik
+Template:Navbox	Mall:Navbox
+Template:!	Mall:!
+Category:Abĩrika	Kategori:Afrika
+Template:Babel	Mall:Babel
+Template:Commons	Mall:Commons
+Template:User af-1	Mall:Användare af-1
+Template:User als-1	Mall:Användare als-1
+Template:User ar-1	Mall:Användare ar-1
+Template:User az	Mall:Användare az
+Template:User eo-1	Mall:Användare eo-1
+Template:User da-2	Mall:Användare da-2
+Template:User ca-4	Mall:Användare ca-4
+Template:User be-2	Mall:Användare be-2
+Template:User da-1	Mall:Användare da-1
+Template:User cs-1	Mall:Användare cs-1
+Template:User bg-1	Mall:Användare bg-1
+Template:User eo-3	Mall:Användare eo-3
+Template:User de	Mall:Användare de
+Template:User de-1	Mall:Användare de-1
+Template:User et-1	Mall:Användare et-1
+Template:User el	Mall:Användare el
+Template:User es	Mall:Användare es
+Template:User de-3	Mall:Användare de-3
+Template:User en-3	Mall:Användare en-3
+Template:User el-1	Mall:Användare el-1
+Template:User en-1	Mall:Användare en-1
+Template:User en-2	Mall:Användare en-2
+Template:User eo-2	Mall:Användare eo-2
+Template:User en-4	Mall:Användare en-4
+Template:User fi	Mall:Användare fi
+Template:User en-0	Mall:Användare en-0
+Template:User en	Mall:Användare en
+Template:User de-2	Mall:Användare de-2
+Template:User es-1	Mall:Användare es-1
+Template:User fa	Mall:Användare fa
+Template:User fi-1	Mall:Användare fi-1
+Template:User fr-1	Mall:Användare fr-1
+Template:User ia-2	Mall:Användare ia-2
+Template:User he-1	Mall:Användare he-1
+Template:User hu	Mall:Användare hu
+Template:User id-3	Mall:Användare id-3
+Template:User io-3	Mall:Användare io-3
+Template:User it-3	Mall:Användare it-3
+Template:User ja-4	Mall:Användare ja-4
+Template:User sk	Mall:Användare sk
+Template:User tr-2	Mall:Användare tr-2
+Template:User fr-2	Mall:Användare fr-2
+Template:User ja	Mall:Användare ja
+Template:User ja-1	Mall:Användare ja-1
+Template:User it-1	Mall:Användare it-1
+Template:User hr-1	Mall:Användare hr-1
+Template:User fr	Mall:Användare fr
+Category:Amerika ya Kuthini	Kategori:Sydamerika
+Category:Football	Kategori:Fotboll
+Template:Mod	Mall:Mod
+Template:User uk	Mall:Användare uk
+Template:User es-2	Mall:Användare es-2
+Template:Welcome	Mall:Nybörjare
+Template:Bururi wa Abĩrika	Mall:Afrika
+Template:User zh	Mall:Användare zh
+Template:Legend	Mall:Legend
+Template:User ru-4	Mall:Användare ru-4
+Template:User nl-1	Mall:Användare nl-1
+Template:User nl-2	Mall:Användare nl-2
+Category:America	Kategori:Amerika
+Template:Mikoa cia Italy	Mall:Italien
+Template:ICD10	Mall:ICD10
+Template:User pl	Mall:Användare pl
+Template:User nl	Mall:Användare nl-N
+Template:User no-2	Mall:Användare no-2
+Template:Emergency-bot-shutoff	Mall:Nödstopp för robot
+Template:User pl-1	Mall:Användare pl-1
+Template:User lt	Mall:Användare lt
+Template:User nds-1	Mall:Användare nds-1
+Template:User ksh	Mall:Användare ksh
+Template:User no	Mall:Användare no
+Template:User sv-2	Mall:Användare sv-2
+Template:User la-1	Mall:Användare la-1
+Category:Template documentation	Kategori:Malldokumentation
+Category:User be-2	Kategori:Användare be-2
+Category:User sk-N	Kategori:Användare sk-N
+Template:User la-3	Mall:Användare la-3
+Template:User sv-1	Mall:Användare sv-1
+Template:User sw-1	Mall:Användare sw-1
+Template:User ka-1	Mall:Användare ka-1
+Category:Thayathi cia social	Kategori:Samhällsvetenskap
+Template:User ru-2	Mall:Användare ru-2
+Template:User es-3	Mall:Användare es-3
+Template:User ko-3	Mall:Användare ko-3
+Template:ICD9	Mall:ICD9
+Category:Kenya	Kategori:Kenya
+Template:User ca-3	Mall:Användare ca-3
+Template:User la-2	Mall:Användare la-2
+Template:User mk-1	Mall:Användare mk-1
+Template:User nn-2	Mall:Användare nn-2
+Template:User pt	Mall:Användare pt
+Template:User ru-1	Mall:Användare ru-1
+Template:User sk-1	Mall:Användare sk-1
+Template:User sk-2	Mall:Användare sk-2
+Template:User sr-1	Mall:Användare sr-1
+Template:User uk-4	Mall:Användare uk-4
+Category:Mirimu	Kategori:Sjukdomar
+Template:User sl-1	Mall:Användare sl-1
+Trojany	Trojany
+Category:Mikoa cia Kenya	Kategori:Kenyas provinser
+Template:User sh-2	Mall:Användare sh-2
+Special:RecentChanges	Special:Senaste ändringar

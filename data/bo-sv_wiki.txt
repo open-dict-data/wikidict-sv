@@ -1,0 +1,2976 @@
+ཨ་ཧྥེ་རི་ཁ།	Afrika
+ཉི་ཧོང་།	Japan
+ནོར་ཝེ།	Norge
+སི་ཁོ་ཁྲི་ལན་ཌི།	Skottland
+ཨར་ལེན་ཌ།	Irland
+ཧུང་གྷ་རི།	Ungern
+ཞི་པན་ཡ།	Spanien
+ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ།	USA
+པེར་ཅིན།	Belgien
+ལུ་སེམ་བའུརག (རྒྱལ་ཁབ།)	Luxemburg
+སའི་གོ་ལ།	Jorden
+འཚོ་བ།	Liv
+ཤི་བ།	Döden
+འགྲོ་བ་མི།	Människa
+དགའ་སྐྱིད།	Lycka
+ཧྥིན་ལན།	Finland
+སི་ཝེ་དེན།	Sverige
+དན་མྲག	Danmark
+ཕོ་ལན།	Polen
+ལི་ཐུ་ཨེ་ནི་ཡ།	Litauen
+ཨི་ཏ་ལི།	Italien
+སུད་སི།	Schweiz
+ཨོ་སི་ཐྲི་ཡ།	Österrike
+ཀེ་རི་སི།	Grekland
+ཏུར་ཀི།	Turkiet
+སྦི་རག	Öl
+པོ་ཅུ་གྷལ།	Portugal
+ཡོ་རོབ་གླིང་།	Europa
+ཨེ་ཤེ་ཡ།	Asien
+ལྷོ་མཐའི་གླིང་།	Antarktis
+ཧོ་ལན།	Nederländerna
+ནེའུ་ཡོར་ཀ།	New York
+ཝ་ཤིན་ཏྲོན།	Washington, D.C.
+སན་ཧྥུ་རན་སིས་ཁོ	San Francisco
+པེར་ལིན།	Berlin
+གློག་ཀླད།	Dator
+པེར་ནེ།	Bern
+ཀྲེ་ནེ་ཝ།	Genève
+བ་རག་ཨོ་པྰ་མ།	Barack Obama
+ཨུ་རུ་གུ་ཡེ།	Uruguay
+པ་སེལ།	Basel
+ལོན་ཊོན།	London
+ཁ་ཡི་རོ	Kairo
+ཡ་ལི་ཧྲན་ད	Alexandria
+ཕ་རི།	Paris
+མེག་སི་ཀོ།	Mexiko
+ནུབ་རྒྱ་མཚོ་ཆེན་པོ།	Atlanten
+ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོ།	Stilla havet
+ཁྰ་ལེ་ཧྥོར་ནི་ཡ།	Kalifornien
+བོ་སེ་ཊོན།	Boston
+གཟའ་ཟླ་བ།	Måndag
+མིག་དམར།	Mars (planet)
+མ་ཨེར་སི།	Mars (mytologi)
+ཁེ་ནི་ཡ།	Kenya
+ཨི་ཐི་ཨོ་པི་ཡ།	Etiopien
+ཀ་ན།	Ghana
+གཟའ་མིག་དམར།	Tisdag
+གཟའ་ལྷག་པ།	Onsdag
+གཟའ་ཕུར་བུ།	Torsdag
+གཟའ་པ་སངས།	Fredag
+གཟའ་སྤེན་པ།	Lördag
+གཟའ་ཉི་མ།	Söndag
+སེང་གེ།	Lejon
+ཧྥ་རན་སི།	Frankrike
+ཁྱི།	Hund
+དབྱིན་ཇི་མཉམ་འབྲེལ།	Storbritannien
+ཞི་མི།	Katt
+ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kina
+ཧྥ་རན་སིའི་སྐད།	Franska
+ཉ།	Fiskar
+ཨ་རག་ཉིང་ཁུ།	Etanol
+པུ་རུ་ཟིལ།	Brasilien
+ཧྥ་རན་སུའཱ་ཨོ་ལན་དེ།	François Hollande
+ཨུ་རུ་སུ།	Ryssland
+ཕའེ།	Pi (bokstav)
+ཨ་ལ་པ་མ།	Alabama
+སན་པའུ་ལོ་	São Paulo
+འཇར་མན།	Tyskland
+བྷེ་ལ་རསུ།	Vitryssland
+འཇར་མན་སྐད།	Tyska
+ཨཡིསུ་ལེན་ཌ།	Island
+ཨིསུ་ཊོ་ནིཡ།	Estland
+སྤེན་པ།	Saturnus
+སྤེན་པའི་གདུབ་ཀོར།	Saturnus ringar
+སེའུ།	Körsbär
+དམག་འཁྲུག	Krig
+༡ (གྲངས་ཀ།)	1 (tal)
+༢ (གྲངས་ཀ།)	2 (tal)
+༣ (གྲངས་ཀ།)	3 (tal)
+༤ (གྲངས་ཀ།)	4 (tal)
+༥ (གྲངས་ཀ།)	5 (tal)
+༠ (གྲངས་ཀ།)	0 (tal)
+ལ་ཊ་ཝིཡ།	Lettland
+ཨུཀ་རཡི་ནི།	Ukraina
+ཅེ་ཁེ།	Tjeckien
+སི་ལོ་ཕ་ཁེ།	Slovakien
+སི་ལོ་ཝེ་ནི་ཡ།	Slovenien
+ལྦེ་ནི་སུ་ནི།	Vilnius
+མོལ་དོ་ཝ།	Moldavien
+རོ་མ་ནི་ཡ།	Rumänien
+པུ་ར་ག་རི་ཡ།	Bulgarien
+རོ་མ།	Rom
+མ་སེ་ཌོ་ནིཡ། (རྒྱལ་ཁབ།)	Makedonien
+ཨལ་པ་ཉི་ཡ།	Albanien
+གེ་རེན་ལ	Grönland
+ཁུརོ་ཤི་ཡ།	Kroatien
+བྷོསུ་ནིཡ་དང་ཧར་ཛེ་གྷོ་ཝི་ན།	Bosnien och Hercegovina
+ཨ་ཛར་བཡི་ཇན།	Azerbajdzjan
+ཨན་ཌོར་ར།	Andorra
+སེ་པི་རི་སི།	Cypern
+འཇོར་ཇི་ཡ། (རྒྱལ་ཁབ།)	Georgien
+ཀཛ་ཀིསུ་གཏན།	Kazakstan
+མལ་ཏ།	Malta
+མོ་ན་ཁོ།	Monaco
+མོན་ཊེནིག་རོ།	Montenegro
+ཝ་ཏི་ཀན་གྲོང་ཁྱོར།	Vatikanstaten
+སན་མ་རི་ནོ།	San Marino
+པུའུ་ལུའུ་སེལ​།	Bryssel (region)
+ཀུ་བ།	Kuba
+བེ་ལི་ཛི།	Belize
+བར་བ་ཌོ་སི།	Barbados
+ཨིན་རྡུ་ནི་ཤིས་ཡ།	Indonesien
+ལྷོ་ཨ་ཧྥེ་རི་ཁ།	Sydafrika
+ཨཱལ་ཇི་རི་ཡ།	Algeriet
+ཨུ་ཟ་བྷེ་ཁི་སི་ཐན།	Uzbekistan
+ཕྰོ་ཟོ་ནན།	Poznań
+ཐ་ཧྲི་ཀན།	Tasjkent
+ཝར་སོ།	Warszawa
+ཆུ།	Vatten
+ཆགས།	Kön
+ཆགས་སློང་རྩོམ་རིག	Pornografi
+ཁ་ལའོ་ཊ་མོ་ནེ།	Claude Monet
+ཅི་ལི།	Chile
+ཡེ་ཤུ།	Jesus
+ཨེལ་ཝེ་སི་ཕིར་ཟི་ལཱེ།	Elvis Presley
+གཱ་ལི་ལེའོ་གཱ་ལི་ལེའི།	Galileo Galilei
+ལྷག་པ།	Merkurius
+ལོ་རྒྱུས།	Historia
+པ་སངས།	Venus
+སྐད་རིགས།	Språk
+བརྩེ་དུང་།	Kärlek
+ཕུར་བུ།	Jupiter
+སྐར་མ་གནམ་རྒྱལ།	Uranus
+ནི་ཀོ་ལ་ས་ར་ཀོ་ཟི།	Nicolas Sarkozy
+སྐར་མ་མཚོ་རྒྱལ།	Neptunus
+སེང་ག་ཕོར།	Singapore
+ཚན་རིག	Vetenskap
+མིར་ཡམ །	Jungfru Maria
+ལི་ཆེ་ཏན་སཏིན།	Liechtenstein
+ལུས་རྩལ།	Sport
+ཨྰ་སྦྲོལ་ཧྥུ་ཧི་ཐུ་ལུར།	Adolf Hitler
+འཛམ་གླིང་འཁྲུག་ཆེན་དང་པོ།	Första världskriget
+འཛམ་གླིང་འཁྲུག་ཆེན་གཉིས་པ་	Andra världskriget
+ཧྥུ་ཐ་ཅ་ཨ་རག	Vodka
+སི་ཀོཔ་ཇི།	Skopje
+རྩིས་རིག	Matematik
+ལ་ཏིན་སྐད།	Latin
+བྷཧ་རཡིན།	Bahrain
+ཨར་མེ་ནི་ཡ།	Armenien
+སེར་བྷི་ཡ།	Serbien
+ཟླ་བ།	Månen
+ཨོ་སེ་ཐེ་ལི་ཡ།	Australien
+དངོས་ཁམས་རིག་པ་	Fysik
+ཨར་ཇེན་ཊི་ན།	Argentina
+པེ་རུ།	Peru
+སྐྱེ་དངོས་རིག་པ།	Biologi
+བྱང་ཀོ་རི་ཡ།	Nordkorea
+ཁམ་པོ་ཛ།	Kambodja
+ཁུ་རན་གསུང་རབ།	Koranen
+དབྱི་སི་ལམ་ཆོས་ལུགས།	Islam
+ལི་པོ་ཡ་ན།	Ljubljana
+རྩི་ཤིང་རིག་པ།	Botanik
+ལིས་ཆི་ཝེ་ལིས་ས།	Lech Wałęsa
+འཁོར་ལོ།	Hjul
+༄༅།། རིག་གནས་ཤེས་བྱ་ཀུན་ཁྱབ།	Encyclopédie
+ཏེའུ་ཏེ་རོ།	Denis Diderot
+ཞི་བདེ།	Fred
+ལི་ཡོང་།	Lyon
+བུད་མེད།	Kvinna
+སོ་ཧྥི་ཡ།	Sofia
+ཐང་རྗི་ཁོཏ།	Don Quijote
+སྙན་ངག	Poesi
+མི་ལཱན།	Milano
+ཁྱིམ་དྲན་སེམས་ནད།	Minne
+ཊུ་རིན།	Turin
+ལེ་མོན།	Citron
+ངང་ལག	Banan
+མེ་ཏོག	Blomma
+ཇོ་མོ་གླང་མ།	Mount Everest
+གཤག་བཅོས་རིག་པ།	Anatomi
+གྲོང་ཁྱེར།	Stad
+ཝེ་སུའུ་ཝེའོ་མེ་རི།	Vesuvius
+ཉི་མ།	Solen
+གྲོང་ཚོ།	By
+རྒྱ་མཚོ་ཆེན་པོའི་གླིང་ཆེན།	Oceanien
+ཉི་མའི་ཁྱིམ་རྒྱུད།	Solsystemet
+ཨན་ཇེ་ལ་མེར་ཁེལ།	Angela Merkel
+ཉིན་མོ།	Dygn
+ཤར་ཏིམོར།	Östtimor
+དགོང་མོ།	Natt
+ལོ་	År
+རེན་གཙང་པོ།	Rhen
+ཨོ་སི་ལོ།	Oslo
+བྷོ་ཨིན།	Bonn
+ནག་ཁུང་།	Svart hål
+ལི་སི་བཱོན།	Lissabon
+ལུའོ་ནེའུ་གཙང་པོ།	Rhône
+མིའི་རིགས་ཀྱི་ཆགས་སྦྱོར་གྱི་བྱ་སྤྱོད།	Sex (aktivitet)
+ཧྥོར་ཅཱ་གཙང་པོ།	Volga
+གསོ་རླུང་།	Syre
+གཡོ་སྐར།	Planet
+རོལ་དབྱངས།	Musik
+ཝེ་ནེ་ཟི་ཡ།	Venedig
+པོ་གཙང་པོ།	Po
+མོ་སི་ཁོ།	Moskva
+ཨི་ཏ་ལིའི་སྐད།	Italienska
+སན་པི་ཏི་པོག	Sankt Petersburg
+ཆཱ་ཌ།	Tchad
+བྱང་ཕྱོགས།	Norr
+ནིའུ་ཛི་ལེན་ཌི།	Nya Zeeland
+རྒྱ་གར།	Indien
+ཏུ་ཝ་ལུ།	Tuvalu
+ཚིག་ལྷུག	Prosa
+ཊོང་ག	Tonga
+ནུབ་ཕྱོགས།	Väster
+ས་མོའ།	Samoa
+ཤར་ཕྱོགས།	Öster
+སོ་ལོ་མོན་གླིང་ཕྲན་ཚོ་ཁག	Salomonöarna
+ཝ་ནུའ་ཏུ།	Vanuatu
+མོའོ་ལིས་ཨེར།	Molière
+པ་པུ་འ་ནིའུ་གི་ནེ།	Papua Nya Guinea
+ཞེ་ཁུ་སི་པེར།	William Shakespeare
+པ་ལའུ།	Palau
+ནའུ་རུ།	Nauru
+མའི་ཀོ་རོ་ནེ་ཤི་ཡ། (རྒྱལ་ཁབ།)	Mikronesiens federerade stater
+མར་ཤལ་གླིང་ཕྲན་རྒྱལ་ཁབ།	Marshallöarna
+ཀི་རི་བ་ཏི།	Kiribati
+སོག་ཡུལ།	Mongoliet
+ཧྥི་ཇི།	Fiji
+ཝེ་ནེ་ཟུའེ་ལ།	Venezuela
+རྒྱལ་སྤྱིའི་མིག་མངས།	Schack
+རྟ།	Häst
+ཨེམ་སི་ཊར་ཌམ།	Amsterdam
+མཚོན་ཆ།	Vapen
+སུ་རི་ནེམ།	Surinam
+པ་ར་གུ་ཡེ།	Paraguay
+གུ་ཡ་ན།	Guyana
+སྒྱུ་རྩལ།	Konst
+ཨེ་ཁོའོ་ཌོར།	Ecuador
+ཁོ་ལོམ་བི་ཡ།	Colombia
+ནང་བསྟན།	Buddhism
+བྷོ་ལི་ཝི་ཡ།	Bolivia
+ཏྲི་ནི་ཌད་དང་ཏྲོ་བེ་གོ	Trinidad och Tobago
+སེན་ཊི་བིན་སེན་ཊི་དང་གི་རི་ན་ཌིན་སི།	Saint Vincent och Grenadinerna
+ནེའུ་ཧམ་ཕུ་ཤར།	New Hampshire
+སེན་ཊ་ལུ་ཤི་ཡ།	Saint Lucia
+ལེ་ཨོ་ན་ཏོ་ཏ་ཧྥིན་ཆི།	Leonardo da Vinci
+སེན་ཊི་ཀི་ཊི་སི་དང་ནེ་བི་སི།	Saint Kitts och Nevis
+ཇ་མའི་ཀ	Jamaica
+གི་རི་ན་ཌ། (རྒྱལ་ཁབ།)	Grenada
+གུ་ཝེ་ཐི་མ་ལ།	Guatemala
+བ་ཧ་མཱ་སི།	Bahamas
+བྱ་ཏེ་	Tamhöna
+ཨེན་ཊི་གུའ་དང་བར་བུ་ཌ།	Antigua och Barbuda
+ཧ་ཝ་ཡི།	Hawaii
+ཧོང་དུ་ར་སི།	Honduras
+ཌོ་མི་ནི་ཀ	Dominica
+ཌོ་མི་ནི་ཀན་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Dominikanska republiken
+ཕག་པ།	Gris
+ཧའི་ཏི།	Haiti
+ཨིལ་སལ་ཝ་ཌོར།	El Salvador
+ཡི་ལང་།	Iran
+ཡི་ལའ་ཁོ།	Irak
+ཁོ་ས་ཏ་རི་ཁ	Costa Rica
+ཨི་སི་ར་ཨེལ།	Israel
+པ་ན་མ།	Panama
+ཡེ་མེན།	Jemen
+ཕོ་ལན་སྐད།	Polska
+རྗོར་ཌན།	Jordanien
+ནི་ཀ་ར་གུ་ཝ།	Nicaragua
+ཧྥོ་ལོ་རི་ཌ།	Florida
+ཀེ་རེ་གེཛུ་སུཏེན།	Kirgizistan
+ཨྰ་རི་ཟོ་ནྰ།	Arizona
+ཁུ་ཝི་ཐི།	Kuwait
+ལའོ་སུ།	Laos
+ལེ་པ་ནོན།	Libanon
+མལ་དི་ཝེསུ།	Maldiverna
+ཨ་མེ་རི་ཁ་གླིང་ཆེན།	Amerika
+ཡུ་ཊ།	Utah
+གླང་གོག་	Nötkreatur
+མ་ལ་ཤི་ཡ།	Malaysia
+བྷར་མ།	Burma
+བལ་ཡུལ།	Nepal
+ཨོ་མན།	Oman
+པ་ཀི་སི་ཐན	Pakistan
+ཁ་ཏར།	Qatar
+ཏན་ནེ་སི་སྤོ་ལོ།	Tennis
+སའུ་དི་ཨ་ར་པི་ཡ།	Saudiarabien
+སེང་ག་གླིང་།	Sri Lanka
+སི་རི་ཡ།	Syrien
+ཕི་ལ་ཐོན།	Platon
+ཐ་ཇི་ཁེ་སི་ཏན།	Tadzjikistan
+ཐའེ་ཝན།	Taiwan
+ཐའི་ལེན།	Thailand
+མེ་འཁོར།	Tåg
+ཏུརཀ་མེ་ནི་སུཏན།	Turkmenistan
+ཡི་ནེ་ཁྲེ་ཀྲི་ཨ་རབ་ཨེ་མེ་རེ་ཁྲི།	Förenade Arabemiraten
+ཝི་ཏི་ནམ།	Vietnam
+ཤར་ལི་ཤ་པི་ལིན།	Charlie Chaplin
+ལྷོ་ཀོ་རི་ཡ།	Sydkorea
+སིམ་བུ་སན།	Simpsons
+ཨ་ཧྥུའུ་རྒན་སི་ཐན།	Afghanistan
+བྷང་ལ་རྡེ་ཤུ།	Bangladesh
+མ་ལི།	Mali
+ཨང་གོ་ལ།	Angola
+འབྲུག་ཡུལ།	Bhutan
+བྷི་རུ་ནི།	Brunei
+ཏན་ཛ་ནི་ཡ།	Tanzania
+ཧྥི་ལི་པིན།	Filippinerna
+དབུས་ཨ་ཧྥེ་རི་ཁན་རི་པཔ་ལིཀ།	Centralafrikanska republiken
+སེར་པོ།	Gul
+ཊོ་གོ	Togo
+ཏུ་ནི་ཤི་ཡ།	Tunisien
+ཛམ་བི་ཡ།	Zambia
+ཛིམ་བབ་ཝི།	Zimbabwe
+པེ་ཅིང་གྲོང་ཁྱེར།	Peking
+བེ་ནིན།	Benin
+བྷོ་ཙི་ཝ་ན།	Botswana
+བུར་ཀི་ན་ཕ་སོ།	Burkina Faso
+བུ་རུན་ཌི།	Burundi
+ཁོ་མོ་རོ་སུ།	Komorerna
+ཀོང་གོ་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kongo-Brazzaville
+ཀོང་གོ་མི་དམངས་དམངས་གཙོ།	Kongo-Kinshasa
+ཇི་བའོ་ཊི།	Djibouti
+ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།	Ekvatorialguinea
+ཨི་རི་ཏྲའ།	Eritrea
+ནེའུ་དིལ་ལི།	New Delhi
+ཁྲེ་བྷི་ལི་སི།	Tbilisi
+གེ་བོན།	Gabon
+གེམ་བྷི་ཡ།	Gambia
+གི་ནེ།	Guinea
+གི་ནེ་-བི་སའོ།	Guinea-Bissau
+ཀོ་ཊི་ཌི་ཨའི་བོ་རི།	Elfenbenskusten
+ཁམ་མུ་རོན།	Kamerun
+ཁེབ་ཝར་ཌི།	Kap Verde
+ལི་སོ་ཐོ།	Lesotho
+ལི་བེ་རི་ཡ།	Liberia
+ལི་པི་ཡ།	Libyen
+མ་ད་གཱ་སི་ཀར།	Madagaskar
+མ་ལ་ཝི།	Malawi
+མའུ་རི་ཏ་ནི་ཡ།	Mauretanien
+མའུ་རི་ཊིའུ་སུ།	Mauritius
+མོ་རོ་ཁོ།	Marocko
+མོ་ཛམ་བིཀ།	Moçambique
+ན་མི་བྷི་ཡ།	Namibia
+ནི་ཇར།	Niger
+ནི་ཇི་རི་ཡ།	Nigeria
+ཨུ་གན་ད།	Uganda
+རུ་ཝན་ཌ།	Rwanda
+སའོ་ཊོ་མེ་དང་པི་རིན་སི་པ།	São Tomé och Príncipe
+སི་ནི་གཱལ།	Senegal
+སེ་ཞེལ།	Seychellerna
+སི་ར་ལེ་ཨོན།	Sierra Leone
+སོ་མ་ལི།	Somalia
+ཡིའུ་ལི་ཝུའུ་སི་ཁའེ་ས།	Julius Caesar
+སུའུ་ཏན།	Sudan
+སུ་ཝ་ཛི་ལནཌ།	Swaziland
+འཇའ།	Regnbåge
+གྷུ་ཇ་རཱཏ།	Gujarat
+མཉམ་འབྲེལ་རྒྱལ་ཚོགས།	Förenta nationerna
+ཏན་ཐེ།	Dante Alighieri
+ས་ཁམས་རིག་པ།	Geografi
+པུ་ལ་ཁེ།	Prag
+སྔོན་པོ།	Blå
+འབོམ་སྦེ	Bombay
+ཨཱན་དྷ་ར་མངའ་སྡེ།	Andhra Pradesh
+ཨ་རུ་ནཱ་ཅལ་མངའ་སྡེ།	Arunachal Pradesh
+ཨཱསཱམ།	Assam
+སྦི་ཧཱར།	Bihar
+མི་ཅི་གྷན།	Michigan
+ཆར་ཊི་སི་གྷར།	Chhattisgarh
+གྷོའ།	Goa
+ཧ་རི་ཡཱ་ཎཱ།	Haryana
+ཧི་མ་ཅལ་མངའ་སྡེ།	Himachal Pradesh
+ཇ་མུ་དང་ཀ་ཤི་མིར།	Jammu och Kashmir
+རྗར་ཁན་ཌི།	Jharkhand
+ཁར་ན་ཀྲ་ཁཱ།	Karnataka
+ཀེ་ར་ལཱ།	Kerala
+མཱ་ནི་པུར།	Manipur
+མོན་ཏཱ་ན།	Montana
+ཝ་ཡོ་མིང་།	Wyoming
+ཇེ་རུ་ས་ལེམ།	Jerusalem
+ཝ་ཤིན་ཏྲོན། (རྒྱལ་ཁབ།)	Washington (delstat)
+ནེ་བ་ད།	Nevada
+ཏོན་གཙང་པོ།	Don (flod)
+ཝེ་ནེ་ཏོ།	Veneto
+ཁོ་སོ་ཝོ།	Kosovo
+ཁོ་ལོ་ར་ཌོ།	Colorado
+ཁོ་ལོ་ར་ཌོ་གཙང་པོ།	Coloradofloden
+Category:རིགས།	Kategori:Topp
+ཕི་ལེ་ཟི་ཕ་སི་ཁལ།	Blaise Pascal
+མཆོང་སྒྲིག་མིག་མངས།	Damspel
+དགུན་ཁ།	Vinter
+དཔྱིད།	Vår
+དབྱར་ཁ།	Sommar
+སྟོན་ཁ།	Höst
+སེ་པན་སྐད།	Spanska
+མཱོན་ཊི་ཝི་ཌོ།	Montevideo
+ཀ་ལི་ཀུ་ཏ	Calcutta
+དྷ་ཁ།	Dhaka
+ཨི་སི་ལམ་བོ།	Islamabad
+ཤིང་ཏོག	Frukt
+དངུལ་ལོར།	Pengar
+ཝིར་ཇི་ནི་ཡ།	Virginia
+མ་རིས་ལེན་ཌ།	Maryland
+དྷེའི་ལ་ཝར།	Delaware
+ལེ་ཉིན།	Vladimir Lenin
+ཨོ་ཧེའོ།	Ohio
+བིར་སྒྲེལ།	Vergilius
+ཕེན་སུལ་ཝེ་ནའི་ཡ།	Pennsylvania
+པོ་ཅ་ཆུའུ།	Giovanni Boccaccio
+ཨའོ་ཀུའུ་སི་ཏུའུ།	Augustus
+ནེའུ་ཇེར་སས།	New Jersey
+ཨིན་ཌི་ཡཱ་ན།	Indiana
+འཇོར་ཇི་ཡ། (ཨ་མེ་རི་ཁ།)	Georgia
+མར་ཁུའུ་སེ་ཨའུ་རེ་ལིའུ་སེ།	Marcus Aurelius
+ཛག་རེབ།	Zagreb
+ཋེག་ཟ་སི།	Texas
+ཏཱ་མིལ་ན་ཌུ།	Tamil Nadu
+ཁ་རོ་ལི་ན་ལྷོ་ཕྱོགས།	South Carolina
+སི་ཅི་ལི་ཡ།	Sicilien
+མ་ནི་ལ།	Manila
+ལུའུ་ཝར་གཙང་པོ།	Loire
+སེ་ན་གཙང་པོ།	Seine
+པུ་ཨེ་ནོ་སི་ཨས་རི་སི།	Buenos Aires
+མེག་སི་ཀོ་གྲོང་།	Mexico City
+ཐོ་ཁེ་ཡོ།	Tokyo prefektur
+བྷར་སེ་ལོ་ནཱ།	Barcelona
+ཐང་འབྲས།	Ananas
+མི་སི་སི་ཕི།	Mississippi
+མི་སི་སི་ཕི་གཙང་པོ།	Mississippifloden
+འབྲས་ལྗོངས།	Sikkim
+ཐེན་ནེ་སི།	Tennessee
+ཨ་པོའུ་དྷ་པེ།	Abu Dhabi
+ཨ་སི་ཐ་ན།	Astana
+མེག་སི་ཀོ་གསར་མ།	New Mexico
+ཨ་ཐེན།	Aten
+པ་ག་ཏ	Bagdad
+ཁ་ར་ཁ་སི	Caracas
+ཝིས་སི་ཁོན་སིན།	Wisconsin
+ཡོ་བ།	Iowa
+གུ་ཝེ་ཐི་མ་ལ་གྲོང་ཁྱེར།	Guatemala City
+ཁན་སཱ་སི།	Kansas
+ཧ་ཝན	Havanna
+རྒྱ་གར་སྐད།	Hindi
+ཤོག་དྲིལ་དུ་བ།	Cigarett
+ཚོགས་བདག	Ganesha
+ལུའི་ཟི་ཨཱན་ནཱ།	Louisiana
+ཨར་ཁན་སཱ་སི།	Arkansas
+ཕའི་ཆིའུ་སྤོ་ལོ།	Volleyboll
+ཝི་ཨེ་ན།	Wien
+ཁོ་ཕེན་ཧ་ཀེན།	Köpenhamn
+སི་ཏོག་ཧོ་ལིམ།	Stockholm
+ཧེལ་སིན་ཀི།	Helsingfors
+དུབ་ལིན།	Dublin
+རེཀ་ཇ་བིཀ།	Reykjavik
+ཏཱལ་་ལིན།	Tallinn
+རི་ག	Riga
+བ་ར་ཏིསི་ལ་བ།	Bratislava
+བུ་ད་ཕེ་སིད།	Budapest
+ལུ་སེམ་བའུརག (གྲོང་རྡལ།)	Luxemburg (stad)
+བ་དུ་ཛི།	Vaduz
+གསུང་རབ།	Bibeln
+སན་མ་རི་ནོ། (གྲོང་རྡལ།)	San Marino (stad)
+ཕོམ་ཕེན།	Phnom Penh
+ཧོ་ཀྲི་མིན་གྲོང་ཁྱེར།	Ho Chi Minh-staden
+ཧེ་ནོ།	Hanoi
+སྟོན་པ་ཡེ་ཤུའི་ཆོས་ཚོགས།	The True Jesus Church
+དབྱིན་ཇིའི་སྐད།	Engelska
+པན་ཀོག	Bangkok
+ཨན་ཌོར་ར་གྲོང་ཁྱེར།	Andorra la Vella
+ཁལ་ལུང་ཕུ།	Kuala Lumpur
+ཐའེ་པེ	Taipei
+ཕྱི་འབྲིལ།	Diplomati
+ཀིབ།	Kiev
+ཨོ་ཏ་ཝ།	Ottawa
+ཡེ་རེ་ཝན།	Jerevan
+ཏ་རེ་སི་ས་ལམ།	Dar es-Salaam
+ཁར་ཏུམ།	Khartoum
+༢༠༠༩	2009
+ཝེ་རོ་ན།	Verona
+ཧྥུ་ལོ་རོན་ཟིའུ་ཡ།	Florens
+ཨེ་ཏི་མོན་ཐོན།	Edmonton
+སྦྲུལ།	Ormar
+ཁ་ཐོག་གི་ཆགས་སྦྱོར།	Oralsex
+ལུའོ་མུའུ་ལུའོ་སི་དང་རུའེ་མོ་སི།	Romulus och Remus
+ཞི་པི་ཨ་ཨ་ཧྥེ་རི་ཁ་ནུའོ་སི།	Scipio Africanus
+མིན་སིཀ།	Minsk
+རྫས་འགྱུར་རིག་པ།	Kemi
+༡༩༨༩	1989
+༡༩༨༡	1981
+མོ་ག་དི་ཤུ།	Mogadishu
+ན་སའོ། (བ་ཧ་མཱ་སི།)	Nassau, Bahamas
+ས་ནཱ།	Sanaa
+ཐ་ར་ཝ།	Tarawa
+རྐང་རྩེད་སྤོ་ལོ།	Fotboll
+ཡཱ་ཁོ་དང་ཝེ་ལེམ་.ཀོ་ལིམ།	Bröderna Grimm
+མ་ད་རིད།	Madrid
+ཁོལ་ཁོལ་ཁུ་ནག	Coca-Cola
+མའེ་ཁོའོ་ཅས་ཁ་ཤུན།	Michael Jackson
+ཚད་རིམས།	Influensa
+པོ་གོ་ཏ	Bogotá
+པུ་རུ་ཟི་ལི་ཡ།	Brasília
+ལི་མ།	Lima
+སཱན་ཏི་ཡ་གོ (ཅི་ལི།)	Santiago de Chile
+ཁེ་ཐོ།	Quito
+སུ་ཁུ་རེ།	Sucre
+བ་ཕྱུགས་	Mjölkboskap
+ཨ་སུན་སི་འན།	Asunción
+ར་མ།	Tamget
+ཝེ་ཧི་ས་ཡེ་ཕོ་བྲང་།	Slottet i Versailles
+རང་དབང་།	Frihet
+པེ་ར་མེ་རི་བོ།	Paramaribo
+ཀ་ཏ་མན་ཏུ།	Katmandu
+པེར་མོ་ཕན།	Belmopan
+སན་ཇོ་སེ། (ཁོ་ས་ཏ་རི་ཁ།)	San José, Costa Rica
+སན་སལ་ཝ་ཌོར།	San Salvador
+ཁན་པེ་ར།	Canberra
+སིད་ནེ།	Sydney
+ལྗང་ཁུ།	Grön
+མེར་བུན	Melbourne
+དམར་པོ།	Röd
+ཨ་ཝེ་རོང་།	Aveyron
+ཐེ་གུ་སི་གེ་པ།	Tegucigalpa
+མ་ན་གུ་འ།	Managua
+པ་ན་མ། (གྲོང་རྡལ།)	Panama City
+ཁོང་ཀོ་གཙང་པོ།	Kongofloden
+ར་བ་ཐེ།	Rabat
+ཨཱལ་ཇི་ཡར་སི།	Alger, Algeriet
+ཊུ་ནིསི།	Tunis
+ཐི་རི་ཕོ་ལི	Tripoli
+ཇི་བའོ་ཊི། (གྲོང་རྡལ།)	Djibouti (stad)
+ཏེ་ཧི་རན།	Teheran
+ཨ་ཌི་སི་ཨ་བ་བ།	Addis Abeba
+ཊ་ཁར་ཏ།	Jakarta
+ཨན་ཁ་ར།	Ankara
+ཨཱ་སི་མི་ར།	Asmara
+ཇ་མི་ན།	N'Djamena
+ནི་ཡ་མེ།	Niamey
+ནའུ་ཀ་ཅོ་ཊི།	Nouakchott
+རིས་ཡག	Riyadh
+བ་མ་ཀོ།	Bamako
+བེལ་གེ་རེ་ཌི།	Belgrad
+ཌ་ཀར།	Dakar
+བཱན་ཇཱུ་ལ།	Banjul
+ཀོ་ནཀ་རི།	Conakry
+བི་སའོ།	Bissau
+Category:སྒྲོམ་གཞི།	Kategori:Mallar
+མོང་རོ་ཝི་ཡ།	Monrovia
+ཕུ་ར་ཡ།	Praia
+ཇ་ཝ།	Java
+ཨ་ཁ་ར།	Accra
+དྷ་མ་སི་ཁོ་སི།	Damaskus
+ཡམ་སོ་ཁེ་རོ།	Yamoussoukro
+ཨོ་འ་ག་དོའུ་གོའུ།	Ouagadougou
+ཕིརི་ཊའུན།	Freetown
+ཡ་མ་སོན་གཙང་པོ།	Amazonfloden
+ཨ་པུ་ཅ།	Abuja
+ལཱོ་མེ།	Lomé
+པོར་ཊོ་-ནོ་བོ།	Porto-Novo
+ཨམ་མན།	Amman
+ཡོན་དྷི།	Yaoundé
+མ་ལ་བོ།	Malabo
+པེ་རུ་ཐེ།	Beirut
+ལིབ་རེ་ཝིལ།	Libreville
+མི་སི་ཁ་ཁྲི།	Muskat
+བང་གུའི།	Bangui
+ཀིན་ཤ་ས།	Kinshasa
+བ་ར་ཛ་བི་ལི།	Brazzaville
+བུ་ཇུམ་བུ་ར།	Bujumbura
+ནེ་ཁོ་ཤི་ཡ།	Nicosia
+ཀི་ག་ལི།	Kigali
+དྷོ་ཧ།	Doha
+ནའི་རོ་བི།	Nairobi
+ལི་ལོང་ཀུའེ།	Lilongwe
+ལུ་ས་ཀ།	Lusaka
+མ་ན་མ།	Manama
+མ་པུ་ཊོ།	Maputo
+ཀམ་པ་ལ།	Kampala
+ལའུན་ཌ།	Luanda
+མོ་རོ་ནི། (ཁོ་མོ་རོ་སུ།)	Moroni
+མ་པ་པན།	Mbabane
+མ་སི་རུ།	Maseru
+སློབ་གྲྭ།	Skola
+ཨེན་ཊ་ན་ན་རི་བོ།	Antananarivo
+སློབ་གྲྭ་ཆེན་མོ།	Universitet
+ག་བོ་རོ་ནི།	Gaborone
+ཧ་ར་རི།	Harare
+ཕི་རི་ཐོ་རི་ཡ།	Pretoria
+ལོ་ཡི་སི་གྲུ་ཁ།	Port Louis
+ཕིན་ཕང་སྤོ་ལོ།	Bordtennis
+སའོ་ཊོ་མེ།	São Tomé
+ཝིན་ཌི་ཧོཡིཀ།	Windhoek
+Wikipedia:Sandbox	Wikipedia:Sandlådan
+ཝིག་ཐོ་རི་ཡ། (སེ་ཞེལ།)	Victoria, Seychellerna
+ནང་།	Hus
+ཉི་ཕུའུ་ཏུན།	Neptunus (mytologi)
+གྲོང་རྡལ།	Småstad
+ཆུ་རྒྱུན།	Flod
+གཟི་རྩ་སྡེ་དགུ་	Jiuzhaigou
+གི་ཉོལ།	Guignol
+ཝུའུ་ལིན་ཡོན།	Wulingyuan
+ལུ་ཛེར་ན།	Luzern
+Category:ཉི་ཧུང་གི་ལོ་རྒྱུས།	Kategori:Japans historia
+ཨེ་མི་ལིས་ཏིས་ཁེན་སིན།	Emily Dickinson
+ཁུང་ཙི།	Konfucius
+Category:རྩིས་རིག	Kategori:Matematik
+Category:རྒྱ་གར་གི་ལོ་རྒྱུས།	Kategori:Indiens historia
+ཀྲུའུ་པི་ཐེ།	Jupiter (gud)
+ཏི་ཀྲུང་ཧའེ་རྒྱ་མཚོ།	Medelhavet
+ཧང་ཀྲོའུ།	Hangzhou
+ཡེ་ཤུའི་ཆོས་ལུགས།	Kristendom
+པེར་ལིན་ལྕགས་རི།	Berlinmuren
+གླང་ཆེན་ཁ་བབས།	Ganges
+འབྲས།	Ris
+བྷལ་ཏྲི་མོར།	Baltimore
+བྱ།	Fåglar
+པོ་ཅུ་གྷལ་གྱི་སྐད།	Portugisiska
+ཟླ།	Månad
+ཉི་ཧོང་སྐད།	Japanska
+གཙོ་ངོས།	Portal:Huvudsida
+Cpu	Central Processing Unit
+དེ་སྦེལ།	Decibel
+འབྲི་ཆུ	Yangtze
+སེ་པོ་རི་ཡ།	Sibirien
+ཧྥུ་རོན་སི་སི་ཀོ་ཀོའོ་ཡ།	Francisco de Goya
+ཧི་མ་ལ་ཡ	Himalaya
+མཚོ་མོ་ཝེ་ཁེ་ཐོ་རི་ཡ།	Victoriasjön
+པེ་གལ་མཚེའུ།	Bajkalsjön
+སལ་ཝ་ཌོར་དཱ་ལི།	Salvador Dalí
+ཝི་ཏོ་རེ་ཁར་པ་ཅིའོ།	Vittore Carpaccio
+ཝིན་སན་ཝན་ཀའོ།	Vincent van Gogh
+ཧོ་ཀུ་སའི།	Katsushika Hokusai
+ཧྥ་རིས་ད་ཀ་ལོ།	Frida Kahlo
+མེ་ཀེ་ལན་ཇུ་ལོ།	Michelangelo
+པ་བུ་ལོ་པི་ཀ་སོ།	Pablo Picasso
+ཨན་ཏོ་ནེལ་ལོ་ད་མེ་སི་ན།	Antonello da Messina
+ར་ཧྥ་ཨེལ་ལོ་སན་ཛིའོ།	Rafael (konstnär)
+ཧྥ་ར་ཨན་ཇེ་ལི་ཁོ།	Fra Angelico
+སན་ཌོ་པའོ་ཊི་ཅེ་ལི།	Sandro Botticelli
+མ་ཏི་སུའོ་བ་ཤོ།	Basho
+པི་ཨེར་ཇོ་སེ་ཧྥེ་པུ་རུ་དོང་།	Pierre-Joseph Proudhon
+མ་ཁ།	Mecka
+མྰ་སྰ་ཅིའོ།	Masaccio
+མའོ་ཙེ་ཏུང་།	Mao Zedong
+ཤེ་ཨན།	Xi'an
+པེ་རུ་ཇི་ནོ།	Perugino
+ཇང་ལུག་མེ་ལང་ཅོང་།	Jean-Luc Mélenchon
+ཁ་པུལ།	Kabul
+ལྷ་ས།	Lhasa
+ཆགས་སྦྱོར་བྱེད་པ།	Samlag
+ཆགས་པ་མཐོ་རུ་འཕེལ་བ།	Orgasm
+མཚན་ཉིད་རིག་པ།	Filosofi
+Category:Candidates for speedy deletion	Kategori:Snabbraderingar
+རྣོ་སྦྲེང་།	Piano
+ཇ།	Te
+མཱར་ཁོ་ཕོ་ལོ།	Marco Polo
+གཞུང་མེད་ལམ་སྲོལ།	Anarkism
+ཧྥ་ཤི་སིའི་རིང་ལུགས།	Fascism
+མི་རིགས་རིང་ལུགས།	Nationalism
+ནུབ་ས་ཧ་ར།	Västsahara
+ཅ་ཐའེ་ཅི།	Karthago
+ཨ་ཝི་ཉོང་།	Avignon
+Category:གཟའ་སྐར་རིག་པ།	Kategori:Astronomi
+ཏ་ཏ་ནེར་མཚོ་འགག	Dardanellerna
+གདང་ཡ་ཙེ།	Kalle Anka
+ས་ཧ་ར་བྱེ་ཐང་ཆེན་པོ།	Sahara
+སི་ཐི་རཱ་སི་བུར།	Strasbourg
+རྒྱུད་དྲུག	Gitarr
+མཚན་མཐུན་དགའ་རོགས་སྒྲིག་པ།	Homosexualitet
+ཧོ་མུར།	Homeros
+དི་ཇཱོན།	Dijon
+ལུ་ག་ནོ།	Lugano
+སངས་རྒྱས། (ཐ་སྙད།)	Buddha (titel)
+ལྷ་མེད་སྨྲ་བ་པོ།	Ateism
+ལི་པའེ།	Li Bai
+དཔེ་མཛོད་ཁང་།	Bibliotek
+ཁོ་སི་མོ་ཏུ་ར།	Cosimo Tura
+ཆབ་སྲིད་ཀྱི།	Politik
+ཆིན་རྒྱལ་རབས།	Qindynastin
+ཆིན་ཧྲི་ཧོང་།	Qin Shi Huangdi
+ཨོ་བི་རྡི།	Ovidius
+ཧན་རྒྱལ་རབས།	Handynastin
+ལིའུ་པང་།	Liu Bang
+ཧན་ཝུའུ་ཏི།	Han Wudi
+ཐོར་སི་ཐའེ།	Lev Tolstoj
+མར་ཁེ་སེ་རིང་ལུགས།	Marxism
+ཧན་གྱི་བརྒྱད་པ་གླེའུ་གོང་བུ་	Han Guangwudi
+རྒྱལ་སྲིད།	Monarki
+འཁྲབ་སྒྲགས།	Propaganda
+བྱ་སྒྲོ་སྤོ་ལོ།	Badminton
+རི་བོ་ཆི་ལི་མ་ཀྲ་ལུའོ།	Kilimanjaro
+ཁ་སྐྱེལ་པ།	Kyss
+ཡོན་རྒྱལ་རབས།	Yuandynastin
+ཁ་རི་སི་ཐོའོ་ཧྥུ་ཀོ་ལུན་སྤུ་སི།	Christofer Columbus
+སེང་གེ་ཁ་འབབ	Indus
+ཅིན་རྒྱལ་རབས།	Jindynastin (265–420)
+རྨ་ཆུ།	Gula floden
+སྣ།	Nos
+མིག	Öga
+ལུག	Tamfår
+མཚོ་ཕག	Delfiner
+གཏུམ་ཉ།	Hajar
+རྔ་མོང་།	Kameler
+འུ་འཐུང་སྲོག་ཆགས།	Däggdjur
+འབུ་གྲོག་མ།	Myror
+མར་ག་རེ་ཐ་ཁྲ་ཆེའར།	Margaret Thatcher
+སུང་ཐའེ་ཙུའུ།	Song Taizu
+མེ་ཚལ་དཀར་པོ།	Blomkål
+རྡོ་ལུ་མ།	Aubergine
+བྱ་གག	Egentliga andfåglar
+ཨ་མ།	Moder
+ཨ་ཕ།	Fader
+ཕྲུ་གུ	Barn
+ཇང་མར་ཀི་ཨེ་རོ།	Jean-Marc Ayrault
+ཨུ་རུ་སུའི་སྐད།	Ryska
+ཁྲིམས།	Juridik
+ཡོ་རོབ་གི་ལོ་རྒྱུས།	Europas historia
+ཧོའོ་མར་སིམ་བུ་སན།	Homer Simpson
+༄༅༎ ཡོངས་ཁྱབ་གསལ་བསྒྲགས་འགྲོ་བ་མིའི་ཐོབ་ཐང༌།	FN:s deklaration om de mänskliga rättigheterna
+ཆའོ་ཐོ།	Giotto di Bondone
+ཨན་ནི་བ་ལེ་ཁས་ར་ཅི།	Annibale Carracci
+རྒྱ་སྐད།	Kinesiska
+ཁྲག	Blod
+ཊོའུ་ལོའུ་སེ།	Toulouse
+ཆར་པ།	Regn
+ཟེན།	Zen
+རང་བྱུང་གི་ཚན་རིག	Naturvetenskap
+འགྲིམ་འགྲུལ་བརྡ་སྒྲོན།	Trafiksignal
+འཕྲེད་བརྒལ་ལམ།	Övergångsställe
+ཝིན་སུ་ཏོན་ཆུར་ཆེལ།	Winston Churchill
+སན་ཏོ་ཨོའོ་ཀོའོ་སེ་ཐིང་།	Augustinus
+ནེལ་སོན་མཱན་ཌེ་ལ།	Nelson Mandela
+མར་ཏིན་ལུ་ཏར་ཁིན།	Martin Luther King
+མེ་རི།	Vulkan
+སྤྲིན།	Moln
+དབྱིབས་རྩིས་རིག་པ།	Geometri
+བརྡ་སྤྲོད་ཀྱི་གཞུང་།	Grammatik
+རླུང་།	Vind
+དཔལ་འབྱོར་རིག་པ།	Nationalekonomi
+སྐད་བརྡ་རིག་པ།	Språkvetenskap
+སྒྲ་ཚན།	Fonem
+ཀེ་རི་སིའི་དབྱངས་གསལ་རེའུ་མིག	Grekiska alfabetet
+Category:པུ་ར་ག་རི་ཡ།	Kategori:Bulgarien
+རྩོམ་རིག་ཡི་གེའི་རིག་པ།	Litteratur
+Category:ཧྥ་རན་སི།	Kategori:Frankrike
+Category:རོལ་དབྱངས།	Kategori:Musik
+Category:རྩོམ་རིག	Kategori:Litteratur
+ཁང་ཆེན་དམར་པོའི་རྨི་ལམ།	Drömmar om röda gemak
+མན་གྷ།	Manga
+ཨེ་ལི་ཡེ་ཏེ།	Iliaden
+༼མ་ཧ་བ་ར་ཏ།༽	Mahabharata
+ཝ་དམར།	Rödräv
+འཁྱིལ་ཆུང་།	Trumpet
+ཨོག་ལེན།	Violin
+ཆགས་སྦྱོར་བྱེད་སྟངས་ཀྱི་ཐོ།	Lista över samlagsställningar
+ལག་གཡེམ།	Onani
+བཤང་སྒོའི་ཆགས་སྦྱོར།	Analsex
+སློབ་གསོ།	Bildning
+ཁྱིམ་ཚང་།	Familj
+ཕོ་གཞོན།	Man
+ཆང་ས།	Äktenskap
+བྲན་གཡོག་རིང་ལུགས།	Slaveri
+དམག་དོན།	Militär
+ཁོ་ཧྥེ།	Kaffe
+སིལ་ཁུ།	Juice
+སུན་ཀྲུང་ཧྲན།	Sun Yat-sen
+ཧོང་ཀོང་།	Hongkong
+ཀ་ར་ཆི	Karachi
+རིའོ་ཌེ་ཇ་ནེའུ་རའོ།	Rio de Janeiro
+སེ་ཨུལ།	Seoul
+ཧྲང་ཧའེ་གྲོང་ཁྱེར།	Shanghai
+རིག་གནས་གསར་བརྗེ་ཆེན་པོ	Kulturrevolutionen
+ཆིང་རྒྱལ་རབས།	Qingdynastin
+ཨར་ཁི་མེའུ་ཏེ་སི།	Arkimedes
+ཡོའུ་ཁེ་ལེ་ཏེ།	Euklides
+ཨུཀ་རཡི་ནི་སྐད།	Ukrainska
+ནམ་ཆོམ་སི་ཀེ།	Noam Chomsky
+པུ་ཏིང་།	Pudding
+ཁཱར་ལ་མར་ཁེ་སི།	Karl Marx
+མོ་ཤི།	Mose
+ཧིན་ཏུའི་ཆོས་ལུགས།	Hinduism
+ནུ་མ།	Kvinnobröst
+འོད་རིག་པ་	Ljus
+ཀེ་རི་སིའི་སྐད།	Grekiska
+ཐེ་ཇི་བང་སོ།	Taj Mahal
+བྱ་ཁྱིའུ།	Pingviner
+གློག་རྡུལ་འཕྲིན་སྒམ།	E-post
+ལྷ་གཅིག་ཆོས་ལུགས།	Monoteism
+ལྷ་མང་ཆོས་ལུགས།	Polyteism
+ཏ་ཟིག་གི་སྐད།	Persiska
+ཆོས་ལུགས།	Religion
+ཨབ་ར་ཧམ།	Abraham (patriark)
+རོས་ནེ་དེ་ཁར་ཏེ།	René Descartes
+རང་དབང་ལྷ་མོའི་འདྲ་བརྙན།	Frihetsgudinnan
+ལུམ་བི་ནི་	Lumbini
+འབར་མའི་སྐད།	Burmesiska
+གཅེར་བུ་བའི་ཆོས་ལུགས།	Jainism
+སོག་པོའི་སྐད།	Mongoliska
+པཱ་ཁི།	Baku
+ཡིའུ་ཐའེ་ཆོས་ལུགས།	Judendom
+ཐིམ་ཕུ།	Thimphu
+སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།	Bandar Seri Begawan
+དྷི་ལི།	Dili
+སིག་གི་ཆོས་ལུགས།	Sikhism
+ཏིན་ཏོ་རེ་ཏོ།	Tintoretto
+ཝིན་ཆིའང་	Vientiane
+ལོའོ་ཙེ།	Lao Zi
+མ་ལེ།	Malé
+ཡོ་ག	Yoga
+པི་སི་ཁེག	Bisjkek
+དུ་ཤང་པེ།	Dusjanbe
+སི་མ་ཆན།	Sima Qian
+ལུད་ཝིག་ཝིཏ་གེན་སི་ཏེ་ཡིན།	Ludwig Wittgenstein
+ཀྲུའུ་ཞི།	Zhu Xi
+འདུ་ཤེས།	Känsla
+སེམས་ཁམས་རིག་པ།	Psykologi
+ཐོ་མཱ་སི་ཨ་ཁི་ཝི་ནཱ་སི།	Thomas av Aquino
+ཕའོ་ལོ་ཝེ་རོ་ནེ་ཟེ།	Paolo Veronese
+བཅོམ་ལྡན་འདས།	Buddha
+མུ་ཧ་མད།	Muhammed
+ནགས་བྱི།	Ekorrar
+བྱ་མ་བྱི།	Flygekorrar
+ཁུང་ཙིའི་གཞུང་ལུགས།	Konfucianism
+ཏོའོ་ཅོའོ་ཆོས་ལུགས།	Taoism
+ཛོ་ར་སིའི་ཆོས་ལུགས།	Zoroastrism
+མིའི་ཀ་ལི།	Människans kranium
+སྐེ།	Hals
+ཁ།	Mun
+བྲང་ཁོག	Bröst
+ཐང་རྒྱལ་རབས།	Tangdynastin
+ཐང་ཀའོ་ཙུང་།	Tang Gaozong
+གནའ་གཞུང་རོལ་དབྱངས།	Klassisk musik
+ཝུའུ་ཙེ་ཐེན།	Wu Zetian
+ཐང་ཞོན་ཙུང་།	Tang Xuanzong
+ཨལ་ཧྥ།	Alfa
+ཨོ་མེ་ག	Omega
+མིའུ།	My
+མིང་རྒྱལ་རབས།	Mingdynastin
+ཀྲུའུ་ཡོན་ཀྲང་།	Zhu Yuanzhang
+ཧྥའེ།	Fi
+ཙོ་ལུའུའི་སྐད།	Zulu (språk)
+ཕའེ་ཐ་གྷོ་ར་ཟི།	Pythagoras
+ཕཱར་ཧྥེ་ནན།	Parthenon
+དབུལ་ཕོངས།	Fattigdom
+རྩ་རྫས་ཀྱི་དུས་འཁོར་རེའུ་མིག།	Periodiska systemet
+ཅོར་ཅི་ཐོན། (གུ་ཡ་ན།)	Georgetown, Guyana
+རང་ཤི་རྒྱབ་པ།	Självmord
+ཆགས་སྦྱོར་གྱི་མཁོ་ཆས།	Sexuella hjälpmedel
+ཆགས་སྦྱོར་གྱི་ཨ་ལས་པད་གོག	Sexdocka
+ཤིང་།	Träd
+ལེམ་ད།	Lambda
+ཆུར་བ།	Ost
+རྒུནའབྲུམ།	Druva
+ཞོ་ཁོག	Potatis
+སྲན་སེར།	Sojaböna
+འཕྲུལ་འཁོར།	Maskin
+གཅུ་འཛེར།	Skruv
+གསར་འགོད།	Journalistik
+ཚགས་པར།	Tidning
+རིག་གནས།	Kultur
+ལེགས་སྦྱར་སྐད།	Sanskrit
+སྨན།	Medicinsk vetenskap
+ས་ར་ཇི་བོ།	Sarajevo
+ཚྭ།	Salt
+Category:པུ་རུ་ཟིལ།	Kategori:Brasilien
+Category:རོ་མ་ནི་ཡ།	Kategori:Rumänien
+དབང་ཕྱུག	Shiva
+ཁྱབ་​འཇུག	Vishnu
+ཚངས་པ།	Brahma
+རྔ།	Trumma
+གླིང་བུ།	Flöjt
+རོལ་རྩེད།	Spel
+མིག་མངས་སྒོར་སྒོར།	Go (brädspel)
+ཁ་ར་ཏེ།	Karate
+འབོལ་འཇུ།	Judo
+རྩེད་ཆས།	Leksak
+གློག་བརྙན།	Film
+འགུལ་རིས་གློག་བརྙན།	Animering
+སོ་ནམ།	Jordbruk
+སྒྲ་	Ljud
+དྲོད་ཚད་	Temperatur
+དུས་ཚོད།	Tid
+ཤོག་བུ།	Papper
+གྲངས་ཀ།	Tal
+སྟོང་ཁེའུ།	Kilogram
+སྨི།	Meter
+སྐར་ཆ།	Sekund
+ཨ་ཤོམ།	Majs
+ནས།	Korn
+ཁེལ།	Kelvin
+སྤྱི་ཧྲན།	Liter
+རི་མོ།	Målarkonst
+འོད་པར་རྒྱབ་ཐབས།	Fotografi
+ཟློས་གར།	Teater
+ཞབས་བྲོ།	Dans
+ཁྲུང་ཆིན་གྲོང་ཁྱེར།	Chongqing
+ཐན་ཅིན ་གྲོང་ཁྱེར།	Tianjin
+ཝུའུ་ཧན་གྲོང་ཁྱེར།	Wuhan
+རྒྱལ་ཁབ་དག་གི་མིང་།	Lista över självständiga stater
+ལོ་རྒྱུས་བྱུང་གོང་གི་དུས་མཚམས།	Förhistorisk tid
+རྡོ་ཆས་སྤྱོད་པའི་དུས་རབས།	Stenåldern
+ཟངས་ཆས་སྤྱོད་པའི་དུས་རབས།	Bronsåldern
+ལྕགས་ཆས་སྤྱོད་པའི་དུས་རབས།	Järnåldern
+གནའ་རབས་ཀེ་རི་སི།	Antikens Grekland
+དོམ།	Björnar
+༄༅།། གངས་དཀར་སྲས་མོ།	Snövit
+༄༅།། ཞྭ་མོ་དམར་ཆུང་།	Rödluvan
+མིག་གིའི་ཙི་ཙི།	Musse Pigg
+མིན་ནིའི་ཙི་ཙི།	Mimmi Pigg
+མངལ་སྦུམ་པ།	Graviditet
+བེ་ཤིང་།	Eksläktet
+ཐང་ཤིང་།	Tallsläktet
+འབྲས་སྐྲན།	Cancer
+སྐྱུག་ཤལ་འགོས་ནད།	Kolera
+གྲོ་ནག	Råg
+གྲི་རྩེད།	Fäktsport
+ཡུག་པོ།	Havre
+གྲོ།	Vetesläktet
+འབྲུ་རིགས།	Sädesslag
+འོན་པ	Dövhet
+ན་ཚ།	Sjukdom
+བེ་རེ་སི་ཊི། (ཧྥ་རན་སི།)	Brest, Finistère
+གློ་གཅོང་གི་ནད།	Tuberkulos
+མ་ཅང་།	Mahjong
+ཁང་རྩིག་བཟོ་རིག	Arkitektur
+ཟམ་པ།	Bro
+མོ་ན་ལི་ས།	Mona Lisa
+ལྕགས་རི་རིང་པོ།	Kinesiska muren
+གློག་རིག་པ།	Elektricitet
+དཔའ་དམ།	Svärd
+ཝོ་ཁ་ལུ་ཟེ།	Vaucluse
+ཨུམ་བེར་ཏོ་ཨེ་ཀོ།	Umberto Eco
+ཁྲབ་ལྡན་འཁོར་ལོ།	Stridsvagn
+ཕོ་ལོ་ཁོའེ་ལོ།	Paulo Coelho
+མ་ཇུ་རོ།	Majuro
+མ་རིན་ལེ་པེན།	Marine Le Pen
+འབྲུག་ཚགས།	Litchi
+བེ་ཏ།	Kokospalm
+སེ་འབྲུ།	Granatäpple
+ཁམ་བུ།	Persika
+ཚ་ལུ་མ།	Apelsin
+སྤྲེལ་ཁམ།	Kiwi
+ཀྲོང་སྐད།	Zhuang (språk)
+དྲི་ཞིམ་ལྡན་པའི་རྩྭ།	Vanilj
+ཡུལ་གོར་སྐད།	Uiguriska
+ཀ་རཱ་ར།	Carrara
+འབུར་མདའ།	Kamaxel
+ཐའེ་པོ་ཆུ་བོ།	Tibern
+ནུ་ཤུབ།	Behå
+ཨན་ཇེ་ལི་ནའ་ཇོའོ་ལི།	Angelina Jolie
+ཨ་རབ་སྐད།	Arabiska
+ཧོན་ཤུ།	Honshu
+སྲུང་ཤུབས།	Kondom
+ཥིང་ཏ་ལ་	Palmer
+མོ་ཟ་རེལ་ལ། (ཆུར་བ།)	Mozzarella
+ཁོར་སི་ཁ་གླིང་ཕྲན།	Korsika
+པིས་ཐ།	Beta
+གྷེ་མ།	Gamma
+དེལ་ཐ།	Delta
+ཨེ་ཕི་སེ་ལོན།	Epsilon
+ཟེས་ཐ།	Zeta
+ཨིས་ཐ།	Eta
+ཐིས་ཐ།	Theta
+ཨའོ་ཐ།	Jota
+ཁེ་ཕི།	Kappa (bokstav)
+ནིའུ།	Ny
+ཁི་སའེ།	Xi
+ཨོ་མི་ཁི་རོན།	Omikron
+རོའུ།	Rho
+སིག་མ།	Sigma
+ཐོ།	Tau
+ཡུབ་སི་ལོན།	Ypsilon
+ཁའེ།	Chi
+ཕི་སའེ།	Psi
+ཀླུ་ཥིང་	Kaktusväxter
+གོ་རེ་ཤིང་འབྲས།	Brödfruktträd
+སྒྲོག་སྟེང་རྐང་རྩེད་སྤོ་ལོ།	Bordsfotboll
+ཧུའུ་ཅིན་ཐོའོ།	Hu Jintao
+ཞིས་ཅིན་ཕིང་།	Xi Jinping
+ཤ་བ་སྐེ་རིང་།	Giraff
+ཕོ་རོའོ་ཝང་སི་ཝལ་ཕེས་ཁོ་ཏེ་ད་ཟུར།	Provence-Alpes-Côte d'Azur
+མཆུ།	Läpp
+ཀོང་ཏུང་ཞིང་ཆེན།	Guangdong
+ཀོའོང་ཤི་ཀྲོང་རིགས་རང་སྐྱོང་ལྗོངས།	Guangxi
+པར་ཆས།	Kamera
+སྲམ་ངང་མཆུ་ཅན།	Näbbdjur
+རུ་པོལ།	Rubel
+དུ་ཅིའོ།	Duccio di Buoninsegna
+རྩིགས་རྨིགས།	Geckoödlor
+རྩངས་པ།	Ödlor
+ཁ་ཏ་ཉ། (ཞིང་ཆེན།)	Catania (provins)
+མེ་སི་ན། (ཞིང་ཆེན།)	Messina (provins)
+ཕ་ལེར་མོ། (ཞིང་ཆེན།)	Palermo (provins)
+དཔུང་པ།	Axel (kroppsdel)
+མི་དི་ཕི་རེ་ནེ།	Midi-Pyrénées
+ལི་ཞོའོ་ལུང་།	Bruce Lee
+Template:Link FA	Mall:Link FA
+ཁྲིམས་དཔོན།	Domare
+ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།	Guangzhou
+ཅང་རྩེ་མིན།	Jiang Zemin
+ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།	Ürümqi
+ཅང་སུའུ་ཞིང་ཆེན།	Jiangsu
+ཀྲེ་ཅང་ཞིང་ཆེན།	Zhejiang
+ཨེཏ་ན་རི་བོ།	Etna
+རེ་འབྱམས་མཆུ་རིང་།	Gavial
+ཇི་ཡོ་ཝ་ནི་བེལ་ལི་ནི།	Giovanni Bellini
+བོད་ཡུལ།	Tibet
+བོད་རང་སྐྱོང་ལྗོངས།	Autonoma regionen Tibet
+བསྟན་འཛིན་རྒྱ་མཚོ།	Tenzin Gyatso
+ཨར་ལེ་ཀི་ནོ།	Harlekin
+ཀོ་ལོམ་སྦི་ན།	Colombina
+ཐང་ཏ་ལོ་ནེ།	Pantalone
+ལག་ཐོག་ཁ་དཔར།	Mobiltelefoni
+འགག་བརྡར་གྱི་སྒྲ།	Affrikata
+ཁང་ཞི། (གོང་མ།)	Kangxi-kejsaren
+བགྲེས་སོང་གི་ལོ་ཚོད།	Myndig
+ཧོ་ནོ་ལུ་ལུ།	Honolulu
+ཀོ་རི་ཡ།	Korea
+ཀོའོ་ཤིན་ཅན།	Gao Xingjian
+སྤྱང་ཀི	Varg
+ཕོང་ཡང་།	Pyongyang
+ཡེ་དེན་གྱི་ལདུམ་རའི་སྐོར།	Edens trädgård
+༩ (གྲངས་ཀ།)	9 (tal)
+ཆན་ལུང་། (གོང་མ།)	Qianlong-kejsaren
+ཧའེ་ལུང་ཅང་ཞིང་ཆེན།	Heilongjiang
+པོ་དོལ་སིག	Podolsk
+བོ་ནོ་བོ།	Bonobo
+པུ་ཁ་རེ་སིད།	Bukarest
+ཨཱལ་གྷོར།	Al Gore
+ལུའུ་བུ་ཝི་ཕོ་བྲང་།	Louvren
+ཐེམ་ཟི་གཙང་པོ།	Themsen
+ཐིས་རན།	Tirana
+བོང་བུ།	Åsna
+སི་ཁྲོན་ཞིང་ཆེན།	Sichuan
+ཡེ་ཤུའི་འཁྲུངས་སྐར།	Jul
+ལ་ཊིན་ནས་ཆད་པའི་ཡུལ་སྐད།	Romanska språk
+སེ་ཏེའི་ཧྥུ་འོ་པོ་སེ།	Steve Jobs
+ཧིན་རྡུ་དང་ཡོ་རོབ་ཀྱི་སྐད།	Indoeuropeiska språk
+སྟག	Tiger
+ཅི་སི་ནའུ།	Chișinău
+རང་བྱུང་གྲངས།	Naturliga tal
+སྤྱི་ཚོགས་རིག་པ།	Sociologi
+རྒྱལ་སྤྱིའི་སྒྲ་རྟགས།	Internationella fonetiska alfabetet
+ཧའོ་པེ་ཞིང་ཆེན།	Hebei
+ཨོ་རི་ས།	Odisha
+པན་ཇབ།	Punjab (Indien)
+མེ་ཊི་ཛི།	Metz
+རི་འཛེག་ལུས་རྩལ།	Klättring
+ཚྭ་མཚོའི་གྲོང་ཁྱེར།	Salt Lake City
+༧ (གྲངས་ཀ།)	7 (tal)
+༨ (གྲངས་ཀ།)	8 (tal)
+Jean Auguste Dominique Ingres	Jean-Auguste-Dominique Ingres
+གཟའ་འཁོར།	Vecka
+ཤ་བ།	Hjortdjur
+སྒོག་ལོག	Vitlök
+མིའི་རིགས་དཔྱད་པའི་རིག་པ།	Antropologi
+རྡོ་ཀུབ།	Gurka
+ཝུ་ལན་བ་ཐུར	Ulan Bator
+ཨ་ཧྲི་ཁ་པད།	Asjchabad
+དཀར་པོ།	Vit
+ནག་པོ།	Svart
+ཙོང་རིལ།	Lök (art)
+༦ (གྲངས་ཀ།)	6 (tal)
+ལྡུམ་སྒོང་།	Tomat
+ཨ་ཊི་ལཱན་ཊཱ།	Atlanta
+ཝེ་ལིང་ཐོན།	Wellington
+ཇི་མི་ཀར་ཀྲར།	Jimmy Carter
+ཝ་ལེ་ཐ།	Valletta
+༡༠ (གྲངས་ཀ།)	10 (tal)
+ཇོའོར་ཇེ་ཁ་ལོན་ནེ།	George Clooney
+ཨིལ་དཨཱཨུཥ	Lila Downs
+ཤ་གཟིག	Gepard
+ནམ་དུས།	Årstid
+ཝན་ཁུ་ཝེར།	Vancouver
+འུག་པ།	Ugglor
+ཝ་ཐི།	Watt
+རྒྱལ་བ་ཐུབ་བསྟན་རྒྱ་མཚོ།	Thubten Gyatso
+མཁས་གྲུབ་རྒྱ་མཚོ་	Khedrup Gyatso
+ཤིང་སྟག་པ།	Björkar
+ཚུལ་ཁྲིམ་རྒྱ་མཚོ་	Tsultrim Gyatso
+ལུང་རྟོགས་རྒྱ་མཚོ་	Lungtok Gyatso
+པུ་ཤུད།	Härfågel
+བྱམས་སྤེལ་རྒྱ་མཚོ་	Jamphel Gyatso
+ཝོལ།	Volt
+ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་	Ngawang Lobsang Gyatso
+ཡོན་ཏན་རྒྱ་མཚོ་	Yonten Gyatso
+དགེ་འདུན་གྲུབ།	Gedun Drub
+གནམ་གཤིས་རིག་པ།	Meteorologi
+སེ་དྲོད།	Grad Celsius
+ཅོལ།	Joule
+པི་རི་སི་ཊི་ན།	Pristina
+ཨམ་ཕེར།	Ampere
+སྐྱ་ཀ།	Skata
+སྣ་མའི་མེ་ཏོག	Orkidéer
+བསེ་སྦྲང་།	Kackerlackor
+སོམ་ཤིང་།	Ädelgranssläktet
+ཕོ་རོག	Korp
+ན་གི།	Myrkottar
+ཁུ་ལོམ།	Coulomb
+ཁུ་བྱུག	Gökar
+རྒྱལ་མོ་རྔུལ་ཆུ།	Salween
+གཡག	Jak
+ལི་ཤི།	Kryddnejlika
+བྱང་སྣེའི་སྐྱར་རྟ།	Silvertärna
+གོ་སྙོད།	Kummin
+༄༅།། ཨོ་སེ་ལོ།	Othello
+སྟག་ཆུ་སྲིན།	Späckhuggare
+ཁོ་ཁེ་གླིང་ཚོམ།	Cooköarna
+གྲུམ་བ།	Europeisk grävling
+སྐྱར་མོ།	Måsfåglar
+མི་ཁ་ཨིལ་ཕ་ཁུ་ནིན།	Michail Bakunin
+ཨའི་ནུ་སྐད།	Ainu (språk)
+ལྕ་ཚལ།	Selleri
+འདམ་མྱུག	Sparris
+ཟེ་མོ་སེར་པོ།	Mustela
+གནའ་རབས་མ་ཡ།	Mayakulturen
+ལས་རིགས།	Yrke
+དྲི་ཞིམ་སོན་ཅན།	Anis
+ཁང་བྱིའུ།	Sparvfinkar
+ཧན་ཧྥེ།	Han Feizi
+ཧོང་ཏི།	Huang-Di
+མེར་ཁྲེས་ཨ་ཁྲེ་ས་རེས།	Martti Ahtisaari
+ཆུ་ལྷ།	Narcissläktet
+རྒྱ་ནག	Kina (region)
+ཅོ་ཀ།	Lärkor
+ཆུ་སྲམ།	Utter
+གསའ་གཟིག	Snöleopard
+མཚོ་གཟིག	Sälar
+སེལ་འོ་སུ་འན་གྱི་སྐད	Schlesiska
+ཨོ་སི་ཀར་ཝེལ་ཌེ།	Oscar Wilde
+ཡ་རེན།	Yaren
+༩༣ (གྲངས་ཀ།)	93 (tal)
+ཡོ་ས་བུ་སོན།	Yosa Buson
+མར་ཀུས།	Markus (evangelist)
+ཁུར་འཛིང་།	Boxning
+གྲི།	Kniv
+རྐྱང་ཁྲ།	Zebror
+ཁ་ཆེའི་ཆོས་ཁང་།	Moské
+འབྲུག་པའི་སྐད།	Dzongkha
+ཆུ་ཤིང་	Basjoohampa
+ཡུལ་སྐད།	Dialekt
+ལི་ཡོན་ཁྲོའོ་ཚི་ཁི།	Lev Trotskij
+སུག་སྨེལ།	Kardemumma
+ཤུག་པ་	Platycladus orientalis
+འགྲེམས་སྟོན་ཁང་།	Museum
+སྐྲན་	Carcinom
+དོམ་ཁྲ།	Jättepanda
+བྱང་སྣེའི་དོམ་དཀར།	Isbjörn
+གཞུ་ཚད།	Radian
+ལག་པ།	Hand
+ཏུའུ་ཧྥུ།	Du Fu
+བལ་པོའི་སྐད།	Nepali
+པེ་ཏྲོ།	Petrus
+ལོ་མ།	Blad
+སི་ཅི་ལིའི་སྐད།	Sicilianska
+བལྤ་རཨིསོ	Valparaíso
+གའཀ	Oaxaca
+ཕུ་ན་ཕུ་ཊི།	Funafuti
+ལྷ་ཆོས་རིག་པ།	Teologi
+པ་བུ་ལོ་ནེ་རུ་དཱ།	Pablo Neruda
+བརྡ སྐད	Teckenspråk
+པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།	Port-au-Prince
+བོད་ཀྱི་སྐད་ཡིག།	Tibetanska
+ཐ་སི་མ་ནི་ཡཱ།	Tasmanien
+རོལ་ཆ།	Musikinstrument
+ངང་དཀར།	Svanar
+མའ་མའོ་སྒྲི་ཨ་མ་སྒྲེན་ཅ་ཊི།	Mahmoud Ahmadinejad
+ཧི་རོ་ཧི་ཐོ།	Hirohito
+ཆུ་རྟ།	Flodhäst
+ཁེཡོ་ཐྲོ།	Kyoto
+ཨལ་བྷེར་ཀ་མུས།	Albert Camus
+རྒྱ་སེ།	Rossläktet
+ཁིང་སི་ཐོན། (ཇ་མའི་ཀ།)	Kingston
+གཟིག	Leopard
+བསེ་རུ།	Noshörningar
+ཤིན་ཅང་ཡུ་གུར་རང་སྐྱོང་ལྗོངས།	Xinjiang
+སཱན་ཏོ་ཌོ་མིང་གོ	Santo Domingo
+སེ་ཡབ།	Papaya
+རི་བོ་ཁ་ཕི་ཐུའོ་ཉི།	Capitolium
+གཏམ་དཔེ།	Ordspråk
+ཨ་ངྷི་སེའུ།	Odysséen
+ཁུ་ཝི་ཐི། (རྒྱལ་ས།)	Kuwait (stad)
+ཀྲོའུ་རྒྱལ་རབས།	Zhoudynastin
+འབྲས་ལྗོངས་སྐད།	Sikkimesiska
+པ་རའི་པི་ཏ།	Brad Pitt
+ཏི་ཏི་ཁ་ཁ་མཚེའུ།	Titicacasjön
+ཁོ་ལུམ་པོ།	Colombo
+ཨཱལ་མ་ཊི།	Almaty
+ཤ་བ་ནོག་ལྡན།	Älg
+ཉེན་རྟོག་པ།	Polis
+ཧོ་ཁའི་དོ།	Hokkaido
+བཅའ་ལྒ།	Ingefära
+ནོར་བྷེལ་བྱ་དགའ།	Nobels fredspris
+དངོས་པོ།	Materia
+ཧེག་ཐ།	Hektar
+དགོད་བྲོ།	Humor
+སྨུག་མ།	Bambu
+རྒྱལ་སྤྱིའི་སྐད།	Interlingua
+སུའུ་ཧྲི།	Su Shi
+ཧོང་ཧྲན་རི་བོ།	Huangshan
+ལྕང་མ།	Videsläktet
+མེ་ཏོག་མེད་པའི་ཤིང་ཏོག	Fikon
+པུ་རུའི་ཀྲི་ཐོན།	Bridgetown
+རྩོམ་པ་པོ།	Skribent
+དབྱངས་ཡིག	Vokal
+ཨ་པི་ཡ།	Apia
+སེནཊི་ཇཱོན་སི། (ཨེན་ཊི་གུའ་དང་བར་བུ་ཌ།)	Saint John's, Antigua och Barbuda
+རུ་ཟོ།	Roseau
+དྲེད་མོང་།	Brunbjörn
+ཧན་ཉི་པ།	Hannibal
+པོ་རོ་ཊི་མོ་རེ་སི་བི།	Port Moresby
+སྨད་འཚོང་མ།	Prostitution
+ཀྲོང་མི།	Zhuang
+ཨང་སན་སུའུ་ཁེའི།	Aung San Suu Kyi
+༄༅།། ཡོ་ཧ་ནན་གྱིས་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Johannesevangeliet
+ཧྥ་རན་སི་ཡི་ས་ཁུལ་།	Frankrikes regioner
+མཛེ་ནད།	Lepra
+རྔོན་པ།	Jakt
+གྲེང་ལུང་།	Jackie Chan
+༡༢ (གྲངས་ཀ།)	12 (tal)
+དར་ཁྱབ་ཆེ་བའི་རོལ་དབྱངས།	Popmusik
+ལྕགས་འཛེར།	Spik
+ཤ་ལོ་མོ།	Salomo
+ཨ་ཧྥན་ན།	Athena
+༡༡ (གྲངས་ཀ།)	11 (tal)
+༡༣ (གྲངས་ཀ།)	13 (tal)
+དགེ་རྒན།	Lärare
+༼ར་མ་ཡ་ན།༽	Ramayana
+ཨ་པོ་ལུའོ།	Apollon
+རྒྱལ་དབང་སྐུ་འཕྲེང་རིམ་བྱོན།	Dalai lama
+ཧྥ་རན་སི་ཨི་སི་བྷེ་ཀན།	Francis Bacon
+༡༠༠ (གྲངས་ཀ།)	100 (tal)
+པུས་མོ།	Knä
+པོལ.ཀའོ་ཀེང་།	Paul Gauguin
+ཧའི་གུ།	Haiku
+ཝེ་ལ་གྲུ་ཁ།	Port Vila
+མཚོ་འགག	Sund
+ཞོག་མངར།	Sötpotatis
+ཡང་ཀོང་།	Rangoon
+གསལ་བྱེད།	Konsonant
+ཀའོ་ལུའུ།	Gallien
+ས་མུ་རའི།	Samuraj
+ཡོ་ཀོ་ཧ་མ།	Yokohama
+༡༤ (གྲངས་ཀ།)	14 (tal)
+ཆུ་ཀུབ།	Vattenmelon
+༡༥ (གྲངས་ཀ།)	15 (tal)
+༡༨ (གྲངས་ཀ།)	18 (tal)
+སུ་ཝ།	Suva
+ནུ་ཁུ་ཨ་ལོ་ཧྥ།	Nuku'alofa
+རོ་མའི་ཨང་ཀི།	Romerska talsystemet
+པེའུ་ས་མཚོད་རྟེན་གསེག་མ།	Lutande tornet i Pisa
+ཕྲ་མཐོང་དཔལ་འབྱོར།	Mikroekonomi
+པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།	Port of Spain
+ཙི་ཙི།	Möss
+དོ་ཁྱི།	Tibetansk mastiff
+ལི་ཝང།	Orange
+ཧེར་ཚི།	Hertz
+ལག་ཆ།	Verktyg
+སྨན་པ།	Läkare
+ཆེ་མཐོང་དཔལ་འབྱོར།	Makroekonomi
+ལའོ་ཨག	Laoag City
+༡༩ (གྲངས་ཀ།)	19 (tal)
+༄༅།། ལུ་ཀཱ་ཡིས་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Lukasevangeliet
+ཨ་ཇཀ་སིའོ།	Ajaccio
+༡༧ (གྲངས་ཀ།)	17 (tal)
+ཆུ་སྲིན་ལག་བརྒྱད།	Åttaarmade bläckfiskar
+ཧོ་སྦར་ཐེ།	Hobart
+མ་ལ་སུང་རྒྱུགས་འགྲན།	Maraton
+༡༦ (གྲངས་ཀ།)	16 (tal)
+༢༠ (གྲངས་ཀ།)	20 (tal)
+Radio Free Asia	Radio Free Asia
+སི་པི་རིང་ཧྥིལ་ཌི། (ཨོ་ཧེའོ།)	Springfield, Ohio
+ཁྲིམས་རྩོད་པ།	Advokat
+སུ་མོ་སྦེ་ག	Sumobrottning
+འཐབ་རྒྱུག་རིམ།	Troposfär
+ནཱན་སི།	Nancy
+ཧོ་ཉི་ཡ་ར།	Honiara
+སྨོན་ལམ།	Bön
+ཨན་ཧུའེ་ཞིང་ཆེན།	Anhui
+མཚོ་གླང་།	Valross
+སྤྲ།	Orangutanger
+དཔྲལ་བ།	Panna (anatomi)
+ནང་སོག་རང་སྐྱོང་ལྗོངས།	Inre Mongoliet
+ཤོ་ཏོ་ཀན་ཁ་ར་ཏེ།	Shotokan
+གི་ཆིན་ཧྥུ་ན་ཀོ་ཤི།	Gichin Funakoshi
+ཐང་ཆེན་དམར་པོ།	Röda torget
+ཧེ་རཱ་ཁི་ལེ་ཁྲི་ཟི།	Herakleitos
+ཟླ་ཆུ།	Mekong
+པིན་ཆེན་ཆུ་ཚོད།	Big Ben
+པ་སི་ཐེར།	Basseterre
+དུས་དེབ།	Tidskrift
+དཱ་བིད། (གསུང་རབ།)	Kung David
+ཁིན་སི་ཐོན།	Kingstown
+རྩ་བ།	Rot
+ཞུ་མཁན།	Japansk mispel
+མོལ།	Mol
+སན་ཐ་ཇོར་ཇི། (གི་རི་ན་ཌ།)	Saint George's
+༄༅།། ཧམ་ལེ་ཐྲི།	Hamlet
+ཉི་གདུགས་	Paraply
+འུ་སུ།	Koriander
+ལིའུ་ཞ་པོ།	Liu Xiaobo
+དྲེལ།	Mula
+ཁ་སི་ཐྲིས།	Castries
+ཧྥུའུ་ཅན་ཞིང་ཆེན།	Fujian
+བྱི་ལ་དོམ་ཆུང་།	Kattbjörn
+སོག་པོ།	Mongoler
+ཞོན་ཙང་།	Xuanzang
+ཧའེ་ནན་ཞིང་ཆེན།	Hainan
+ཨིལ་ཁས་ར་ཝ་ཇིའོ།	Caravaggio
+གཡའ་ཤིང་།	Lönnsläktet
+༤༠ (གྲངས་ཀ།)	40 (tal)
+ཀན་སུའུ་ཞིང་ཆེན།	Gansu
+དབྱིན་ཇིའི་མི།	Engelsmän
+སྦེ་ག	Brottning
+གྲུ་མོ།	Armbågsled
+ཆོས་དཔོན།	Präst
+རི་ཞི།	Leopardkatt
+ཝུའུ་ཞི།	Wuxi
+མ་ཧེ།	Vattenbuffel
+རྒྱ་མི།	Hankineser
+༣༠ (གྲངས་ཀ།)	30 (tal)
+ཤོག་བྱ།	Drake (leksak)
+བདེ་བར་གཤེགས་པའི་གནས།	Nirvana
+ཐོ་ཕུ་རིག་པ།	Topologi
+པགས་གཙགས་རི་མོ།	Tatuering
+ཌེ་སི་མོན་ཌི་ཏུ་ཏུ།	Desmond Tutu
+ཙན་པི་ཞི་གཙང་པོ།	Zambezi
+ཨའི་ཁི་དོ།	Aikido
+ཝེ་ཁེ་རིག་མཛོད་ནང་འཕྲད་སྲིད་པའི་དཀའ་རྙོག་སེལ་ཐབས།	Wikipedia:Vanliga frågor
+ཨེ་ར་ཐོ་སི་ཐེ་ནེ་སི།	Eratosthenes
+ཡུན་ནན་ཞིང་ཆེན།	Yunnan
+ས་ངོས་སྙོམས་ཐིག	Horisont
+མོའོ་ཀའོ་བྲག་ཕུག	Mogaogrottorna
+པོམ་པེ་ཡི།	Pompeji
+དམངས་ཁྲོད་རོལ་དབྱངས།	Folkmusik
+སྐྱེས་ཆེན་དམ་པ་ཨན་དྲི་ཡཱ།	Andreas (apostel)
+ཧྲན་ཏུང་ཞིང་ཆེན།	Shandong
+འདོད་ཆགས་ཀྱི་མནར་གཅོད་བཏང་བ།	Sexuellt övergrepp
+རྟ་བླ།	Enkelfotingar
+མིའི་རིགས་རྒྱུད་རིག་པ།	Etnologi
+སྦྲོ་སྦྲོ།	Dront
+སྐྱེས་ཆེན་དམ་པ་མད་ཐཱ།	Matteus
+རང་བྱུང་ཁོར་ཡུག	Miljö (omgivning)
+རྐང་ཤུབས།	Strumpor
+ཧའོ་ནན་ཞིང་ཆེན།	Henan
+མིག་གི་རྫི་མ།	Ögonbryn
+ལའུ་ཉིང་ཞིང་ཆེན།	Liaoning
+ཧ་མའེ་སྒྲི་ཁར་སའེ།	Hamid Karzai
+མས་ཋ་ཀ་རོའེ་ནིང་།	Matt Groening
+ཡ་ཀོབ་ནི་ཟེ་བད་ཡཱ་ཞེས་བྱ་བའིབུ།	Jakob (apostel)
+ཤེད་འཕྲུལ།	Motor
+ལྗེས་ཧ་སྒྲིའམ།	Jihad
+ཕ་སི་ཁལ།	Pascal (måttenhet)
+ལྷ་དབང་ཆབ་སྲིད་ལམ་ལུགས།	Teokrati
+སྐྲག་པ།	Rädsla
+ཐར་ཤི་ཤ།	Tarsis
+ཡེ་སེ།	Jishaj
+གཤིན་རྗེ།	Yama
+སིད་ནེ་ཟློས་གར་ཁང་།	Operahuset i Sydney
+ཅི་ལིན་ཞིང་ཆེན།	Jilin
+ཡར་ཀླུང་གཙང་པོ་	Brahmaputra
+གཡུང་དྲུང་།	Svastika
+པ་ར་མི་ཏ།	Jackfrukt
+ཧུའུ་ནན་ཞིང་ཆེན།	Hunan
+མཚོ་སྔོན་ཞིང་ཆེན།	Qinghai
+ཡུལ་གོར་མི།	Uigurer
+ཧྲོའུ་སི།	Sushi
+ཨུ་སའེ་ལི་སི།	Osiris
+རང་དབང་ཁྲོམ་ར་	Fri marknad
+ཝང་གྷ་རི་མཱ་ཐཱི།	Wangari Maathai
+སོར་གདུབ།	Fingerring
+ཧུའུ་པེ་ཞིང་ཆེན།	Hubei
+ཧྲན་ཞི་ཞིང་ཆེན།	Shanxi
+མཁུར་ཆོས།	Kind
+ཨོ་མུ།	Ohm
+བཙན་གཡེམ།	Våldtäkt
+ཀུད་ཀྲོའུ་ཞིང་ཆེན།	Guizhou
+ཕེ་ཐིར་ནེའུ་སི།	Petronius
+འཁྲུངས་སྐར།	Födelsedag
+ཨེག་སི་-ཨེན་-ཕོ་རོའོ་ཝང་སི།	Aix-en-Provence
+ཨ་མའི་དུས་ཆེན།	Mors dag
+གྲོག་ཆུ།	Bäck (vattendrag)
+ཨན་ནུའུ་པེ་སི།	Anubis
+ཌི་ཛི་ཨ་ནོ་ཝ་ཅེ་ལི་ཡོ།	Tizian
+ལྷ་མོ་ཝེ་ནུ་སི།	Venus (gudinna)
+ལྦུ་སིམ་ཁུ་ནག	Pepsi
+མེ་ཚལ་ལྗང་ཁུ།	Broccoli
+ཀྲོའང་ཙེ།	Zhuang Zi
+རྩ་འཁུམ་ནད།	Stelkramp
+རྒྱལ་ཡུམ་ཚི་ཞི།	Änkekejsarinnan Cixi
+ཧྲའན་ཞི་ཞིང་ཆེན།	Shaanxi
+༢༣ (གྲངས་ཀ།)	23 (tal)
+སློབ་ཕྲུག་	Student
+མ་ལིའུ་ཅ་མཚོ་འགག	Malackasundet
+ཐེག་པ་ཆེན་པོ།	Mahayana
+མེ་ཀྲི་ལོན་མཚོ་འགག	Magellans sund
+ལུའོ་སའེ་རྡོ་རིང་།	Rosettestenen
+སན་པི་ཏི་པོག (ཧྥོ་ལོ་རི་ཌ།)	Saint Petersburg
+མིང་ལྡོག	Smeknamn
+འཁྱོག་མདའ།	Vevaxel
+སྙན་ངག་མཁན།	Poet
+ཅི་ཅོ་ལི་ན།	Ilona Staller
+ཨི་ཏ་ལིའི་མི།	Italienare
+སྒྱུ་རྩལ་གྱི་བྱུང་ཚུལ།	Konstens historia
+ཀེའུ།	Gräslök
+ཁ་འབུད།	Munspel
+གླང་དམར།	Red Bull
+འགག་སྒྲ།	Klusil
+ཨན་ན་ཐོའོ་ལི་ཡ།	Anatolien
+ཨ་རོན།	Aron
+ཆེང་མྰེ།	Chiang Mai
+Template:Taxobox	Mall:Taxobox
+ཧར་རྗེར།	Hergé
+ཏིན་ཏིན།	Tintin
+Category:རྒྱལ་སྲིད།	Kategori:Monarki
+Category:བརྩེ་དུང་།	Kategori:Kärlek
+མོ་ན་ཁོ་གྲོང་།	Monaco-Ville
+Category:ཕོ་ལན་གྱི་ཙུང་ཐུང་།	Kategori:Polens presidenter
+ལུ་མེ་ཨེར་གཅེན་གཅུང་།	Auguste och Louis Lumière
+ཅང་ཤིའི་ཞིང་ཆེན།	Jiangxi
+སྡེར་མ།	Tallrik
+ཉིང་ཤ་ཧུའི་རིགས་རང་སྐྱོང་ལྗོངས།	Ningxia
+འབྲུག་གྲུ།	Drakbåt
+ཡྰང་ཀྲོའུ།	Yangzhou
+ཀྲེན་ཅང་།	Zhenjiang
+ཨ་མོན།	Amon
+མི་ལ་རས་པ་	Milarepa
+ཕག་རྒོད།	Vildsvin
+འཁོར་གཡུགས་གཙོག་སྐྱོན།	Miljöförstöring
+དབྱངས་ཅན་མ།	Sarasvati
+ཞི་བདེ་རིང་ལུགས།	Pacifism
+སི་ནོ་པེ་ཡིའི་དིའོ་ཇེ་ན།	Diogenes
+འདི་ན་ཡང་དྲག་ཏུ་མཆོང་ལྡིང་བྱེད་བཞིན་པའི་སྙིང་གསོན་པོ་ཞིག་འདུག	Babil
+མེ་ཏོག་ལུག་མིག	Krysantemumsläktet
+༄༅།། ཨེ་ནེ་རྡི།	Aeneiden
+འགྱུར་མིང་།	Pseudonym
+མག་དལ་མ་མིར་ཡམ།	Maria från Magdala
+ཟི་ལིང་།	Xining
+༼ནུབ་ཕྱོགས་སུ་བསྐྱོད་པའི་རྣམ་ཐར།༽	Färden till Västern
+༼རྒྱལ་ཁབ་གསུམ་གྱི་གཏམ་རྒྱུད།༽	Romansen om de tre kungadömena
+ཆུ་ངོགས་གཏམ་རྒྱུད།	Berättelser från träskmarkerna
+པོ་ཏ་ལ།	Potalapalatset
+མཚོ་རྟེའུ།	Sjöhästar
+ལིའུ་པོལ་ཌི་བོན་ཪཱན་ཀེ།	Leopold von Ranke
+གློག་དཀྲོལ་རྒྱུད་མང་།	Elgitarr
+སིབ་བི།	Mässling
+ལག་སྦྲེང་།	Dragspel
+༢༠༡༤ལོའི་འཛམ་གླིང་བུམ་པའི་རྐང་རྩེད་སྤོ་ལོའི་མགྲན་སྡུར།	Världsmästerskapet i fotboll 2014
+རྦིར་མིང་ཧམ། (ཨ་ལ་པ་མ།)	Birmingham, Alabama
+ཁོང་ཁྲོ།	Vrede
+དབྱི་ཞི་སི།	Isis
+༢༥ (གྲངས་ཀ།)	25 (tal)
+༢༤ (གྲངས་ཀ།)	24 (tal)
+༦༠ (གྲངས་ཀ།)	60 (tal)
+སྐྱུར་ཙི་ཆེན་པོ།	Pompelmus
+ཊ་བི་རི་ཛ།	Tabriz
+ཏག་སེ།	Poker
+བེང་ག་ལི།	Bengalen
+ཨའི་ཆི་ཞེས་པའི་སྲིད་འཛིན་ས་ཁུལ།	Aichi prefektur
+མ་ནི།	Bönekvarn
+སྰ་ཝན་ཐི་ཨྰར་ཧེན་ཡ་སུ།	Svante Arrhenius
+འབྲོག་ལས།	Djurskötsel
+ན་སོ་ལོན་པ།	Vuxen
+ཡུ་དཱ་དབྱི་སི་ཀར།	Judas Iskariot
+མཱོན་ཊི་རེ།	Monterrey
+ཆུ་ཁམས་འཁོར་སྐྱོད།	Vattnets kretslopp
+ནོ་ཨ།	Noa
+ལའེ་ཧྥན་ཐ།	Levanten
+ཀུབ་མངར།	Melon
+མགྱོགས་ཟས།	Snabbmat
+ཁ་དབྲག	Gaffel
+ཐུར་མ།	Sked
+ཟ་ཐུར་རམ་ཁོ་ཙེ།	Ätpinnar
+གེབ་རི་ཨེལ།	Gabriel
+བ་སྤུའི་མེ་ཏིག	Jasminsläktet
+ལ་རོ་ཅེ་ལེ།	La Rochelle
+བྱང་སྣེའི་ཝ་མོ།	Fjällräv
+ཀྲུང་གོའི་རྒྱལ་རབས།	Kinas historia
+ཨ་ན་ཁི་ཟཱ་གྷོ་རཱ་ཟི།	Anaxagoras
+༄༅།། རའོ་མེའུ་ཨོ་དང་ཇོའུ་ལིའུ་ཡ་ཐི།	Romeo och Julia
+རྗེན་ཚལ་	Sallat
+ཁེན།	Candela
+ཏེ་ལོ།	Skunkar
+༢༦ (གྲངས་ཀ།)	26 (tal)
+པཎ་ཆེན་ཨེར་ཏི་ནི་ཆོས་ཀྱི་རྒྱལ་མཚན་	Chökyi Gyaltsen
+གློག་རྡུལ་ཝོལ།	Elektronvolt
+ཨེམ་ཕི་ཌོལ་ཁི་ཟི།	Empedokles
+ཧོ་ལུའུ་སི།	Horus
+ཧན་སེ་ཁལ་སེན།	Hans Kelsen
+ཧེན་རིག་ཆི་ཧཱ་རཱར།	Heinrich Harrer
+ཡུས་ཅིན་མེ་ཏོག	Tulpansläktet
+མཚོ་ལེ།	Nautisk mil
+ཝི་ཆི།	Vichy
+ཝུའུ་དབྱི་ཧྲན་གྲོང་ཁྱེར།	Wuyishan (stad)
+བདེ་འཇགས་དབུགས་སྒྲོ།	Krockkudde
+ལང་ཚོ་དར་བབས།	Pubertet
+མཚན་ཉིད།	Definition
+ཕོ་རོའོ་ཝང་སི།	Provence
+འཇོན་མི།	Homo habilis
+མཁའ་སྐྱོད་བུ་མོ།	Kabinpersonal
+ཨའི་ནུ་མི།	Ainu
+པེ་ཁེར།	Becquerel
+ལྷོ་སྤྲ།	Australopithecus
+སི་ཝེད།	Sievert
+སྒོ་ཕྱུགས་སེམས་ཅན།	Boskap
+པཱར།	Bar (måttenhet)
+ཤིས་ས་སྤང་མ།	Shisha Pangma
+༄༅།། མར་ཀུས་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Markusevangeliet
+སེད།	Set (Bibeln)
+ཁྲང་པེ་རི་བོ།	Paektusan
+སྙོམས་རྒྱུག་རིམ།	Stratosfär
+ཏིང་ངེ་འཛིན།	Meditation
+ཤིང་ཀུན།	Dyvelsträck
+འདོད་པའི་དབང་ཕྱུག	Kama (gud)
+མགོ་ལོག་བོད་རིགས་རང་སྐྱོང་ཁུལ་	Golog
+ཐི་ཧྥུ་ན་ཐི།	Tefnut
+གཞིས་ཀ་རྩེ་གྲོང་ཁྱེར།	Shigatse
+ཨ་མེ་ཏིའོ་མོ་ཏིག་ལི་ཡ་ནི།	Amedeo Modigliani
+ཧྥ་རན་སིའི་མི།	Fransmän
+འཆར་ལྡན་བུ་བཙའ།	Preventivmedel
+ལོག་གཡེམ་མམ་ཉེས་སྤྱོད།	Våld
+ཇོའོ་པོ། (རྩོམ་པ་པོ།)	André Jobin
+སེ་ར་དགོན།	Seraklostret
+ཀྲུའུ་ནུའོ།	Juno
+ལུ་ཟོན།	Luzon
+ཕང་ཕེ་	Pompejus
+འཕར་བ།	Schakaler
+ཕཱ་ར་མེ་ནེ་ཌི་ཟི།	Parmenides från Elea
+ཁམས།	Kham
+སྨི་ཉི་ཝ།	Minerva
+གཉེན་ཚན་བར་ཆགས་སྦྱོར་བྱེད་པ།	Incest
+དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ་	Garzê
+སྐྱེས་ཆེན་དམ་པ་ཡོ་སེབ།	Josef från Nasaret
+བརྒྱ་བྱིན།	Indra
+སྐྱེས་ཆེན་དམ་པ་ལུ་ཀཱ།	Lukas
+ཐང་ཁྲག	Cedersläktet
+ཚིགས།	Knop (enhet)
+ཨ་འབྲུམ།	Kastanjesläktet
+གཡའ་དྲེད།	Yeti
+ཙོ་ལུའུ་པ།	Zulu
+རྨ་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ་	Huangnan
+དཔྱིད་མཛེས་མེ་ཏག	Kornvallmo
+སི་ཧྥུན་ཁོ་སི། (ཨའི་ཅི།)	Sfinxen i Giza
+ཁཱ།	Kalori
+ཡའོ་ཁེས་འོ་ཧ་ཐའོ་ཡ་མ།	Yukio Hatoyama
+ཡོམ་འབོག་ཤིང་།	Almsläktet
+བསྟན་བཤིག	Skämt
+ཤི་རིན་ཨེ་བྷ་ཌི།	Shirin Ebadi
+ཡུལ་ཏོ་པི་ཡ།	Utopi
+འཁྱིལ་ཆེན།	Tuba
+སྲན་ལེབ་ཆུང་ངུ།	Lins (växt)
+ཧྥ་རད།	Farad
+གའཀགྲོང་།	Oaxaca de Juárez
+མན་རྡ་ར།	Mantra
+ཞིང་པ་	Bonde
+ཕྱི་ལྦགས།	Murmeldjur
+ཨོ་ལི་ནོ་ཁི་གཙང་པོ།	Orinoco
+སའེ་ཐི།	Set (gud)
+ཆུ་སྲིན་དཀར་པོ།	Vitval
+དུས་ཆེན།	Festival
+ལྷ་མོ་ཏི་ཨན་ན།	Diana
+སྐྱུ་རུ་དམན་པ།	Hagtornssläktet
+འཕར་སྤྱང་།	Asiatisk vildhund
+ཊ་རོ་ཨ་སོ།	Taro Aso
+བྲ་བོ།	Bovete
+ཨཱལ་ཕི།	Albi
+ཕ་རིའི་ཀོ་མུ་ནེ། (༡༨༧༡)	Pariskommunen
+རྒྱ་གར་གི་ལོ་རྒྱུས།	Indiens historia
+རྫོང་གྲུག	Squash (sport)
+ཨེལ་བྷ་ར་སྒྲེ།	Mohamed ElBaradei
+ཧ་ཐུའོ་ཨེར།	Hathor
+ཨེ་ལི་ཡཱ།	Elia
+ཐག་འཁྱུད་མེ་ཏོག	Turbina corymbosa
+ནད་ཡམས།	Pest
+ཨ་པོ་ལི་ནེར།	Guillaume Apollinaire
+ཀེར་ལངས།	Erektion
+མོག་མོག་	Momos (mat)
+ཕི་ལོ་ཋི་ནཱ་ཟི།	Plotinos
+སོ་བཀྲུ།	Tandborste
+ལྷ་ཆོས།	Dharma
+ཡུ་ཁྱོ་མི་ཤི་མ།	Yukio Mishima
+ཁོ་རེ་ཡའི་ཤིང་ཞིག	Kronärtskocka
+ཆུ་པུ།	Chubu
+ཤམ་ཕེན་ཆང་།	Champagne
+རྟག་པའི་རང་བཞིན་ཡུན་ནས།	Evighet
+སྙེ་མོ་རྫོང་།	Nyemo
+ཐའེ་ཧུའུ་མཚེའུ།	Tai Hu
+ཏི་རེ་ཁི་མཚོ་འགག	Drakes sund
+ཝེ་ཁེ་ཏོ་རི་ཡ་བྱེ་ཐང་ཆེན་མོ།	Stora Victoriaöknen
+མ་མེན་མེ་ཏོག	Violsläktet
+ལྕི་ཚ།	Ranunkelsläktet
+སུའོ་པོ་ཁོ།	Sebek
+པུའུ་ཐ།	Ptah
+རྒྱ་མེན།	Vallmosläktet
+སིལ་ཏོག་ཅིག་གི་མིང་།	Svarta vinbär
+རྡོ་པད་མ།	Kallasläktet
+ཚ་ལུ་མ་སྐྱུར་མོ།	Pomerans
+ཤིང་པད་མ།	Pionsläktet
+རླངས་ཆུ།	Läskedryck
+༄༅།། ཨན་ན་ཁ་ལི་ཉེ་ན།	Anna Karenina
+གནམ་རིག་ཁང་།	Planetarium
+ཆུ་པད་མ།	Näckrosväxter
+ངོ་ཚ་བ།	Skamkänsla
+ཤིང་བཟོ་བ།	Timmerman
+ཁ་རེལ་ཆ་ཕེག	Karel Čapek
+དྲང་སོང་མེ་ཏོག	Hortensiasläktet
+ཟིང་དཀར།	Nejliksläktet
+མེ་ཐུ་ཟི་ལཱ།	Methusalem
+གུར་ཀུམ།	Safflor
+ཕྱེ་ལེབ་མེ་ཏོག	Irissläktet
+ཤང་དྲིལ།	Viveväxter
+ཞབས་ཞུ་བ།	Serveringspersonal
+ལི་ཤིའི་མེ་ཏོག	Syrensläktet
+མེ་རི་ཌུ་ཁོ་རེ་གྷན་མ་གྷུ་རེ།	Mairead Corrigan
+བྷེ་ཊི་ཝེལ་ལམ།	Betty Williams
+ཀུན་སྤྱོད་བཟང་པོ།	Dygd
+ཀུ་ཤུ།	Malus pumila
+ཧྥེ་ཧྥེ།	Babianer
+ལི་ལན་ཅིའེ།	Jet Li
+རླབས་ཤུད།	Surfing
+པ་གླིང་།	Fagott
+མིག་སྤུ།	Ögonfrans
+གོ་རེ་བཟོ་མཁན།	Bagare
+སྡང་སེམས།	Hat
+ཇོའོ་ཏའེ་ལྦེ་སོན་རོའོ་ཀ་ཧྥེ་ལར།	John D. Rockefeller
+སྒྲོག་གུ	Knapp
+ཟི་ར་ནག་པོ།	Nigellasläktet
+མངར་དྲིལ།	Fuchsiasläktet
+ཟུར་དྲུག་མའི་སྐར་མ།	Davidsstjärna
+གདོང་འབག	Ansiktsmask
+༄༅།། དམག་འཁྲུག་དང་ཞི་བདེ།	Krig och fred
+ཉི་ཧོང་གི་མི།	Japaner
+ཕ་ཁྲི་རི་ཟེ་ལི་མིན་བ།	Patrice Lumumba
+བར་རིམ།	Mesosfär (atmosfär)
+མ་སེའི་མི།	Massajer
+ཐེ་སླ།	Tesla
+འགྲོ་མགོན་ཆོས་རྒྱལ་འཕགས་པ།	Drogön Chögyal Phagpa
+འཁྱིལ་དུང་།	Valthorn
+གཞས་རིག་པ།	Musikvetenskap
+ཁམ་ཤིང་།	Sötkörsbär
+ཚལ་དཀར་ཆེ་བ།	Kinakål
+ཅག་ཕུ་རེ་ཝེར།	Jacques Prévert
+ལྷོ་ཀུབ།	Pumpa
+སྣུམ་སྒྱུར་ཆས།	Förgasare
+ནུའུ་ཐི།	Nut
+ཤིང་དཀྲོལ།	Xylofon
+སྦུབས་མཆོངས།	Höjdhopp
+ཉུལ་ཞིབ་པ།	Spioneri
+ཨའོ་ཉེ་ཅ་མཚེའུ།	Onega
+བྱི་བ་གཡི།	Pallaskatt
+རྫ་རྫིས།	Zazie
+ཐའེ་ཅི་ཆོན།	Taijiquan
+ཁབ་ར།	Stenbock
+ཀའེ་པུའུ།	Geb
+རྣ་རྒྱན།	Örhängen
+ཕུ་དིག	Turturduva
+ལག་ཤུབས།	Handskar
+ནའེ་ཧྥུ་ཏི་སི།	Neftys
+ཕི་རོ་ཁྲེ་གྷོ་རཱ་ཟི།	Protagoras
+སེམས་སྐྱོ་བ།	Sorgsenhet
+ཧྲུའུ།	Shu (egyptisk mytologi)
+འུག་དཀར།	Fjälluggla
+ཅི་ནན།	Jinan
+ཕྱི་རིམ།	Exosfären
+ཨཱ་ཝཛ།	Ahvaz
+ཨ་ཝ་རུ་ཨ།	Avarua
+ཨ་ཐུན།	Atum
+གད་མོ་ཤོར་བ།	Skratt
+མགོམས་མཆོངས།	Längdhopp
+ཆགས་སྦྱོར་རིག་པ།	Sexologi
+ཟས་ཀྱི་རིག་པ།	Gastronomi
+མི་ཆོག་པའི་བཀག་བྱ།	Tabu
+དཔལ་དགོན་བླུ་གྲུབ།	Nagarjuna
+ཉི་མ་མེ་ཏོག​	Solros
+ལར་ན་ཀ།	Larnaca
+གསུབ་འགྱིག	Radergummi
+དྲི་ཞིམ་ཅན།	Lavendelsläktet
+ཆོས་དད་རང་མོས།	Religionsfrihet
+ཕིག་མིའི་མི།	Pygméer
+གབ་རེས་འུར་རེས།	Kurragömma
+ཧེན་ཐའེ།	Hentai
+འཁོར་བ།	Samsara
+ལི་སྨིད།	Centimeter
+གཡང་ཊི།	Jade
+བྱང་གི་ལྡོག་ཐིག	Kräftans vändkrets
+གཞས་པ་གཞས་མ།	Sångare
+ལྷོའི་ལྡོག་ཐིག	Stenbockens vändkrets
+ཟླུམ་ངོས་ཚད།	Steradian
+རྐང་ལམ།	Trottoar
+སྣུམ་ཚལ་	Raps
+ཚ་རིམ།	Termosfär
+བྱང་སེམས་ཅན།	Bodhisattva
+གཏེར་ཆུ།	Mineralvatten
+ཝེ་ཞིན་ཀེ་ཐུའོ་ལི་ཁོ་སི།	Vercingetorix
+ཇེ་དུ་ཀྲི་ཤི་ན་མུར་ཏི།	Jiddu Krishnamurti
+ནན་ཉིང་གྲོང་ཁྱེར།	Nanning
+ལ་ཁི་སི།	Lux
+བོད་ས་མཐོ།	Tibetanska högplatån
+ཤྭ་བ་རྔ་རིང་།	Wapitihjort
+གསོ་ཕྲུག	Adoption
+ན་ཏི་སུ་མེ་སོ་སེ་ཁི	Natsume Sōseki
+ཆགས་སྲེད་ཀྱི་རྒྱུ་རྩལ།	Erotica
+ཕ་ལོན་ཁེ།	Palenque
+ཨོ་ལན་ཀི་གཙང་པོ།	Oranjefloden
+ཀའོ་ཞུང་གྲོང་ཁྱེར།	Kaohsiung
+༄༅།། རྒྱལ་པོ་ལེར།	Kung Lear
+མོ་རི་ཧེའི་ཨུའེ་ཤི་ཕཱ།	Morihei Ueshiba
+ཚའོ་ཞུའེ་ཆིང་།	Cao Xueqin
+མངར་ཟས།	Efterrätt
+ཁུ་ནུའུ་མུའུ།	Khnum
+ཀོ་ཅ་བང་ལྦ་	Cochabamba
+བོད་ཞི་བས་བཅིངས་འགྲོལ་འབྱུང་ཐབས་སྐོར་གྱི་གྲོས་མཐུན་དོན་ཚན་བཅུ་བདུན་	Sjuttonpunktsöverenskommelsen
+ཧུད་མི།	Hui (folk)
+ཤུགས་འཁོར།	Svänghjul
+ལན་ཀྲོའུ།	Lanzhou
+ཊར་བེ།	Tarbes
+ཨ་བྲ་ཡང་ན་ཨབ་ར།	Pipharar
+ༀ	Aum
+ཏེའོ་དོར་དེ་ཇེ་རི་ཀོ།	Théodore Géricault
+ལ་ཕུའི་ཨང་ཝ་ལེ།	Le Puy-en-Velay
+རྒྱུན་འཇགས་བརྗོད་ཚིག	Idiom (språk)
+རྒྱ་རིགས་ཀྱི་མཚན་ཉིད་རིག་པ།	Kinesisk filosofi
+༄༅།། གཟུགས་འགྱུར་བའི་གཏམ་རྒྱུད།	Metamorfoser
+ཨེ་དོའི་དུས་སྐབས།	Edoperioden
+ལིན་ཙེ་ཞིའུ།	Lin Zexu
+པར་ན་པཱ།	Barnabas
+ཨ་ཡོ་དྷི་ཡ།	Ayodhya
+སྒང་ཐོག	Gangtok
+རྡ་རམ་ས་ལ།	Dharmsala
+གཉན།	Argali
+ཁོ་བོ་ཨ་བེ།	Kōbō Abe
+སྨན་གཡོག	Sjuksköterska
+ལེབ་ཤྭ།	Ostronmussling
+ལུའོ་དབྱང་།	Luoyang
+ཨོ་ནོ་རེ་དོ་མི་ཡེ།	Honoré Daumier
+སྒར་ཉེའི་ཟློས་གར་ཁང་།	L'Opéra Garnier
+ཁུ་ནུ་རི་རྒྱུད།	Kunlun
+བོད་མི།	Tibetaner
+ཧ་ནུ་མན།	Hanuman
+རི་གྷོ་བྷེར་ཏ་མེན་ཆུ་ཏུམ།	Rigoberta Menchú
+ཇིང་ཏ་ལིང་ཏ།	Gunga
+མིག་སེར།	Avundsjuka
+རོ་ཌེ་ཛི།	Rodez
+ཁོར་ཡུག་རིག་པ།	Miljövetenskap
+TED	TED (konferens)
+རོ་ཀ་ཧྥོར། (ཆུར་བ།)	Roquefortost
+སྐེ་རྒྱལ།	Halsband
+ཁོ་རོར།	Koror
+ཧའེ་ཁོའུ་གྲོང་ཁྱེར།	Haikou
+ཐག་རྒུལ་འདྲ་གཟུགས།	Marionett
+ཨི་ནུའི་ཏི་མི།	Inuiter
+མོ་གཅུས། (ལག་ཆ།)	Mutter
+སྐེ་དཀྲིས།	Halsduk
+ལེ་ཉིན་གྱི་བང་སོ།	Leninmausoleet
+བླ་མ།	Lama (lärare)
+དོ་མེ་ནི་ཀོ་གིར་ལན་ད་ཡོ།	Domenico Ghirlandaio
+དཀྱིལ་འཁོར།	Mandala
+མིག་མངས།	Xiangqi
+ཨོ་ཝུན་ཁེ་མི།	Evenker
+ཁྱིམ་ཐབ་མེད་པར་གནས་པའི་མི་ཚེ།	Celibat
+བཙུན་མ།	Nunna
+ནའེ་ཐི།	Neith
+ཀོ་མེ་དི་ཡ་དེལ་ཨར་ཏེ།	Commedia dell'arte
+ཨ་བ་དཱེ།	Abadeh
+ཨུ་སུག་རིང་མོ།	Nylonstrumpor
+མི་ཡ་མོ་ཏོ་མུ་ས་ཤི།	Miyamoto Musashi
+འབྲུག་མིག	Dimocarpus longan
+རྒྱལ་བ་བྱམས་པ།	Maitreya
+ར་རྒྱ།	Takin
+སིལ་རྔ།	Tamburin
+སྤྱན་རས་གཟིགས།	Avalokiteshvara
+རྒས་མེད་ཚེ་རིང་།	Odödlighet
+དགེ་འདུན་དཀོན་མཆོག	Sangha (buddhism)
+རི་བོ་ཨ་ཝུན་ཏི་ཉི།	Aventinen
+ས་རཱ།	Sara (Bibeln)
+འཕང་འབྲས།	Bocktörne
+ཀྲང་ཧྥེ།	Zhang Fei
+ཀྲང་ཧེང་།	Zhang Heng
+ཀྲའོ་མེང་ཀྲའོ།	Zhao Mengfu
+གཞལ་སྒང་གི་ས་ཁོངས།	Zhemgang
+ཀྲུའུ་ཀོ་ལིའང་།	Zhuge Liang
+ཞུས་ཀྲོའུ།	Zhuzhou
+འཛམ་གླིང་རྒྱལ་རབས་	Världens historia
+ཡ་ཕེད།	Jafet
+པོལ་ཝ་ལེ་རི།	Paul Valéry
+རི་བོ་ཕ་ལ་ཏི་ཉི།	Palatinen
+ལ་དྭགས	Ladakh
+སྤྱི་མཐུན་རྒྱལ་ཁབ་ཨང་ལྔ་པ།	Femte franska republiken
+ཤེམ།	Sem
+ཟེར་མོ།	Skogshöns
+མཚོ་སྔོན	Qinghaisjön
+ལག་གདུབ།	Armband
+སྤྱི་ཚོགས་རང་མོས་རེང་ལུགས།	Socialliberalism
+སུར་པན།	Spanskpepparsläktet
+པོ་ཐང་མ།	Poslätten
+ཁར་པེན་ཏྲ།	Carpentras
+ཇ་དམར།	Svart te
+སེན་གོའི་དུས་མཚམས་	Sengoku
+ཚའོ་ཚའོ།	Cao Cao
+ཀ་ཡིན །	Kain
+ཚི་ཕོ་རཱ།	Sippora
+ར་བཟི་བ།	Berusning
+སྐར་རེའི་འཁོར་ཚད།	Varv per minut
+ཨེ་ལི་ཤ།	Elisha
+ཨ་ཌོལ་ཧྥོ་པེ་རེ་ཛུ།	Adolfo Pérez Esquivel
+ཤེད་འཕྲུལ་འགྲོས་ཁྲ།	Varvtalsmätare
+བསིལ་ལྦུ།	Sprite (läskedryck)
+ཅཱོན་བུ་རི་ཞིང་ཆེན།	Chon Buri
+མཚན་སྙན།	Heder
+ཝུའུ་དབྱི་རི་བོ།	Wuyishan
+ལུས་བསྲུངས་མཐའ་འཁྱོལ།	Kyskhet
+རི་བོ་ཁུའེ་ལི་ན་ཨེར།	Quirinalen
+དཀོན་མཆོག་གསུམ།	De tre juvelerna
+ཐག་སོག	Motorsåg
+ཉ་རྡོ་གཟན་ཐོད་ཞེང་ཅན།	Hammarhajar
+བསམ་པའི་དགའ་རོགས།	Platonsk kärlek
+གོར་གོན་ཟོ་ལ། (ཆུར་བ།)	Gorgonzola
+ཕུག་རོན།	Columba
+མིའོ་མི།	Miao (folk)
+སི་རོ་སི།	Syros
+རི་བོ་ཨའེ་སི་ཁུའེ་ལི་ཉི།	Esquilinen
+ཇོ་ཌེ་ཝེ་ལེམ།	Jody Williams
+ཡིན་ཁྲོའོན་གྲོང་ཁྱེར།	Yinchuan
+ཀ་ཡ་ཕཱ།	Kajafas
+མ་ཡ་མིའི་ཡི་གེ	Mayaskrift
+འཕར་ལེན།	Stötdämpare
+ཨོ་སེལ་ཏཱ་མི་ཝིར།	Oseltamivir
+པོ་ཨ་ཟི།	Boas
+རོ་ནིན།	Ronin
+ཧྥ་རན་སི་ཡི་གྲོང་ཁྱེར་ཆེན་པོ།	Egentliga Frankrike
+མེ་ཏོག་བྲག་སྤོས།	Kameliasläktet
+སེམས་ཁམས་རིག་པ་བ།	Psykolog
+ཧེ་ནོག	Enok
+ཞི་ལིན།	Shilling
+སྤྱོད་ལམ་སྒྱུ་རྩལ་ཐོག	Performance
+དྲིལ་ཁྲུ།	Måttband
+ཁའོ་ཕན།	Copán
+སྦུལ་ཆེན།	Kungsboa
+༄༅།། ས་ག་ཟླ་བ།	Vesak
+ཐའེ་ཧྲན་རི་བོ།	Taishan
+སེ་བ། (གསུང་རབ།)	Saba
+ཞུན་ཙི།	Xun Zi
+ཅིའུ་ཅང་།	Jiujiang
+ཏུང་ཐིང་མཚེའུ།	Dongting-sjön
+རི་བོ་ཝེ་སྨི་ན་ཨེར།	Viminalen
+ལུ་ཡི་སེ་མི་ཤེལ།	Louise Michel
+ཏུང་མི།	Dong (folkslag)
+རི་བོ་ཁ་ཨའེ་ལི་ཨན།	Caelius
+བྱང་སྣེའི་སྤྱང་ཀི	Polarvarg
+རི་ཀོ་ཏ། (ཆུར་བ།)	Ricotta
+སྒྲ་གཅན་འཛིན།	Rahula
+ཐག་འགྲོས།	Lindans
+སི་མོ་ནེ་མར་ཏི་ནི།	Simone Martini
+རྐྱང་།	Kiang
+སྦྲེལ་མདའ།	Vevstake
+འདོད་ཕྱོགས་ཀྱི་ཚོང་ཁང་།	Porrbutik
+ཡན་ནིག་ནོ་ཨ།	Yannick Noah
+ཀོན་ཡུས།	Guan Yu
+རུས་སྤལ་	Sköldpaddor
+རྒྱལ་པོ་ཟས་གཙང་།	Suddhodhana
+ཝུའུ་ཁྲེང་ཨེན།	Wu Cheng'en
+གླ་བ།	Myskhjortar
+གངས་རིན་པོ་ཆེ།	Kailash
+ཚའེ་ལུན།	Cai Lun
+ཁུ་རའེ།	Curie
+ཧམ།	Ham
+པདྨ་འབྱུང་གནས།	Padmasambhava
+ཇ་ཝུའུ་ལུང་།	Oolong
+ཧྲའོ་ལིན་དགོན་པ།	Shaolin
+ས་ལོ་མེ།	Salome (lärjunge)
+ཆེང་མྰེ་ཞིང་ཆེན།	Chiang Mai (provins)
+འགྲུལ་བྱི།	Lämlar
+ར་ལྦ་ན།	Ravana
+སོང་ཁ་ལ་ཞིང་ཆེན།	Songkhla (provins)
+ཨོ་ལི་ཝེར་.རྒོ་རྡི་སིམ་སི།	Oliver Goldsmith
+འོད་དཔག་མེད།	Amitabha
+ས་ཊུན་ཞིང་ཆེན།	Satun
+ཆེང་རཱེ་ཞིང་ཆེན།	Chiang Rai (provins)
+པ་ཊ་ནི་ཞིང་ཆེན།	Pattani
+ར་ནོང་ཞིང་ཆེན།	Ranong (provins)
+༩༠ (གྲངས་ཀ།)	90 (tal)
+མེ་ཏོག་ཧོང་ཀྲང་།	Flamingoblomssläktet
+ན་ཁཱོན་ས་ཝན་ཞིང་ཆེན།	Nakhon Sawan
+རྣམ་པར་སྣང་མཛད།	Vairochana
+སུ་ར་ཊི་ཐ་ནི་ཞིང་ཆེན།	Surat Thani
+ལམ་པང་ཞིང་ཆེན།	Lampang
+༥༨ (གྲངས་ཀ།)	58 (tal)
+འབྲས་སྤུངས་དགོན།	Drepungklostret
+དི་ནོ་བུ་ཟ་ཏི།	Dino Buzzati
+ཚེམ་བཟོ།	Skräddare
+འབྲ་གོ་དམར་པོ།	Jujubär
+བུན་ར་ཀུ།	Bunraku
+༧༢ (གྲངས་ཀ།)	72 (tal)
+ཐག་མཆོང་།	Hopprep
+སྲམ།	Asiatisk klolös utter
+ན་ཁཱོན་སི་ཐམ་མ་ར་ཊི་ཞིང་ཆེན།	Nakhon Si Thammarat
+ཅུམ་ཕཱོན་ཞིང་ཆེན།	Chumphon
+པེ་སོ།	Peso
+ནཱན་ཞིང་ཆེན།	Nan (provins)
+ཕེ་ཊི་ཅ་བུ་རི་ཞིང་ཆེན།	Phetchaburi (provins)
+སན་ཇོ་སེ།རྒྱ་ནག	San José Chinantequilla
+ལིའུ་པེ།	Liu Bei
+བུ་མོ་རའོ་ཟི།	Lucy (urtidsmänniska)
+༄༅།། ས་ཐེར་ཁོན།	Satyricon
+ཞིག་ཀྲུའུ།	Hsinchu
+ཆུ་སྦུག་བཟོ་གྲ།	VVS-montör
+ངང་པ།	Tamgås
+མིང་གི་གོ་རིམ།	Grundordföljd
+ཁྲེ།	Hirs
+ན་ཁཱོན་ར་ཊི་ཅ་སི་མ་ཞིང་ཆེན།	Nakhon Ratchasima (provins)
+གཙོད།	Chiru
+སྦུག་ཚལ།	Sallatsipomea
+པང་གདན།	Förkläde
+ལུང་མོན་བྲག་ཕུག	Longmengrottorna
+ཅའི་ཡ་ཕུམ་ཞིང་ཆེན།	Chaiyaphum
+ལོའི་ཞིང་ཆེན།	Loei (provins)
+པའེ་མི།	Bai (folk)
+ཀཱན་ཅ་ན་བུ་རི་ཞིང་ཆེན།	Kanchanaburi
+ཕི་ཊི་ཙ་ནུ་ལོཀ་ཞིང་ཆེན།	Phitsanulok
+ཨུ་སུག་སྲབ་མོ།	Strumpbyxor
+ཕ་སི་ཁལ་ལ་མི།	Pascal Lamy
+༩༢ (གྲངས་ཀ།)	92 (tal)
+༨༤ (གྲངས་ཀ།)	84 (tal)
+༩༦ (གྲངས་ཀ།)	96 (tal)
+༤༣ (གྲངས་ཀ།)	43 (tal)
+ཡུ་དཱ། (གསུང་རབ།)	Juda
+༨༧ (གྲངས་ཀ།)	87 (tal)
+ཡ་ཀོབ།	Jakob (patriark)
+༥༤ (གྲངས་ཀ།)	54 (tal)
+ལོ་ལོ་ཧྥེ་ར་རི།	Lolo Ferrari
+སི་ཝེ་དེན་གྱི་སྒྱུ་རྩལ།	Svensk konst
+ཕྱོགས་མདའ།	Kardanaxel
+པི་ས་ནེལ་ལོ།	Pisanello
+ནུའུ་ཨར་ཧ་ཁྲི།	Nurhaci
+ཛ་ཕོག	Sydkaktussläktet
+ཏཱ་མིན་རོས་སེ།	Damien Rice
+རོའོ་པེར་ཐ་འཛོ་ལི་ཀ།	Robert Zoellick
+པའེ་ཅུས་དབྱི།	Bai Juyi
+སུན་ཆོན།	Sun Quan
+ཆུས་ཡོན།	Qu Yuan
+པར་ཨབ་པཱ།	Barabbas
+ཝང་ཝེ་ཡི། (ཐང་རྒྱལ་རབས།)	Wang Wei
+ཝ་སེར།	Tibetansk räv
+ཏུན་ཧོང་གྲོང་ཁྱེར།	Dunhuang
+དགེ་ལུགས་པ།	Gelug
+སན་ཡ་གྲོང་ཁྱེར།	Sanya
+དོ་མེ་ནི་ཀི་ནོ།	Domenichino
+སྲོང་བཙན་སྒམ་པོ།	Songtsän Gampo
+མི་ཧྥུ།	Mi Fei
+ནེར་ཁུ་སི།	Nearchos
+བཟེ་རུ་པ་པེལ། (གསུང་རབ།)	Serubbabel
+ལེའི་ཨུའོ་ཧྥེ་རེ།	Léo Ferré
+པ་ར་ཅིན་བུ་རི་ཞིང་ཆེན།	Prachin Buri
+རྗེ་ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་	Tsongkhapa
+བལ་ཏུ་སི།	Balthus
+བཙན་བྱོལ་བོད་གཞུང་།	Centrala tibetanska administrationen
+ཅཱན་ཐ་བུ་རི་ཞིང་ཆེན།	Chanthaburi
+ནོང་ཁའི་ཞིང་ཆེན།	Nong Khai
+མཐུད་རྒྱུགས།	Stafett
+དབུས་གཙང་	Ü-Tsang
+ཏུའུ་མུའུ།	Du Mu
+གློག་བརྙན་པར་ཆས།	Filmkamera
+པེ་ཅིང་གི་ཁྲང་ཞི།	Pekingopera
+མ་ཡའི་ཨང་ཀི།	Mayakulturens matematik
+གསེར་མོ།	Guldfasan
+ཨ་པོ་ལོ་སི།	Apollos
+མུཀ་ད་ཧཱན་ཞིང་ཆེན།	Mukdahan
+རེ་ཡོང་ཞིང་ཆེན།	Rayong
+གསོར་འབིགས།	Borr
+ཁྲུར་སི་ཐན་དང་ཨེ་སོལ་རྡེ།	Tristan och Isolde
+པང་ཏ།	Pund (valuta)
+༨༨ (གྲངས་ཀ།)	88 (tal)
+རྒྱུག་ཆུ།	Vattendrag
+ཇི་ཡོ་ཝ་ནི་བོལ་དི་ནི།	Giovanni Boldini
+ཝིག་ཏོར་སེར་ཇེ།	Victor Serge
+ས་སེ་ཏ།	Stefano di Giovanni
+ཨེ་ལི། (གསུང་རབ།)	Eli (biblisk person)
+ཁྲི་སྲོང་ལྡེ་བཙན།	Thrisong Detsen
+ཡང་ཧྲང་ཁུན།	Yang Shangkun
+ཝང་ཞི་ཀྲི།	Wang Xizhi
+ཏོའུ་ཨེར་ཏུན།	Dorgon
+ཨུ་ཌོན་ཐ་ནི་ཞིང་ཆེན།	Udon Thani (provins)
+ས་ཀཱོན་ན་ཁཱོན་ཞིང་ཆེན།	Sakon Nakhon
+འབའ་ཐང་།	Batang, Garzê
+ཨོས་ཏྲལིཨན་ཕྱི་རྒྱལ་ཞབས་ཞུ་ཁང་	Österreichischer Auslandsdienst
+ལྗི་བ།	Loppor
+དབུགས་སྒོའི་རྡེག་ངར།	Vipparm (maskindel)
+༄༅།། མད་ཐཱ་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Matteusevangeliet
+པེ་ཅིང་གི་བྱ་གག་སྲེག་མ།	Pekinganka (maträtt)
+ནུབ་ཕྱོགས་རྒྱལ་ཁབ་ཀྱི་སྒྱུ་རྩལ།	Västerländsk konsthistoria
+ཞུས་ཀོང་ཆི།	Xu Guangqi
+ཨ་མདོ	Amdo
+༨༥ (གྲངས་ཀ།)	85 (tal)
+མུ་མེན།	Violett
+ཁ་ཀུབ།	Bittergurka
+ཟིང་སྐྱ །	Rosa (färg)
+༢༧ (གྲངས་ཀ།)	27 (tal)
+ཟེ་མོ།	Bergsvessla
+༣༥ (གྲངས་ཀ།)	35 (tal)
+༦༤ (གྲངས་ཀ།)	64 (tal)
+༩༩ (གྲངས་ཀ།)	99 (tal)
+༡༠༡ (གྲངས་ཀ།)	101 (tal)
+ཨར་པག་སད།	Arpakshad
+ཚ་ལི་མ་ཆུང་བའི་རིགས།	Clementin
+དབྱི་མི།	Yi (folk)
+བུམ་ཐང་གི་ས་ཁོངས།	Bumthang
+ལྷ་ས་དེ་སེ་ལ།	Lhasa de Sela
+ཡོ་ས་ནོ་ཨ་ཁི་ཀོ།	Akiko Yosano
+ཨེ་ཝ་ཇོའོ་ལི།	Eva Joly
+ལི་ཆིང་ཀྲའོ།	Li Qingzhao
+པའེ་ལིང་།	Bai Ling
+དབང་ཧྥེའི།	Wang Fei
+གནའ་བ།	Blåfår
+གྲགས་འཛིན་མ།	Yasodhara
+ཨ་རའི་ཧ་ཀུ་སེ་གི	Arai Hakuseki
+ན་ཁཱོན་ཕ་ནོམ་ཞིང་ཆེན།	Nakhon Phanom
+བཀའ་བརྒྱུད་པ།	Kagyü
+འཇམ་དཔལ་དབྱངས།	Manjusri
+དཀྱིལ་ཀྲུང་།	Lotusställning
+ཧ་ཉི་མི།	Hanifolket
+ཧ་མི་ཀུབ།	Nätmelon
+ནུབ་ཕྱོགས་རྒྱལ་ཁབ་ཀྱི་རིག་གནས།	Västerländsk kultur
+ཤ་རི་ཡ།	Sharia
+རྡུལ་ཕྲན་སྤུས་ཚད་རྩི་གཞི།	Atommassenhet
+རི་མོ་བ།	Konstnär
+ཝལ་མར།	Walmart
+མཆོངས་རྒྱུག	Parkour
+བོད་བརྒྱུད་ནང་བསྟན།	Tibetansk buddhism
+ཇ་ལྗང་།	Grönt te
+ལུ་མེན།	Lumen (enhet)
+སྲན་ལྗང་།	Mungböna
+སྐད་ཀྱི་མཚན་ཉིད་རིག་པ།	Språkfilosofi
+མགོ་མཁྲེགས་གཞུང་ལུག	Kyniska skolan
+དེབ་འཛེར་ཆས།	Häftapparat
+ས་མུ་ཨེལ་ཝལ་ཏོན།	Sam Walton
+ཤིང་ཏོག་གི་མིང་ཐོ།	Lista över frukter
+ཁ་ཁུ་སིམ་པོ།	Tystnad
+ཨེ་པེར།	Ever
+ལམ་སྒྲོན།	Gatubelysning
+འབར་མའི་མི།	Burmeser
+ཝེ་ཟོང་ལ་རོ་མེ་ནེ།	Vaison-la-Romaine
+མཚོ་བྱང་བོད་རིགས་རང་སྐྱོང་ཁུལ་	Haibei
+ཁོ་ལོ་ཉི་ཡ། (མའི་ཀོ་རོ་ནེ་ཤི་ཡ།)	Kolonia
+ཡན་ཨན།	Yan'an
+ང་ཕོད་ངག་དབང་འཇིགས་མེད་	Ngabö Ngawang Jigme
+བོད་ཀྱི་རྒྱལ་རབས་	Tibets historia
+༥༦ (གྲངས་ཀ།)	56 (tal)
+འཛུལ་སྒོ།	Gatubrunn
+༨༩ (གྲངས་ཀ།)	89 (tal)
+མཁར་སྔོན་གྲོང་ཁྱེར།	Hohhot
+དཀར་ཆག་གི་ཨང་གྲངས།	Lista över tal
+༧༦ (གྲངས་ཀ།)	76 (tal)
+༢༩ (གྲངས་ཀ།)	29 (tal)
+དན། (གསུང་རབ།)	Dan (israelisk stamfader)
+ཧ་ཡ་ཤི་ར་ཟན།	Hayashi Razan
+ཀས་ཏར་མན།	Casterman
+མངའ་རིས་ས་ཁུལ།	Ngari
+རི་བོང་།	Ullig hare
+ཐེ་རཱ།	Terach
+༧༡ (གྲངས་ཀ།)	71 (tal)
+༢༨ (གྲངས་ཀ།)	28 (tal)
+ཐུའུ་ཅ་མི།	Tujia
+བཀའ་འགྱུར།	Kanjur
+༥༩ (གྲངས་ཀ།)	59 (tal)
+༦༢ (གྲངས་ཀ།)	62 (tal)
+༩༥ (གྲངས་ཀ།)	95 (tal)
+དོན་གྲུབ།	Amoghasiddhi
+༄༅།། བར་དོ་ཐོས་གྲོལ།	Den tibetanska dödsboken
+ལོའི།	Loei
+སི་ནོ་པེ། (ཏུར་ཀི།)	Sinop
+འཇོལ་མོ།	Fläckskogstrast
+༣༨ (གྲངས་ཀ།)	38 (tal)
+༧༥ (གྲངས་ཀ།)	75 (tal)
+ཡུལ་ཤུལ་བོད་རིགས་རང་སྐྱོང་ཁུལ།	Yushu
+རི་པིན་གྱི་སྒྱུ་རྩལ།	Japansk konst
+ས་ཡི་སྙིང་པོ།	Ksitigarbha
+ལག་སྒག	Bromssystem
+ཕུན་ཚོགས་དབང་རྒྱལ་	Phüntso Wangye
+ཐ་བུ་ལོན།	Sebulon
+ཆིག་རྡང་།	Räck
+རུ་བེན། (གསུང་རབ།)	Ruben (Bibeln)
+༤༥ (གྲངས་ཀ།)	45 (tal)
+ནག་ཉེས།	Skuld (etik)
+ཨུ་བཱོན་ར་ཊི་ཅ་ཐ་ནི་ཞིང་ཆེན།	Ubon Ratchathani
+ན་ཁཱོན་ར་ཊི་ཅ་སི་མ།	Nakhon Ratchasima
+མེ་གསོད་ཆུ་སྒོ།	Brandpost
+ཕེ་ཊི་ཅ་བུ་རི།	Phetchaburi
+༦༥ (གྲངས་ཀ།)	65 (tal)
+ཨཱལ་གོ་ན། (ཡོ་བ།)	Algona, Iowa
+ས་སྐྱ་པ།	Sakya
+འཕྱི་བ།	Stäppmurmeldjur
+ཡི་ས་གར།	Isaskar
+ཧ་ཊི་ཡའི།	Hat Yai
+གནམ་མཚོ་ཕྱུག་མོ།	Namtso
+Chukha District	Chukha
+བཀྲ་ཤིས་སྒང་གི་ས་ཁོངས།	Trashigang
+༦༨ (གྲངས་ཀ།)	68 (tal)
+ཨི་སཱག	Isak (Bibeln)
+༩༧ (གྲངས་ཀ།)	97 (tal)
+མ་ཆོ་པེ་ཆོ།	Machu Picchu
+སྤོས་ཤེལ་མདོག་གི	Bärnsten (färg)
+ཨེ་ནོ་ཟི། (གསུང་རབ།)	Enosh
+༩༤ (གྲངས་ཀ།)	94 (tal)
+པི་པི་ལིང་།	Långpeppar
+༥༥ (གྲངས་ཀ།)	55 (tal)
+ཏའི་པརེའི་པ། (རི་མོ་འབྲི་མཁའན།)	Derib
+༩༡ (གྲངས་ཀ།)	91 (tal)
+ཉིས་རྡང་།	Barr (gymnastik)
+རྡོ་རྗེ།	Vajra
+༨༠ (གྲངས་ཀ།)	80 (tal)
+༢༡ (གྲངས་ཀ།)	21 (tal)
+༢༢ (གྲངས་ཀ།)	22 (tal)
+༧༠ (གྲངས་ཀ།)	70 (tal)
+༥༠ (གྲངས་ཀ།)	50 (tal)
+༤༡ (གྲངས་ཀ།)	41 (tal)
+༣༤ (གྲངས་ཀ།)	34 (tal)
+༣༣ (གྲངས་ཀ།)	33 (tal)
+༤༧ (གྲངས་ཀ།)	47 (tal)
+༣༡ (གྲངས་ཀ།)	31 (tal)
+༣༢ (གྲངས་ཀ།)	32 (tal)
+༤༤ (གྲངས་ཀ།)	44 (tal)
+༤༦ (གྲངས་ཀ།)	46 (tal)
+༤༩ (གྲངས་ཀ།)	49 (tal)
+༤༨ (གྲངས་ཀ།)	48 (tal)
+༣༧ (གྲངས་ཀ།)	37 (tal)
+༣༩ (གྲངས་ཀ།)	39 (tal)
+༣༦ (གྲངས་ཀ།)	36 (tal)
+༥༣ (གྲངས་ཀ།)	53 (tal)
+༨༡ (གྲངས་ཀ།)	81 (tal)
+༦༦ (གྲངས་ཀ།)	66 (tal)
+༦༣ (གྲངས་ཀ།)	63 (tal)
+༥༢ (གྲངས་ཀ།)	52 (tal)
+༦༩ (གྲངས་ཀ།)	69 (tal)
+༧༣ (གྲངས་ཀ།)	73 (tal)
+༥༧ (གྲངས་ཀ།)	57 (tal)
+༧༤ (གྲངས་ཀ།)	74 (tal)
+༧༩ (གྲངས་ཀ།)	79 (tal)
+༦༧ (གྲངས་ཀ།)	67 (tal)
+༧༧ (གྲངས་ཀ།)	77 (tal)
+༨༣ (གྲངས་ཀ།)	83 (tal)
+༨༢ (གྲངས་ཀ།)	82 (tal)
+༨༦ (གྲངས་ཀ།)	86 (tal)
+༧༨ (གྲངས་ཀ།)	78 (tal)
+༩༨ (གྲངས་ཀ།)	98 (tal)
+ཝང་ཧྲེ་མིན།	Wang Shimin
+ཝང་ཧུའེ།	Wang Hui
+སྤྲེའུ་ས་ལག	Hulmaner
+ཨ་ཧྲི་པོ་ཏོན་གཙང་པོ།	Ashburton (flod)
+སྡུག་བསྔལ་བརྒྱད།	Dukkha
+བརྒྱངས་དཀྲོལ།	Guzheng
+པི་ཝང་།	Erhu
+ར་རྒོད།	Himalayatahr
+ཤྭ་བ་མཆུ་དཀར།	Vitläppad hjort
+འདུན་པ་ནག་པོས།	Noir Désir
+རྩི་རང་གི་ས་ཁོངས།	Tsirang
+དབང་འདུས་ཕོ་བྲང་གི་ས་ཁོངས།	Wangdue Phodrang (distrikt)
+གསར་སྦང་གི་ས་ཁོངས།	Sarpang
+བཙུན་པ།	Munk
+ཧྲེ་མི།	She (folk)
+ཇོ་ཁང་།	Jokhang
+ཀ་སཏ་ཕི་ཡོར།	Bianca Castafiore
+ཨཱ་སམ་སྤྲེལ།	Assammakak
+༄༅།། ཏིན་ཏིན་གྱི་དཔའ་རྩལ།	Tintins äventyr
+འཕགས་མ་སྒྲོལ་མ་ལ་བསྟོད་པ།	Tara (buddhism)
+ཀརྨ་པ་	Karmapa
+ཏུང་ཞང་མི།	Dongxiang
+ལུས་འབྲེལ་གྱི་ཕོག་ཐུག་བཟོ་བ།	Sexuella trakasserier
+ཨ་ཝེ་རོང་གཙང་པོ།	Aveyron (flod)
+མི་འཁྲུགས་པ།	Akshobhya
+རྒྱ་ནག་གི་སྒྱུ་རྩལ།	Kinesisk konst
+༦༡ (གྲངས་ཀ།)	61 (tal)
+གསེར་སྤྲེལ།	Guldmarkatta
+ལྷོ་ཁ་ས་ཁུལ།	Lhoka
+སོང་ཁ་ལ།	Songkhla
+འབར་ཁམས་	Barkham
+པར་ཐི་མེ།	Bartimaios
+ཧྲིན་ཐོ།	Shinto
+༤༢ (གྲངས་ཀ།)	42 (tal)
+བོན།	Bön (religion)
+ཨུ་ཌོན་ཐ་ནི།	Udon Thani
+སེན་ཏེ་ཨ་ཧྥེ་རི་ཁེ།	Saint-Affrique
+སྤྱི་ལེ།	Kilometer
+ཁྲི་པི་གཡུལ་འགྱེད།	Slaget vid Chibi
+རྒྱ་གར་གྱི་སྒྱུ་རྩལ།	Indisk konst
+དུས་འཁོར།	Kalachakra
+གཡོག་མོ།	Hembiträde
+ཨ་ལའེ་ཞི་ཡ།	Alesia
+ཆའང་མི།	Qiang
+གེ་སར་རྒྱལ་པོ།	Gesersagan
+པུ་ཁེཊ་གྲོང་ཁྱེར​།	Phuket (stad)
+ཁེ་ནཱན་ནི་ཨེ་ནོ་ཟི་ཞེས་བྱ་བའི་བུ།	Kenan
+མེ་རི་ན་མི།	Merina
+Wylie	Wylie-translitterering
+ཡོ་གའི་སྒོམ་སྒྲུབ་ཉམས་ལེན་སློབ་གྲྭ།	Yogacara
+རྙིང་མ་པ།	Nyingma
+སྐུ་སྲུང་།	Livvakt
+གད། (གསུང་རབ།)	Gad
+རྒོ་བ།	Tibetansk getgasell
+སྤྲེའུ་ཨཱ་ཧ།	Tibetansk stubbsvansmakak
+མདོག་འགྱུར་རྩངས་པ།	Polychrotidae
+ཧྲའོ་ལིན་དྲག་རྩལ།	Shaolin kung fu
+རིན་ཆེན་འབྱུང་གནས།	Ratnasambhava
+ཆེང་རཱེ།	Chiang Rai
+ཧྲུའེ་མི།	Shui
+ནུའུ་མི།	Nufolket
+ཀུན་ཏུ་བཟང་པོ།	Samantabhadra
+པེ་ཅིང་རྒྱུད་གཉིས།	Jinghu
+མཚོ་ནུབ་སོག་རིགས་དང་བོད་རིགས་རང་སྐྱོང་ཁུལ་	Haixi
+གླང་ཆེན་དཀར་པོ།	Vit elefant
+ཕྱེ་ལེབ་རོལ་ཆས།	Yangqin
+བཀྲ་ཤིས་ལྷུན་པོ་དགོན།	Trashilhünpo
+ལྷ་མོ་སྒྱུ་འཕྲུལ་མ།	Mahamaya
+འདྲེ་ཚེར་མ།	Bocktörnesläktet
+༥༡ (གྲངས་ཀ།)	51 (tal)
+འབར་ཁང་།	Brännkammare
+རྒྱ་རྒོ་ར།	Röd goral
+ཡཱ་རིད། (གསུང་རབ།)	Jered
+དགའ་ལྡན་དགོན།	Gandenklostret
+མཱུན་སི། (ཨིན་ཌི་ཡཱ་ན།)	Muncie
+རྒྱལ་པོ་དང་བྱིའུ།	Fågeln och tyrannen
+ཟླ་ཆུ་བདག་གཉེར་ལྷན་ཚོགས།	Mekongs flodkommission
+ལུའུ་ཡུས།	Lu Yu
+དབུགས་མདོང་སྒྲོམ་གཞི།	Motorblock
+དམག་འཐབ་གྲུ་གཟིངས།	Sänka skepp
+སྤྱི་འཁོར་སྒུག་ཁང་།	Busshållplats
+བུན་ཅི་དང་ཇུ་དི།	Kasperteater
+སྤང་།	Gräsmarker
+ཆབ་མདོ་ས་ཁུལ།	Chamdo
+མཚོ་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ།	Hainan, Qinghai
+ར་ནོང་།	Ranong
+ལ་ཇུན་ཏ།	La Junta, Colorado
+རྔ་བ་བོད་རིགས་ཆ་བ༹ང་རིགས་རང་སྐྱོང་ཁུལ་	Ngawa
+ཨཱལ་པེ་ན། (མི་ཅི་གྷན།)	Alpena, Michigan
+ནག་ཆུ་ས་ཁུལ།	Nakchu
+དཀར་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ་	Gannan
+ཉིང་ཁྲི་ས་ཁུལ	Nyingtri
+མ་ད་ནཱ་པལ་ལི།	Madanapalle
+པ་ཊ་ནི།	Pattani (stad)
+ཡུལ་ཤུལ་རྫོང།	Yushu (Yushu)
+རྣམ་གླིང་རྫོང་།	Namling, Shigatse
+སྐ་ཁོག	Xiahe
+ཤར་ལི་ཨེཕ་དོ།	Charlie Hebdo
+ཞི་པོ་མི།	Sibe (folk)
+ཀྲོའུ་ཝུའུ་ཝང་།	Zhou Wu
+ཐཱན༦༠	Buckminsterfulleren
+ཆགས་སྦྱོར་དང་ཁྲིམས།	Sexualbrott
+ཇོ་མོ་ལྷ་རི།	Chomolhari
+ཁི་ནོ་ཏོ་མོ་ནོ་རི།	Ki no Tomonori
+སྟོང་ཉིད་	Tomhet
+སྲུབ་གདུབ།	Kolvring
+ཨོ་པེད། (གསུང་རབ།)	Obed
+རྩམ་པ།	Tsampa
+ཀྲུའུ་པའ་ཅེད།	Zhu Baije
+ནཱ་ཧོར།	Nahor
+སེ་རུག	Serug
+སྒྲ་སྙུང་ཆས།	Ljuddämpare (motorfordon)
+ཆུ་འབྲུམ།	Jordmandel
+ཏུའེ་ལེན​།	Cau doi
+ཐབ་སི་ཐུང་།	Tan Sitong
+རྣོ་སོག​	Bågfil
+འོད་ཟེར་	Woeser
+གཞིས་ཀ་རྩེ་ས་ཁུལ།	Shigatse (prefektur)
+མོ་ནད་ཚན་ཁག་གི་མཁས་པ།	Gynekologi
+རུའེ།	Ra (gud)
+སན་ཁྲོལ་གྱི་མི།	Santal
+མཛོ།	Dzo
+མོག་དཀར།	Tremella fuciformis
+ཁྲུར་སི་ཐན་དང་ཨེ་སོལ་རྡེ། (ཝ་རྒི་ནར།)	Tristan och Isolde (opera)
+ཨ་བྲ་མཆུ་ནག	Ochotona curzoniae
+ཀ་ཀོ་ལ།	Svart kardemumma
+ཁྲི་སྙན་ས་ལེ།	Goraler
+སློབ་དཔོན་ཐུ་མི་སམ་བྷོ་ཊ།	Thönmi Sambhota
+ཏི་ཀི་ཀུ།	Tychicus
+ཧྥ་རན།	Franc
+Category:འཇར་མན།	Kategori:Tyskland
+Category:ཨི་ཏ་ལི།	Kategori:Italien
+Category:ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ།	Kategori:USA
+Category:ཨུ་རུ་སུ།	Kategori:Ryssland
+Category:ཁ་ན་ཌ།	Kategori:Kanada
+Category:དབྱིན་ཇི་མཉམ་འབྲེལ།	Kategori:Storbritannien
+Category:ཞི་པན་ཡ།	Kategori:Spanien
+Category:རྒྱ་ནག	Kategori:Kina
+Category:རི་པིན།	Kategori:Japan
+Category:ཨོ་སེ་ཐེ་ལི་ཡ།	Kategori:Australien
+Category:མེག་སི་ཀོ།	Kategori:Mexiko
+Category:རྒྱ་གར།	Kategori:Indien
+Category:སའུ་དི་ཨ་ར་པི་ཡ།	Kategori:Saudiarabien
+Category:ཨི་སི་ར་ཨེལ།	Kategori:Israel
+Category:ཝ་ཏི་ཀན།	Kategori:Vatikanstaten
+Category:ལྷོ་ཨ་ཧྥེ་རི་ཁ།	Kategori:Sydafrika
+Category:ཨའི་ཅི།	Kategori:Egypten
+Category:ཡི་ལང་།	Kategori:Iran
+Category:ནིའུ་ཛི་ལེན་ཌི།	Kategori:Nya Zeeland
+Category:ཨར་ཇེན་ཊི་ན།	Kategori:Argentina
+དངོས་ཚན།	Grundnivå
+བསམ་ཡས་དགོན།	Samye
+Category:ཨ་ཧྥུའུ་རྒན་སི་ཐན།	Kategori:Afghanistan
+Category:ཨཱལ་ཇི་རི་ཡ།	Kategori:Algeriet
+Category:ཨ་སུ་ཊ་རི་ཡ།	Kategori:Österrike
+Category:བྷང་ལ་རྡེ་ཤུ།	Kategori:Bangladesh
+Category:ཀོང་གོ་མི་དམངས་དམངས་གཙོ།	Kategori:Kongo-Kinshasa
+Category:ཨི་ཐི་ཨོ་པི་ཡ།	Kategori:Etiopien
+Category:ཨིན་རྡུ་ནི་ཤིས་ཡ།	Kategori:Indonesien
+Category:ཧོ་ལན།	Kategori:Nederländerna
+Category:ནི་ཇི་རི་ཡ།	Kategori:Nigeria
+Category:པ་ཀི་སི་སྟན།	Kategori:Pakistan
+Category:ཕོ་ལན།	Kategori:Polen
+Category:པོ་ཅུ་གྷལ།	Kategori:Portugal
+Category:ལྷོ་ཀོ་རི་ཡ།	Kategori:Sydkorea
+Category:སུད་སི།	Kategori:Schweiz
+Category:ཏན་ཛ་ནི་ཡ།	Kategori:Tanzania
+Category:ཐའེ་གོ	Kategori:Thailand
+Category:ཨུཀ་རཡི་ནི།	Kategori:Ukraina
+Category:ཝི་ཏི་ནམ།	Kategori:Vietnam
+Category:འུ་འཐུང་སྲོག་ཆགས།	Kategori:Däggdjur
+Category:བྱ།	Kategori:Fåglar
+Category:དངོས་ཁམས་རིག་པ།	Kategori:Fysik
+Category:རང་བྱུང་གི་ཚན་རིག	Kategori:Naturvetenskap
+Category:སྐྱེས་དངོས་རིག་པ།	Kategori:Biologi
+Category:རྫས་འགྱུར་རིག་པ།	Kategori:Kemi
+Category:ལོ་རྒྱུས།	Kategori:Historia
+Category:ས་ཁམས།	Kategori:Geografi
+Category:ཆོས་ལུགས།	Kategori:Religion
+Category:ལུས་རྩལ་སྐོར།	Kategori:Sport
+Category:ཚན་རིག	Kategori:Vetenskap
+Category:མཉམ་འབྲེལ་རྒྱལ་ཚོགས།	Kategori:Förenta nationerna
+Category:གློག་བརྙན།	Kategori:Film
+Category:སྤེལ་རེས།	Kategori:Kommunikation
+Category:སའི་གོ་ལ།	Kategori:Jorden
+ཤིང་ཉ།	Muyu
+ཁ་སི་ཁོ་ཡུན་གཙང་པོ།	Gascoyne River
+ཡ་ཀ་རི།	Yakari
+སའི་ཧོ་ཇི།	Saihoji
+ཤེལ་གྲི།	Glasskärare
+ཨལ་ཕཱ།	Alfaios
+ཁྲུང་ཆིང་གྲོང་ཁྱེར།	Provins (Kina)
+རྒྱ་ཨར།	Oliv
+དཀར་ཕྲུག	Milou
+ཁེབ་ཊན་ཧ་རྡོག	Kapten Haddock
+ཕེ་ལེག	Peleg
+ཏ་ཟིག་གི་མི།	Iranier
+མོ་ཆི་སོན་གཙང་པོ།	Murchison River
+རྫ་བྲ།	Ochotona gloveri
+ནབ་ཏ་ལིྰ།	Naftali
+སི་མེ་ཡོན། (གསུང་རབ།)	Simon (israelisk stamfader)
+ཨ་ཤེར།	Asher
+ནཱ་སོན།	Nacheshon
+སྐུ་འབུམ་དགོན།	Kumbumklostret
+བླ་བྲང་དགོན།	Labrangklostret
+ཀེའུ་ཙོང་།	Purjolök
+པེ་རེ་ཟི།	Peres
+ཆོས་ལུགས་བར་གྱི་དམག་འཁྲུག	Religionskrig
+གྲོང་ཁྱེར་ཆེན་པོར།	Storstadsområde
+གསར་འགོད་པ།	Journalist
+Category:མཚན་ཉིད་རིག་པ།	Kategori:Filosofi
+Category:སེམས་ཁམས་རིག་པ།	Kategori:Psykologi
+Category:ནང་པ་སངས་རྒྱས་ཆོས་ལུགས།	Kategori:Buddhism
+Category:ཡེ་ཤུའི་ཆོས་ལུགས།	Kategori:Kristendom
+Category:ཧིན་ཏུའི་ཆོས་ལུགས།	Kategori:Hinduism
+Category:དབྱི་སི་ལམ་ཆོས་ལུགས།	Kategori:Islam
+རྒྱལ་རྩེ།	Gyantse
+རེའུ།	Reu
+བྱ་རྒོད།	Örnar
+རྒྱ་གླིང་།	Suona
+སི་པི་རིང་ཧྥིལ་ཌི། (ཧྥོ་ལོ་རི་ཌ།)	Springfield, Florida
+ཡིག་སྐྱེལ་བ།	Brevbärare
+གནམ་རི་སྲོང་བཙན།	Namri Songtsen
+རྣམ་རྒྱལ་དགོན།	Namgyal
+པཱར་ཐཱ་ཅཱ་ཐར་ཇེ།	Partha Chatterjee
+ཏིན་ཏིན་བོད་ལ་ཕྱིན་པ།	Tintin i Tibet
+སྟར་ཤིང་།	Valnötssläktet
+གོ་སྙོད་ཟུར་བརྒྱད།	Stjärnanis
+Category:ཆ་མི་ཚང་བ	Kategori:Stubbar
+Category:ལྦེ་ཁེ་རིག་མཛོད།	Kategori:Wikipedia:Administration
+Category:རིག་གནས།	Kategori:Kultur
+མེའི་ཇིའི་དུས་དུས་མཚམས།	Meijiperioden
+ཕྲེང་བ།	Radband
+བྱི་ལོང་།	Nannospalax
+ས་ཡ་མི་ས་ཁི།	Saya Misaki
+ཡར་ཀླུངས་གཙང་པོ་	Yarlung Tsangpo
+སྨུག་པོའི།	Purpur
+Template:User uk-2	Mall:Användare uk-2
+སྟོན་པ།	Chandaka
+ཁབ་ལེན་	Magnetism
+སླི་ཁེ་རི་ནི་ཞི་ཡ།	Mikronesien
+Category:ཕའི་ཆིའུ་སྤོ་ལོ།	Kategori:Volleyboll
+ཉུང་མ།	Majrova
+Category:འཁྲབ་སྟོན་པ།	Kategori:Skådespelare
+Template:Tl	Mall:Mall
+Category:ཁྲིམས་ལུགས།	Kategori:Juridik
+Category:རྒྱལ་ཁབ།	Kategori:Världens länder
+Category:དཔལ་འབྱོར་རིག་པ།	Kategori:Nationalekonomi
+Wikipedia:Administrators	Wikipedia:Administratörer
+Category:ཀཛ་ཀིསུ་གཏན།	Kategori:Kazakstan
+Wikipedia:བཀོད་འདོམས་པར་རེ་ཞུ	Wikipedia:Ansökan om administrativ behörighet
+Category:ལས་རིགས།	Kategori:Yrken
+Category:དུས་ཚོད།	Kategori:Tid
+Category:རྩི་ཤིང་རིག་པ།	Kategori:Botanik
+Category:གཤག་བཅོས་རིག་པ།	Kategori:Anatomi
+Category:སྨན།	Kategori:Medicin
+Category:ཆབ་སྲིད།	Kategori:Politik
+Category:སློབ་གསོ།	Kategori:Utbildning
+Category:སྒྱུ་རྩལ།	Kategori:Konst
+ཨའི་ཅི།	Egypten
+ཕྰ་ཁ་མོན།	Pak Mun-dammen
+ཧེ་ཟི་རོན།	Hesron
+Category:མཚན་ཉིད་རིག་པ་བ།	Kategori:Filosofer
+Template:Bot	Mall:Bot
+ཁ་ན་ཌ།	Kanada
+Category:ཧུང་གྷ་རི།	Kategori:Ungern
+Category:པེར་ཅིན།	Kategori:Belgien
+Category:སེ་པི་རི་སི།	Kategori:Cypern
+Category:ཅེཀ་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kategori:Tjeckien
+Category:དན་མྲག	Kategori:Danmark
+Category:ཨིསུ་ཊོ་ནིཡ།	Kategori:Estland
+Category:ཀེ་རི་སི།	Kategori:Grekland
+Category:ལ་ཊ་ཝིཡ།	Kategori:Lettland
+Category:ཨཡིསུ་ལེན་ཌ།	Kategori:Island
+Category:ལུ་སེམ་བའུརག (རྒྱལ་ཁབ།)	Kategori:Luxemburg
+Category:ལི་ཐུ་ཨེ་ནི་ཡ།	Kategori:Litauen
+Category:མལ་ཏ།	Kategori:Malta
+Category:སི་ཝེ་དེན	Kategori:Sverige
+Category:སི་ལོ་ཕ་ཁེ།	Kategori:Slovakien
+Category:སི་ལོ་ཝེ་ནི་ཡ།	Kategori:Slovenien
+Category:ཨར་ལེན་ཌ།	Kategori:Irland
+Wikipedia:Copyrights	Wikipedia:Upphovsrätt
+Wikipedia:ཡི་སྐོར།	Wikipedia:Om
+Category:རོལ་རྩེད།	Kategori:Spel
+Template:Flagicon	Mall:Flaggbild
+Category:ཡོ་རོབ་གླིང་གི་རྒྱལ་ཁབ།	Kategori:Europas länder
+Category:ཡོ་རོབ་གླིང་།	Kategori:Europa
+Template:Documentation	Mall:Dokumentation
+Category:ལྦེ་ཁེ་བ།	Kategori:Wikipedia:Användare
+ཚོང་ལས།	Näringsliv
+Template:Softredirect	Mall:Mjuk omdirigering
+Template:གསུབ་པ	Mall:Radera
+Category:སྐད་རིགས།	Kategori:Språk
+Category:བརྡ་སྤྲོད་ཀྱི་གཞུང་།	Kategori:Grammatik
+Category:ལོ་ཐོ།	Kategori:Kalendrar
+Wikipedia:General disclaimer	Wikipedia:Allmänt förbehåll
+Category:Pages with broken file links	Kategori:Sidor med trasiga fillänkar
+Wikipedia:སྒྲོམ་གཞི།	Wikipedia:Meddelandemall
+དམག་མི།	Soldat
+དམར་སྨུག	Fuchsia (färg)
+Template:Navbox	Mall:Navbox
+ཁུག་བྱི།	Känguru
+དྲང་པོ།	Rättvisa
+Template:!	Mall:!
+དད་པ།	Tro
+Template:Clear	Mall:Clear
+Template:Col-break	Mall:Col-break
+Template:Col-begin	Mall:Col-begin
+Template:Col-end	Mall:Col-end
+Template:Nowrap	Mall:Nowrap
+རྩི་ཤིང་རིགས་ཤིག	Blåbär
+Wikipedia:སྐད་རིགས་ཆ་ཚང་ཡོད་པའི་རྩོམ་ཡིག་ཟིན་ཐོ།	Wikipedia:Artiklar som bör finnas på Wikipedia
+Category:ཨ་ཧྥེ་རི་ཁ་གླིང་།	Kategori:Afrika
+Category:གྲངས་ཀ།	Kategori:Tal
+Category:གསུང་རབ།	Kategori:Bibeln
+Category:དེབ།	Kategori:Böcker
+Template:བྷི་པེལ།	Mall:Babel
+Template:Commons	Mall:Commons
+Template:ཆ་མི་ཚང་བ	Mall:Stub
+Template:User eo-1	Mall:Användare eo-1
+Template:User bg-1	Mall:Användare bg-1
+Template:User eo-3	Mall:Användare eo-3
+Template:User de	Mall:Användare de
+Template:User de-1	Mall:Användare de-1
+Template:User es	Mall:Användare es
+Template:User de-3	Mall:Användare de-3
+Template:User en-3	Mall:Användare en-3
+Template:User en-1	Mall:Användare en-1
+Template:User en-2	Mall:Användare en-2
+Template:User eo-2	Mall:Användare eo-2
+Template:User en-4	Mall:Användare en-4
+Template:User en-0	Mall:Användare en-0
+Template:User en	Mall:Användare en
+Template:User de-2	Mall:Användare de-2
+Category:དངོས་པོ།	Kategori:Materia
+Category:འཚོ་བ།	Kategori:Liv
+Template:User he-2	Mall:Användare he-2
+Template:User it-3	Mall:Användare it-3
+Template:User ja-4	Mall:Användare ja-4
+Template:User ja	Mall:Användare ja
+Template:User ja-1	Mall:Användare ja-1
+Template:User it-1	Mall:Användare it-1
+Template:User hr-1	Mall:Användare hr-1
+Template:User fr	Mall:Användare fr
+Template:Unsigned	Mall:Signatur
+Category:སྲིན་འབུ།	Kategori:Insekter
+Category:མོལ་དོ་ཝ།	Kategori:Moldavien
+Category:ཨ་ཛར་བཡི་ཇན།	Kategori:Azerbajdzjan
+Category:ཡ་ཀྲོའུ་གླིང་	Kategori:Asien
+Category:ཅི་ལི།	Kategori:Chile
+Category:ལི་སོ་ཐོ།	Kategori:Lesotho
+Category:User uk	Kategori:Användare uk
+Category:User uk-N	Kategori:Användare uk-N
+Category:མ་ལ་ཤི་ཡ།	Kategori:Malaysia
+Template:Mod	Mall:Mod
+Template:User uk	Mall:Användare uk
+Template:དགའ་བསུ་ཞུ	Mall:Nybörjare
+Category:གཟའ་འཁོར་གྱི་རེ་གཟའ་གཅིག	Kategori:Veckodagar
+Category:ཟླ་བ།	Kategori:Månen
+Template:Country flagnavy	Mall:Flotta/core
+Category:སྐད་བརྡ་རིག་པ།	Kategori:Lingvistik
+Template:ཨ་ཧྥེ་རི་ཁ་གླིང་།	Mall:Afrika
+Template:Country data ལེ་སུ་ནི་ཡྰ།	Mall:Landsdata Litauen
+Category:ཀ་ན།	Kategori:Ghana
+Category:ཕ་རི།	Kategori:Paris
+Category:User en-4	Kategori:Användare en-4
+Category:ཊོ་གོ	Kategori:Togo
+Category:User en	Kategori:Användare en
+Category:ཁུརོ་ཤི་ཡ།	Kategori:Kroatien
+Category:User zh-N	Kategori:Användare zh-N
+Category:User en-2	Kategori:Användare en-2
+Template:User eo	Mall:Användare eo
+Template:User zh	Mall:Användare zh
+Template:Template other	Mall:Mall annan
+Template:རྒྱལ་ཁབ་ཀྱི་ཆ་འཕྲིན།	Mall:Landsdata
+Category:མིང་།	Kategori:Namn
+Category:རི་འཛེག་ལུས་རྩལ།	Kategori:Klättring
+Category:ཟས་ཀྱི་རིག་པ།	Kategori:Mat och dryck
+Template:Wikispecies	Mall:Wikispecies
+Template:User nl-2	Mall:Användare nl-2
+Category:སོ་ནམ།	Kategori:Jordbruk
+Category:ཙུང་ཐུང་ གཙོ་འཛིན།	Kategori:Presidenter
+Template:User ru	Mall:Användare ru
+Category:ཨ་མེ་རི་ཀ	Kategori:Amerika
+Category:ནོའོ་བྷེལ་བྱ་དགའ་རགས་མཁན།	Kategori:Mottagare av Nobels fredspris
+Category:Language user templates	Kategori:Babelmallar
+Category:ཚད་འཇལ་བྱེད་ཀྱི་སྡེ་ཚན།	Kategori:Mått
+Template:User eo-4	Mall:Användare eo-4
+Category:རྩོམ་པ་པོ།	Kategori:Författare
+Category:དམག་དོན།	Kategori:Militärväsen
+Template:User pl	Mall:Användare pl
+Template:རིགས་དགར་མེད་པ	Mall:Okategoriserad
+Category:རི་མོ།	Kategori:Måleri
+Template:Purge	Mall:Rensa
+Category:འདུ་ཤེས།	Kategori:Känslor
+རམས་ཚོས།	Indigo (färg)
+Template:User pl-1	Mall:Användare pl-1
+Category:ཏུ་ནི་ཤི་ཡ།	Kategori:Tunisien
+Template:User lt	Mall:Användare lt
+Category:ལག་ཆ།	Kategori:Utrustning
+Category:མར་ཁེ་སེ་རིང་ལུགས།	Kategori:Marxism
+Template:User de-0	Mall:Användare de-0
+Template:User en-5	Mall:Användare en-5
+Category:User ja-N	Kategori:Användare ja-N
+Category:སྤེན་པ།	Kategori:Saturnus
+Category:ལྷག་པ།	Kategori:Merkurius
+Category:ཤ་རི་ཡ།	Kategori:Islamisk rättslära
+Category:ཇ།	Kategori:Te
+Category:རྩ།	Kategori:Poaceae
+Category:ཁེ་ར་བི་ཧན།	Kategori:Västindien
+Category:སུ་ཝ་ཛི་ལནཌ།	Kategori:Swaziland
+Category:འོད་པར་རྒྱབ་ཐབས།	Kategori:Fotografi
+Category:ཚགས་པར།	Kategori:Tidningar
+Category:མངར་ཟས།	Kategori:Desserter
+Category:དཔྱིད།	Kategori:Vår
+Template:གསལ་བྱེད།	Mall:Pulmoniska konsonanter
+Category:ཁང་རྩིག་བཟོ་རིག	Kategori:Arkitektur
+Category:མེ་འཁོར།	Kategori:Spårtrafik
+Category:འཇར་མན་གྱི་སྒྱུ་རྩལ།	Kategori:Tysk konst
+Category:ཁྲོམ་ལམ།	Kategori:Gator
+Category:གི་རི་ན་ཌ། (རྒྱལ་ཁབ།)	Kategori:Grenada
+Template:User eo-0	Mall:Användare eo-0
+Category:མ་སེ་ཌོ་ནིཡ། (རྒྱལ་ཁབ།)	Kategori:Makedonien
+Category:User la	Kategori:Användare la
+Category:User lt	Kategori:Användare lt
+Category:User fr-4	Kategori:Användare fr-4
+Category:User fr-N	Kategori:Användare fr-N
+Category:User lt-N	Kategori:Användare lt-N
+Category:User ru-N	Kategori:Användare ru-N
+Category:ཚོང་ལས།	Kategori:Näringsliv
+Category:ཏོའོ་ཅོའོ་ཆོས་ལུགས།	Kategori:Taoism
+Category:User bo	Kategori:Användare bo
+Category:User de	Kategori:Användare de
+Category:User de-0	Kategori:Användare de-0
+Category:User en-3	Kategori:Användare en-3
+Category:User en-N	Kategori:Användare en-N
+Category:སའོ་ཊོ་མེ་དང་པི་རིན་སི་པ།	Kategori:São Tomé och Príncipe
+Category:དགེ་སྒྲུབ།	Kategori:Välgörenhetsorganisationer
+Category:ཀན་སུ།	Kategori:Gansu
+Category:ཀྲུང་གོའི་རི་མོ་མཁས་ཅན།	Kategori:Kinesiska målare
+Category:ཨའི་ཆི་ཞེས་པའི་སྲིད་འཛིན་ས་ཁུལ།	Kategori:Aichi prefektur
+Category:རྒྱལ་ཁབ་གྱི་ཆབ་སྲིད།	Kategori:Politik efter land
+Category:དབྱིབས་རྩིས་རིག་པ།	Kategori:Geometri
+Category:གཞས་རིག་པ།	Kategori:Musikvetenskap
+Category:User ja-1	Kategori:Användare ja-1
+Category:མེ་རི།	Kategori:Vulkaner
+Category:User ru-1	Kategori:Användare ru-1
+Category:སྙན་ངག་མཁན།	Kategori:Poeter
+Template:ཀེ་རི་སིའི་དབྱངས་གསལ་རེའུ་མིག	Mall:Grekiska bokstäver
+Category:མའི་ཀོ་རོ་ནེ་ཤི་ཡ། (རྒྱལ་ཁབ།)	Kategori:Mikronesiens federerade stater
+ཧྲང་ཨན།	Chang’an
+Category:རྒྱལ་སྤྱིའི་འཁྲབ་སྟོན་པ།	Kategori:Skådespelare efter nationalitet
+Category:ཉི་མའི་ཁྱིམ་རྒྱུད།	Kategori:Solsystemet
+Category:ཧོ་ཁའི་དོ།	Kategori:Hokkaido
+Category:ཀོང་ཏུང་ཞིང་ཆེན།	Kategori:Guangdong
+Category:ཧྲའན་ཞི།	Kategori:Shaanxi
+Category:ཨན་ཧུའེ་ཞིང་ཆེན།	Kategori:Anhui
+Category:ཅི་ལིན།	Kategori:Jilin
+Category:ཧྥུའུ་ཅན།	Kategori:Fujian
+Category:ཧའེ་ནན།	Kategori:Hainan
+Category:ཌོ་མི་ནི་ཀན་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kategori:Dominikanska republiken
+Category:ཆུ།	Kategori:Vatten
+Category:བཏུང་བྱའི་སྐོར།	Kategori:Drycker
+ལུང་སྟོན་པ་ཤ་མུ་ཨེལ།	Samuel (biblisk person)
+Category:བྷེ་ལ་རསུ།	Kategori:Vitryssland
+Category:ཨ་ཧྥེ་རི་ཁའི་གླིང་གི་རྒྱལ་ཁབ།	Kategori:Afrikas länder
+Category:ཧྥ་ཤི་སིའི་རིང་ལུགས།	Kategori:Fascism
+Category:བྲན་གཡོག་རིང་ལུགས།	Kategori:Slaveri
+Template:User ru-2	Mall:Användare ru-2
+Template:User es-3	Mall:Användare es-3
+Category:མིག་དམར།	Kategori:Mars
+Category:པལ་ཊིམ་གྱི་ཟུར་ཟའི་མུ་འབྲེལ་རི་མོ།	Kategori:Belgiska serier
+Category:User ru	Kategori:Användare ru
+Category:User ru-2	Kategori:Användare ru-2
+Category:User ru-3	Kategori:Användare ru-3
+Category:User uk-2	Kategori:Användare uk-2
+Category:ཧྲན་ཏུང་།	Kategori:Shandong
+Category:ཀྲེ་ཅང་།	Kategori:Zhejiang
+Category:མཚོ་སྔོན་ཞིང་ཆེན།	Kategori:Qinghai
+Category:ཧའོ་ནན།	Kategori:Henan
+Category:ཧུའུ་ནན།	Kategori:Hunan
+Category:དགོན་པ།	Kategori:Kloster
+Category:ཤིང་།	Kategori:Träd
+Category:སྤྱི་ཚོགས་རིག་པ།	Kategori:Sociologi
+Category:སྤྲིན།	Kategori:Moln
+Template:Nowrap end	Mall:Nowrap end
+Category:འགྲོ་བ་མི།	Kategori:Människor
+Category:ཨོ་ཝེར་ཉེ།	Kategori:Auvergne
+Category:མི་དི་ཕི་རེ་ནེ།	Kategori:Midi-Pyrénées
+Category:ཕོ་རོའོ་ཝང་སི་ཝལ་ཕེས་ཁོ་ཏེ་ད་ཟུར།	Kategori:Provence-Alpes-Côte d'Azur
+Category:མེག་སི་ཀོ་གསར་མ།	Kategori:New Mexico
+Category:མི་ཅི་གྷན།	Kategori:Michigan
+Category:ཡོ་བ།	Kategori:Iowa
+Category:ཨིན་ཌི་ཡཱ་ན།	Kategori:Indiana
+Category:ཁོ་ལོ་ར་ཌོ།	Kategori:Colorado
+Category:ཨ་པོའུ་དྷ་པེ།	Kategori:Abu Dhabi
+Category:འཛམ་གླིང་འཁྲུག་ཆེན་དང་པོ།	Kategori:Första världskriget
+Category:ཨོའོ་སི་ཁྲོ་རི་ཡའི་རྩོམ་པ་པོ།	Kategori:Österrikiska författare
+Category:དབྱི་རག་གི་རྩོམ་པ་པོ།	Kategori:Irländska författare
+Category:དབྱི་ཐ་ལི་ཡི་རྩོམ་པ་པོ།	Kategori:Italienska författare
+Category:ཨང་གོ་ལ།	Kategori:Angola
+Category:བེ་ནིན།	Kategori:Benin
+Category:བྷོ་ཙི་ཝ་ན།	Kategori:Botswana
+Category:བུར་ཀི་ན་ཕ་སོ།	Kategori:Burkina Faso
+Category:བུ་རུན་ཌི།	Kategori:Burundi
+Category:ཇི་བའོ་ཊི།	Kategori:Djibouti
+Category:ཀོ་ཊི་ཌི་ཨའི་བོ་རི།	Kategori:Elfenbenskusten
+Category:ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།	Kategori:Ekvatorialguinea
+Category:ཨི་རི་ཏྲའ།	Kategori:Eritrea
+Category:གེ་བོན།	Kategori:Gabon
+Category:གེམ་བྷི་ཡ།	Kategori:Gambia
+Category:གི་ནེ།	Kategori:Guinea
+Category:གི་ནེ་-བི་སའོ།	Kategori:Guinea-Bissau
+Category:ཁམ་མུ་རོན།	Kategori:Kamerun
+Category:ཁེབ་ཝར་ཌི།	Kategori:Kap Verde
+Category:ཁེ་ནི་ཡ།	Kategori:Kenya
+Category:ཁོ་མོ་རོ་སུ།	Kategori:Komorerna
+Category:ལི་བེ་རི་ཡ།	Kategori:Liberia
+Category:མ་ད་གཱ་སི་ཀར།	Kategori:Madagaskar
+Category:མ་ལ་ཝི།	Kategori:Malawi
+Category:མ་ལི།	Kategori:Mali
+Category:མའེ་ལོ་ཀོ།	Kategori:Marocko
+Category:མའུ་རི་ཏ་ནི་ཡ།	Kategori:Mauretanien
+Category:མའུ་རི་ཊིའུ་སུ།	Kategori:Mauritius
+Category:མོ་ཛམ་བིཀ།	Kategori:Moçambique
+Category:ན་མི་བྷི་ཡ།	Kategori:Namibia
+Category:ནི་ཇར།	Kategori:Niger
+Category:ཀོང་གོ་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kategori:Kongo-Brazzaville
+Category:རུ་ཝན་ཌ།	Kategori:Rwanda
+Category:ཕོ་ལན་གྱི་སྒྱུ་རྩལ།	Kategori:Polsk konst
+Category:པགས་གཙགས་རི་མོ།	Kategori:Tatuering
+Category:དྷོ་ཧ།	Kategori:Doha
+Category:ཆོས་ལུགས་དང་ལོག་གཡེམ་མམ་ཉེས་སྤྱོད།	Kategori:Religion och våld
+Template:Merge	Mall:Slå ihop
+Category:ནང་པ་སངས་རྒྱས།	Kategori:Personligheter inom buddhismen
+Template:Infobox Language/family-color	Mall:Språk/familj-färg
+Template:User ca-3	Mall:Användare ca-3
+Category:གཙང་པོ།	Kategori:Vattendrag
+Template:User la-2	Mall:Användare la-2
+Template:User ru-1	Mall:Användare ru-1
+Template:User sk-2	Mall:Användare sk-2
+Category:ཛམ་བི་ཡ།	Kategori:Zambia
+Category:སི་ནི་གཱལ།	Kategori:Senegal
+Category:ཧྥ་རན་སིའི་སྲིད་དོན།	Kategori:Politik i Frankrike
+Category:སེ་ཆེ་ལེ་སུ།	Kategori:Seychellerna
+Category:སི་ར་ལེ་ཨོན།	Kategori:Sierra Leone
+Category:ཛིམ་བབ་ཝི།	Kategori:Zimbabwe
+Category:ཁབ་ལེན།	Kategori:Magnetism
+Category:སོ་མ་ལི།	Kategori:Somalia
+Category:ཆཱ་ཌ།	Kategori:Tchad
+Category:ཨུ་གན་ད།	Kategori:Uganda
+Category:དབུས་ཨ་ཧྥེ་རི་ཁན་རི་པཔ་ལིཀ།	Kategori:Centralafrikanska republiken
+Category:གླུ་གཞས་ཟློས་གར།	Kategori:Opera
+Category:གཞས་གཏོང་བ།	Kategori:Sång
+Category:བོད་མི།	Kategori:Personer från Tibet
+Category:ཟློས་གར།	Kategori:Teater
+Category:མི་རིགས་ཀྱི་གཞས་གཏོང་མཁན།	Kategori:Sångare efter nationalitet
+Category:ཧྥི་ལི་པིན​།	Kategori:Filippinerna
+Category:ཧྥ་རན་སིའི་གཞས་པ་གཞས་མ།	Kategori:Franska sångare
+Category:དབྱིན་ཇིའི་ཕྱི་འབྲེལ་མཁས་ཅན།	Kategori:Brittiska diplomater
+Category:ཤོག་བུ།	Kategori:Papper
+Category:དགོང་མོ།	Kategori:Natt
+Category:ཨར་མེ་ནི་ཡ།	Kategori:Armenien
+Category:བྷཧ་རཡིན།	Kategori:Bahrain
+Category:འབྲུག་ཡུལ།	Kategori:Bhutan
+Category:ཨ་མི་རི་ཁའི་སྙན་ངག	Kategori:Amerikanska poeter
+Category:རང་ཤི་རྒྱབ་པ།	Kategori:Självmord
+Category:ཨོའོ་སི་ཁྲོ་རི་ཡའི་རི་འཛེགས་པ།	Kategori:Österrikiska bergsbestigare
+Category:སི་རི་ཡ།	Kategori:Syrien
+Category:དབྱི་ཐ་ལི་ཡི་སྙན་ངག་མཁས་ཅན།	Kategori:Italienska poeter
+Category:དྲ་ཕས་སྤོ་ལོ།	Kategori:Basket
+Category:ཡེ་ཤུའི་འཁྲུངས་སྐར།	Kategori:Jul
+Category:མི་རིགས་རིང་ལུགས།	Kategori:Nationalism
+Category:ཤི་བ།	Kategori:Döden
+Category:དབུལ་ཕོངས།	Kategori:Fattigdom
+Category:ལོག་གཡེམ་མམ་ཉེས་སྤྱོད།	Kategori:Våld
+Category:ལྗོར་མན་གྱི་ལོ་རྒྱུས་མཁས་ཅན།	Kategori:Tyska historiker
+Category:ཧྥ་རན་སི་ཡི་ལོ་རྒྱུས་མཁས་ཅན།	Kategori:Franska historiker
+Category:ཁ་ར་ཏེ།	Kategori:Karate
+Category:སྒྱུ་རྩལ་གྱི་འགྲེམས་སྟོན།	Kategori:Konstutställningar
+Category:ཨ་ལི་ཡེ།	Kategori:Allier
+Category:ཨ་ཝེ་རོང་།	Kategori:Aveyron
+Category:ཧྥ་རན་སིའི་སྲིད་དོན་ལས་མཁན།	Kategori:Franska politiker
+Category:མཚོ་འགག	Kategori:Sund
+Category:དབྱིན་ཇིའི་འཁྲབ་སྟོན་པ།	Kategori:Engelska skådespelare
+Category:སྐར་མ་གནམ་རྒྱལ།	Kategori:Uranus
+Category:ཕུར་བུ།	Kategori:Jupiter
+Category:སྐར་མ་མཚོ་རྒྱལ།	Kategori:Neptunus
+Category:ཧིན་རྡུ་དང་ཡོ་རོབ་ཀྱི་སྐད།	Kategori:Indoeuropeiska språk
+Category:ཉི་ཧུང་གི་རི་མོ་མཁས།	Kategori:Japanska målare
+Category:འབྲུ་རིགས་སྐོར།	Kategori:Sädesslag
+Template:རྒྱལ་ཁབ་ཀྱི་ཆ་འཕྲིན།Lithuanian SSR	Mall:Landsdata Litauiska SSR
+Category:ཀྲུང་གོའི་གཞས་པ་དང་གཞས་མ།	Kategori:Kinesiska sångare
+Category:ཧྥ་རན་སིའི་བཀའ་བློན་འགོ་གཙོ།	Kategori:Frankrikes regeringschefer
+Category:བྱང་ཀོ་རི་ཡ།	Kategori:Nordkorea
+Category:ཇིཨོར་ཇི་ཡ། (རྒྱལ་ཁབ།)	Kategori:Georgien
+Category:ཁམ་པོ་ཛ།	Kategori:Kambodja
+Category:རྒྱ་མི།	Kategori:Kineser
+Category:ཨ་མེ་རི་ཁའི་གཞས་གཏོང་མཁན།	Kategori:Amerikanska sångare
+Category:ཝ་ནུའ་ཏུ།	Kategori:Vanuatu
+Category:གསར་འགོད།	Kategori:Journalistik
+Category:ཉི་ཧུང་གི་མཚན་ཉིད་རིག་པ་བ།	Kategori:Japanska filosofer
+Category:ཁ་ཏར།	Kategori:Qatar
+Category:ཀེ་རེ་གེཛུ་སུཏེན།	Kategori:Kirgizistan
+Category:ཀོ་རི་ཡ།	Kategori:Korea
+Category:ཁུ་ཝི་ཐི།	Kategori:Kuwait
+Category:ལེ་པ་ནོན།	Kategori:Libanon
+Category:མལ་དིཝེསུ།	Kategori:Maldiverna
+Category:བྷར་མ།	Kategori:Burma
+Category:བལ་ཡུལ།	Kategori:Nepal
+Category:ཨོ་མན།	Kategori:Oman
+Category:སེང་ག་གླིང་།	Kategori:Sri Lanka
+Category:ཐ་ཇི་ཁེ་སི་ཏན།	Kategori:Tadzjikistan
+Category:ཐེ་ཝན།	Kategori:Taiwan
+Category:ཤར་ཏིམོར།	Kategori:Östtimor
+Category:ཏུརཀ་མེ་ནི་སུཏན།	Kategori:Turkmenistan
+Category:ཨུཛ་བེ་ཀིསུ་ཏན།	Kategori:Uzbekistan
+Category:ཡི་ནེ་ཁྲེ་ཀྲི་ཨ་རབ་ཨེ་མེ་རེ་ཁྲི།	Kategori:Förenade Arabemiraten
+Category:ཧྥ་རན་སིའི་འཁྲབ་སྟོན་པ།	Kategori:Franska skådespelare
+Category:ཡུལ་སྐོར་གྱི་དེབ།	Kategori:Reseskildringar
+Category:གསུང་རབ་ཀྱི་མི་སྣ།	Kategori:Personer i Bibeln
+Category:བོད་ཀྱི་ལོ་རྒྱུས།	Kategori:Tibets historia
+Category:ཡོ་རོབ་གི་ལོ་རྒྱུས།	Kategori:Europas historia
+Category:ཀི་རི་བ་ཏི།	Kategori:Kiribati
+Category:སན་མ་རི་ནོ།	Kategori:San Marino
+Category:རྗོར་ཌན།	Kategori:Jordanien
+Category:ས་མོའ།	Kategori:Samoa
+Category:ཁོ་ས་ཏ་རི་ཁ།	Kategori:Costa Rica
+Category:ཏྲི་ནི་ཌད་དང་ཏྲོ་བེ་གོ	Kategori:Trinidad och Tobago
+Category:སུ་རི་ནེམ།	Kategori:Surinam
+Category:ནི་ཀ་ར་གུ་ཝ།	Kategori:Nicaragua
+Category:བྷོསུ་ནིཡ་དང་ཧར་ཛེ་གྷོ་ཝི་ན།	Kategori:Bosnien och Hercegovina
+Category:བར་བ་ཌོ་སི།	Kategori:Barbados
+Category:པ་ན་མ།	Kategori:Panama
+Category:པ་ར་གུ་ཡེ།	Kategori:Paraguay
+Category:ཧྥི་ཇི།	Kategori:Fiji
+Category:པ་པུ་འ་ནིའུ་གི་ནེ།	Kategori:Papua Nya Guinea
+Category:མར་ཤལ་གླིང་ཕྲན་རྒྱལ་ཁབ།	Kategori:Marshallöarna
+Category:ལི་ཆེ་ཏན་སཏིན།	Kategori:Liechtenstein
+Category:སོ་ལོ་མོན་གླིང་ཕྲན་ཚོ་ཁག	Kategori:Salomonöarna
+Category:ཧོང་དུ་ར་སི།	Kategori:Honduras
+Category:ཨུ་རུ་གུ་ཡེ།	Kategori:Uruguay
+Category:ཨན་ཌོར་ར།	Kategori:Andorra
+Category:སེན་ཊི་བིན་སེན་ཊི་དང་གི་རི་ན་ཌིན་སི།	Kategori:Saint Vincent och Grenadinerna
+Category:སེར་བྷི་ཡ།	Kategori:Serbien
+Category:བེ་ལི་ཛི།	Kategori:Belize
+Category:ཨིལ་སལ་ཝ་ཌོར།	Kategori:El Salvador
+Category:ཧའི་ཏི།	Kategori:Haiti
+Category:ཨེ་ཁོའོ་ཌོར།	Kategori:Ecuador
+Category:ཡེ་མེན།	Kategori:Jemen
+Category:པེ་རུ།	Kategori:Peru
+Category:ཌོ་མི་ནི་ཀ	Kategori:Dominica
+Category:བྷོ་ལི་ཝི་ཡ།	Kategori:Bolivia
+Category:ཨལ་པ་ཉི་ཡ།	Kategori:Albanien
+Category:མོ་ན་ཁོ།	Kategori:Monaco
+Category:གོམས་སྲོལ།	Kategori:Traditioner
+Category:ཨ་མེ་རི་ཁའི་བྱང་གླིང་གི་རྒྱལ་ཁབ།	Kategori:Nordamerikas länder
+Category:པེ་ཅིང་།	Kategori:Peking
+Category:སྔོ་ཚལ་རིགས།	Kategori:Grönsaker
+Category:ཤིང་ཏོག་རིགས།	Kategori:Frukter
+Category:ཡུལ་སྐད།	Kategori:Dialekt
+Category:འགྲེམས་སྟོན་ཁང་།	Kategori:Museer
+Category:མན་གྷ།	Kategori:Manga
+Category:ཁ་ཆེའི་ཆོས་ཁང་།	Kategori:Moskéer
+Category:མིའི་རིགས་དཔྱད་པའི་རིག་པ།	Kategori:Antropologi
+Category:མཚོ་རྟེའུ།	Kategori:Sjöhästar
+Category:རྡོ་ཆས་སྤྱོད་པའི་དུས་རབས།	Kategori:Stenåldern
+Category:ལྕགས་ཆས་སྤྱོད་པའི་དུས་རབས།	Kategori:Järnåldern
+Category:འབྲས་ལྗོངས།	Kategori:Sikkim
+Category:མིང་རྒྱལ་རབས།	Kategori:Mingdynastin
+Category:ནམ་དུས།	Kategori:Årstider
+Category:ལི་ཡོང་།	Kategori:Lyon
+Category:རླུང་འཕྲིན།	Kategori:Radio
+Category:གཅེར་​བུ་​བའི་​ཆོས་​ལུགས།	Kategori:Jainism
+Category:ཛོ་​ར་​སིའི་​ཆོས་​ལུགས།	Kategori:Zoroastrism
+Category:ཨེ་ཤེ་ཡའི་རྒྱུ་རྩལ།	Kategori:Konst i Asien
+Category:ཞི་བདེ།	Kategori:Fred
+Category:ཆགས་སློང་རྩོམ་རིག	Kategori:Pornografi
+Category:ནག་ཁུང་།	Kategori:Svarta hål
+Category:གསོ་རླུང་།	Kategori:Syre
+Category:མཚོན་ཆ།	Kategori:Vapen
+Category:ནའུ་རུ།	Kategori:Nauru
+Category:པ་ལའུ།	Kategori:Palau
+Category:ཊོང་ག	Kategori:Tonga
+Category:ཏུ་ཝ་ལུ།	Kategori:Tuvalu
+Category:ཨེན་ཊི་གུའ་དང་བར་བུ་ཌ།	Kategori:Antigua och Barbuda
+Category:ཨ་མེ་རི་ཁའི་ལྷོ་གླིང་གི་རྒྱལ་ཁབ།	Kategori:Sydamerikas länder
+Category:གུ་ཡ་ན།	Kategori:Guyana
+Category:ཁོ་ལོམ་བི་ཡ།	Kategori:Colombia
+Category:ཁོ་སོ་ཝོ།	Kategori:Kosovo
+Template:ཆགས།	Mall:Sexualitet
+Category:རོལ་ཆའི།	Kategori:Musikinstrument
+Category:གནའ་རབས་མ་ཡ།	Kategori:Mayakulturen
+Category:གནམ་གཤིས་རིག་པ།	Kategori:Meteorologi
+Category:ཧོང་ཀོང་།	Kategori:Hongkong
+Category:ཚྭ།	Kategori:Salter
+Category:སི་ཅི་ལི་ཡ།	Kategori:Sicilien
+Category:ཆུ་རགས།	Kategori:Dammar
+Category:གྱོན་ཆས།	Kategori:Kläder
+Category:དུས་ཆེན།	Kategori:Festivaler
+Category:ཧི་མ་ལ་ཡ།	Kategori:Himalaya
+Category:ཕིན་ཕང་སྤོ་ལོ།	Kategori:Bordtennis
+Category:ཆགས།	Kategori:Kön
+Category:ཁྲག	Kategori:Blod
+Category:ཕྲ་མཐོང་དཔལ་འབྱོར།	Kategori:Mikroekonomi
+Category:གསལ་བྱེད།	Kategori:Konsonantljud
+Category:འགུལ་རིས་གློག་བརྙན།	Kategori:Animerad film
+Category:རིམས་ནད།	Kategori:Sjukdomar
+Category:སླི་ཁེ་རི་ནི་ཞི་ཡ།	Kategori:Mikronesien
+Category:གནའ་རབས་ཀེ་རི་སི།	Kategori:Antikens Grekland
+Category:ལ་ཊིན་ནས་ཆད་པའི་ཡུལ་སྐད།	Kategori:Romanska språk
+Category:པར་ཆས།	Kategori:Kameror
+Category:ཕྱི་འབྲིལ།	Kategori:Diplomati
+Category:ཞབས་བྲོ།	Kategori:Dans
+Category:སྦྲང་མ་ཉར་སྲུང་།	Kategori:Biodling
+Category:རྩེད་ཆས།	Kategori:Leksaker
+Category:ཁྱིམ་ཚང་།	Kategori:Familjeliv
+Category:དྲང་པོ།	Kategori:Rättvisa
+Category:སྦྲུལ།	Kategori:Ormar
+Category:ཉི་མ།	Kategori:Solen
+Category:དཔའ་དམ།	Kategori:Svärd
+Category:པ་སངས།	Kategori:Venus
+Category:ལྷོ་མཐའི་གླིང་	Kategori:Antarktis
+Category:ཐོ་ཕུ་རིག་པ།	Kategori:Topologi
+Category:བོད་ཡུལ།	Kategori:Tibet
+Template:Flagcountry	Mall:Flaggbild2
+Template:Infobox language	Mall:Språk
+Category:རྒྱ་མཚོ་ཆེན་པོའི་གླིང་ཆེན།	Kategori:Oceanien
+Category:ཀྲུང་གོའི་གྲོང་ཁྱེར།	Kategori:Orter i Kina
+Category:སྐྲག་པ།	Kategori:Rädsla
+Category:ཀུན་སྤྱོད་བཟང་པོ།	Kategori:Dygder
+Category:གུ་ཝེ་ཐི་མ་ལ།	Kategori:Guatemala
+Category:མོན་ཊེནིག་རོ།	Kategori:Montenegro
+Category:གྲི།	Kategori:Knivar
+Category:ཁྲབ་ལྡན་འཁོར་ལོ།	Kategori:Stridsvagnar
+Category:ཟུར་ཟའི་མུ་འབྲེལ་རི་མོ།	Kategori:Tecknade serier
+Category:གཉེན་སྒྲིག	Kategori:Äktenskap
+Category:རི་པིན་གྱི་སྒྱུ་རྩལ།	Kategori:Japansk konst
+Category:ཁ་ན་ཌ་ཀྱི་སྒྱུ་རྩལ།	Kategori:Kanadensisk konst
+Category:སི་ཝེ་དེན་གྱི་སྒྱུ་རྩལ།	Kategori:Svensk konst
+Category:ཨར་ཇེན་ཊི་ན་གྱིས་སྒྱུ་རྩལ།	Kategori:Argentinsk konst
+Category:ཧུང་གྷ་རི་གྱིས་སྒྱུ་རྩལ།	Kategori:Ungersk konst
+Category:ཧོ་ལན་གྱིས་སྒྱུ་རྩལ།	Kategori:Nederländsk konst
+Template:Rounddown	Mall:Avrunda ned
+Category:སློབ་གྲྭ།	Kategori:Skolor
+Category:ཏིན་ཏིན།	Kategori:Tintin
+Category:མིའི་རིགས་རྒྱུད་རིག་པ།	Kategori:Etnologi
+ཚོ་ཁག་གི་ཆགས་སྤྱོད།	Gruppsex
+Category:ཟེན།	Kategori:Zen
+Category:ཡེ་རེ་ཝན།	Kategori:Jerevan
+ཞོག་རྒོད།	Jams
+Category:ཨེ་ཤེ་ཡའི་གླིང་གི་རྒྱལ་ཁབ།	Kategori:Asiens länder
+Template:ཀྲུང་ཧྭ་མི་རིགས།	Mall:Kinas nationaliteter
+Category:ཆེ་མཐོང་དཔལ་འབྱོར།	Kategori:Makroekonomi
+Category:ཨྰ་སྦྲོལ་ཧྥུ་ཧི་ཐུ་ལུར།	Kategori:Adolf Hitler
+Category:ཝེ་ནེ་ཟི་ཡ།	Kategori:Venedig
+Category:ཝེ་ནེ་ཏོ།	Kategori:Veneto
+Category:ཨ་མི་རི་ཁའི་ཡེ་ཤུའི་ཆོས་ལུགས་པ།	Kategori:Kristna personligheter i USA
+Category:ཨམ་མན།	Kategori:Amman
+Category:སྒྱུ་རྩལ་གྱི་བྱུང་ཚུལ།	Kategori:Konstens historia
+Category:པ་སེལ།	Kategori:Basel
+Category:དོམ།	Kategori:Björnar
+Category:ཟམ་པ།	Kategori:Broar
+Category:ཟངས་ཆས་སྤྱོད་པའི་དུས་རབས།	Kategori:Bronsåldern
+Category:ཏཱ་ལའི་བླ་མ་	Kategori:Dalai lama
+Category:སྐད་ཀྱི་མཚན་ཉིད་རིག་པ།	Kategori:Språkfilosofi
+Category:ཁྲུང་ཆིན།	Kategori:Chongqing
+Category:གྲི་རྩེད།	Kategori:Fäktning
+Category:དམག་འཁྲུག	Kategori:Krig
+Category:ཨེལ་ཝེ་སི་ཕིར་ཟི་ལཱེ།	Kategori:Elvis Presley
+Category:ཁོར་ཡུག	Kategori:Miljö
+Category:ཧྥ་རན་སིའི་གཞུང་མེད་རིང་ལུག་པ།	Kategori:Franska anarkister
+Category:ཧྥ་རན་སིའི་སྐད།	Kategori:Franska
+Category:ཀེ་རི་སིའི་དབྱངས་གསལ་རེའུ་མིག	Kategori:Grekiska alfabetet
+Category:དགོད་བྲོ།	Kategori:Humor
+Category:ཡུལ་ཏོ་པི་ཡ།	Kategori:Utopier
+Category:གཞུང་མེད་ལམ་སྲོལ།	Kategori:Anarkism
+Category:ཉི་ཧོང་གི་གཞུང་མེད་རིང་ལུག་པ།	Kategori:Japanska anarkister
+Category:ལེ་ཨོ་ན་ཏོ་ཏ་ཧྥིན་ཆི།	Kategori:Leonardo da Vinci
+Category:དཔེ་མཛོད་ཁང་།	Kategori:Bibliotek
+Category:རིས་ཡག	Kategori:Riyadh
+Category:རོ་མ།	Kategori:Rom
+Category:སེན་ཊི་ཀི་ཊི་སི་དང་ནེ་བི་སི།	Kategori:Saint Kitts och Nevis
+Category:སེན་ཊ་ལུ་ཤི་ཡ།	Kategori:Saint Lucia
+Category:ལེགས་སྦྱར་སྐད།	Kategori:Sanskrit
+Category:ཆགས་སྦྱོར་རིག་པ།	Kategori:Sexologi
+Category:ཧྲིན་ཐོ།	Kategori:Shinto
+Category:སིག་​གི་​ཆོས་​ལུགས།	Kategori:Sikhism
+Category:སྒྲ།	Kategori:Ljud
+Category:འགྱུར་མིང་།	Kategori:Pseudonymer
+Category:བ་ཧ་མཱ་སི།	Kategori:Bahamas
+Category:སིམ་བུ་སན།	Kategori:Simpsons
+Category:བོད་བརྒྱུད་ནང་བསྟན་ཆོས་ལུགས།	Kategori:Tibetansk buddhism
+Category:བོད་རིག་པ།	Kategori:Tibetologi
+Category:ཨའི་ཁི་དོ།	Kategori:Aikido
+Category:ཚོན་མདོག།	Kategori:Färg
+Category:སིད་ནེ།	Kategori:Sydney
+Category:བོད་ཀྱི་རི་བོ།	Kategori:Berg i Tibet
+Category:བྷི་རུ་ནི།	Kategori:Brunei
+Category:རྒྱ་རིགས་ཀྱི་མཚན་ཉིད་རིག་པ།	Kategori:Kinesisk filosofi
+Category:ཐག་རྒུལ་འདྲ་གཟུགས།	Kategori:Dockteater
+Category:ཁོ་ཁེ་གླིང་ཚོམ།	Kategori:Cooköarna
+Category:པོ་ཅུ་གྷལ་གྱིས་སྒྱུ་རྩལ།	Kategori:Portugisisk konst
+Category:ཕོ་རོའོ་ཝང་སི།	Kategori:Provence
+Category:ལོ་རྒྱུས་བྱུང་གོང་གི་དུས་མཚམས།	Kategori:Förhistoria
+Category:མིང་གི་གོ་རིམ།	Kategori:Språk efter grundordföljd
+Category:གྲོང་ཁྱེར།	Kategori:Städer
+Category:ཁུརོ་ཤི་ཡའི་སྒྱུ་རྩལ།	Kategori:Kroatisk konst
+Category:ལང་ཚོ་དར་བབས།	Kategori:Puberteten
+Category:User en-1	Kategori:Användare en-1
+Category:User de-1	Kategori:Användare de-1
+ཚོན་མདོག་གི་ཐོ།	Lista över färger
+མཱ་ཧ་ལཱ་ཨེལ།	Mahalalel
+Category:ཇ་ཝ།	Kategori:Java
+Template:User sh-2	Mall:Användare sh-2
+སུན་ཝུའུ་ཁུང་།	Sun Wukong
+Template:Style/ril	Mall:Style/ril
+དར་མདོ་	Kangding, Garzê
+བཟོད་པ།	Tålamod
+Special:RecentChanges	Special:Senaste ändringar
+Category:User ja-4	Kategori:Användare ja-4

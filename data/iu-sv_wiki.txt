@@ -1,0 +1,470 @@
+ᐊᑉᕆᖄ	Afrika
+ᓃᑉᐊᓐ	Japan
+ᐊᒥᐊᓕᑲ ᓂᒋᖅ	Sydamerika
+ᓄᕐᒋ/nurgi	Norge
+ᓯᐸᐃᓐ	Spanien
+ᐊᒥᐊᓕᑲ	USA
+ᓄᓇ	Jorden
+ᐄᒃ	Människa
+ᔫᕐᒋ ᕚᓯᖕᑐᓐ	George Washington
+ᔅᕗᕆᑭ	Sverige
+ᐳᓚᓐᑦ	Polen
+ᓕᐋᑐᕙ	Litauen
+Italy	Italien
+ᐃᐆᕌᑉ	Europa
+ᐊᓰᐊ	Asien
+ᐊᒥᐊᕆᑲ ᑐᓄᕕᐊᖅ	Nordamerika
+ᐅᐃᑭᐱᑎᐊ	Wikipedia
+ᐅᓱᒃ	Penis
+ᐱᕐᓖᓐ	Berlin
+ᖃᕋᓴᐅᔭᖅ	Dator
+ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Internet
+ᐸᕌᒃ ᐅᐹᒪ	Barack Obama
+ᑭᒻᒥᓇᐅᔭᖅ	Äpple
+ᒎᒐᓪ	Google
+ᒦᒃᓰᖂ	Mexiko
+ᑳᓖᐴᕐᓃᐊ	Kalifornien
+ᒧᓇᑖᒃ	Måndag
+ᔭᓐᓄᐊᓕ	Januari
+ᕕᐳᐊᕆ	Februari
+ᓇᑦᓯᐊᓕᐅᑦ	Mars (månad)
+ᐊᐃᐳᕆᓪ	April
+ᒪᐃ	Maj
+ᔪᓂ	Juni
+ᔪᓚᐃ	Juli
+ᐊᐅᒍᔅ	Augusti
+ᓯᑎᒻᐳᕆ	September
+ᐅᒃᑐᐳᕆ	Oktober
+ᓄᕕᒻᐳᕆ	November
+ᑎᓯᒻᐳᕆ	December
+ᐃᓯᐱᕋᓐᑐ	Esperanto
+ᕿᖕᒥᖅ	Hund
+China	Kina
+ᐅᐃᒍᐃᕐᒥᐅᖅ	Franska
+ᐃᖃᓗᒃ	Fiskar
+ᐊᖓᔮᕐᓇᖅᑐᖅ	Alkoholdryck
+ᐅᓛᓴ	Ryssland
+ᐊᕐᕕᒃ	Valar
+ᐅᐃᑭ	Wiki
+ᐋᓛᐹᒫ	Alabama
+ᑯᐸᐃᒃ	Québec
+ᔨᒥ ᐆᐃᓪᔅ	Jimmy Wales
+ᔮᒪᓂ	Tyskland
+ᑎᖕᒥᓲᖅ	Flygplan
+ᐊᑭᕋᖅᑑᑎᔪᑦ	Krig
+ᔅᑏᕕᓐ ᐦᐊᕐᐱᕐ	Stephen Harper
+ᕕᓪᓂᐅᔅ/vilnius	Vilnius
+ᐊᑯᑭᑦᑐᑦ	Grönland
+ᖂᐹ/quupaa	Kuba
+ᐄᓅᓯᐊ	Indonesien
+ᓯᓕ	Chile
+ᐱᐅᓕᑦᓯᔨ	Jesus
+ᒥᕐᑰᕆ	Merkurius
+ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ	Historia
+ᕖᓄᔅ	Venus
+ᑕᑯᑦᓱᒍᓱᑉᐳᖅ	Kärlek
+ᐅᕌᓄᔅ	Uranus
+ᓂᑉᑑᓐ	Neptunus
+ᓯᓚᓯᐅᕐᓂᖅ	Astronomi
+ᑉᓘᑐ	Pluto
+ᒧᕆᐊᓪ	Montréal
+ᑕᖅᑭᖅ	Månen
+ᐊᔅᑦᕌᓕᐊ	Australien
+ᐆᒫᑦᓱᓕᕆᓂᖅ/umatsuliriniq	Fysik
+ᐱᕉ	Peru
+ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ	Biologi
+ᐊᖏᐋᕐᓂᖅ	Avföring
+ᐃᑎᖅ	Analöppning
+ᐱᕈᖅᑐᓴᔭᖅ/piruqtusajaq	Blomma
+ᓄᓇᓖᑦ	Stad
+ᐅᓪᓗᕆᐊᖅ	Stjärna
+ᓯᕿᓂᖅ	Solen
+ᕿᓚᒃ	Himmel
+ᐅᓯᐋᓂᐊ	Oceanien
+ᕿᒥᕐᕈᐊᑦ/qimirruat	Bok
+ᖃᐅ	Dygn
+ᐅᑭᐅᖅ	År
+ᒨᔅᑯ	Moskva
+ᐃᓐᑎᐊ	Indien
+ᓂᕐᔪᑦ	Djur
+ᐱᕈᖅᑐᖅ	Växt
+ᒫᓵᓲᓰᑦᔅ	Massachusetts
+ᐊ'ᐊ'ᐋᒃ	Tamhöna
+ᐃᕉᒃ	Irak
+ᐊᓛᓯᑲ	Alaska
+ᑉᓘᕇᑖ	Florida
+ᐋᕇᓲᓈ	Arizona
+ᐆᕇᕇᓐ	Oregon
+ᐸᑭᔅᑕᓐ	Pakistan
+ᓄᑕᒐᒃ	Spädbarn
+ᔪᓚᐃᐅᔅ	Julius Caesar
+ᓄᓇᓕᕆᓂᖅ	Geologi
+ᓄᓇᐅᔪᖅ	Geografi
+ᐄᓚᓄᐃᔅ	Illinois
+ᑖᑰᑖ ᑐᓄᕕᐊᖅ	North Dakota
+ᑖᑰᑖ ᓂᒋᖅ	South Dakota
+ᐄᑖᓲ	Idaho
+ᓂᕚᑖ	Nevada
+ᑰᓘᕌᑑ	Colorado
+ᓰᖄᑯ	Chicago
+ᓯᐸᐃᓂᑎᑐᑦ	Spanska
+ᐋᓯᕙᖅ	Spindlar
+ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ	Frukt
+ᓂᐅ ᐃᐅᕐᒃ	New York (delstat)
+ᐅᓵᐃᐅ	Ohio
+ᐃᐊᐃᑖᓯᓐ/iaitaatsin	Uetersen
+ᐊᐅᒍᔅᒻᐅᔅ	Augustus
+ᐃᓐᑎᐋᓈ	Indiana
+ᑖᒃᓵᔅ	Texas
+ᑳᕉᓖᓈ ᑐᓄᕕᐊᖅ	North Carolina
+ᑳᕉᓖᓈ ᓂᒋᖅ	South Carolina
+ᑑᑭᐅ	Tokyo prefektur
+ᒦᓰᓰᐲ (ᐃᓗᐊᓂ)	Mississippi
+ᒦᓃᓲᑖ	Minnesota
+ᐃᐅᕙ	Iowa
+ᐦᐃᓐᑏ	Hindi
+ᓗᐄᓰᐋᓈ	Louisiana
+ᐆᑳᓛᓲᒫ	Oklahoma
+ᔅᑑᒃᓱᓪᒻ/stuukhulm	Stockholm
+ᖃᓪᓗᓈᑎᑐᑦ	Engelska
+ᐋᓐᑎᐅᕆᔪ	Ontario
+ᐊᑐᕚ/atavaa	Ottawa
+ᓄᓇᑦᓯᐊᖅ	Northwest Territories
+ᓄᓇᕗᑦ	Nunavut
+2007	2007
+ᐃᖃᓗᐃᑦ	Iqaluit
+1999	1999
+ᓂᕿ	Mat
+ᖃᓂᖅ ᖁᐊᔪᖅ	Oralsex
+ᒪᓪᒧ/malmu	Malmö
+ᐊᔪᒃᑕᖅ	Fotboll
+ᖂᖄ ᑰᓛ	Coca-Cola
+ᒫᑭᓐᓯ ᑰᒃ	Mackenziefloden
+ᓯᕿᓃᖅᓯᖅᑐᖅ	Solförmörkelse
+ᐃᓕᓐᓂᐊᕈᑎᒃᓴᓕᐅᕐᕕᒃ	Skola
+ᑎᒥ	Människans anatomi
+ᑰᒃ	Flod
+Kunpusiusi	Konfucius
+ᑮᓱᐊ	Quechua
+ᐊᒥᖅ	Portal:Huvudsida
+ᐊᓇᐅᓕᒐᖅ	Baseboll
+ᐃᓄᒃᑕᐅᑦ	Buss
+ᐅᓪᓕᐸᑲ	Filt (textil)
+ᓴᓂᓕᐊᖅᑐᖅ	Samlag
+ᐅᑦᓱᒃ	Slida
+ᐃᓱᒪᓕᐅᕐᓂᖅ	Filosofi
+ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Nation
+ᑲᐅ ᓂᕿ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ	Hamburgare
+ᑯᓂᑉᐳᖅ	Kyss
+ᕿᖓᖅ	Nos
+ᐃᔨ	Öga
+ᑭᒃᑐᕆᐊᖅ	Stickmyggor
+ᐱᓱᒃᑎ	Däggdjur
+ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ	Programvara
+ᒥᑎᖅ	Egentliga andfåglar
+ᐊᐳᑦ	Snö
+ᐃᖏᕐᕋᔾᔪᑎᑦ	Transport
+ᕝᓛᑎᒥᕐ ᐴᑎᓐ	Vladimir Putin
+ᕿᖂᔭᖅ	Bröd
+ᔅᕙᐦᐃᓕᑐᑦ	Swahili
+ᒥᓂ	Regn
+ᓴᔪᑉᐱᓛᕗᖅ	Jordbävning
+ᓄᕗᔭᖅ	Moln
+ᐅᓚᔪᔭᖅ	Tromb
+ᐅᖄᓯᓕᕆᓂᖅ	Språkvetenskap
+ᐃᓕᓴᐅᑎᒃ	Latinska alfabetet
+ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ	Bildning
+ᐊᖑᑎ	Man
+ᐃᓄᐃᑎᑦᑐᖅ	Abort
+ᐃᒻᒧᒃ	Mjölk
+ᔅᕗᓐᔅᑭᑐᑦ	Svenska
+ᐃᕕᐊᖏᖅ	Kvinnobröst
+ᑯᕆᐊᑎᑐᑦ	Koreanska
+ᐃᒡᔪᒃ	Testikel
+ᐅᑲᓕᐊᑦᓯᐊᖅ	Kaniner
+ᐃᒫᓗᒃ	Ocean
+ᖃᐸᒃ	Sädesvätska
+Ronald Reagan	Ronald Reagan
+ᓱᑲᒃ	Socker
+ᓴᓇᕐᕈᑏᑦ ᐊᑑᑎᖏᑕᓗ ᖃᐅᔨᒪᔭᐅᓂᖓ	Teknologi
+ᑎᑎᕋᐅᔭᖅ	Ingenjörsvetenskap
+ᐋᔩᖃᑎᒋᖏᖅ	Kommunikation
+ᑖᒃᑎ	Medicinsk vetenskap
+ᕿᓚᐅᑦ	Trumma
+ᐄᒐᑕᐃᕕᑦᓴᐃᑦ	Spel
+ᐱᕈᕐᓰᓂᖅ ᓂᐅᕐᕈᑎᒃᓴᓕᐊᕆᓪᓗᒋᑦ	Jordbruk
+ᐊᐅᑦᓯᓇᖅᑐᖅ	Kläder
+ᒧᒥᖅᑐᖅ	Dans
+ᓯᕗᓕᐅᖅᐹ ᐊᓪᓚᒍᑎ ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ/sivuliuqpaa allaguti qaujisarniq titiqqatigut qanuiliuqtauqattarnikunik	Förhistorisk tid
+ᐊᑎᖅᐳᖅ	Björnar
+ᑭᒍᑎᓕᕆᔨ	Tandvård
+ᑐᓵᓐᖏᓐᓂᖅ	Dövhet
+ᐊᓐᓂᐊᒥ ᖃᐅᔨᓴᕐᓂᖅ	Läkemedel
+ᐃᒡᓗᕐᔪᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ	Arkitektur
+ᑭᒍᑎᙳᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ	Bro
+ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ	Statistik
+ᓴᕕᒐᐅᔭᖅ/ikumautit	Elektricitet
+ᐊᕋᕕ	Arabiska
+ᑲᓇᑕᒥ ᐊᖓᔪᖅᑳᕐᔪᐊᖅ	Premiärminister
+ᓴᐃᒻᒪᑎ	Flagga
+ᐊᓪᓛᑦ	Blyertspenna
+ᐊᓴᐱ	HIV
+ᐅᐃᑭᐱᑎᐊ:ᐱᐅᔪᖅ ᒪᑉᐱᑕᖅ	Wikipedia:Utmärkta artiklar
+Template:Link FA	Mall:Link FA
+ᐅᐃᑭᐱᑎᐊ:ᐹᕐᓂᖅ	Wikipedia:Bybrunnen
+ᐋᓐᓂᐊᕐᕕᒃ	Sjukhus
+ᓯᑮᑐ	Snöskoter
+ᐃᒥᐊᓗᒃᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᖃᑎᒌᒡᕕᒃ	Anonyma Alkoholister
+ᐊᒪᕈᒃ	Varg
+ᐊᕿᒃᑭᖅ	Vitstjärtad ripa
+ᑐᓴᐅᒪᖃᑦᑕᐅᑎᔾᔪᑎᓂᒃ ᐊᐅᓚᑦᑎᔩᑦ/tusaumaqattautijjutinik aulattijiit	Datavetenskap
+ᒥᓗᑦᓱᑳᒐᖅ	Tomat
+ᑎᒦᑦᕆ ᒥᑦᕖᑎᕝ	Dmitrij Medvedev
+ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ	Ordbok
+ᓖᓚ ᑕᓅᔅ	Lila Downs
+ᐆᑉᓴᓚ/uupsala	Uppsala
+ᐃᐅᑕᐳᕆ	Göteborg
+ᑲᕐᓪᔅᑕᑦ	Karlstad
+ᒧᓪᓐᓕᑭ/ Mölnlycke	Mölnlycke
+ᐳᐃᔨᒃ	Öronlösa sälar
+ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ	Eskimåisk-aleutiska språk
+ᑭᕝᒐᓗᒃ	Bisam
+ᐆᒃᑐᕋᐃᓂᖅ	Prov (diagnostiskt test)
+ᒧᓪᓐᑕᓪ/Mölndal	Mölndal
+ᓄᔭᐃᑦ	Hår
+ᐃᓄᒃᑎᑐᑦ	Inuktitut
+ᐸᒥᐅᖅᑑᖅ	Utter
+ᒥᖏᑎᑕᐅᑎᔪᖅ	Boxning
+ᖃᕆᑕᐅᔭᕋᓛᖅ ᐊᑕᐅᓯᖅᓯᐅᑦ/qaritaujaralaaq atrausiqsiuit	Mikrodator
+ᓇᓄᖅ	Isbjörn
+ᐊᒡᒐᒃ	Hand
+ᐊᑭᕈᐊᕈᖅ	Blad
+ᕙᓪᐸᕃᓱ	Valparaíso
+ᖁᖅᓗᕐᓂᖅ	Vattenfall
+ᓯᐊᙳᓰᖂ	Oaxaca
+ᐱᓚᒥᔅ	Flamländska
+ᓯᐅᕋᖅ	Sand
+ᑕᕋᖅᑑᑦ	Röntgenstrålning
+ᐃᓗ	Grotta
+ᑐᒃᑐᕙᒃ	Älg
+ᓇᑕᖅᑯᕐᓇᐃᑦ/nataqqurnait	Hagel
+ᐊᕕᙵᖅ	Möss
+ᐊᑯᖅ	Havsvik
+ᑐᒃᑐ	Ren
+ᐃᒥᐊᓗᒃ	Dryck
+ᔨᓐᓂᐱᕐ ᓗᐱᔅ	Jennifer Lopez
+ᐊᐃᕕᖅ	Valross
+ᑐᖁᖓᔪᒥᒃ ᖃᐅᔨᓴᕐᓂᖅ	Obduktion
+ᖃᐅᔨᓴᕐᓂᖅ	Forskning
+ᓇᐹᖅᑐᖃᕈᓐᓇᙱᑦᑐᖅ	Tundra
+ᑭᒡᒐᕕᒃ	Falco (släkte)
+ᖃᓪᓗ	Ögonbryn
+ᑕᑦᕿᖅᓯᖅᑐᖅ	Månförmörkelse
+ᐃᓂᖅᑐᐃᒍᑎ	Rädsla
+ᖁᐱᓪᕈᖅ	Maskar
+ᐱᑉᓯ ᑰᓛ	Pepsi
+ᒥᖅᓱᑎ	Symaskin
+ᓈᕌᔩᖅ	Stjärtlösa groddjur
+ᑎᑎᖅᑲᓕᐅᕈᑦ ᖃᕆᑕᐅᔭᙳᐊᒃᑯᑦ	Ordbehandlare
+ᐳᑕᖅ	Tallrik
+ᓯᖓᐃᑦᔪᑎ	Spermie
+ᐃᑭᐊᖅᖠᖅ/ikiaqłiq	Skjorta
+ᐆ ᑲᓇᑕ	O Canada
+ᐃᒡᓗ	Igloo
+ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ	Ursprungsfolk
+ᒪᒃᐱᖅᑕᐅᑦ	Gevär
+ᐃᕙᓗᕕᒃ ᐊᖑᑦ	Kroppsbyggning
+ᐃᕐᒥᒡᕕᒃ	Tvättmaskin
+ᓂᐱᐅᑦ	Lim
+ᕇ ᓕᖏᑏᖂ	One Direction
+ᐃᒥᒐᖅ	Läskedryck
+ᐆᒥᓱᑦᑐᖅ	Hat
+ᐄᓐᖃ	Lista över Inkarikets härskare
+ᑎᒻᒥᕗᖅ/timmivuq	Husfluga
+ᓂᐱ	Arkiv
+ᐅᒃᐱᒃ	Fjälluggla
+ᓯᓚᐅᕐᖏᖓ	Eskatologi
+ᐃᓄᒃ	Människor
+ᑕᓕᐊᖅ	Armbandsur
+ᓂᕿᓂᐅᕕᕐᕕᒃ	Snabbköp
+ᐅᒥᒻᒪᖅ	Myskoxe
+ᖃᕆᑕᐅᔭᖅ ᐊᒥᓱᓯᐅᑦ	Minidator
+ᐊᒥᐃᐅᓕᐅᕈ	Kopiator
+ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)	Inuiter
+ᐅᓪᓛᖅ/ullaaq	Soluppgång
+ᖁᐸᓄᐊᕐᔪᐊᖅ	Blåskrika
+ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ	Frihandel
+ᐋᒪᐃᔪᖅ	Berusning
+ᐊᖓᔮᕐᓇᖅᑐᖅ ᓯᓕᙴᑎᕚ ᐅᓪᓛᒃ	Bakfylla
+ᕕᓯᐸ ᐱᐊᓯᐅ	Vespa
+ᐱᓃᐊᔅᐃᕝᒥᕐᒃ	Phineas & Ferb
+ᕕᐅ	Anggun
+ᐅᑲᓕᒃ	Polarhare
+ᕿᖅᑯᐊᖅ	Tång (biologi)
+ᐅᖃᖅᑐᖅ	Talakt
+ᓄᕐᒃᑲᕆᑦ ᐃᓕᑕᖅᓯᒍᑎ	Stoppskylt
+ᐅᕐᔭᖕ	Årjäng
+ᓇᓂᑦᓯᑰᔭᐃᑦ	Majsflingor
+ᑐᐱᙳᐊᖅ	Adamsäpple
+ᓴᕝᓕ	Säffle
+ᐃᖃᓗᑉᐱᒃ	Fjällröding
+ᑕᑯᒥᓇᖅᓕᐅᖅᑎᑦ	Konstnär
+ᐃᑕ	Eda kommun
+ᔭᐊᒻᐋᕉ	Hammarö kommun
+ᕗᕐᓴᒐ	Forshaga kommun
+ᓱᓇ	Sunne kommun
+ᔅᑐᕐᕗᕐᔅ	Storfors kommun
+ᑐᕐᔅᐳ	Torsby kommun
+ᒃᕆᔅᑎᓂᔭᒻᓐ	Kristinehamns kommun
+ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᓄᓇᓕᓐᓂ ᓄᓇᕗᒻᒥ	Lista över samhällen i Nunavut
+ᐸᒃᑭ	Finger
+ᓄᓇᑦᓯᐊᕗᑦ	Nunatsiavut
+ᐊᕐᕕᑲ	Arvika
+ᑭᑦᑐᕇᓕᑕᖅ	Myggnät
+ᐃᓄᒃᑦᓯᐊᖅ	Fysisk attraktivitet
+ᒃᓚᐊᐱᑕ/klaipita	Klaipėda
+ᕕᓕᑉᔅᑕᑦ	Filipstad
+ᓴᓐᓇ	Sedna (mytologi)
+ᐊᒡᕗᕐᔅ	Hagfors
+ᑭᓪ	Kil
+ᐊᕿᐊᕈᖅ	Magsäck
+Sonic The Hedgehog	Sonic the Hedgehog (spelserie)
+ᐃᓄᒐᙳᐊᖅ	Falang (anatomi)
+ᓄᓇᕕᒃ	Nunavik
+ᐅᖓᕙ ᑲᖏᖅᓗᒃ	Ungavabukten
+ᒦᓰᓰᐲ	Mississippi (olika betydelser)
+ᓐᓂᓗᐱᔅ'ᐊᕐ	Agnes Monica
+Category:ᑲᓇᑕ	Kategori:Kanada
+ᕿᑭᖅᑖᓗᒃ	Qikiqtaalukregionen
+Category:ᐱᕈᖅᑐᖅ/piruqtuq	Kategori:Växter
+Category:ᖃᐅᔨᓴᕐᓃᑦ	Kategori:Vetenskap
+ᑰᔾᔪᐊᖅ	Kuujjuaq
+ᒡᕈᒻᔅ	Grums
+ᒧᓐᒃᕗᕐᔅ	Munkfors
+ᒥᕐᖑᐃᖅᓯᕐᕕᒃᓴᖅ	Kanadas nationalparker
+ᓯᑎᒐᖅ	Hundkoja
+ᐃᑖᖏᔭᖅᑐᖅ	Pollution
+ᓂᕿᑦᓯᐊᕙᓕᕆᓂᖅ	Näringslära
+ᑎᑎᕋᐅᓯᖅᑐᖅ ᓄᑖᖅ	Inuitisk stavelseskrift
+Category:ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ	Kategori:Stubbar
+Category:ᐊᖏᔪᖅ ᒥᕗᒃ	Kategori:Världsdelar
+Category:Wikipedia bots	Kategori:Wikipedia:Robotar
+Category:ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Kategori:Världens länder
+ᐅᐃᑭᐱᑎᐊoikipitia:ᑐᑭᓕᐅᖅᐹinuluriji	Wikipedia:Administratörer
+ᐅᐃᑭᐱᑎᐊ:Bots	Wikipedia:Robotar
+Category:ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Kategori:Internet
+Category:ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ/ilinniaqtuliriniq	Kategori:Utbildning
+ᑯᓇᔅ/kunas	Kaunas
+ᐅᐃᑭᐱᑎᐊ:Sock puppetry	Wikipedia:Marionetter
+Template:Bot	Mall:Bot
+ᑲᓇᑕ	Kanada
+Category:ᔅᕗᕆᑭ	Kategori:Sverige
+Template:Documentation	Mall:Dokumentation
+Category:Babel	Kategori:Användare efter språk
+ᐅᐃᑭᐱᑎᐊ:ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ	Wikipedia:Stubbar
+Template:Softredirect	Mall:Mjuk omdirigering
+Template:ᓂᐸᖅᑎᐹ	Mall:Radera
+Category:ᐅᖃᕐᕕᐅᑎᔪᑦ	Kategori:Språk
+Category:ᐅᐃᑭᐱᑎᐊ	Kategori:Wikipedia
+ᓱᓚᑦᑐᖅᓴᕐᕕᒃ	Nunavut Arctic College
+Template:!	Mall:!
+Category:ᑕᒃᕿᒃ	Kategori:Månader
+Template:Babel	Mall:Babel
+Template:Commons	Mall:Commons
+Template:Stub	Mall:Stub
+Template:Mod	Mall:Mod
+Template:Ai	Mall:Nybörjare
+Category:User fr-1	Kategori:Användare fr-1
+Template:Lang-ar	Mall:Lang-ar
+Category:User en-4	Kategori:Användare en-4
+Category:User en	Kategori:Användare en
+Category:User en-2	Kategori:Användare en-2
+Category:User hi	Kategori:Användare hi
+Template:IPA	Mall:IPA
+Template:LangWithName	Mall:LangWithName
+Category:ᖃᕋᓴᐅᔭᖅ	Kategori:Datorer
+Category:User ja-N	Kategori:Användare ja-N
+Template:Lang-fr	Mall:Lang-fr
+Template:InterWiki	Mall:Interwiki
+Category:User simple	Kategori:Användare simple
+Category:User az	Kategori:Användare az
+Category:User be	Kategori:Användare be
+Category:User hr	Kategori:Användare hr
+Category:User eo	Kategori:Användare eo
+Category:User et	Kategori:Användare et
+Category:User fr	Kategori:Användare fr
+Category:User gl	Kategori:Användare gl
+Category:User ia	Kategori:Användare ia
+Category:User ja	Kategori:Användare ja
+Category:User sv	Kategori:Användare sv
+Category:User fr-3	Kategori:Användare fr-3
+Category:User cs-1	Kategori:Användare cs-1
+Category:User da-1	Kategori:Användare da-1
+Category:User et-1	Kategori:Användare et-1
+Category:User gl-1	Kategori:Användare gl-1
+Category:User hi-1	Kategori:Användare hi-1
+Category:User ar-1	Kategori:Användare ar-1
+Category:User be-2	Kategori:Användare be-2
+Category:User da-2	Kategori:Användare da-2
+Category:User fr-2	Kategori:Användare fr-2
+Category:User ia-2	Kategori:Användare ia-2
+Category:User cs-N	Kategori:Användare cs-N
+Category:User fr-N	Kategori:Användare fr-N
+Category:User it-N	Kategori:Användare it-N
+Category:User af	Kategori:Användare af
+Category:User af-1	Kategori:Användare af-1
+Category:User als	Kategori:Användare als
+Category:User als-1	Kategori:Användare als-1
+Category:User ar	Kategori:Användare ar
+Category:User ast	Kategori:Användare ast
+Category:User ast-1	Kategori:Användare ast-1
+Category:User az-N	Kategori:Användare az-N
+Category:User bg	Kategori:Användare bg
+Category:User bg-1	Kategori:Användare bg-1
+Category:User ca	Kategori:Användare ca
+Category:User ca-1	Kategori:Användare ca-1
+Category:User cs	Kategori:Användare cs
+Category:User da	Kategori:Användare da
+Category:User de	Kategori:Användare de
+Category:User de-2	Kategori:Användare de-2
+Category:User de-3	Kategori:Användare de-3
+Category:User de-N	Kategori:Användare de-N
+Category:User en-3	Kategori:Användare en-3
+Category:User en-N	Kategori:Användare en-N
+Category:User eo-1	Kategori:Användare eo-1
+Category:User eo-2	Kategori:Användare eo-2
+Category:User eo-3	Kategori:Användare eo-3
+Category:User es	Kategori:Användare es
+Category:User es-1	Kategori:Användare es-1
+Category:User es-2	Kategori:Användare es-2
+Category:User es-4	Kategori:Användare es-4
+Category:User es-N	Kategori:Användare es-N
+Category:User eu	Kategori:Användare eu
+Category:User eu-4	Kategori:Användare eu-4
+Category:User fa	Kategori:Användare fa
+Category:User fa-N	Kategori:Användare fa-N
+Category:User fi	Kategori:Användare fi
+Category:User fi-N	Kategori:Användare fi-N
+Category:User grc	Kategori:Användare grc
+Category:User grc-1	Kategori:Användare grc-1
+Category:User hr-1	Kategori:Användare hr-1
+Category:User sv-1	Kategori:Användare sv-1
+Category:User sv-N	Kategori:Användare sv-N
+Category:User tr	Kategori:Användare tr
+Category:User tr-N	Kategori:Användare tr-N
+Template:Lang	Mall:Lang
+Template:ᕙᕐᒻᓚᓐᑦ	Mall:Värmlands län
+Category:User no-1	Kategori:Användare no-1
+Category:User no	Kategori:Användare no
+Category:ᓄᓇᕗᑦ/nunavut	Kategori:Nunavut
+Category:ᓯᓚᕐᔪᐊᒥᐅᑦ	Kategori:Djur
+Category:ᐃᖏᕐᕋᔾᔪᑎᑦ/ingirrajjutit	Kategori:Transport
+Template:Lang-qu	Mall:Lang-qu
+Template:Lang-es	Mall:Lang-es
+Category:User es-0	Kategori:Användare es-0
+Category:User en-1	Kategori:Användare en-1
+Category:User de-1	Kategori:Användare de-1
+Category:User da-N	Kategori:Användare da-N
+ᑕᕐᕋᓕᑭᑖᖅ	Dagfjärilar
+ᐅᐃᑭᐱᑎᐊ:Deletion log	Wikipedia:Borttagningslogg
+Special:RecentChanges	Special:Senaste ändringar

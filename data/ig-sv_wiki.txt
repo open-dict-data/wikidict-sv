@@ -1,0 +1,810 @@
+Afrịka	Afrika
+South Amerika	Sydamerika
+Spain	Spanien
+Njikota Obodo Amerika	USA
+Àlà	Jorden
+Mádu	Människa
+Finland	Finland
+Poland	Polen
+Turkéy	Turkiet
+Obodo Békè	Europa
+Asia	Asien
+Olile anyanwu Amerika	Nordamerika
+Antarctica	Antarktis
+Wikipedia	Wikipedia
+New York City	New York
+Orunotu	Dator
+Intanet	Internet
+Barack Obama	Barack Obama
+MediaWiki	Mediawiki
+London	London
+Òrìmìlì Atlantic	Atlanten
+Òrìmìlì Pacific	Stilla havet
+California	Kalifornien
+Önwa mbu	Januari
+February	Februari
+March	Mars (månad)
+Ethiopia	Etiopien
+Ghana	Ghana
+Önwa ànó	April
+May	Maj
+Önwa ishií	Juni
+July	Juli
+August	Augusti
+September	September
+October	Oktober
+Önwa iri na otụ	November
+Disemba	December
+Odúm	Lejon
+Obodoézè Nà Ofú	Storbritannien
+Wiktionary	Wiktionary
+Brazil	Brasilien
+Mpaghara Russia	Ryssland
+Wiki	Wiki
+Alabama	Alabama
+Jimmy Wales	Jimmy Wales
+Jémanị	Tyskland
+Larry Sanger	Larry Sanger
+Otu	1 (tal)
+Abụo	2 (tal)
+Atọ	3 (tal)
+Anọ	4 (tal)
+Ise	5 (tal)
+0 (Ónúọgụgụ)	0 (tal)
+Yukrain	Ukraina
+Barbados	Barbados
+Algeria	Algeriet
+Wikisource	Wikisource
+Ńkú	Trä
+Jisọs Kraịst	Jesus
+Ákíkó mbu	Historia
+Ihunanya	Kärlek
+Wikipedia nke ndị bekee	Engelskspråkiga Wikipedia
+Amamihe	Vetenskap
+Wikibooks	Wikibooks
+Wikiquote	Wikiquote
+Ubuntu	Ubuntu
+Ọmúmú-ónúọgụgụ	Matematik
+Ostraliya	Australien
+Bob Marley	Bob Marley
+Physics	Fysik
+Áláküba	Islam
+Lech Wałęsa	Lech Wałęsa
+Ábu	Poesi
+Ìfulū	Blomma
+Ama ukwu	Stad
+Ogbè	By
+Wikimedia Commons	Wikimedia Commons
+Chad	Tchad
+Ndia	Indien
+Mën	Maine
+Ǹkà	Konst
+Osisi	Växt
+Hampshire Ohúrú	New Hampshire
+Jamaikạ	Jamaica
+Másáchusẹts	Massachusetts
+Kónétíkùt	Connecticut
+Hawaii	Hawaii
+Dominika	Dominica
+Arctic Ocean	Norra ishavet
+Àláskà	Alaska
+Israel	Israel
+Flórídạ	Florida
+Arizona	Arizona
+Oregon	Oregon
+Amerikas	Amerika
+Yútạh	Utah
+Charlie Chaplin	Charlie Chaplin
+Angola	Angola
+Albert Einstein	Albert Einstein
+Togo	Togo
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Eritrea	Eritrea
+Pope John Paul II	Johannes Paulus II
+Gabon	Gabon
+Kameroon	Kamerun
+Cape Verde	Kap Verde
+Niger	Niger
+Naigeria	Nigeria
+Julius Caesar	Julius Caesar
+Sudan	Sudan
+Ọmúmú-àlà	Geografi
+Àgwà	Färg
+Michigan	Michigan
+Ilinoi	Illinois
+North Dakota	North Dakota
+Sawt Dakótạ	South Dakota
+Montana	Montana
+Waịómịn	Wyoming
+Jerusalem	Jerusalem
+Idaho	Idaho
+Washington (nkeji obodo)	Washington (delstat)
+Náevadạ	Nevada
+Òrìmìlì India	Indiska oceanen
+Colorado	Colorado
+Òtù:Ébé ihe nọr	Kategori:Topp
+Chicago	Chicago
+Végíníyà	Virginia
+West Virginia	West Virginia
+Nú Yọk	New York (delstat)
+Àlá mmírí Rhode	Rhode Island
+Mérílạnd	Maryland
+Déláwè	Delaware
+Ohaïyo	Ohio
+Pensílvéníyạ	Pennsylvania
+Uetersen	Uetersen
+Nú Jezị	New Jersey
+Ndiánà	Indiana
+Jorjiạ	Georgia
+Texas	Texas
+Nort Kárólínạ	North Carolina
+Nleda anyanwu Kàròlina	South Carolina
+Mississippi	Mississippi
+Tennessee	Tennessee
+Nú Mézíkọ	New Mexico
+Minésótạ	Minnesota
+Coordinated Universal Time	Koordinerad universell tid
+Wiskonsin	Wisconsin
+Áyowạ	Iowa
+Nebraska	Nebraska
+Kánzạs	Kansas
+Mizurị	Missouri
+Luwisiánà	Louisiana
+Kentórkị	Kentucky
+Arkinsọ	Arkansas
+Oklahoma	Oklahoma
+Akwụkwọ Nsọ	Bibeln
+Ho Chi Minh City	Ho Chi Minh-staden
+Ezigbo ulo uka Jesu	The True Jesus Church
+Asụsụ Inglish	Engelska
+Đồng Hới	Dong Hoi
+Końskowola	Końskowola
+2000	2000
+2003	2003
+2001	2001
+2005	2005
+2007	2007
+1909	1909
+1991	1991
+1993	1993
+1996	1996
+1998	1998
+1999	1999
+Önwa mbu 1	1 januari
+Önwa mbu 2	2 januari
+Önwa mbu 3	3 januari
+Önwa mbu 4	4 januari
+Önwa mbu 5	5 januari
+Önwa mbu 6	6 januari
+Önwa mbu 7	7 januari
+Önwa mbu 8	8 januari
+Önwa mbu 9	9 januari
+10 Jenụwarị	10 januari
+11 Jenụwarị	11 januari
+Önwa mbu 12	12 januari
+Önwa mbu 13	13 januari
+Önwa mbu 14	14 januari
+Önwa mbu 15	15 januari
+Önwa mbu 16	16 januari
+Önwa mbu 17	17 januari
+Önwa mbu 18	18 januari
+Önwa mbu 19	19 januari
+Önwa mbu 20	20 januari
+Önwa mbu 21	21 januari
+Önwa mbu 22	22 januari
+Önwa mbu 23	23 januari
+Önwa mbu 24	24 januari
+Önwa mbu 25	25 januari
+Önwa mbu 26	26 januari
+Önwa mbu 27	27 januari
+Önwa mbu 28	28 januari
+Önwa mbu 29	29 januari
+Önwa mbu 30	30 januari
+Önwa mbu 31	31 januari
+Önwa iri na abụọ 1	1 december
+3 Disemba	3 december
+1 Febrụwarị	1 februari
+2 Febrụwarị	2 februari
+3 Febrụwarị	3 februari
+Kurów	Kurów
+4 Febrụwarị	4 februari
+5 Febrụwarị	5 februari
+6 Febrụwarị	6 februari
+7 Febrụwarị	7 februari
+8 Febrụwarị	8 februari
+9 Febrụwarị	9 februari
+10 Febrụwarị	10 februari
+14 Febrụwarị	14 februari
+13 Febrụwarị	13 februari
+15 Febrụwarị	15 februari
+11 Febrụwarị	11 februari
+12 Febrụwarị	12 februari
+19 Febrụwarị	19 februari
+17 Febrụwarị	17 februari
+16 Febrụwarị	16 februari
+18 Febrụwarị	18 februari
+20 Febrụwarị	20 februari
+21 Febrụwarị	21 februari
+22 Febrụwarị	22 februari
+23 Febrụwarị	23 februari
+24 Febrụwarị	24 februari
+25 Febrụwarị	25 februari
+26 Febrụwarị	26 februari
+27 Febrụwarị	27 februari
+28 Febrụwarị	28 februari
+29 Febrụwarị	29 februari
+2 Maachị	2 mars
+3 Maachị	3 mars
+5 Maachị	5 mars
+1 Maachị	1 mars
+7 Maachị	7 mars
+8 Maachị	8 mars
+4 Maachị	4 mars
+10 Maachị	10 mars
+11 Maachị	11 mars
+6 Maachị	6 mars
+13 Maachị	13 mars
+9 Maachị	9 mars
+12 Maachị	12 mars
+15 Maachị	15 mars
+14 Maachị	14 mars
+16 Maachị	16 mars
+17 Maachị	17 mars
+18 Maachị	18 mars
+19 Maachị	19 mars
+20 Maachị	20 mars
+1985	1985
+21 Maachị	21 mars
+22 Maachị	22 mars
+1981	1981
+23 Maachị	23 mars
+24 Maachị	24 mars
+25 Maachị	25 mars
+20 Disemba	20 december
+26 Maachị	26 mars
+27 Maachị	27 mars
+28 Maachị	28 mars
+29 Maachị	29 mars
+30 Maachị	30 mars
+31 Maachị	31 mars
+1976	1976
+Pope Benedict XVI	Benedictus XVI
+15 Eprel	15 april
+13 Eprel	13 april
+12 Eprel	12 april
+14 Eprel	14 april
+11 Eprel	11 april
+10 Eprel	10 april
+8 Eprel	8 april
+9 Eprel	9 april
+7 Eprel	7 april
+6 Eprel	6 april
+5 Eprel	5 april
+4 Eprel	4 april
+3 Eprel	3 april
+1 Eprel	1 april
+2 Eprel	2 april
+16 Eprel	16 april
+17 Eprel	17 april
+18 Eprel	18 april
+19 Eprel	19 april
+20 Eprel	20 april
+21 Eprel	21 april
+22 Eprel	22 april
+23 Eprel	23 april
+24 Eprel	24 april
+25 Eprel	25 april
+26 Eprel	26 april
+27 Eprel	27 april
+28 Eprel	28 april
+29 Eprel	29 april
+30 Eprel	30 april
+1 Mee	1 maj
+2 Mee	2 maj
+3 Mee	3 maj
+4 Mee	4 maj
+5 Mee	5 maj
+6 Mee	6 maj
+7 Mee	7 maj
+8 Mee	8 maj
+9 Mee	9 maj
+10 Mee	10 maj
+11 Mee	11 maj
+12 Mee	12 maj
+13 Mee	13 maj
+14 Mee	14 maj
+15 Mee	15 maj
+16 Mee	16 maj
+17 Mee	17 maj
+18 Mee	18 maj
+19 Mee	19 maj
+20 Mee	20 maj
+21 Mee	21 maj
+22 Mee	22 maj
+23 Mee	23 maj
+24 Mee	24 maj
+25 Mee	25 maj
+26 Mee	26 maj
+27 Mee	27 maj
+28 Mee	28 maj
+29 Mee	29 maj
+30 Mee	30 maj
+31 Mee	31 maj
+Önwa ishií 14	14 juni
+Önwa ishií 15	15 juni
+Önwa ishií 13	13 juni
+Önwa ishií 10	10 juni
+Önwa ishií 7	7 juni
+Önwa ishií 11	11 juni
+Önwa ishií 9	9 juni
+Önwa ishií 12	12 juni
+Önwa ishií 6	6 juni
+Önwa ishií 8	8 juni
+Önwa ishií 5	5 juni
+Önwa ishií 3	3 juni
+Önwa ishií 2	2 juni
+Önwa ishií 1	1 juni
+Önwa ishií 4	4 juni
+1967	1967
+Önwa ishií 16	16 juni
+Önwa ishií 30	30 juni
+Önwa ishií 29	29 juni
+Önwa ishií 28	28 juni
+Önwa ishií 26	26 juni
+Önwa ishií 25	25 juni
+Önwa ishií 22	22 juni
+Önwa ishií 27	27 juni
+Önwa ishií 24	24 juni
+Önwa ishií 20	20 juni
+Önwa ishií 23	23 juni
+Önwa ishií 19	19 juni
+Önwa ishií 18	18 juni
+Önwa ishií 21	21 juni
+Önwa ishií 17	17 juni
+15 Julaị	15 juli
+13 Julaị	13 juli
+12 Julaị	12 juli
+10 Julaị	10 juli
+9 Julaị	9 juli
+14 Julaị	14 juli
+8 Julaị	8 juli
+7 Julaị	7 juli
+6 Julaị	6 juli
+5 Julaị	5 juli
+2 Julaị	2 juli
+4 Julaị	4 juli
+3 Julaị	3 juli
+1 Julaị	1 juli
+11 Julaị	11 juli
+30 Julaị	30 juli
+29 Julaị	29 juli
+27 Julaị	27 juli
+19 Julaị	19 juli
+20 Julaị	20 juli
+17 Julaị	17 juli
+18 Julaị	18 juli
+16 Julaị	16 juli
+Footbọl	Fotboll
+3 Ọgọọst	3 augusti
+1 Ọgọọst	1 augusti
+27 Disemba	27 december
+Önwa asaa atọ 29	29 augusti
+30 Ọgọọst	30 augusti
+27 Ọgọọst	27 augusti
+20 Ọgọọst	20 augusti
+Michael Jackson	Michael Jackson
+Ịgbó	Cannabis
+1 Septemba	1 september
+3 Septemba	3 september
+29 Disemba	29 december
+30 Septemba	30 september
+29 Septemba	29 september
+27 Septemba	27 september
+20 Septemba	20 september
+30 Disemba	30 december
+1 Ọktoba	1 oktober
+3 Ọktoba	3 oktober
+30 Ọktoba	30 oktober
+29 Ọktoba	29 oktober
+27 Ọktoba	27 oktober
+20 Ọktoba	20 oktober
+11 Novemba	11 november
+3 Novemba	3 november
+1 Novemba	1 november
+30 Novemba	30 november
+29 Novemba	29 november
+27 Novemba	27 november
+20 Novemba	20 november
+Göttingen	Göttingen
+Ūfie	Röd
+Oshimiri Orimiri	Niger (flod)
+Addis Ababa	Addis Abeba
+Òtù:Templates	Kategori:Mallar
+Abuja	Abuja
+Galisa	Galicien
+Wikipedia:Ama Egwuregwu	Wikipedia:Sandlådan
+Ama	Småstad
+Osasco	Osasco
+Curitiba	Curitiba
+Jonathan Winters	Jonathan Winters
+Sean Connery	Sean Connery
+Konfúkius	Konfucius
+Corbin Bleu	Corbin Bleu
+Òtù:Ọmúmú-ónúọgụgụ	Kategori:Matematik
+Efefe Kraịst	Kristendom
+Seattle	Seattle
+Oskàpà	Ris
+Monzón	Monzón
+Almazán	Almazán
+Ihü Mbu	Portal:Huvudsida
+Vincent van Gogh	Vincent van Gogh
+Frank Lloyd Wright	Frank Lloyd Wright
+Gabriel García Márquez	Gabriel García Márquez
+Ákọ na Uche	Filosofi
+Òtù:Candidates for speedy deletion	Kategori:Snabbraderingar
+Liberalism	Liberalism
+Égwu ahiri	Gitarr
+Conservatism	Konservatism
+Ọchíchí nke umunna Han	Handynastin
+Jew	Judar
+Southern Ocean	Antarktiska oceanen
+Ntị	Öra
+Ányá	Öga
+Achicha	Bröd
+Nelson Mandela	Nelson Mandela
+Martin Luther King, Jr.	Martin Luther King
+Ómárí	Logik
+Ȯgbà	Samhälle (sociologi)
+Azụ	Familj
+Hong Kong	Hongkong
+Lagos	Lagos
+Walt Disney	Walt Disney
+José Mujica	José Mujica
+Taj Mahal	Taj Mahal
+Abram	Abraham (patriark)
+Judaism	Judendom
+Oke Òrìmìlì	Ocean
+Muhammad	Muhammed
+Onu	Mun
+Ronald Reagan	Ronald Reagan
+Óshíshí	Träd
+Ńnú odẹne	Socker
+Nka na Uzu	Teknologi
+Ọrià Parkinson	Parkinsons sjukdom
+Electromagnetism	Elektromagnetism
+Ndetu obodo	Lista över självständiga stater
+Kevin Costner	Kevin Costner
+Google Maps	Google Maps
+Tutankhamun	Tutankhamon
+Detroit	Detroit
+Njè Ághá Jésu	Korståg
+Oche	Stol
+Queen	Queen
+Kanyé West	Kanye West
+Àtụ:Link FA	Mall:Link FA
+Vermont	Vermont
+Ulo uka	Kyrka
+Nupedia	Nupedia
+Itolu	9 (tal)
+Nha Trang	Nha Trang
+Public domain	Public domain
+Josh Duhamel	Josh Duhamel
+Lady Gaga	Lady Gaga
+Breinigerberg	Breinigerberg
+Samsung	Samsung
+Vung Tau	Vung Tau
+GNU Free Documentation License	GNU Free Documentation License
+Population density	Befolkningstäthet
+1	1
+Asaa	7 (tal)
+Asatọ	8 (tal)
+Taylor Lautner	Taylor Lautner
+Jeremy Renner	Jeremy Renner
+Chris Pine	Chris Pine
+Isii	6 (tal)
+Asụsụ obodo	Officiellt språk
+Moshchena	Mosjtjena
+George H. W. Bush	George H.W. Bush
+Paltoga	Paltoga
+Entrena	Entrena
+Iri	10 (tal)
+Andrew Garfield	Andrew Garfield
+Ca Mau	Ca Mau
+Da Nang	Da Nang
+Arktik	Arktis
+Amerikạ	Amerika (olika betydelser)
+Mahadum Niccolò Cusano	Università degli Studi Niccolò Cusano
+Owuwa Anyanwu Obodo Beke	Östeuropa
+Density	Densitet
+Nwanna	Syskon
+Ásụ̀sụ̀ Ị̀gbò	Igbo
+Áká	Hand
+Ndi Haụsa	Hausa (folk)
+Marlon Brando	Marlon Brando
+Latitude	Latitud
+Justin Bieber	Justin Bieber
+Kingston	Kingston
+Ágụ	Leopard
+Ílú	Ordspråk
+Charles Bronson	Charles Bronson
+Beyoncé Knowles	Beyoncé Knowles
+Thanh Hoa	Thanh Hoa
+Longitude	Longitud
+Iri na abụo	12 (tal)
+Toshiro Mifune	Toshiro Mifune
+Iri na otu	11 (tal)
+Iri na atọ	13 (tal)
+Mmuo Nso	Den Helige Ande
+Iri na anọ	14 (tal)
+Iri na ise	15 (tal)
+Iri na asatọ	18 (tal)
+Radio Studio 54 Network	Radio Studio 54 Network
+Iri na iteghete	19 (tal)
+Iri na asaa	17 (tal)
+Iri na isii	16 (tal)
+Iri abụo	20 (tal)
+Björk	Björk (musiker)
+Johnny Cash	Johnny Cash
+Incumbent	Inkumbent
+Omaha, Nebraska	Omaha, Nebraska
+Malcolm X	Malcolm X
+Nwanyi	Hona
+Nwoke	Hane
+The Doors	The Doors
+Clive Dunn	Clive Dunn
+Idi Amin	Idi Amin
+Iri abụo na atọ	23 (tal)
+Ndi Afrika nke Amerika	Afroamerikaner
+Nje ọrịa Ebola	Ebolafeber
+Goodluck Jonathan	Goodluck Jonathan
+Siegfried & Roy	Siegfried & Roy
+Iri abụo na ise	25 (tal)
+Iri abụo na anọ	24 (tal)
+Etemete mmírí	Vattnets kretslopp
+Ibrahim Shekarau	Ibrahim Shekarau
+James Dean	James Dean
+Ahà nnà	Efternamn
+Harriet Tubman	Harriet Tubman
+Donald Sutherland	Donald Sutherland
+Peter O'Toole	Peter O'Toole
+Sidney Poitier	Sidney Poitier
+Umaru Yar'Adua	Umaru Yar’Adua
+Òbòdò àgwè	Östat
+Joey King	Joey King
+Malcolm McDowell	Malcolm McDowell
+Ȯra Anambra	Anambra
+Dziecinów (no na Otwock County)	Dziecinów
+Russell Crowe	Russell Crowe
+Chinụa Achebe	Chinua Achebe
+Dammam	Dammam
+Gini coefficient	Ginikoefficient
+Daniel Day-Lewis	Daniel Day-Lewis
+Okpara	Son
+Bịafra	Biafra
+Nkárí asụsụ China nke óménàlà	Traditionella kinesiska tecken
+Christopher Lee	Christopher Lee
+Philip Seymour Hoffman	Philip Seymour Hoffman
+Nnamdi Azikiwe	Nnamdi Azikiwe
+Ta’if	Taif
+Asafa Powell	Asafa Powell
+Forest Whitaker	Forest Whitaker
+Kano	Kano
+Ndi Yoruba	Yoruba (folk)
+Wikipedia nke ndị Norway	Norskspråkiga Wikipedia
+Nancy Reagan	Nancy Reagan
+Digimon	Digimon
+Olusegun Obasanjo	Olusẹgun Ọbasanjọ
+Abá	Aba, Nigeria
+Ọrịa ihi ụra nke ukwuu	Afrikansk sömnsjuka
+Umuahia	Umuahia
+Sani Abacha	Sani Abacha
+Roger Ebert	Roger Ebert
+Adolfo Suárez	Adolfo Suárez
+David Letterman	David Letterman
+Ugwu Ọcha	Port Harcourt
+Anggun	Anggun
+Erykah Badu	Erykah Badu
+Ruby Dee	Ruby Dee
+Ndi ocha	Vit (hudfärg)
+Arise O Compatriots, Nigeria's Call Obey	Arise O Compatriots, Nigeria's Call Obey
+Ndị Igbo	Igbo (folk)
+Pete Seeger	Pete Seeger
+Marcia Wallace	Marcia Wallace
+808s & Heartbreak	808s & Heartbreak
+Azealia Banks	Azealia Banks
+Marcus Garvey	Marcus Garvey
+Paul Robeson	Paul Robeson
+Lacey Duvalle	Lacey Duvalle
+George Gaynes	George Gaynes
+Martin Landau	Martin Landau
+Miranda Otto	Miranda Otto
+Kelis	Kelis
+Richard Chamberlain	Richard Chamberlain
+Dorothy Height	Dorothy Height
+Ẹkẹlẹkbọ	Hermafrodit
+Abakaléké	Abakaliki
+Adá	Dotter
+James Gandolfini	James Gandolfini
+Hal Holbrook	Hal Holbrook
+Richard Griffiths	Richard Griffiths
+Donald Pleasence	Donald Pleasence
+Ȯra Abia	Abia
+Richard Matheson	Richard Matheson
+Ibrahim Babangida	Ibrahim Babangida
+Stereolab	Stereolab
+Fernanda Montenegro	Fernanda Montenegro
+Action Congress	Action Congress
+Richard Schiff	Richard Schiff
+Olaudah Equiano	Olaudah Equiano
+Genaral Johnson Aguiyi-Ironsi	Johnson Aguiyi-Ironsi
+Chukwuemeka Odumegwu Ojukwu	Chukwuemeka Odumegwu Ojukwu
+Bob Barker	Bob Barker
+Pope Francis	Franciskus (påve)
+Akwụkwọ nke Momọn	Mormons bok
+Genevieve Nnaji	Genevieve Nnaji
+Stephen Root	Stephen Root
+Enúgwu	Enugu
+Coritiba Foot Ball Club	Coritiba Foot Ball Club
+Medinaceli	Medinaceli
+James Avery	James Avery
+Chris Pratt	Chris Pratt
+Ȯra Ebonyi	Ebonyi
+Philip Levine	Philip Levine (poet)
+Efrem Zimbalist, Jr.	Efrem Zimbalist, Jr.
+Owẹrrẹ	Owerri
+Ọgụ Towton	Slaget vid Towton
+Chineke	Skapare
+Theoren Fleury	Theoren Fleury
+Nkeji Ochíchííwu Kano	Kano (delstat)
+Brandy	Brandy Norwood
+Iri abụo na otu	21 (tal)
+Iri abụo na abụo	22 (tal)
+Òrìmìlì uwa	Världshavet
+Orji Uzor Kalu	Orji Uzor Kalu
+Yeghishe Charents	Yeghishe Charents
+Wikipedia:Meta	Wikipedia:Meta
+Óká	Awka
+Ȯra Lagos	Lagos (delstat)
+Ȯra Imo	Imo
+Onịchạ	Onitsha
+VietJet Air	VietJet Air
+Biyi Bandele	Biyi Bandele
+Ojị	Kolanöt
+Pornhub	Pornhub
+Ikeja	Ikeja
+Afọ	Magsäck
+Casey Kasem	Casey Kasem
+Àsàbà	Asaba
+The Pit and the Pendulum (fim 1961)	Dödspendeln
+Lólọ	Queen (olika betydelser)
+3 (disambiguation)	Tre (olika betydelser)
+Michael Ansara	Michael Ansara
+Agnes Monica	Agnes Monica
+Òtù:Jémanị	Kategori:Tyskland
+Òtù:Njikota Obodo Amerika	Kategori:USA
+Òtù:Mpaghara Russia	Kategori:Ryssland
+Òtù:Spain	Kategori:Spanien
+Òtù:Ndia	Kategori:Indien
+Òtù:Ethiopia	Kategori:Etiopien
+Òtù:Naigeria	Kategori:Nigeria
+Òtù:Poland	Kategori:Polen
+Òtù:Yukrain	Kategori:Ukraina
+Òtù:Vietnam	Kategori:Vietnam
+Òtù:Ákíkó mbu	Kategori:Historia
+Òtù:Geography	Kategori:Geografi
+Òtù:Àlà	Kategori:Jorden
+People's Democratic Party	People’s Democratic Party (Nigeria)
+Nsibiri	Nsibidi
+Àbànà	Dioscorea alata
+Òtù:Disambiguation	Kategori:Förgreningssidor
+Ba Ria	Ba Ria
+Ohi	Stöld
+Conrad Bain	Conrad Bain
+1 (disambiguation)	1 (olika betydelser)
+Òtù:Édémédé mkpu mkpu	Kategori:Stubbar
+Òtù:Continents	Kategori:Världsdelar
+Odòdo	Purpur
+Moderate	Moderat
+Achike Udenwa	Achike Udenwa
+Sam Egwu	Sam Egwu
+Chimaroke Nnamani	Chimaroke Nnamani
+8 (disambiguation)	Åtta (olika betydelser)
+Òtù:Wikipedia bots	Kategori:Wikipedia:Robotar
+Ȯra Enugu	Enugu (delstat)
+Wikipedia:Administrators	Wikipedia:Administratörer
+Wikipedia:Requests for adminship	Wikipedia:Ansökan om administrativ behörighet
+Wikipedia:Bureaucrats	Wikipedia:Byråkrater
+Wikipedia:Oversight	Wikipedia:Censorer
+Àtụ:Bot	Mall:Bot
+Kánada	Kanada
+Àtụ:Documentation	Mall:Dokumentation
+Wikipedia:Nzọr ogbako	Wikipedia:Deltagarportalen
+Wikipedia:Neutral point of view	Wikipedia:Neutral synvinkel
+Wikipedia:Criteria for speedy deletion	Wikipedia:Snabbraderingar
+Àtụ:Softredirect	Mall:Mjuk omdirigering
+Àtụ:Delete	Mall:Radera
+Òtù:Wikipedia	Kategori:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Allmänt förbehåll
+Wikipedia:Privacy policy	Wikipedia:Integritetspolicy
+Àtụ:Ngwaọtú	Mall:Navbox
+Àtụ:!	Mall:!
+Àtụ:Tnavbar	Mall:Navbar
+Òtù:Formatting templates	Kategori:Formaterings- och funktionsmallar
+Àtụ:Clear	Mall:Clear
+Àtụ:Érèkọbalà	Mall:Nowrap
+Òtù:Afrịka	Kategori:Afrika
+Òtù:Önwa ishií	Kategori:Juni
+Àtụ:Babel	Mall:Babel
+Àtụ:ÉdéNtạ	Mall:Stub
+Àtụ:See also	Mall:Se även
+Àtụ:User en-0	Mall:Användare en-0
+Àtụ:User en	Mall:Användare en
+Àtụ:User sk	Mall:Användare sk
+Àtụ:User ja	Mall:Användare ja
+Àtụ:Intricate template	Mall:Komplicerad kod
+Àtụ:Mod	Mall:Mod
+Òtù:Encyclopedias	Kategori:Uppslagsverk
+Àtụ:Íshí Nzọr Inglish	Mall:Nybörjare
+Àtụ:NwannenwanyiWikipedia	Mall:Wikipediasystrar
+Òtù:Coordinates templates	Kategori:Koordinatmallar
+Àtụ:Ala no n'ime Africa	Mall:Afrika
+Àtụ:Meta	Mall:Meta
+Àtụ:Wikimedia Foundation	Mall:Wikimedia Foundation
+Àtụ:Collapsible list	Mall:Hopfällbar lista
+Àtụ:Steady	Mall:Stabil
+Àtụ:Ngwómárí Obodo	Mall:Landsfakta
+Àtụ:Audio	Mall:Audio
+Àtụ:Selfref	Mall:Hänvisning2
+Àtụ:Ngwómárí pharaoh	Mall:Infobox farao
+Òtù:User en	Kategori:Användare en
+Àtụ:Infobox	Mall:Faktamall
+Àtụ:TOCright	Mall:TOChöger
+Àtụ:Coor URL	Mall:Coor URL
+Àtụ:IPA	Mall:IPA
+Àtụ:Birth date and age	Mall:Ålder
+Àtụ:Infobox Ndi mbà	Mall:Folkgrupp
+Àtụ:Border	Mall:Border
+Àtụ:Infobox website	Mall:Infobox webbplats
+Àtụ:Documentation subpage	Mall:Dokumentationssida
+Wikipedia:Nospam	Wikipedia:Skyddade sidnamn
+Àtụ:User	Mall:Anv-data
+Àtụ:Resize	Mall:Resize
+Àtụ:Coor	Mall:Coord
+Òtù:Interwiki Templates	Kategori:Interwikimallar
+Òtù:User sk	Kategori:Användare sk
+Òtù:User sk-N	Kategori:Användare sk-N
+Òtù:User de	Kategori:Användare de
+Òtù:User de-N	Kategori:Användare de-N
+Òtù:User en-N	Kategori:Användare en-N
+Òtù:1960 births	Kategori:Födda 1960
+Òtù:Ala no n'ime Afrịka	Kategori:Afrikas länder
+Òtù:Nebraska	Kategori:Nebraska
+Òtù:Michigan	Kategori:Michigan
+Àtụ:Infobox Language/family-color	Mall:Språk/familj-färg
+Òtù:Wikipedia basic information	Kategori:Wikipedia:Om Wikipedia
+Òtù:1st century	Kategori:000-talet
+Òtù:Jamaikạ	Kategori:Jamaica
+Òtù:Dominika	Kategori:Dominica
+Òtù:Wikimedia Foundation	Kategori:Wikimedia
+Òtù:Wikipedia disclaimers	Kategori:Wikipedia:Förbehåll
+Òtù:Ómárí	Kategori:Logik
+Àtụ:Infobox Language	Mall:Språk
+Àtụ:H:title	Mall:H:title
+Trojany (no na Wołomin County)	Trojany
+Jí	Jams
+Òtù:Akwụkwọ nke Momọn	Kategori:Mormons bok
+Àtụ:TOCleft	Mall:TOCvänster
+Òtù:Göttingen	Kategori:Göttingen
+Òtù:President of Naigeria	Kategori:Nigerias presidenter
+Wikipedia:Medical disclaimer	Wikipedia:Medicinskt förbehåll
+Àtụ:Start date	Mall:Startdatum
+Nwanne	Bror
+Wikipedia:Risk disclaimer	Wikipedia:Förbehåll för risker
+Àtụ:Oscoor	Mall:Oscoor
+Wikipedia:Legal disclaimer	Wikipedia:Juridiska förbehåll
+Wikipedia:Content disclaimer	Wikipedia:Förbehåll för innehåll
+Ihü kárírí:RecentChanges	Special:Senaste ändringar
+Tiffany Mason	Tiffany Mason

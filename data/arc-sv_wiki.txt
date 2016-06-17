@@ -1,0 +1,1490 @@
+ܐܦܪܝܩܐ	Afrika
+ܝܦܢ	Japan
+ܐܡܪܝܩܐ ܬܝܡܢܝܬܐ	Sydamerika
+ܢܘܪܒܝܓ	Norge
+ܩܘܛܢܝܘܬܐ ܕܐܝܪܠܢܕ	Irland
+ܡܓܪ	Ungern
+ܐܣܦܢܝܐ	Spanien
+ܐܘܚܕܢܐ ܡܚܝܕܐ	USA
+ܒܠܓܝܩܐ	Belgien
+ܠܘܟܣܡܒܘܪܓ	Luxemburg
+ܬܒܝܠ	Universum
+ܐܪܥܐ	Jorden
+ܡܘܬܐ	Döden
+ܒܪ ܐܢܫܐ	Människa
+ܓܘܪܓ ܘܐܫܝܢܓܛܘܢ	George Washington
+ܦܝܢܠܢܕ	Finland
+ܣܘܝܕ	Sverige
+ܕܐܢܡܐܪܩ	Danmark
+ܦܘܠܢܕ	Polen
+ܠܬܘܢܝܐ	Litauen
+ܐܝܛܠܝܐ	Italien
+ܣܘܝܣܪܐ	Schweiz
+ܢܡܣܐ	Österrike
+ܝܘܢ	Grekland
+ܛܘܪܩܝܐ	Turkiet
+ܦܘܪܛܘܓܠ	Portugal
+ܐܘܪܘܦܐ (ܝܒܫܬܐ)	Europa
+ܐܣܝܐ (ܝܒܫܬܐ)	Asien
+ܐܡܪܝܩܐ ܓܪܒܝܝܬܐ	Nordamerika
+ܐܢܛܐܪܩܛܝܩܐ	Antarktis
+ܘܝܩܝܦܕܝܐ	Wikipedia
+ܗܘܠܢܕܐ	Nederländerna
+ܢܝܘ ܝܘܪܩ (ܡܕܝܢܬܐ)	New York
+ܘܐܫܢܓܛܘܢ (ܐܪܫܟܝܬܐ)	Washington, D.C.
+ܒܪܠܝܢ	Berlin
+ܚܫܘܒܐ (ܡܐܟܢܐ)	Dator
+ܒܪܢ	Bern
+ܬܣܝܪܝܟ	Zürich
+ܐܢܛܪܢܛ	Internet
+ܒܪܐܩ ܐܘܒܐܡܐ	Barack Obama
+ܠܘܢܕܘܢ	London
+ܐܠܟܣܢܕܪܝܐ	Alexandria
+ܚܙܘܪܐ	Äpple
+ܦܐܪܝܣ	Paris
+ܡܟܣܝܩܘ	Mexiko
+ܐܘܩܝܢܘܣ ܐܛܠܢܛܝܐ	Atlanten
+ܐܘܩܝܢܘܣ ܫܝܢܝܐ	Stilla havet
+ܒܘܣܛܘܢ	Boston
+ܬܪܝܢܒܫܒܐ	Måndag
+ܟܢܘܢ ܒ	Januari
+ܫܒܛ	Februari
+ܐܕܪ	Mars (månad)
+ܟܘܫ	Etiopien
+ܢܝܣܢ	April
+ܐܝܪ	Maj
+ܚܙܝܪܢ	Juni
+ܬܡܘܙ	Juli
+ܐܒ	Augusti
+ܐܝܠܘܠ	September
+ܬܫܪܝܢ ܐ	Oktober
+ܬܫܪܝܢ ܒ	November
+ܟܢܘܢ ܐ	December
+ܬܠܬܒܫܒܐ	Tisdag
+ܐܪܒܥܒܫܒܐ	Onsdag
+ܚܡܫܒܫܒܐ	Torsdag
+ܥܪܘܒܬܐ	Fredag
+ܫܒܬܐ (ܙܒܢܐ)	Lördag
+ܚܕܒܫܒܐ	Söndag
+ܐܪܝܐ	Lejon
+ܦܪܢܣܐ	Frankrike
+ܟܠܒܐ	Hund
+ܡܠܟܘܬܐ ܡܚܝܕܬܐ	Storbritannien
+ܩܛܐ	Katt
+ܩܘܛܢܝܘܬܐ ܥܡܡܝܬܐ ܕܨܝܢ	Kina
+ܠܫܢܐ ܦܪܢܣܝܐ	Franska
+ܒܪܐܙܝܠ	Brasilien
+ܪܘܣܝܐ	Ryssland
+ܝܡܐ	Hav
+ܝܡܐ ܐܘܟܡܐ	Svarta havet
+Π	Pi (bokstav)
+ܐܠܒܐܡܐ	Alabama
+ܣܐܘ ܦܐܘܠܘ	São Paulo
+ܩܝܒܩ (ܗܘܦܪܟܝܐ)	Québec
+ܓܪܡܢ	Tyskland
+ܒܠܐܪܘܣ	Vitryssland
+ܠܫܢܐ ܓܪܡܢܝܐ	Tyska
+ܐܠܗܐ	Gud
+ܐܣܛܘܢܝܐ	Estland
+ܛܝܣܬܐ	Flygplan
+ܩܪܒܐ	Krig
+1 (ܡܢܝܢܐ)	1 (tal)
+2 (ܡܢܝܢܐ)	2 (tal)
+3 (ܡܢܝܢܐ)	3 (tal)
+4 (ܡܢܝܢܐ)	4 (tal)
+5 (ܡܢܝܢܐ)	5 (tal)
+ܠܐܛܒܝܐ	Lettland
+ܐܘܩܪܐܝܢܐ	Ukraina
+ܬܫܝܟ	Tjeckien
+ܣܠܘܒܩܝܐ	Slovakien
+ܣܠܘܒܢܝܐ	Slovenien
+ܡܘܠܕܘܒܐ	Moldavien
+ܪܘܡܢܝܐ	Rumänien
+ܒܘܠܓܐܪܝܐ	Bulgarien
+ܪܗܘܡܐ (ܡܕܝܢܬܐ)	Rom
+ܩܘܛܢܝܘܬܐ ܕܡܩܕܘܢܝܐ	Makedonien
+ܐܠܒܢܝܐ	Albanien
+ܩܪܘܐܛܝܐ	Kroatien
+ܒܘܣܢܐ ܘܗܪܬܣܓܘܒܝܢܐ	Bosnien och Hercegovina
+ܐܙܪܒܝܓܐܢ	Azerbajdzjan
+ܐܢܕܘܪܐ	Andorra
+ܩܘܦܪܘܣ	Cypern
+ܓܘܪܓܝܐ (ܐܬܪܐ)	Georgien
+ܩܙܩܣܛܐܢ	Kazakstan
+ܡܝܠܛܐ	Malta
+ܡܘܢܐܩܘ	Monaco
+ܛܘܪܐ ܐܘܟܡܐ	Montenegro
+ܡܕܝܢܬܐ ܕܘܛܝܩܢ	Vatikanstaten
+ܣܢ ܡܪܝܢܘ	San Marino
+ܒܪܘܟܣܠ	Bryssel (region)
+ܠܘܕܒܝܓ ܒܐܢ ܒܝܛܗܘܒܢ	Ludwig van Beethoven
+ܠܫܢܐ ܛܘܪܩܝܐ	Turkiska
+ܓܙܐܐܪ	Algeriet
+ܐܘܙܒܩܣܛܐܢ	Uzbekistan
+ܘܐܪܣܘ	Warszawa
+ܚܡܪܐ (ܫܬܝܐ)	Vin
+ܡܝܐ	Vatten
+ܦܪܣ ܚܙܘܐ	Television
+ܬܫܝܠܝ	Chile
+ܐܠ ܓܪܝܩܘ	El Greco
+ܝܫܘܥ	Jesus
+ܠܫܢܐ (ܡܡܠܠܐ)	Språk
+ܫܘܠܛܢ ܛܪܘܢܘܬܐ	Diktatur
+ܡܡܠܠܘܬ ܟܘܟܒܐ	Astronomi
+ܡܪܝܡ (ܐܡܗ ܕܝܫܘܥ)	Jungfru Maria
+ܠܝܟܛܢܫܛܝܢ	Liechtenstein
+ܐܕܘܠܦ ܗܝܛܠܪ	Adolf Hitler
+ܠܝܢܘܟܣ	Linux
+ܠܫܢܐ ܠܐܛܝܢܝܐ	Latin
+ܒܚܪܝܢ	Bahrain
+ܐܪܡܢܝܐ	Armenien
+ܣܪܒܝܐ	Serbien
+ܣܗܪܐ	Månen
+ܐܝܣܛܢܒܘܠ (ܡܕܝܢܬܐ)	Istanbul
+ܐܘܣܛܪܠܝܐ (ܐܬܪܐ)	Australien
+ܦܝܣܝܟ	Fysik
+ܩܘܪܐܢ	Koranen
+ܐܣܠܐܡ	Islam
+ܟܡܬܪܐ	Päronsläktet
+ܠܟ ܒܐܘܢܣܐ	Lech Wałęsa
+ܫܠܡܐ (ܫܝܢܐ)	Fred
+ܚܘܝܕܐ ܐܘܪܘܦܝܐ	Europeiska unionen
+ܐܢܬܬܐ	Kvinna
+ܛܝܙܐ	Analöppning
+ܫܚܬܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Armhåla
+ܗܒܒܐ	Blomma
+ܝܘܠܦܢ ܨܪܘܝܘܬܐ	Anatomi
+ܡܕܝܢܬܐ	Stad
+ܢܐܦܠܝܘܢ ܒܘܢܐܦܪܛ	Napoleon I
+ܟܘܟܒܐ	Stjärna
+ܫܡܫܐ	Solen
+ܩܪܝܬܐ	By
+ܝܡܐ ܕܡܕܢܚܐ	Östersjön
+ܫܢܐ	Tänder
+ܘܝܩܝܡܝܕܝܐ ܩܘܡܡܘܢܣ	Wikimedia Commons
+ܟܬܒܐ (ܣܦܪܐ)	Bok
+ܝܘܡܐ	Dygn
+ܠܠܝܐ	Natt
+ܫܢܬܐ (ܙܒܢܐ)	År
+ܕܪܐ	Sekel
+ܐܘܣܠܘ	Oslo
+ܠܫܒܘܢܐ	Lissabon
+ܦܠܝܛܐ	Planet
+ܙܡܪܘܬܐ	Musik
+ܡܘܣܩܒܐ	Moskva
+ܠܫܢܐ ܐܝܛܠܝܐ	Italienska
+ܬܫܐܕ	Tchad
+ܬܝܡܢܐ	Norr
+ܢܝܘ ܙܝܠܢܕ	Nya Zeeland
+ܓܪܒܝܐ	Söder
+ܗܢܕܘ	Indien
+ܦܪܙܠܐ	Järn
+ܡܥܪܒܐ	Väster
+ܡܕܢܚܐ	Öster
+ܒܢܙܘܝܠܐ	Venezuela
+ܛܠܦܣܢܐ	Schack
+ܡܝܢ	Maine
+ܣܘܣܝܐ	Häst
+ܐܡܣܛܪܕܐܡ	Amsterdam
+ܙܝܢܐ	Vapen
+ܚܝܘܬܐ	Djur
+ܩܘܠܘܡܒܝܐ	Colombia
+ܢܝܘ ܗܐܡܦܫܪ	New Hampshire
+ܠܝܘܢܪܕܘ ܕܗ ܒܢܬܫܝ	Leonardo da Vinci
+ܡܐܣܐܬܫܘܣܬܣ	Massachusetts
+ܐܘܛܪܝܟܛ (ܗܘܦܪܟܝܐ)	Utrecht (provins)
+ܟܘܢܝܬܝܟܬ	Connecticut
+ܐܝܪܐܢ	Iran
+ܥܝܪܐܩ	Irak
+ܐܠܐܣܟܐ	Alaska
+ܐܝܣܪܐܝܠ	Israel
+ܐܘܛܪܝܟܛ (ܡܕܝܢܬܐ)	Utrecht
+ܝܡܢ	Jemen
+ܠܫܢܐ ܦܘܠܢܕܝܐ	Polska
+ܝܘܪܕܢܢ	Jordanien
+ܩܝܪܓܝܙܣܛܐܢ	Kirgizistan
+ܐܪܝܙܘܢܐ	Arizona
+ܟܘܘܝܬ (ܐܬܪܐ)	Kuwait
+ܠܒܢܢ	Libanon
+ܐܘܪܝܓܘܢ	Oregon
+ܐܡܪܝܩܐ	Amerika
+ܝܘܬܐ	Utah
+ܥܘܡܐܢ	Oman
+ܦܐܩܣܛܐܢ	Pakistan
+ܩܛܪ	Qatar
+ܣܥܘܕܝܐ	Saudiarabien
+ܝܘܣܦ ܣܛܐܠܝܢ	Josef Stalin
+ܣܘܪܝܐ	Syrien
+ܛܐܓܝܩܣܛܐܢ	Tadzjikistan
+ܦܪܣ ܩܠܐ	Radio
+ܛܘܪܩܡܢܣܛܐܢ	Turkmenistan
+ܐܡܝܪܘܬܐ ܥܪܒܝܬܐ ܡܚܝܕܬܐ	Förenade Arabemiraten
+ܐܦܓܐܢܣܛܐܢ	Afghanistan
+ܕܗܒܐ	Guld
+ܡܠܝ	Mali
+ܦܝܠܝܦܝܢܝܐ	Filippinerna
+ܩܘܛܢܝܘܬܐ ܕܐܦܪܝܩܐ ܡܨܥܝܬܐ	Centralafrikanska republiken
+ܐܝܣܚܩ ܢܝܘܛܢ	Isaac Newton
+ܫܥܘܬܐ (ܓܘܢܐ)	Gul
+ܬܘܢܣ (ܐܬܪܐ)	Tunisien
+ܬܝܡܢܐ ܕܣܘܕܐܢ	Sydsudan
+ܩܘܛܢܝܘܬܐ ܕܩܘܢܓܘ	Kongo-Brazzaville
+ܩܘܛܢܝܘܬܐ ܕܩܘܢܓܘ ܕܝܡܘܩܪܛܝܬܐ	Kongo-Kinshasa
+ܦܐܦܐ ܝܘܚܢܢ ܦܘܠܘܣ ܬܪܝܢܐ	Johannes Paulus II
+ܛܒܝܠܝܣܝ	Tbilisi
+ܩܐܡܪܘܢ	Kamerun
+ܠܘܒܐ	Libyen
+ܡܘܪܝܛܢܝܐ	Mauretanien
+ܡܓܪܒ	Marocko
+ܢܝܓܪ	Niger
+ܣܘܕܐܢ	Sudan
+ܩܫܬܐ ܕܡܪܢ	Regnbåge
+ܗܐܡܒܘܪܓ	Hamburg
+ܝܡܬܐ ܕܐܘܢܛܪܝܘ	Ontariosjön
+ܝܡܬܐ ܕܣܘܦܝܪܝܘܪ	Övre sjön
+ܓܐܘܓܪܦܝܐ	Geografi
+ܠܒܐ	Hjärta
+ܡܘܚܐ	Hjärna
+ܓܠܕܐ	Hud
+ܓܘܢܐ	Färg
+ܦܪܐܓ	Prag
+ܙܪܩܐ	Blå
+ܟܣܦܐ (ܣܐܡܐ)	Silver
+ܡܫܝܓܢ	Michigan
+ܝܡܬܐ ܕܡܝܫܝܓܢ	Michigansjön
+ܐܠܝܢܘܝ	Illinois
+ܢܘܪܬ ܕܐܟܘܬܐ	North Dakota
+ܣܐܘܬ ܕܐܟܘܬܐ	South Dakota
+ܡܘܢܬܐܢܐ	Montana
+ܘܐܝܘܡܝܢܓ	Wyoming
+ܐܘܪܫܠܡ	Jerusalem
+ܐܝܕܐܗܘ	Idaho
+ܢܝܒܐܕܐ	Nevada
+ܐܘܩܝܢܘܣ ܗܢܕܘܝܐ	Indiska oceanen
+ܟܘܠܘܪܐܕܘ	Colorado
+ܫܝܩܓܘ	Chicago
+ܣܬܘܐ	Vinter
+ܬܕܐܐ	Vår
+ܩܝܛܐ	Sommar
+ܬܫܪܝܬܐ	Höst
+ܨܕܐܡ ܚܘܣܝܢ	Saddam Hussein
+ܠܫܢܐ ܐܣܦܢܝܐ	Spanska
+ܓܘܓܝ	Spindlar
+ܐܒܐ (ܦܐܪܐ)	Frukt
+ܒܪܓܝܢܝܐ	Virginia
+ܝܡܬܐ ܕܝܘܪܘܢ	Huronsjön
+ܢܝܘ ܝܘܪܩ (ܐܘܚܕܢܐ ܡܚܝܕܐ)	New York (delstat)
+ܪܘܕ ܐܝܠܐܢܕ	Rhode Island
+ܪܚܫܐ	Insekter
+ܡܐܪܝܠܐܢܕ	Maryland
+ܕܝܠܐܘܝܪ	Delaware
+ܐܘܗܐܝܘ	Ohio
+ܦܢܣܝܠܒܐܢܝܐ	Pennsylvania
+ܐܝܛܙܢ	Uetersen
+ܐܓܘܣܛܘܣ ܩܣܪ	Augustus
+ܢܝܘ ܓܝܪܣܝ	New Jersey
+ܐܢܕܝܐܢܐ	Indiana
+ܪܕܝܬܐ	Bil
+ܓܘܪܓܝܐ (ܐܘܚܕܢܐ ܡܚܝܕܐ)	Georgia
+ܣܩܠܝܐ	Sicilien
+ܣܢ (ܢܗܪܐ)	Seine
+ܛܘܩܝܘ	Tokyo prefektur
+ܦܪܕܝܢܢܕ ܡܓܝܠܢ	Ferdinand Magellan
+ܢܝܘ ܡܝܟܣܝܟܘ	New Mexico
+ܐܬܢܘܣ	Aten
+ܡܢܝܣܘܬܐ	Minnesota
+ܒܓܕܐܕ (ܡܕܝܢܬܐ)	Bagdad
+ܘܝܣܟܘܢܣܢ	Wisconsin
+ܐܝܐܘܐ	Iowa
+ܢܝܒܪܐܣܟܐ	Nebraska
+ܟܐܢܣܐܣ	Kansas
+ܡܝܙܘܪܝ	Missouri
+ܐܪܟܢܣܐܣ	Arkansas
+ܠܫܢܐ ܕܐܘܪܕܘ	Urdu
+ܐܘܟܠܐܗܘܡܐ	Oklahoma
+ܝܡܐ ܕܓܪܒܝܐ	Nordsjön
+ܒܝܝܢܐ	Wien
+ܩܘܦܢܗܐܓܢ	Köpenhamn
+ܣܛܘܩܗܘܠܡ	Stockholm
+ܗܠܣܢܩܝ	Helsingfors
+ܕܒܠܢ	Dublin
+ܒܪܛܝܣܠܐܒܐ	Bratislava
+ܟܬܒܐ ܩܕܝܫܐ	Bibeln
+ܥܕܬܐ ܫܪܝܪܬܐ ܕܝܫܘܥ	The True Jesus Church
+ܠܫܢܐ ܐܢܓܠܝܐ	Engelska
+ܩܘܢܣܦܣܝܘܢ (ܬܫܝܠܝ)	Concepción, Chile
+ܐܘܢܛܐܪܝܘ	Ontario
+ܡܐܢܝܛܘܒܐ	Manitoba
+ܐܠܒܪܛܐ	Alberta
+ܢܘܒܐ ܣܩܘܛܝܐ	Nova Scotia
+ܩܘܢܣܩܘܒܘܠܐ	Końskowola
+ܢܝܘ ܒܪܘܢܙܘܝܩ	New Brunswick
+ܩܘܠܘܡܒܝܐ ܒܪܝܛܝܬܐ	British Columbia
+ܓܙܪܬܐ ܕܐܡܝܪܐ ܐܕܘܐܪܕ	Prince Edward Island
+ܣܐܣܩܐܬܫܘܐܢ	Saskatchewan
+2012	2012
+2011	2011
+2010	2010
+2009	2009
+ܢܝܘܦܐܘܢܕܠܢܕ ܘܠܐܒܪܐܕܘܪ	Newfoundland och Labrador
+2008	2008
+ܐܘܚܕܢܐ ܓܪܒܝܝܐ-ܡܥܪܒܝܐ	Northwest Territories
+ܝܘܩܘܢ	Yukon
+2005	2005
+2006	2006
+ܢܘܢܐܒܘܛ	Nunavut
+2007	2007
+ܡܐܟܘܠܬܐ	Mat
+ܚܘܝܐ	Ormar
+ܩܘܪܘܦ	Kurów
+ܟܝܡܝܐ	Kemi
+1968	1968
+ܩܛܠܥܡܐ ܝܗܘܕܝܐ	Förintelsen
+ܡܕܪܝܕ (ܡܕܝܢܬܐ)	Madrid
+ܣܢܛܝܐܓܘ ܕܐ ܬܫܝܠܝ	Santiago de Chile
+ܚܐܪܘܬܐ	Frihet
+ܣܝܕܢܝ	Sydney
+ܝܪܘܩܐ	Grön
+ܡܠܒܘܪܢ	Melbourne
+ܣܘܡܩܐ	Röd
+ܢܘܪܐ (ܕܠܩܐ)	Eld
+ܢܝܠܘܣ	Nilen
+ܓܙܐܐܪ (ܡܕܝܢܬܐ)	Alger, Algeriet
+ܬܘܢܣ (ܡܕܝܢܬܐ)	Tunis
+ܛܗܪܐܢ	Teheran
+ܐܢܩܪܐ	Ankara
+ܢܝܐܡܝ	Niamey
+ܒܡܩܘ	Bamako
+ܕܪܡܣܘܩ	Damaskus
+ܥܡܐܢ	Amman
+ܒܝܪܘܬ	Beirut
+ܒܝܬ ܨܘܒܐ	Universitet
+ܒܝܬܐ (ܒܢܝܢܐ)	Hus
+ܐܘܣܛܪܠܝܐ (ܝܒܫܬܐ)	Australien (kontinent)
+ܢܗܪܐ	Flod
+ܪܝܫܐ ܕܣܒܪܐ ܛܒܐ	Godahoppsudden
+ܫܘܚܡܠܐ	Investering
+ܩܘܪܝܛܝܒܐ	Curitiba
+ܥܒܐ	Skog
+ܩܘܢܦܘܫܝܘܣ	Konfucius
+ܩܢܐ	Rede
+ܐܘܪܘ	Euro
+ܝܡܐ ܚܘܪܐ ܡܨܥܝܐ	Medelhavet
+ܓܘܪܓܝܐ	Georgia (olika betydelser)
+ܡܫܝܚܝܘܬܐ	Kristendom
+ܪܘܙܐ	Ris
+ܝܒܫܬܐ	Världsdelar och kontinenter
+ܛܝܪܐ	Fåglar
+ܐܪܫܟܝܬܐ	Huvudstad
+ܠܫܢܐ ܦܘܪܛܘܓܠܝܐ	Portugisiska
+ܝܪܚܐ	Månad
+ܡܘܨܛܦܐ ܟܡܐܠ ܐܛܐܛܘܪܩ	Mustafa Kemal Atatürk
+ܐܠܡܐܙܢ	Almazán
+ܠܫܢܐ ܝܦܢܝܐ	Japanska
+ܦܐܬܐ ܪܝܫܝܬܐ	Portal:Huvudsida
+ܦܪܢܣܝܣܩܘ ܓܘܝܐ	Francisco de Goya
+ܝܡܐ ܐܚܪܝܐ	Kaspiska havet
+ܝܡܬܐ ܕܐܝܪܝ	Eriesjön
+ܣܠܒܐܕܘܪ ܕܐܠܝ	Salvador Dalí
+ܒܢܣܢܬ ܦܢ ܟܘܟ	Vincent van Gogh
+ܦܪܝܕܐ ܩܐܠܘ	Frida Kahlo
+ܗܢܪܝ ܡܐܛܝܣ	Henri Matisse
+ܡܝܟܠܐܢܓܠܘ	Michelangelo
+ܦܒܠܘ ܦܝܩܐܣܘ	Pablo Picasso
+ܪܡܒܪܢܛ	Rembrandt
+ܐܢܕܝ ܘܘܪܗܘܠ	Andy Warhol
+ܢܝܢܘܐ (ܡܕܝܢܬܐ)	Nineve
+ܒܒܠ	Babylon
+ܐܝܪܝܚܘ	Jeriko
+ܩܛܠܘܢܝܐ	Katalonien
+ܡܕܪܝܕ (ܗܘܦܪܟܝܐ)	Madrid (autonom region)
+ܒܝܬ ܠܚܡ	Betlehem
+ܣܕܪܐ:Candidates for speedy deletion	Kategori:Snabbraderingar
+ܪܫܡܠܘܬܐ	Kapitalism
+ܐܘܡܬܐ	Nation
+ܩܪܬܐܓܘ	Karthago
+ܣܕܪܐ:ܐܣܛܪܘܢܘܡܝܐ	Kategori:Astronomi
+ܨܚܪܐܐ	Sahara
+ܫܐܕܐ	Djävul
+ܒܝܬ ܟܬܒܐ	Bibliotek
+ܫܘܠܛܢܘܬܐ (ܫܘܬܐܣܐ)	Regering
+ܬܫܝܢ ܫܝ ܗܘܐܢܓ	Qin Shi Huangdi
+ܡܕܢܚܐ ܡܨܥܝܬܐ	Mellanöstern
+ܡܠܟܘܬܐ	Monarki
+ܩܘܛܢܝܘܬܐ	Republik
+ܐܬܪܐ	Stat
+ܓܒܐ	Politiskt parti
+ܝܗܘܕܝܐ	Judar
+ܝܡܡܬܐ ܪܘܪܒܬܐ	Stora sjöarna
+ܐܘܩܝܢܘܣ ܬܝܡܢܝܐ	Antarktiska oceanen
+ܐܕܢܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Öra
+ܢܚܝܪܐ	Nos
+ܥܝܢܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Öga
+ܥܘܩܒܪܬܐ	Muskel
+ܙܡܝܪܬܐ	Sång
+ܓܡܠܐ	Kameler
+ܫܘܫܡܢܐ	Myror
+ܠܫܢܐ ܗܘܠܢܕܝܐ	Nederländska
+ܐܡܐ (ܒܝܬܝܘܬܐ)	Moder
+ܐܒܐ (ܒܝܬܝܘܬܐ)	Fader
+1847	1847
+ܨܦܪܐ (ܙܒܢܐ)	Morgon
+ܪܡܫܐ	Kväll
+ܩܛܝܢܬܐ	Minut
+ܠܫܢܐ ܪܘܣܝܐ	Ryska
+ܩܢܘܢܐ	Juridik
+ܠܫܢܐ ܨܝܢܝܐ	Kinesiska
+ܕܡܐ	Blod
+ܬܓܪܘܡܬܐ	Skelett
+ܪܐܬܐ	Lunga
+ܠܫܢܐ ܪܘܡܢܝܐ	Rumänska
+ܡܛܪܐ	Regn
+ܢܠܣܘܢ ܡܐܢܕܝܠܐ	Nelson Mandela
+ܐܒܢܐ	Bergart
+ܥܢܢܐ	Moln
+ܩܢܘܢܐ ܕܠܥܙܐ	Grammatik
+ܠܫܢܐ ܓܘܪܓܝܐ	Georgiska
+ܝܘܠܦܢ ܡܡܫܚܘܬܐ	Nationalekonomi
+ܙܘܙܐ	Valuta
+ܡܕܐܬܐ	Skatt
+ܐܠܦܒܝܬ ܥܪܒܝܐ	Arabiska alfabetet
+ܐܠܦܒܝܬ ܝܘܢܝܐ	Grekiska alfabetet
+ܐܠܦܒܝܬ ܠܐܛܝܢܝܐ	Latinska alfabetet
+ܣܕܪܐ:ܦܪܢܣܐ	Kategori:Frankrike
+ܟܢܫܐ	Samhälle (sociologi)
+ܓܒܪܐ	Man
+ܙܘܘܓܐ	Äktenskap
+ܙܕܩܐ ܕܒܪܢܫܐ	Mänskliga rättigheter
+ܩܪܒܐ ܓܘܝܐ	Inbördeskrig
+ܓܪܡܐ ܕܣܢܘܢܝܬܐ	Bröstben
+ܬܪܝܢܐ	Juice
+ܚܠܒܐ (ܕܝܘܒܐ)	Mjölk
+ܛܘܪܐ	Berg
+ܡܕܒܪܐ	Öken
+ܠܫܢܐ ܐܠܒܢܝܐ	Albanska
+ܠܫܢܐ ܐܪܡܢܝܐ	Armeniska
+ܝܘܗܐܢ ܓܘܛܢܒܪܓ	Johannes Gutenberg
+ܠܫܢܐ ܣܘܝܕܝܐ	Svenska
+ܢܝܩܘܠܐ ܛܣܠܐ	Nikola Tesla
+ܡܘܫܐ	Mose
+ܬܕܐ	Kvinnobröst
+ܢܘܗܪܐ (ܚܙܝܬܐ)	Ljus
+ܠܫܢܐ ܝܘܢܝܐ	Grekiska
+ܠܫܢܐ ܦܪܣܝܐ	Persiska
+ܬܘܕܝܬܐ	Religion
+ܐܒܪܗܡ	Abraham (patriark)
+ܣܦܪܐ ܕܒܪܝܬܐ	Första Moseboken
+ܠܫܢܐ ܩܢܛܘܢܝܐ	Kantonesiska
+ܠܫܢܐ ܡܢܕܪܝܢܝܐ	Mandarin (språk)
+ܦܘܠܘܣ ܫܠܝܚܐ	Paulus
+ܙܝܓܡܘܢܕ ܦܪܘܝܕ	Sigmund Freud
+ܙܠܛܐ	Sallad
+ܝܗܘܕܝܘܬܐ	Judendom
+ܠܫܢܐ ܥܒܪܝܐ	Hebreiska
+ܟܒܕܐ	Lever
+ܛܚܠܐ	Mjälte
+ܟܘܠܝܬܐ	Njure
+ܫܠܦܘܚܬܐ	Urinblåsan
+ܐܫܟܐ	Testikel
+ܐܘܩܝܢܘܣ	Ocean
+ܒܘܕܗܐ	Buddha
+ܡܘܚܡܕ	Muhammed
+ܟܪܣܐ	Buken
+ܚܒܠܐ ܟܘܒܝܐ	Ryggmärg
+ܘܪܝܕܐ	Ven (blodkärl)
+ܡܪܒܥܐ	Livmoder
+ܠܫܢܐ (ܗܕܡܐ)	Tunga
+ܓܝܕܐ	Nerv
+ܨܘܪܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Hals
+ܦܘܡܐ	Mun
+ܓܓܪܬܐ	Struphuvud
+ܡܥܝܐ	Tarm
+ܫܪܝܬܐ	Led
+ܚܕܝܐ	Bröst
+ܬܝܪܬܐ	Körtel
+ܚܠܒܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Mellangärde
+ܫܪܝܢܐ	Artär
+A	A
+B	B
+ܢܘܛܦܬܐ	Sädesvätska
+G	G
+U	U
+Z	Z
+F	F
+J	J
+ܐܠܦܒܝܬ	Alfabet
+T	T
+C	C
+R	R
+D	D
+Α	Alfa
+Ω	Omega
+I	I
+Μ	My
+E	E
+H	H
+ܗܐܪܠܡ (ܗܘܠܢܕܐ)	Haarlem
+K	K
+L	L
+M	M
+N	N
+O	O
+Q	Q
+S	S
+V	V
+W	W
+X	X
+Y	Y
+ܐܢܫܟܕܐ	Enschede
+ܗܢܓܠܘ	Hengelo
+Φ	Fi
+ܝܘܢܐ	Duvor
+ܐܝܠܢܐ	Träd
+Λ	Lambda
+ܓܒܬܐ	Ost
+ܥܢܒܬܐ	Druva
+ܕܒܫܐ	Honung
+ܒܣܪܐ	Kött
+ܫܟܪ	Socker
+ܣܦܪܙܒܢܐ	Tidning
+ܙܥܘܩܐ	Telefon
+ܡܪܕܘܬܐ	Kultur
+ܡܥܝܐ ܥܒܝܐ	Tjocktarm
+ܡܥܝܐ ܩܛܝܢܐ	Tunntarm
+ܣܘܪܓܕܐ ܝܘܠܝܝܐ	Julianska kalendern
+ܐܣܝܘܬܐ	Medicinsk vetenskap
+ܡܠܚܐ (ܐܨܪܐ)	Salt
+ܣܕܪܐ:ܒܪܐܙܝܠ	Kategori:Brasilien
+ܙܘܝܬܐ (ܡܚܪܘܬܐ)	Vinkel
+ܬܘܩܦܐ	Energi
+ܣܦܝܢܬܐ	Skepp
+ܩܠܐ (ܨܘܬܐ)	Ljud
+ܙܓܘܓܝܬܐ	Glas
+ܫܛܝܚܘܬܐ	Area
+ܡܢܝܢܐ	Tal
+ܪܦܦܐ	Sekund
+ܣܥܪܬܐ	Korn
+ܘܘܗܐܢ	Wuhan
+ܡܟܬܒܢܘܬܐ ܕܐܬܪܘܬܐ	Lista över självständiga stater
+ܒܝܬ ܢܗܪܝܢ	Mesopotamien
+ܕܒܐ	Björnar
+ܬܠܗܝܐ	Cancer
+ܡܠܟܐ	Kung
+ܚܛܬܐ	Vetesläktet
+ܣܘܪܓܕܐ	Kalender
+ܟܘܪܗܢܐ	Sjukdom
+ܣܘܪܓܕܐ ܓܪܝܓܘܪܝܐ	Gregorianska kalendern
+ܟܦܣܐ	Menstruation
+ܥܡܐ ܩܪܕܘܝܐ	Kurder
+ܓܫܪܐ	Bro
+ܡܓܕܠܐ (ܒܢܝܢܐ)	Torn
+ܐܡܪܝܩܐ ܠܐܛܝܢܝܬܐ	Latinamerika
+ܟܗܪܒܐ	Elektricitet
+ܡܙܝܥܢܐ ܕܩܝܕܐ ܓܘܝܐ	Förbränningsmotor
+ܣܝܦܐ (ܙܝܢܐ)	Svärd
+ܫܡܥܘܢ ܩܢܢܝܐ	Simon Ivraren
+ܩܪܩܦܬܐ	Kranium
+ܓܘܡܠܐ!	Joomla
+ܐܦܫܬܐ	Russin
+ܠܫܢܐ ܕܗܣܝܐܢܓ	Xiang (dialekt)
+ܠܫܢܐ ܥܪܒܝܐ	Arabiska
+ܠܫܢܐ ܐܦܪܝܩܐܢܝܐ	Afrikaans
+Β	Beta
+Γ	Gamma
+Δ	Delta
+Ε	Epsilon
+Ζ	Zeta
+Η	Eta
+Θ	Theta
+Ι	Jota
+Κ	Kappa (bokstav)
+Ν	Ny
+Ξ	Xi
+Ο	Omikron
+Ρ	Rho
+Σ	Sigma
+Τ	Tau
+Υ	Ypsilon
+Χ	Chi
+Ψ	Psi
+ܐܬܐ	Flagga
+ܟܪܦܬܐ	Möbel
+ܟܘܪܣܝܐ	Stol
+ܣܦܬܐ	Läpp
+ܦܣܡܐ	Mustasch
+ܥܩܠܐ	Fot
+1000000000 (ܡܢܝܢܐ)	Miljard
+ܓܪܡܐ ܕܨܕܥܐ	Tinningben
+ܩܠܝܕܐ (ܓܪܡܐ)	Nyckelben
+ܟܬܦܐ	Axel (kroppsdel)
+ܩܠܒܐ:Link FA	Mall:Link FA
+ܥܠܡܐ (ܐܪܥܐ)	Världen
+ܘܝܩܝܦܕܝܐ:ܬܪܥܐ ܕܟܢܫܐ	Wikipedia:Bybrunnen
+ܒܝܪܡܘܢܬ	Vermont
+ܩܘܣܛܢܛܝܢܘܦܘܠܝܣ	Konstantinopel
+ܒܝܬ ܟܪܝܗܐ	Sjukhus
+ܥܕܬܐ	Kyrka
+ܕܝܬܝܩܝ ܚܕܬܐ	Nya Testamentet
+9 (ܡܢܝܢܐ)	9 (tal)
+1002	1002
+ܦܘܕܘܠܣܟ	Podolsk
+ܦܐܦܐ	Påve
+5	5
+4	4
+ܢܝܒܐ	Hörntand
+3	3
+2	2
+ܒܝܬ ܥܬܩܐ ܕܠܘܒܪ	Louvren
+ܓܒܐ ܕܚܐܪܘܬܐ ܕܦܘܐܪܛܘ ܪܝܩܘ	Puertoricanska självständighetspartiet
+6	6
+ܕܝܬܝܩܝ ܥܬܝܩܬܐ	Gamla Testamentet
+ܥܐܕܐ ܕܒܝܬ ܝܠܕܐ	Jul
+ܠܫܢܐ ܪܘܡܐܢܣܝܐ	Romanska språk
+ܡܬܠܬܐ	Triangel
+ܫܢܬܐ ܟܒܝܫܬܐ	Skottår
+ܡܘܥܡܪ ܐܠܩܕܐܦܝ	Muammar al-Gaddafi
+ܥܐܕܐ ܕܩܝܡܬܐ	Påsk
+ܢܝܘ ܝܘܪܩ	New York (olika betydelser)
+ܢܦܛܐ	Petroleum
+ܣܐܘܢܐ	Sko
+ܒܝܬ ܥܘܪܦܢܐ	Bank
+ܟܪܡܐ	Vingård
+ܐܝܪܠܢܕ (ܓܙܪܬܐ)	Irland (ö)
+1	1
+ܠܘ ܫܘܢ	Lu Xun
+10	10
+20	20
+9	9
+7	7
+8	8
+7 (ܡܢܝܢܐ)	7 (tal)
+8 (ܡܢܝܢܐ)	8 (tal)
+12	12
+ܡܠܐܐ ܘܬܘܒܐ	Tidvatten
+ܫܒܘܥܐ	Vecka
+ܓܠܝܕܐ	Is
+ܨܠܘܬܐ ܡܪܢܝܬܐ	Herrens bön
+ܝܡܬܐ	Insjö
+ܝܡܐ ܣܘܡܩܐ	Röda havet
+13	13
+ܩܛܘܬܐ (ܝܥܝܬܐ)	Gurka
+ܓܙܪܬܐ	Ö (landområde)
+ܚܘܪܐ	Vit
+ܐܘܟܡܐ	Svart
+6 (ܡܢܝܢܐ)	6 (tal)
+ܠܫܢܐ ܪܘܫܡܝܐ	Officiellt språk
+11	11
+15	15
+14	14
+17	17
+ܣܦܪ ܡܠܐ	Ordbok
+18	18
+19	19
+16	16
+21	21
+ܦܠܣܛܝܢ	Palestina
+10 (ܡܢܝܢܐ)	10 (tal)
+ܡܣܘܪܩܐ (ܡܐܢܐ)	Kam
+ܠܝܠܐ ܕܘܢܤ	Lila Downs
+ܝܡܐ ܕܡܠܚܐ	Döda havet
+ܫܘܚܠܦܐ ܕܫܢܬܐ	Årstid
+ܠܝܒܪܦܘܠ	Liverpool
+ܩܘܦܬܐ (ܛܝܪܐ)	Ugglor
+ܫܥܬܐ	Timme
+ܢܐܘܝ ܕܘܪ ܟܪܘܠܣܟܝ	Nowy Dwór Królewski
+ܐܪܙܦܬܐ	Hammare (handverktyg)
+ܝܘܢܫܘܦܝܢ	Jönköping
+ܥܘܠܐ ܚܝܐ	Foster
+ܐܠܦܒܝܬ ܣܘܪܝܝܐ	Syriska alfabetet
+ܐܣܝܐ ܡܥܪܒܝܬܐ	Sydvästasien
+ܫܓܠܐ	Hoppa hage
+ܩܠܦܬܐ ܕܒܣܡܐ	Kanel
+ܡܙܬܐ	Hår
+ܠܫܢܐ ܐܪܡܝܐ	Arameiska
+ܨܦܪܐ (ܛܝܪܐ)	Sparvfinkar
+ܐܦܣܩܘܦܐ	Biskop
+ܨܝܢ (ܐܪܥܐ)	Kina (region)
+ܓܒܐ ܕܝܡܘܩܪܛܝܐ (ܐܘܚܕܢܐ ܡܚܝܕܐ)	Demokratiska partiet
+ܒܝܐܛܪܝܟܣ ܕܒܝܬ ܗܘܠܢܕܝܐ	Beatrix av Nederländerna
+ܡܠܟܘܬܐ ܕܗܘܠܢܕܐ	Kungariket Nederländerna
+ܐܒܪܝܠ ܠܐܒܝܢ	Avril Lavigne
+ܪܝܫ ܩܘܛܢܝܘܬܐ	President
+ܐܚܐ (ܒܝܬܝܘܬܐ)	Syskon
+ܐܪܒܝܐ	Arabiska halvön
+ܡܪܩܘܣ ܐܘܢܓܠܣܛܐ	Markus (evangelist)
+ܥܘܠܐ	Embryo
+ܠܫܢܐ ܕܗܟܐ	Hakka (språk)
+ܫܘܫܡܢܝܬܐ (ܝܥܝܬܐ)	Kardemumma
+ܠܫܢܐ ܕܓܐܢ	Gan (dialekt)
+ܒܝܬ ܥܬܩܐ	Museum
+ܐܠܦܒܝܬ ܥܒܪܝܐ	Hebreiska alfabetet
+ܠܫܢܐ ܣܘܪܝܝܐ	Syriska
+ܐܝܕܐ	Hand
+ܫܡܥܘܢ ܟܐܦܐ	Petrus
+ܬܠ ܐܒܝܒ	Tel Aviv
+ܒܐܠܦܐܪܐܝܣܘ	Valparaíso
+ܛܘܪܝܐ	Turoyo
+ܠܫܢܐ ܫܝܡܝܐ	Semitiska språk
+ܚܘܣܢܝ ܡܘܒܐܪܟ	Hosni Mubarak
+ܘܐܟܐܩܐ	Oaxaca
+ܚܐܘܬܐ	Smör
+ܐܘܢܓܠܝܘܢ	Evangelium (bok)
+ܠܫܢܐ ܕܘܘ	Wu (dialekt)
+ܪܘܛܪܕܐܡ	Rotterdam
+ܩܪܛܐ	Kreta
+ܐܘܪܚܐ	Väg
+ܩܘܪܨܐ ܚܠܝܨܐ	CD
+ܦܪܬ	Eufrat
+ܩܝܘܛܘ	Kyoto
+ܥܣܪܐ ܦܘܩܕܢܐ	De tio budorden
+ܒܪܩܩܐ ܦܪܣܝܐ	Persiska viken
+ܚܠܐ (ܕܚܝܚܐ)	Sand
+ܘܪܕܐ	Rossläktet
+ܓܙܪܬܐ ܝܒܫܢܝܬܐ	Halvö
+ܐܘܪܝܬܐ	Torah
+ܟܘܘܝܬ (ܡܕܝܢܬܐ)	Kuwait (stad)
+ܡܚܙܝܬܐ	Spegel
+ܥܡܐ ܥܪܒܝܐ	Araber
+ܟܘܬܐ	Fönster
+ܠܫܢܐ ܝܘܢܝܐ ܥܬܝܩܐ	Klassisk grekiska
+ܠܫܢܐ ܐܟܕܝܐ	Akkadiska
+ܕܩܠܬ	Tigris
+ܡܥܡܘܕܝܬܐ	Dop
+ܩܘܢܓܘ	Kongo
+ܐܝܢܛܪܠܝܢܓܘܐ	Interlingua
+ܐܘܪܟܐ	Längd
+ܚܠܡܐ	Dröm
+ܠܫܢܐ ܩܪܕܘܝܐ	Kurdiska
+ܩܡܚܐ	Mjöl
+ܕܢ ܗܐܟ	Haag
+ܠܫܢܐ ܦܘܢܝܩܝܐ	Feniciska
+ܣܝܢܝ (ܓܙܪܬܐ ܝܒܫܢܝܬܐ)	Sinaihalvön
+ܟܪܘܙܘܬܐ ܕܝܘܚܢܢ	Johannesevangeliet
+ܬܪܥܐ (ܒܒܐ)	Dörr
+ܪܝܗܐܢܐ	Rihanna
+ܛܦܪܐ	Nagel
+ܐܦܐ	Ansikte
+ܨܨܐ (ܨܢܥܬܐ)	Spik
+ܙܝܬܐ	Olivträd
+ܬܠܝܬܝܘܬܐ	Treenighetsläran
+ܓܠܠܐ	Vågrörelse
+ܟܬܒܬܐ	Skrivkonst
+ܪܘܚܐ ܕܩܘܕܫܐ	Den Helige Ande
+100 (ܡܢܝܢܐ)	100 (tal)
+ܒܘܪܟܐ	Knä
+ܫܘܩܐ (ܬܐܓܪܘܬܐ)	Marknad (ekonomi)
+ܒܠܛܝ	Bălți
+1000000 (ܡܢܝܢܐ)	Miljon
+ܛܐܒܐ	Nyhet
+ܐܫܬܐ (ܐܣܝܘܬܐ)	Feber
+ܩܫܬܐ ܓܪܒܝܝܬܐ ܕܐܪܥܐ	Norra halvklotet
+ܡܡܘܢܐ ܕܡܝܟܪܐ	Mikroekonomi
+ܠܝܕܣ	Leeds
+ܥܘܩܒܪܐ	Möss
+ܦܘܪܬܩܠܐ	Orange
+ܒܪܩܩܐ	Havsvik
+ܒܝܬ ܩܒܘܪܐ	Begravningsplats
+ܐܣܝܐ (ܫܕܬܐ)	Läkare
+ܦܢܛܝܩܘܣܛܝ	Pingst
+ܫܓܕܬܐ	Mandel
+ܟܪܘܙܘܬܐ ܕܠܘܩܐ	Lukasevangeliet
+ܩܘܢܣܦܣܝܘܢ (ܗܘܦܪܟܝܐ)	Provincia de Concepción, Chile
+ܢܗܪܐ ܕܝܘܪܕܢܢ	Jordan
+ܣܦܪ ܝܡܐ	Strand
+ܐܢܛܐܠܝܐ (ܗܘܦܪܟܝܐ)	Antalya (provins)
+ܦܪܟܣܝܣ ܕܫܠܝܚܐ	Apostlagärningarna
+ܥܪܘܒܬܐ ܕܚܫܐ	Långfredagen
+ܚܒܘܫܝܐ	Anstalt (kriminalvård)
+ܐܕܢܐ (ܗܘܦܪܟܝܐ)	Adana (provins)
+ܝܘܚܢܢ ܡܥܡܕܢܐ	Johannes Döparen
+ܨܠܝܒܐ	Kors
+ܚܙܒܐܠܠܗ	Hizbollah
+ܒܝܬ ܓܒܝܢܐ	Panna (anatomi)
+ܡܙܡܘܪܐ	Psaltaren
+ܐܬܘܪ	Assyrien
+ܒܢܝܢܐ	Byggnad
+ܚܠܒ (ܡܕܝܢܬܐ)	Aleppo
+ܩܫܬܐ ܬܝܡܢܝܬܐ ܕܐܪܥܐ	Södra halvklotet
+ܚܠܐ (ܚܡܪܐ)	Ättika
+ܒܝܬ ܕܝܢܐ	Domstol
+ܚܝܦܐ	Haifa
+ܪܡܕܐܢ	Ramadan
+ܫܛܪܐ ܬܐܒܝܠܝܐ ܕܓܝܢܝܣ	Guinness Rekordbok
+ܟܘܕܢܝܐ	Mula
+ܒܪܩܩܐ ܕܥܕܢ	Adenviken
+ܓܠܝܢܐ ܕܝܘܚܢܢ	Uppenbarelseboken
+ܐܫܬܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Stjärt
+ܨܠܘܬܐ ܡܪܝܡܝܬܐ	Ave Maria
+ܝܩܕܐ	Bränsle
+ܝܨܝܠܐ	Armbågsled
+ܟܗܢܐ	Präst
+ܕܩܢܐ	Skägg
+ܢܒܝܐ	Profet
+ܐܘܪܟܝܣܛܪܐ	Orkester
+1000 (ܡܢܝܢܐ)	1000 (tal)
+ܣܘܦܝܐ ܪܘܛܐܪܘ	Sofija Rotaru
+ܬܫܢܝܬܐ	Försäkring
+ܛܘܟܣܐ	Organisation
+ܣܦܪܓܠܐ	Kvitten
+ܐܢܕܪܐܘܣ ܫܠܝܚܐ	Andreas (apostel)
+ܬܪܥܣܪ ܫܠܝܚܐ	Kristendomens apostlar
+ܢܩܒܬܐ	Hona
+ܕܪܥܐ (ܗܕܡܐ)	Arm
+ܡܬܝ ܡܟܣܐ	Matteus
+ܬܐܘܡܐ ܫܠܝܚܐ	Tomas (apostel)
+ܦܝܠܝܦܘܣ ܫܠܝܚܐ	Filippos
+ܒܘܪܨܐ (ܗܘܦܪܟܝܐ)	Bursa (provins)
+ܐܝܘܐܢܢܝܣ ܦܘܡܐ ܕܕܗܒܐ	Johannes Chrysostomos
+ܒܢܝܡܝܢ ܢܬܢܝܗܘ	Benjamin Netanyahu
+ܐܪܬܒܝܢ (ܗܘܦܪܟܝܐ)	Artvin (provins)
+ܓܒܝܢܐ	Ögonbryn
+ܫܘܪܬܐ	Navel
+ܐܕܝܐܡܐܢ (ܗܘܦܪܟܝܐ)	Adıyaman (provins)
+ܝܗܘܕܐ ܫܠܝܚܐ	Judas Taddeus
+ܒܪܬܘܠܡܝ ܫܠܝܚܐ	Bartolomaios
+ܝܥܩܘܒ ܒܪ ܙܒܕܝ	Jakob (apostel)
+ܝܘܚܢܢ ܫܠܝܚܐ	Johannes (apostel)
+ܡܬܝܐ ܫܠܝܚܐ	Mattias (apostel)
+ܝܥܩܘܒ ܒܪ ܚܠܦܝ	Jakob (apostel, Alfeus son)
+ܕܟܪܐ	Hane
+ܐܝܓܢܐܛܝܘܣ ܢܘܪܢܐ	Ignatios av Antiochia
+ܪܕܝܘܗܕ	Radiohead
+ܒܫܐܪ ܐܠܐܣܕ	Bashar al-Assad
+ܪܚܝܐ	Kvarn
+ܨܘܡܐ	Fasta
+ܕܝܪܐ	Kloster
+ܠܡܐܢܐ	Hamn
+ܡܠܚܐ (ܢܘܛܐ)	Sjöman
+ܐܦܝܘܢ (ܗܘܦܪܟܝܐ)	Afyonkarahisar (provins)
+ܡܝܟܐܝܠ (ܡܠܐܟܐ)	Mikael (ärkeängel)
+ܒܝܠܓܝܟ (ܗܘܦܪܟܝܐ)	Bilecik (provins)
+ܒܝܬ ܥܬܩܐ ܕܐܣܪܐܝܠ	Israel Museum
+ܒܐܠܝܟܣܝܪ (ܗܘܦܪܟܝܐ)	Balıkesir (provins)
+ܒܝܬ ܝܠܕܐ	Födelsedag
+ܬܘܠܥܐ	Maskar
+ܬܘܩܢ ܓܝܕܝܐ ܩܢܛܪܘܢܝܐ	Centrala nervsystemet
+ܛܘܪܐ ܕܓܠܝܕܐ	Isberg
+ܢܢܥܐ	Myntasläktet
+ܩܠܒܐ:Commonscat	Mall:Commonscat
+ܒܨܪܐ (ܡܕܝܢܬܐ)	Basra
+ܐܓܪܬܐ ܕܠܘܬ ܪܗܘܡܝܐ	Romarbrevet
+ܬܡܪܐ ܕܥܝܢܐ	Ögonlock
+ܗܘܦܪܟܝܣ ܕܛܘܪܩܝܐ	Turkiets provinser
+ܡܪܝ ܓܝܘܪܓܝܣ ܣܗܕܐ	Sankt Göran
+ܐܣܘܬܐ ܕܠܐ ܬܚܘܡܐ	Läkare utan gränser
+ܐܪܙܐ (ܡܫܝܚܝܘܬܐ)	Sakrament
+ܐܓܪܬܐ ܕܠܘܬ ܦܝܠܝܦܣܝܐ	Filipperbrevet
+ܐܢܛܘܠܝܐ	Anatolien
+ܡܫܝܚܐ	Messias
+ܚܫܡܝܬܐ ܐܚܪܝܬܐ	Jesu sista måltid
+ܩܢܘܢܐ ܕܗܝܡܢܘܬܐ	Apostoliska trosbekännelsen
+ܒܢܝ ܐܝܣܪܐܝܠ	Israeliter
+ܡܓܘܫܐ ܬܠܬܐ	Tre vise männen
+ܝܘܚܢܢ ܕܪܡܣܘܩܝܐ	Johannes från Damaskus
+ܒܒܐ (ܬܪܥܐ)	Grind
+ܣܕܪܐ:ܪܘܟܒ ܫܘܠܛܢܘܬܐ	Kategori:Statsskick
+ܠܫܢܐ ܕܡܝܢ	Min (språk)
+ܥܘܪܡܫܐ	Miljöförstöring
+ܒܒܠ (ܗܘܦܪܟܝܐ)	Babil
+ܫܘܡܪܐ	Sot
+ܐܫܩܠܘܢ	Ashkelon
+ܕܘܢܒܐ	Svans
+ܩܐܕܣܝܐ (ܗܘܦܪܟܝܐ)	Al-Qadisiyya (provins)
+ܡܪܝܡ ܡܓܕܠܝܬܐ	Maria från Magdala
+ܡܪܪܬܐ	Gallblåsa
+ܥܕܬܐ ܟܠܕܝܬܐ ܩܬܘܠܝܩܝܬܐ	Kaldeisk-katolska kyrkan
+ܥܕܬܐ ܡܪܘܢܝܬܐ	Syrisk-maronitiska kyrkan
+ܡܪܬܐ	Galla
+ܩܘܪܒܢܐ	Nattvard
+ܐܘܘܫܐ	Öronvax
+ܕܡܥܬܐ	Tårar
+ܥܡܬܐ (ܒܝܬܝܘܬܐ)	Tant
+ܥܡܐ (ܒܝܬܝܘܬܐ)	Onkel
+ܟܘܬܝܢܐ	Skjorta
+ܝܘܗܐܢ ܐܠܙܪ	Georg Elser
+ܒܝܢܓܘܠ (ܗܘܦܪܟܝܐ)	Bingöl (provins)
+ܥܡܐ ܐܪܡܢܝܐ	Armenier
+ܐܝܕܝܢ (ܗܘܦܪܟܝܐ)	Aydın (provins)
+ܩܛܠܥܡܐ ܐܪܡܢܝܐ	Armeniska folkmordet
+ܐܡܐܣܝܐ (ܗܘܦܪܟܝܐ)	Amasya (provins)
+ܦܪܝܙܘܢ ܒܪܝܟ	Prison Break
+ܐܓܪܝ (ܗܘܦܪܟܝܐ)	Ağrı (provins)
+ܒܘܪܕܘܪ (ܗܘܦܪܟܝܐ)	Burdur (provins)
+ܐܓܪܬܐ ܩܕܡܝܬܐ ܕܠܘܬ ܩܘܪܢܬܝܐ	Första Korinthierbrevet
+ܝܗܘܕܐ ܣܟܪܝܘܛܐ	Judas Iskariot
+ܐܒܪܐ	Fjäder (biologi)
+ܡܚܪܐ	Ingenjör
+ܚܪܛܘܡܢܐ	Kikärt
+ܐܬܪܘܬܐ ܕܫܐܡ	Levanten
+ܬܪܘܕܐ	Sked
+ܓܒܪܐܝܠ (ܡܠܐܟܐ)	Gabriel
+ܓܪܡܦܝܠܐ	Elfenben
+ܨܘܪ	Tyros
+ܒܘܠܘ (ܗܘܦܪܟܝܐ)	Bolu (provins)
+ܙܢܩܐ	Haka
+ܨܘܡܐ ܕܐܪܒܥܝܢ	Påskfastan
+ܐܓܪܐ ܕܒܢܝܢܐ	Yttertak
+ܒܝܛܠܝܣ (ܗܘܦܪܟܝܐ)	Bitlis (provins)
+ܓܠܝܠܐ	Galileen
+ܡܘܨܠ	Mosul
+ܟܪܬܐ	Tumme
+ܦܐܦܐ ܫܢܘܕܐ ܬܠܝܬܝܐ	Shenouda III
+ܒܝܬ ܓܘܣܐ	Stridsvärn
+ܒܝܥܬܐ	Ägg (livsmedel)
+ܒܣܕܝܐ	Kudde
+ܙܓܐ (ܢܩܘܫܐ)	Klocka
+ܫܒܬܐ (ܝܗܘܕܝܘܬܐ)	Sabbat
+ܫܡܝܪܡ	Semiramis
+ܫܝܓܪܐ	Tandkött
+ܝܗ	Tetragrammaton
+ܟܪܘܙܘܬܐ ܕܡܪܩܘܣ	Markusevangeliet
+ܐܓܪܬܐ ܕܠܘܬ ܩܘܪܢܬܝܐ ܕܬܪܬܝܢ	Andra Korinthierbrevet
+ܫܥܘܬܐ (ܡܠܘܐܐ)	Vax
+ܛܥܡܐ	Grundsmak
+ܓܢܬ ܫܒܪܐ	Barnträdgård
+ܝܡܬܐ ܕܓܠܝܠܐ	Gennesaretsjön
+ܕܝܘܬܐ	Bläck
+ܡܪܝ ܝܘܣܦ	Josef från Nasaret
+ܠܘܩܐ ܐܘܢܓܠܣܛܐ	Lukas
+ܐܓܪܬܐ ܕܠܘܬ ܥܒܪܝܐ	Hebreerbrevet
+ܐܓܪܬܐ ܕܠܘܬ ܓܠܛܝܐ	Galaterbrevet
+Ϝ	Digamma
+Ϙ	Koppa
+ܥܛܡܐ	Lår
+ܬܢܢܐ	Rök
+ܡܘܚܘܢܐ	Lillhjärnan
+ܐܓܪܬܐ ܕܠܘܬ ܩܘܠܣܝܐ	Kolosserbrevet
+ܐܓܪܬܐ ܕܝܥܩܘܒ	Jakobsbrevet
+ܐܓܪܬܐ ܩܕܡܝܬܐ ܕܝܘܚܢܢ	Första Johannesbrevet
+ܐܓܪܬܐ ܕܠܘܬ ܦܝܠܡܘܢ	Filemonbrevet
+ܐܓܪܬܐ ܕܠܘܬ ܬܣܠܘܢܝܩܝܐ ܕܬܪܬܝܢ	Andra Thessalonikerbrevet
+ܐܓܪܬܐ ܩܕܡܝܬܐ ܕܠܘܬ ܬܣܠܘܢܝܩܝܐ	Första Thessalonikerbrevet
+ܐܓܪܬܐ ܩܕܡܝܬܐ ܕܦܛܪܘܣ	Första Petrusbrevet
+ܐܓܪܬܐ ܕܬܪܬܝܢ ܕܦܛܪܘܣ	Andra Petrusbrevet
+ܐܓܪܬܐ ܩܕܡܝܬܐ ܕܠܘܬ ܛܝܡܬܐܘܣ	Första Timotheosbrevet
+Ϛ	Stigma
+ܡܪܕܝܢ (ܗܘܦܪܟܝܐ)	Mardin (provins)
+ܚܡܨ (ܡܕܝܢܬܐ)	Homs
+Ͳ	Sampi
+ܘܐܟܐܩܐ ܕܝ ܟܘܐܪܝܣ	Oaxaca de Juárez
+ܐܓܪܬܐ ܕܬܪܬܝܢ ܕܝܘܚܢܢ	Andra Johannesbrevet
+ܐܓܪܬܐ ܕܬܠܬ ܕܝܘܚܢܢ	Tredje Johannesbrevet
+ܐܓܪܬܐ ܕܝܗܘܕܐ	Judasbrevet
+ܐܓܪܬܐ ܕܠܘܬ ܛܝܡܬܐܘܣ ܕܬܪܬܝܢ	Andra Timotheosbrevet
+ܐܓܪܬܐ ܕܠܘܬ ܛܛܘܣ	Titusbrevet
+ܐܟܪܐ	Bonde
+ܓܘܣܢܐ	Flykting
+Ϻ	San
+ܩܠܝܕܐ (ܡܐܢܐ)	Nyckel
+ܥܕܥܐܕܐ	Festival
+ܐܪܒܝܠ (ܡܕܝܢܬܐ)	Arbil
+ܪܓܠܐ	Ben (kroppsdel)
+ܚܨܐ	Rygg
+ܐܠܝܐ ܢܒܝܐ	Elia
+ܙܚܘܪܝܬܐ (ܬܘܠܥܬܐ)	Silkesfjäril
+ܚܘܦܝܐ	Eklips
+ܡܚܛܐ	Synål
+ܥܠܡܐ ܥܪܒܝܐ	Arabvärlden
+ܦܓܘܕܬܐ	Betsel
+ܩܛܡܐ	Aska
+ܢܘܗܕܪܐ (ܡܕܝܢܬܐ)	Dihok
+ܨܒܥܐ ܕܪܓܠܐ	Tå
+ܢܓܪܘܬܐ	Timmerman
+ܠܘܚܐ (ܚܫܘܒܬܐ)	Surfplatta
+ܪܒܝܬܐ	Ocker
+ܡܟܝܪܘܬܐ	Förlovning
+ܫܘܪܡܐ	Ändtarm
+ܐܪܡܝܐ (ܢܒܝܐ)	Jeremia
+ܬܐܡܐ	Tvillingar
+ܬܠܝܦܐ	Ögonfrans
+ܫܥܬܐ ܕܐܪܥܐ	Earth Hour
+ܦܪܡܝܬܐ	Knapp
+ܟܘܟܒܐ ܕܕܘܝܕ	Davidsstjärna
+ܡܪܝ ܐܣܛܦܢܘܣ	Stefanos
+ܡܫܡܫܢܐ	Diakon
+ܢܓܒ	Negev
+ܟܢܥܢ	Kanaan
+ܢܘܨܦܐ	Skymning
+ܒܝܢܐ	Tamarisk
+ܬܓܪܝܬ	Tikrit
+ܚܠܐ (ܥܦܪܐ)	Damm (stoft)
+ܬܪܥܐ ܕܕܡܐ	Blödning
+ܥܪܒܐ ܕܫܡܫܐ	Solnedgång
+ܐܡܝܫܐ	Träsk
+ܡܨܥܝܬܐ (ܨܒܥܐ)	Långfinger
+ܩܘܪܨܠܐ	Vrist
+ܒܪ ܐܝܕܐ	Handskar
+ܢܫܒܐ ܕܥܝܢܐ	Näthinna
+ܬܘܩܢ ܓܝܕܝܐ ܡܚܕܘܪܝܐ	Perifera nervsystemet
+ܓܓܘܠܬܐ	Golgata
+ܗܢܝܢܐ (ܡܡܫܚܘܬܐ)	Ränta
+ܐܫܘܪ ܒܢܐܦܠ	Ashurbanipal
+ܓܕܫܐ	Olycka
+ܦܛܪܝܪܟܐ	Patriark (kyrkligt ämbete)
+ܚܟܐ	Gom
+ܪܓܫܐ	Sinne
+ܟܪܟ ܣܠܘܟ (ܡܕܝܢܬܐ)	Kirkuk
+ܒܒܬܐ	Pupill
+ܩܒܪܐ	Gravskick
+ܠܒܘܢܬܐ	Olibanum
+ܚܡܬ (ܡܕܝܢܬܐ)	Hamah
+ܝܫܛܐ	Matstrupe
+ܟܝܣܐ ܕܐܫܟܐ	Scrotum
+ܕܒܪܐ	Landsbygd
+ܚܪܘܫܬܐ	Luftstrupe
+ܓܪܡܐ ܕܥܛܡܐ	Lårben
+ܒܪܐ (ܒܝܬܝܘܬܐ)	Son
+ܫܚܘܪܐ	Träkol
+ܐܘܟܡܐ ܕܥܝܢܐ	Regnbågshinna
+ܫܦܠܘܗܝ ܕܢܝܠܘܣ	Nildeltat
+ܐܘܪܡܝܐ	Urmia
+Ϸ	Sjo
+ܓܙܪܬܐ ܐܝܘܠܝܬܐ	Eoliska öarna
+ܓܒܐ ܕܒܥܬ	Baathpartiet
+ܦܩܪܐ	Ryggkota
+ܒܪ ܩܠܐ	Eko
+ܟܝܡܪܐ	Chimaira
+ܠܘܓܡܐ	Överkäke
+ܛܪܘܢܐ	Diktator
+ܬܝܒܘܬܐ	Botens sakrament
+ܡܛܘܚܬܐ	Pekfinger
+ܩܒܠܘܬܐ	Barnmorska
+ܐܪܙܝܪܐ	Starar
+ܣܦܪܐ (ܩܢܘܢܝܐ)	Jurist
+Ͱ	Heta
+ܥܡܐ ܐܪܡܝܐ	Araméer
+ܟܢܘܢܬܐ (ܫܪܝܬܐ)	Handled
+ܐܒܐ (ܐܠܗܐ)	Fadern
+ܐܢܒܐܪ (ܗܘܦܪܟܝܐ)	Al-Anbar
+ܡܪܕܝܢ (ܡܕܝܢܬܐ)	Mardin
+ܡܘܪܘܢ	Konfirmation
+ܚܠܡܬܐ	Bröstvårta
+ܢܘܠܐ ܕܓܘܓܝ	Spindelnät
+ܒܪܬ ܙܘܓܐ (ܒܝܬܝܘܬܐ)	Maka (äktenskap)
+ܒܝܬ ܟܬܒܐ ܐܬܪܝܐ ܕܐܣܪܐܝܠ	National Library of Israel
+ܥܪܫܐ	Molarer
+ܢܝܢܘܐ (ܗܘܦܪܟܝܐ)	Ninawa
+ܢܘܗܕܪܐ (ܗܘܦܪܟܝܐ)	Dahuk (provins)
+ܘܐܣܛ (ܗܘܦܪܟܝܐ)	Wasit
+ܨܠܐܚ ܐܠܕܝܢ (ܗܘܦܪܟܝܐ)	Saladin (provins)
+ܟܢܘܫܝܐ ܕܠܫܢܐ ܥܒܪܝܐ	Akademin för det hebreiska språket
+ܥܘܕ	Oud
+ܒܓܕܐܕ (ܗܘܦܪܟܝܐ)	Bagdad (provins)
+ܣܪܓܐ	Sadel
+ܒܨܪܐ (ܨܒܥܐ)	Ringfinger
+ܩܛܝܣܦܘܢ	Ktesifon
+ܟܒܘܫܐ	Mardröm
+ܢܓܦ (ܗܘܦܪܟܝܐ)	Najaf (provins)
+ܟܪܟ ܣܠܘܟ (ܗܘܦܪܟܝܐ)	Kirkuk (provins)
+ܕܢܚܐ ܕܫܡܫܐ	Soluppgång
+ܬܐܪܬܐ	Samvete
+ܒܨܪܐ (ܗܘܦܪܟܝܐ)	Basra (provins)
+ܡܫܚܐ ܕܟܪܝܗܐ	De sjukas smörjelse
+ܦܠܫܬ	Filistéer
+ܐܠܥܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Revben
+ܥܕܬܐ ܐܝܓܘܦܛܝܬܐ	Koptisk-ortodoxa kyrkan
+ܐܢܛܝܘܟܝܐ	Antiochia vid Orontes
+ܐܦܪܝܡ ܣܘܪܝܝܐ	Efraim syriern
+ܪܝܫܘܢ ܠܬܣܝܘܢ	Rishon LeZion
+ܟܢܪܐ	Lyra
+ܥܕܬܐ ܕܡܕܢܚܐ ܕܐܬܘܪܝܐ	Österns assyriska kyrka
+ܬܠܐ ܕܚܕ ܐܝܠܢ	One Tree Hill
+ܡܘܪܐ	Myrra
+ܦܕܪܠܝܐ	Federalism
+ܐܠܝܫܥ	Elisha
+ܗܟܐܪܝ (ܡܕܝܢܬܐ)	Hakkari
+ܣܢܚܪܝܒ	Sanherib
+ܩܘܪܝܐܠܝܣܘܢ	Kyrie eleison
+ܟܢܘܫܝܐ ܕܐܣܪܐܝܠ ܕܝܘܠܦܢܐ ܘܐܢܫܝܬܐ	Israel Academy of Sciences and Humanities
+ܣܘܟܢܐ	Roder
+ܥܕܬܐ ܣܘܪܝܝܬܐ ܐܪܬܘܕܟܣܝܬܐ	Syrisk-ortodoxa kyrkan
+ܟܣܬܐ	Djurfoder
+ܩܡܫܠܝ	Al-Qamishli
+ܡܘܬܢܐ (ܗܘܦܪܟܝܐ)	Al-Muthanna
+ܒܪ ܙܘܓܐ (ܒܝܬܝܘܬܐ)	Make (äktenskap)
+ܡܝܫܢ (ܗܘܦܪܟܝܐ)	Maysan
+ܣܘܠܝܡܐܢܝܐ (ܗܘܦܪܟܝܐ)	Sulaymaniyya (provins)
+ܐܪܒܝܠ (ܗܘܦܪܟܝܐ)	Arbil (provins)
+ܚܠܒ (ܗܘܦܪܟܝܐ)	Aleppo (provins)
+ܟܪܒܠܐܐ (ܗܘܦܪܟܝܐ)	Karbala (provins)
+ܕܝ ܩܐܪ (ܗܘܦܪܟܝܐ)	Dhi Qar
+ܐܢܕܪܢܝܩ ܡܐܪܓܐܪܝܐܢ	Andranik Markarjan
+ܓܘܙܐ	Valnötsväxter
+ܕܝܐܠܐ (ܗܘܦܪܟܝܐ)	Diyala
+ܟܒܒ	Khabab
+ܩܪܫܬܐ	Innertak
+ܚܨܪܐ	Lillfinger
+ܐܡܬܐ (ܝܘܠܦܢ ܨܪܘܝܘܬܐ)	Underarm
+ܣܝܢܝ	Sinai
+ܚܡܬ (ܗܘܦܪܟܝܐ)	Hamah (provins)
+ܟܢܘܢܬܐ ܕܐܝܕܐ	Handlov
+ܐܝܣܪܐܝܠ (ܬܘܚܡܐ ܐܚܪܢܐ)	Israel (olika betydelser)
+ܡܠܐܟܐ	Ängel
+ܫܢܬܐ ܦܫܝܛܬܐ	År med 365 dagar
+ܡܣܘܪܩܐ ܕܐܝܕܐ	Metacarpus
+ܡܠܟܘܬܐ ܕܒܝܬ ܥܣܪ ܥܝܢܐ	Osrhoëniska riket
+ܕܪܥܐ (ܡܕܝܢܬܐ)	Dar'a
+ܨܕܥܐ	Tinning
+ܣܘܣܝܐ ܐܝܣܠܢܕܝܐ	Islandshäst
+ܛܘܘܝܐ	Grillning
+ܓܪܡܐ	Ben (skelett)
+ܙܓܐ ܕܣܦܝܢܬܐ	Skeppsklocka
+ܓܝܕܐ ܕܓܢܫܝܐ	Ischiasnerven
+ܒܪܬܐ (ܒܝܬܝܘܬܐ)	Dotter
+ܗܪܗܪܐ	Hägring
+ܚܣܟܗ (ܡܕܝܢܬܐ)	Al-Hasakah
+ܛܐܪܩ ܥܙܝܙ	Tariq Aziz
+ܡܣܘܪܩܐ ܕܪܓܠܐ	Mellanfot
+ܥܪܩ	Arrak
+ܛܘܪ ܠܒܢܢ	Libanonberget
+ܟܝܢܐ	Nature (olika betydelser)
+ܪܗܘܡܐ	Rum
+ܓܐܝܘܣ	Gaius
+ܩܝܒܩ	Québec (olika betydelser)
+ܩܕܠܐ	Nacke
+ܥܡܐ ܐܬܘܪܝܐ/ܣܘܪܝܝܐ	Assyrier/syrianer
+ܛܘܪܐ ܕܣܝܢܝ	Sinaiberget
+ܦܘܪܬܥܢܐ	Loppor
+ܟܪܘܙܘܬܐ ܕܡܬܝ	Matteusevangeliet
+ܡܕܝܢܬܐ ܡܝܬܬܐ	Döda städerna
+ܐܓܪܬܐ ܕܠܘܬ ܐܦܣܝܐ	Efesierbrevet
+10000 (ܡܢܝܢܐ)	10000 (tal)
+ܒܢܦܫܐ	Violett
+ܢܨܪܬ	Nasaret
+ܟܬܒܐ ܕܡܘܪܡܘܢ	Mormons bok
+ܠܝܢܕܐ ܓܘܪܓ	Linda George
+ܒܫܐܪܐ ܦܛܪܘܣ ܐܠܪܐܥܝ	Bechara Boutros al-Rahi
+ܥܡܢܘܐܝܠ ܬܠܝܬܝܐ ܕܠܝ	Emmanuel III Delly
+ܥܡܘ ܒܒܐ	Ammo Baba
+ܥܡܘܕܐ ܦܩܪܝܐ	Ryggrad
+ܒܝܬ ܫܥܝܐ	Stadium
+ܓܘܕ ܫܪܠܘܛ	Good Charlotte
+ܒܪ ܨܘܪܐ	Krage (kläder)
+ܚܣܚܘܣܐ	Brosk
+ܛܘܪ ܥܒܕܝܢ	Tur Abdin
+ܐܝܣܛܢܒܘܠ (ܗܘܦܪܟܝܐ)	İstanbul (provins)
+ܝܘܢܝܐ	Greker
+ܥܢܟܒܐ	Ankawa
+ܓܗܢܐ	Gehenna
+ܝܥܩܘܒ ܒܘܪܕܥܢܐ	Jakob Zanzolus Baradaeus
+ܐܓܢܛܝܘܣ ܝܘܣܦ ܬܠܝܬܝܐ ܝܘܢܢ	Ignatius Josef III Younan
+ܬܐܓܘܪܬܐ	Handel
+ܡܬܐ	Hembygd
+ܫܝܪܢܐܟ (ܗܘܦܪܟܝܐ)	Şırnak (provins)
+ܟܗܢܘܬܐ	Prästvigning
+ܚܒܘܪ	Khabur
+ܗܕܡܐ ܓܘܝܐ	Organ
+ܡܥܠܘܠܐ	Ma'loula
+ܐܘܪܘܦܐ	Europa (olika betydelser)
+ܡܕܝܕ	Midyat
+ܙܘܥܐ ܕܝܡܘܩܪܛܝܐ ܐܬܘܪܝܐ	Assyriska Demokratiska Rörelsen
+ܐܣܝܪܝܣܩܐ	Assyriska FF
+ܥܕܬܐ ܣܘܪܝܝܬܐ ܩܬܘܠܝܩܝܬܐ	Syrisk-katolska kyrkan
+ܡܘܕܟܐ	Kryddning
+ܐܘܣܛܪܠܝܐ	Australia
+ܡܦܩܬܐ ܦܫܝܛܬܐ	Peshitta
+ܫܪܓܐ ܕܢܦܛܐ	Oljelampa
+ܗܘܦܪܟܝܣ ܕܥܝܪܐܩ	Iraks provinser
+ܩܛܠܥܡܐ ܐܬܘܪܝܐ	Assyriska/syrianska folkmordet
+ܚܬܢܐ (ܒܝܬܝܘܬܐ)	Brudgum
+ܒܝܬ ܟܬܒܐ ܕܐܫܘܪ ܒܢܐܦܠ	Ashurbanipals bibliotek
+ܒܕܘܩܐ	Scouting
+ܥܘܕܪܢܐ:ܚܒܝܫܬ̈ܐ	Wikipedia:Hjälp
+ܓܦܬܐ	Klätterväxt
+ܙܒܐ	Nedre Zap
+ܐܝܓܢܐܛܝܘܣ ܙܟܝ ܩܕܡܝܐ ܥܝܘܐܨ	Ignatius Zakka I Iwas
+ܐܣܛܘܡܟܐ	Magsäck
+ܟܢܘܢܬܐ ܕܪܓܠܐ	Fotrotsben
+ܓܢܬܐ	Trädgård
+ܒܪܐ (ܐܠܗܐ)	Sonen
+ܚܝܠܐ ܠܒܢܝܐ	Al Qouwat al Lubnania
+ܐܠܩܘܫ	Alqosh
+ܐܘܪܗܝ	Edessa
+ܘܝܩܝܦܕܝܐ:ܐܝܙܓܕܘܬܐ	Wikipedia:Ambassaden
+ܫܠܝܬܐ	Moderkaka
+ܒܝܬ ܛܘܣܐ	Flygplats
+ܒܝܬ ܫܡܪܝܐ	Samarien
+ܐܓܢܣ ܡܘ	Agnes Monica
+ܣܕܪܐ:ܓܪܡܢ	Kategori:Tyskland
+ܣܕܪܐ:ܐܝܛܠܝܐ	Kategori:Italien
+ܣܕܪܐ:ܐܬܪܘܬܐ ܡܚܝܕܐ ܕܐܡܪܝܩܐ	Kategori:USA
+ܣܕܪܐ:ܪܘܣܝܐ	Kategori:Ryssland
+ܣܕܪܐ:ܩܢܕܐ	Kategori:Kanada
+ܣܕܪܐ:ܐܝܣܪܐܝܠ	Kategori:Israel
+ܣܕܪܐ:ܛܘܪܩܝܐ	Kategori:Turkiet
+ܣܕܪܐ:ܡܨܪܝܢ	Kategori:Egypten
+ܣܕܪܐ:ܐܝܪܐܢ	Kategori:Iran
+ܥܐܕܐ	Helgdag
+ܣܕܪܐ:ܥܝܪܐܩ	Kategori:Irak
+ܣܕܪܐ:ܗܘܠܢܕܐ	Kategori:Nederländerna
+ܣܕܪܐ:ܦܘܠܢܕ	Kategori:Polen
+ܣܕܪܐ:ܛܝܪܐ	Kategori:Fåglar
+ܣܕܪܐ:ܝܥܝܬܐ	Kategori:Växter
+ܣܕܪܐ:ܬܘܕܝܬܐ	Kategori:Religion
+ܣܕܪܐ:ܝܕܥܬܐ	Kategori:Vetenskap
+ܦܪܡܬܐ ܕܣܡܠܐ	Simelemassakern
+ܕܝܢܐ (ܡܬܐ)	Soran
+ܨܘܒܐ	Nusaybin
+ܕܪܥܐ (ܗܘܦܪܟܝܐ)	Dar'a (provins)
+ܢܥܘܡ ܦܐܝܩ	Naum Faiq
+ܣܕܪܐ ܕܦܛܪܝܪܟܐ ܕܥܕܬܐ ܕܡܕܢܚܐ	Patriark av Babylon
+ܩܠܒܐ:Box-footer	Mall:Box-footer
+ܡܪܝܡ (ܚܬܗ ܕܡܘܫܐ)	Mirjam
+ܣܕܪܐ:ܬܘܚܡܐ ܐܚܪܢܐ	Kategori:Förgreningssidor
+ܣܕܪܐ:ܡܫܝܚܝܘܬܐ	Kategori:Kristendom
+ܣܕܪܐ:ܐܣܠܐܡ	Kategori:Islam
+ܣܕܪܐ:ܝܗܘܕܝܘܬܐ	Kategori:Judendom
+ܦܩܥܬܐ ܕܢܝܢܘܐ	Nineveslätten
+ܠܩܐ ܕܣܦܝܢܬܐ	Åra
+ܬܪܢܓܠܐ	Tupp
+ܫܩܠܒܕ	Shaqlawa
+ܙܚܘܪܝܬܐ (ܓܘܢܐ)	Scharlakansröd
+ܐܢܩܪܐ (ܗܘܦܪܟܝܐ)	Ankara (provins)
+ܐܝܪܠܢܕ	Irland (olika betydelser)
+ܟܬܒܬ ܐܝܕܐ	Handstil
+ܬܠ ܟܐܦܐ	Tel Keppe
+ܝܘܢܢ	Yunus
+ܐܨܪܐ	Smaktillsats
+ܕܝܪܝܟ	Al-Malikiyya
+ܒܪܛܠܐ	Bartella
+ܐܓܐ ܦܛܪܘܣ	Agha Petros
+ܫܘܫܡܬܐ	Sesam (växt)
+ܣܕܪܐ:ܘܝܩܝܦܕܝܐ	Kategori:Kategorier
+ܣܕܪܐ:ܝܒܫܬܐ	Kategori:Världsdelar
+ܒܓܕܝܕܐ	Bakhdida
+ܝܙܦܬܐ	Skuld (ekonomi)
+ܟܠܕܝܐ	Kaldeiska kristna
+ܦܨܝܕܐ	Damm (vattenansamling)
+ܐܪܓܘܢܐ	Purpur
+ܢܘܪܢܝܐ	Pyramid (geometri)
+ܘܝܩܝܦܕܝܐ:HotCat	Wikipedia:Hotcat
+ܓܒܐ ܕܚܐܪܘܬܐ ܕܒܝܬ ܢܗܪܝܢ	Mesopotamiska Frihetspartiet
+ܓܒܐ ܕܦܘܪܩܢܐ ܕܐܬܘܪ	Assyria Liberation Party
+ܗܝܟܠܐ ܕܫܠܝܡܘܢ	Jerusalems tempel
+ܩܠܒܐ:ܓܕܫܐ ܗܫܝܐ	Portal:Huvudsida/Aktuella händelser
+ܣܕܪܐ:ܡܟܬܒܢܘܬܐ ܕܐܬܪܘܬܐ	Kategori:Världens länder
+ܘܝܩܝܦܕܝܐ:ܡܕܒܪܢܐ	Wikipedia:Administratörer
+ܣܕܪܐ:ܫܕܬܐ	Kategori:Yrken
+ܘܝܩܝܦܕܝܐ:ܒܘܬ̈ܐ	Wikipedia:Robotar
+ܣܕܪܐ:ܙܒܢܐ	Kategori:Tid
+ܣܕܪܐ:ܝܘܠܦܢ ܨܪܘܝܘܬܐ	Kategori:Anatomi
+ܣܕܪܐ:ܐܣܝܘܬܐ	Kategori:Medicin
+ܬܠܐ ܙܩܝܦܐ	Tel Skuf
+ܓܘܠܝܢܐ ܓܢܕܐ	Juliana Jendo
+ܟܪܡܠܫ	Karamles
+ܫܡܥܘܢ (ܫܡܐ)	Simon
+ܦܪܝܕܘܢ ܐܬܘܪܝܐ	Freydun Atturaya
+ܡܨܪܝܢ	Egypten
+ܩܠܒܐ:Bot	Mall:Bot
+ܩܢܕܐ	Kanada
+ܣܕܪܐ:ܝܘܢ	Kategori:Grekland
+ܣܕܪܐ:ܣܘܝܕ	Kategori:Sverige
+ܩܠܒܐ:ܐܫܛܪܘܬܐ	Mall:Dokumentation
+ܣܕܪܐ:User languages	Kategori:Användare efter språk
+ܦܘܠܚܢܐ	Näringsliv
+ܩܠܒܐ:Softredirect	Mall:Mjuk omdirigering
+ܩܠܒܐ:Delete	Mall:Radera
+ܡܓܕܠܐ (ܩܪܝܬܐ)	Magdala
+ܣܕܪܐ:ܛܟܢܘܠܘܓܝܐ	Kategori:Teknologi
+ܓܒܪܐܝܠ (ܫܡܐ)	Gabriel (namn)
+ܣܕܪܐ:ܠܫܢܐ	Kategori:Språk
+ܣܕܪܐ:ܩܢܘܢܐ ܕܠܥܙܐ	Kategori:Grammatik
+ܘܝܩܝܦܕܝܐ:General disclaimer	Wikipedia:Allmänt förbehåll
+ܣܕܪܐ:Noindexed pages	Kategori:Icke-indexerade sidor
+ܘܝܩܝܦܕܝܐ:ܕܘܒܪܐ	Wikipedia:Stilguide
+ܩܠܒܐ:Navbox	Mall:Navbox
+ܩܠܒܐ:!	Mall:!
+ܣܕܪܐ:ܩܠܒܐ ܐܬܘܬܐ ܕܐܝܣܘ	Kategori:Flaggmallar
+ܩܠܒܐ:ܡܦܐܬܐ ܩܠܒܐ	Mall:Navbar
+ܩܠܒܐ:Clear	Mall:Clear
+ܘܝܩܝܦܕܝܐ:ܡܟܬܒܘܬܐ ܕܡܓܠܐ ܠܟܠ ܘܝܩܝܦܕܝܐ	Wikipedia:Artiklar som bör finnas på Wikipedia
+ܣܕܪܐ:ܐܠܝܩܛܪܘܢܝܘܬܐ	Kategori:Elektronik
+ܣܕܪܐ:ܝܪܚܐ ܕܫܢܬܐ	Kategori:Månader
+ܩܠܒܐ:Babel	Mall:Babel
+ܩܠܒܐ:Commons	Mall:Commons
+ܩܠܒܐ:User ar-1	Mall:Användare ar-1
+ܩܠܒܐ:User az	Mall:Användare az
+ܩܠܒܐ:See also	Mall:Se även
+ܩܠܒܐ:User de	Mall:Användare de
+ܩܠܒܐ:User es	Mall:Användare es
+ܩܠܒܐ:User en-3	Mall:Användare en-3
+ܩܠܒܐ:User en-1	Mall:Användare en-1
+ܩܠܒܐ:User en-2	Mall:Användare en-2
+ܩܠܒܐ:User en-4	Mall:Användare en-4
+ܩܠܒܐ:User en-0	Mall:Användare en-0
+ܩܠܒܐ:User en	Mall:Användare en
+ܩܠܒܐ:User fa	Mall:Användare fa
+ܩܠܒܐ:User fr-1	Mall:Användare fr-1
+ܩܠܒܐ:User he-2	Mall:Användare he-2
+ܩܠܒܐ:User he-1	Mall:Användare he-1
+ܩܠܒܐ:User sk	Mall:Användare sk
+ܩܠܒܐ:User tr	Mall:Användare tr
+ܩܠܒܐ:User ja	Mall:Användare ja
+ܩܠܒܐ:User fr	Mall:Användare fr
+ܩܠܒܐ:User he	Mall:Användare he
+ܣܕܪܐ:ܐܣܝܐ	Kategori:Asien
+ܣܕܪܐ:ܕܪܐ ܕܥܣܪܝܢ ܘܚܕ	Kategori:2000-talet
+ܩܠܒܐ:Mod	Mall:Mod
+ܩܠܒܐ:User sv	Mall:Användare sv
+ܩܠܒܐ:Infobox language/codelist	Mall:Språk/kodlista
+ܩܠܒܐ:User it	Mall:Användare it
+ܣܕܪܐ:ܝܘܡܐ ܕܫܒܘܥܐ	Kategori:Veckodagar
+ܣܕܪܐ:ܐܨܪܐ	Kategori:Smaktillsatser
+ܩܠܒܐ:ܝܗܘܝܬܐ Peru	Mall:Landsdata Peru
+ܩܠܒܐ:ܝܗܘܝܬܐ Paraguay	Mall:Landsdata Paraguay
+ܩܠܒܐ:ܝܗܘܝܬܐ French Guiana	Mall:Landsdata Guyana
+ܩܠܒܐ:ܝܗܘܝܬܐ Argentina	Mall:Landsdata Argentina
+ܩܠܒܐ:Category other	Mall:Kategori annan
+ܩܠܒܐ:ܡܟܬܒܢܘܬܐ ܕܝܦܬܐ	Mall:Hopfällbar lista
+ܩܠܒܐ:Sidebar	Mall:Sidebar
+ܩܠܒܐ:Ambox	Mall:Ambox
+ܩܠܒܐ:ܐܬܪܐ	Mall:Landsfakta
+ܩܠܒܐ:/box-header	Portal:Box-header
+ܣܕܪܐ:User en	Kategori:Användare en
+ܣܕܪܐ:User zh	Kategori:Användare zh
+ܣܕܪܐ:User zh-N	Kategori:Användare zh-N
+ܩܠܒܐ:ܨܢܕܘܩ ܪܡܙܐ2	Mall:Faktamall
+ܩܠܒܐ:User zh	Mall:Användare zh
+ܩܠܒܐ:ܩܠܒܐ ܐܚܪܝܢܐ	Mall:Mall annan
+ܚܒܝܒ ܡܘܣܐ	Habib Mousa
+ܩܠܒܐ:ܐܠܦܒܝܬ ܠܐܛܝܢܝܐ	Mall:Svenska alfabetet
+ܣܕܪܐ:ܦܐܦܐ	Kategori:Påvar
+ܩܠܒܐ:User nl-1	Mall:Användare nl-1
+ܩܠܒܐ:User nl-2	Mall:Användare nl-2
+ܣܕܪܐ:ܪܝܫܝ ܩܘܛܢܝܘܬܐ	Kategori:Presidenter
+ܩܠܒܐ:User ru	Mall:Användare ru
+ܩܠܒܐ:IPA	Mall:IPA
+ܣܕܪܐ:ܗܪܘܡܐ	Kategori:Kryddor och kryddblandningar
+ܣܕܪܐ:ܦܠܫܬ	Kategori:Palestina
+ܣܕܪܐ:ܡܠܐܟܐ	Kategori:Änglar
+ܣܕܪܐ:ܢܒܝܐ	Kategori:Profeter
+ܩܠܒܐ:Category redirect	Mall:Kategoriomdirigering
+ܩܠܒܐ:ܝܗܘܝܬܐ Venezuela	Mall:Landsdata Venezuela
+ܩܠܒܐ:ܨܢܕܘܩ ܡܕܒܪܢܐ	Mall:Infobox politiker
+ܩܠܒܐ:Sortname	Mall:Sortname
+ܩܠܒܐ:Border	Mall:Border
+ܩܠܒܐ:ܝܗܘܝܬܐ Chile	Mall:Landsdata Chile
+ܩܠܒܐ:GUA	Mall:GUA
+ܩܠܒܐ:User nl	Mall:Användare nl-N
+ܩܠܒܐ:Navbox years	Mall:NavboxYears
+ܩܠܒܐ:ܡܣܦܩ ܩܐܫ	Mall:Rensa
+ܩܠܒܐ:ܨܢܕܘܩ ܐܡܢܐ	Mall:Infobox konstnär
+ܩܠܒܐ:ܡܦܠܚܢܐ	Mall:Anv-data
+ܣܕܪܐ:ܬܘܢܣ	Kategori:Tunisien
+ܩܠܒܐ:Cmbox	Mall:Cmbox
+ܩܠܒܐ:COL	Mall:COL
+ܩܠܒܐ:PER	Mall:PER
+ܩܠܒܐ:ܝܘܡܐ ܕܫܒܘܥܐ	Mall:Veckodagar
+ܣܕܪܐ:ܡܕܝܢܬܐ ܒܐܘܚܕܢܐ ܡܚܝܕܐ	Kategori:Orter i USA
+ܩܠܒܐ:ܬ.ܐ.	Mall:Förgrening
+ܩܠܒܐ:No	Mall:Ej utfört
+ܣܕܪܐ:ܩܠܒܐ ܨܢܕܘܩܐ	Kategori:Faktamallar
+ܩܠܒܐ:Partial	Mall:Partiell
+ܩܠܒܐ:ܩܘܕܝܟܘܣ ܕܣܕܪܐ	Mall:KategoriTOC
+ܩܠܒܐ:ܝܗܘܝܬܐ Colombia	Mall:Landsdata Colombia
+ܩܠܒܐ:ܐܠܦܒܝܬ ܥܒܪܝܐ	Mall:Hebreiska bokstäver
+ܣܕܪܐ:User yue	Kategori:Användare zh-yue
+ܣܕܪܐ:User az	Kategori:Användare az
+ܣܕܪܐ:User sk	Kategori:Användare sk
+ܣܕܪܐ:User fr	Kategori:Användare fr
+ܣܕܪܐ:User ja	Kategori:Användare ja
+ܣܕܪܐ:User la	Kategori:Användare la
+ܣܕܪܐ:User pt	Kategori:Användare pt
+ܣܕܪܐ:User ro	Kategori:Användare ro
+ܣܕܪܐ:User sv	Kategori:Användare sv
+ܣܕܪܐ:User ko-N	Kategori:Användare ko-N
+ܩܠܒܐ:User yue	Mall:Användare zh-yue
+ܣܕܪܐ:ܗܘܦܪܟܝܣ ܕܥܝܪܐܩ	Kategori:Iraks provinser
+ܣܕܪܐ:User ar	Kategori:Användare ar
+ܣܕܪܐ:User arc	Kategori:Användare arc
+ܣܕܪܐ:User da	Kategori:Användare da
+ܣܕܪܐ:User sk-N	Kategori:Användare sk-N
+ܣܕܪܐ:User de	Kategori:Användare de
+ܣܕܪܐ:User el	Kategori:Användare el
+ܣܕܪܐ:User en-N	Kategori:Användare en-N
+ܣܕܪܐ:User es	Kategori:Användare es
+ܣܕܪܐ:User fa	Kategori:Användare fa
+ܣܕܪܐ:User fi	Kategori:Användare fi
+ܣܕܪܐ:User he	Kategori:Användare he
+ܩܠܒܐ:N/a	Mall:N/a
+ܣܕܪܐ:User hy	Kategori:Användare hy
+ܣܕܪܐ:ܠܫܢܐ ܥܒܪܝܐ	Kategori:Hebreiska
+ܣܕܪܐ:User it	Kategori:Användare it
+ܣܕܪܐ:User ko	Kategori:Användare ko
+ܣܕܪܐ:ܒܬܫܪܝܢ ܐܚܪܝ	Kategori:November
+ܣܕܪܐ:ܝܡܡܐ	Kategori:Hav
+ܩܠܒܐ:ܐܠܦܒܝܬ ܝܘܢܝܐ	Mall:Grekiska bokstäver
+ܩܠܒܐ:ܡܢܝܢܐ ܕܡܡܪܐ ܦܪܝܫܐ	Mall:Antal utmärkta artiklar
+ܩܠܒܐ:ܝܗܘܝܬܐ Brazil	Mall:Landsdata Brasilien
+ܩܠܒܐ:Yes2	Mall:Ja2
+ܬܪܥܐ:ܬܘܕܝܬܐ	Portal:Religion
+ܣܕܪܐ:User ru	Kategori:Användare ru
+ܣܕܪܐ:User ru-3	Kategori:Användare ru-3
+ܣܕܪܐ:User tr	Kategori:Användare tr
+ܣܕܪܐ:ܙܡܪܐ	Kategori:Musiker
+ܩܠܒܐ:Lang	Mall:Lang
+ܣܕܪܐ:ܪܫܘܡܐ	Kategori:Målare
+ܩܠܒܐ:ܫܠܝܚܐ ܕܡܫܝܚܐ	Mall:Jesu apostlar
+ܩܠܒܐ:CHI	Mall:CHL
+ܣܕܪܐ:ܡܕܝܢܬܐ ܒܐܢܓܠܢܕ	Kategori:Orter i England
+ܣܕܪܐ:ܢܝܓܪ	Kategori:Niger
+ܣܕܪܐ:ܝܘܠܦܢ ܩܢܘܢܝܐ	Kategori:Rättsvetenskap
+ܩܠܒܐ:Infobox language/family-color	Mall:Språk/familj-färg
+ܩܠܒܐ:User ar-0	Mall:Användare ar-0
+ܣܕܪܐ:ܣܥܪܐ	Kategori:Frisyrer
+ܣܕܪܐ:ܢܗܪܘܬܐ	Kategori:Vattendrag
+ܩܠܒܐ:User he-3	Mall:Användare he-3
+ܩܠܒܐ:User ko	Mall:Användare ko
+ܩܠܒܐ:User pt	Mall:Användare pt
+ܣܕܪܐ:User nl	Kategori:Användare nl
+ܣܕܪܐ:User no	Kategori:Användare no
+ܣܕܪܐ:ܣܘܪܝܐ	Kategori:Syrien
+ܣܕܪܐ:ܕܪܐ ܩܕܡܝܐ	Kategori:000-talet
+ܣܕܪܐ:ܓܙܪܬܐ ܝܒܫܢܝܬܐ	Kategori:Halvöar
+ܣܕܪܐ:ܗܘܦܪܟܝܣ ܕܗܘܠܢܕܐ	Kategori:Nederländernas provinser
+ܣܕܪܐ:ܡܢܝܢܐ	Kategori:Heltal
+ܣܕܪܐ:ܡܕܝܢܬܐ ܕܥܝܪܐܩ	Kategori:Orter i Irak
+ܣܕܪܐ:ܥܝܢܐ (ܨܪܘܝܘܬܐ)	Kategori:Ögat
+ܣܕܪܐ:ܓܘܪܓܝܐ	Kategori:Georgien
+ܣܕܪܐ:ܟܘܘܝܬ	Kategori:Kuwait
+ܣܕܪܐ:ܠܒܢܢ	Kategori:Libanon
+ܣܕܪܐ:ܪܝܫܝ ܩܘܛܢܝܘܬܐ ܕܐܬܪܘܬܐ ܡܚܝܕܐ ܕܐܡܪܝܩܐ	Kategori:USA:s presidenter
+ܣܕܪܐ:ܝܘܪܕܢܢ	Kategori:Jordanien
+ܣܕܪܐ:ܦܐܪܐ	Kategori:Frukter
+ܣܕܪܐ:ܝܘܠܦܢ ܟܘܪܗܢܐ	Kategori:Patologi
+ܣܕܪܐ:ܓܒܐ	Kategori:Politiska partier
+ܣܕܪܐ:ܕܝܬܝܩܝ ܚܕܬܐ	Kategori:Nya Testamentet
+ܣܕܪܐ:ܕܝܬܝܩܝ ܥܬܝܩܬܐ	Kategori:Gamla Testamentet
+ܣܕܪܐ:ܓܪܡܐ	Kategori:Skelettet
+ܣܕܪܐ:ܗܘܦܪܟܝܣ ܘܐܘܚܕܢܐ ܕܩܢܕܐ	Kategori:Kanadas provinser och territorier
+ܣܕܪܐ:ܚܝܘܬܐ	Kategori:Djur
+ܣܕܪܐ:ܛܘܪܐ	Kategori:Bergskedjor
+ܣܕܪܐ:ܣܘܥܪܢܐ	Kategori:Evenemang
+ܣܕܪܐ:ܟܘܪܗܢܐ	Kategori:Sjukdomar
+ܣܕܪܐ:User pl	Kategori:Användare pl
+ܣܕܪܐ:ܩܣܪ	Kategori:Kejsare
+ܣܕܪܐ:ܡܕܒܪܐ	Kategori:Öknar
+ܣܕܪܐ:ܝܡܡܬܐ	Kategori:Insjöar
+ܩܠܒܐ:ܨܢܕܘܩ ܪܡܙܐ ܕܠܫܢܐ	Mall:Språk
+ܣܕܪܐ:ܩܛܠܥܡܐ	Kategori:Massakrer
+ܨܝܢ	China
+ܛܪܘܝܐܢܝ	Trojany
+ܫܪܓܐ	LAMP (olika betydelser)
+ܩܠܒܐ:Sister	Mall:Interwikimall
+ܣܕܪܐ:ܢܒܝܐ ܕܕܝܬܝܩܝ ܥܬܝܩܬܐ	Kategori:Profeter i Gamla Testamentet
+ܩܠܒܐ:ܝܗܘܝܬܐ Falkland Islands	Mall:Landsdata Falklandsöarna
+ܣܕܪܐ:ܦܛܪܝܪܟܘ	Kategori:Patriarker
+ܣܕܪܐ:ܒܝܬ ܟܬܒܐ	Kategori:Bibliotek
+ܣܕܪܐ:ܫܢܬܐ ܥܕܬܢܝܬܐ	Kategori:Kyrkoåret
+ܣܕܪܐ:ܐܪܙܐ	Kategori:Sakrament
+ܣܕܪܐ:ܒܝܬ ܢܗܪܝܢ	Kategori:Mesopotamien
+ܣܕܪܐ:ܓܘܢܐ	Kategori:Färg
+ܣܕܪܐ:ܦܣܩܐ ܕܝܘܡܐ	Kategori:Tider på dygnet
+ܩܠܒܐ:ܣܘܪܓܕܐ ܚܘܫܒܢܐ	Mall:Andra tideräkningar
+ܣܕܪܐ:ܩܕܝܫܐ	Kategori:Helgon
+ܩܪܕܐ (ܪܚܫܐ)	Fästingar
+ܩܠܒܐ:ܣܝܩܘܡ ܫܘܪܝܐ	Mall:Startdatum
+ܩܠܒܐ:User nl-3	Mall:Användare nl-3
+ܩܠܒܐ:ܠܫܢܐ ܨܝܢܝܐ	Mall:Kinesiska
+ܢܘܓܗܐ	Gryning
+ܕܝܠܢܝܐ:ܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ	Special:Senaste ändringar

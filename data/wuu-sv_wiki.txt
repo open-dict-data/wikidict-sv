@@ -1,0 +1,2768 @@
+非洲	Afrika
+日本	Japan
+南美洲	Sydamerika
+挪威	Norge
+英格兰	England
+苏格兰	Skottland
+匈牙利	Ungern
+西班牙	Spanien
+美国	USA
+比利时	Belgien
+卢森堡	Luxemburg
+地球	Jorden
+人	Människa
+欢喜	Lycka
+芬兰	Finland
+瑞典	Sverige
+波兰	Polen
+立陶宛	Litauen
+意大利	Italien
+瑞士	Schweiz
+奥地利	Österrike
+希腊	Grekland
+土耳其	Turkiet
+啤酒	Öl
+葡萄牙	Portugal
+欧洲	Europa
+亚洲	Asien
+维基百科	Wikipedia
+尼德兰	Nederländerna
+PHP	PHP
+纽约市	New York
+旧金山	San Francisco
+洛杉矶	Los Angeles
+计算机	Dator
+办合纳	Bern
+极乃伐	Genève
+苏黎世	Zürich
+巴拉克·奥巴马	Barack Obama
+乌拉圭	Uruguay
+白才尔	Basel
+打印机	Skrivare
+伦敦	London
+开罗	Kairo
+苹果	Äpple
+墨西哥	Mexiko
+大西洋	Atlanten
+太平洋	Stilla havet
+加利福尼亚	Kalifornien
+波士顿	Boston
+礼拜一	Måndag
+火星	Mars (planet)
+肯尼亚	Kenya
+礼拜两	Tisdag
+礼拜三	Onsdag
+礼拜四	Torsdag
+礼拜五	Fredag
+礼拜六	Lördag
+礼拜天	Söndag
+法国	Frankrike
+世界语	Esperanto
+狗	Hund
+英国	Storbritannien
+貓	Katt
+中华人民共和国	Kina
+法文	Franska
+鱼	Fiskar
+巴西	Brasilien
+俄罗斯	Ryssland
+大海	Hav
+圓周率	Pi
+Π	Pi (bokstav)
+聖保羅	São Paulo
+该办克	Québec
+德国	Tyskland
+白俄罗斯	Vitryssland
+德语	Tyska
+冰岛	Island
+愛沙尼亞	Estland
+土星	Saturnus
+巧克力	Choklad
+飞机	Flygplan
+打仗	Krig
+拉脱维亚	Lettland
+乌克兰	Ukraina
+捷克	Tjeckien
+斯洛伐克	Slovakien
+斯洛文尼亚	Slovenien
+摩尔多瓦	Moldavien
+罗马尼亚	Rumänien
+保加利亚	Bulgarien
+罗马	Rom
+马其顿	Makedonien
+阿爾巴尼亞	Albanien
+格陵兰	Grönland
+克罗地亚	Kroatien
+波黑	Bosnien och Hercegovina
+阿塞拜疆	Azerbajdzjan
+安道尔	Andorra
+塞浦路斯	Cypern
+格鲁吉亚	Georgien
+哈萨克斯坦	Kazakstan
+马耳他	Malta
+摩纳哥	Monaco
+黑山共和国	Montenegro
+梵蒂冈	Vatikanstaten
+圣马力诺	San Marino
+布鲁塞尔	Bryssel (kommun)
+古巴	Kuba
+大众汽车	Volkswagen
+Java	Java (programspråk)
+印度尼西亚	Indonesien
+南非	Sydafrika
+阿尔及利亚	Algeriet
+乌兹别克斯坦	Uzbekistan
+欧罗维竞唱歌比赛	Eurovision Song Contest
+水	Vatten
+木	Trä
+电视机	Television
+冰岛文	Isländska
+智利	Chile
+耶稣	Jesus
+語言	Språk
+英语维基百科	Engelskspråkiga Wikipedia
+尼古拉·萨科齐	Nicolas Sarkozy
+新加坡	Singapore
+科学	Vetenskap
+自由軟件	Fri programvara
+列支敦士登	Liechtenstein
+希特拉	Adolf Hitler
+WikiLeaks	Wikileaks
+第二次世界大战	Andra världskriget
+科隆	Köln
+Linux	Linux
+数学	Matematik
+拉丁文	Latin
+巴林	Bahrain
+亚美尼亚	Armenien
+塞尔维亚	Serbien
+月球	Månen
+澳大利亚	Australien
+物理学	Fysik
+阿根廷	Argentina
+秘鲁	Peru
+朝鲜民主主义人民共和国	Nordkorea
+柬埔寨	Kambodja
+恐龙	Dinosaurier
+回教	Islam
+里昂	Lyon
+欧洲联盟	Europeiska unionen
+女性	Kvinna
+诗	Poesi
+米蘭	Milano
+屁眼	Analöppning
+古高尔	Googol
+珠穆朗玛峰	Mount Everest
+城市	Stad
+巴斯德	Louis Pasteur
+村	By
+大洋洲	Oceanien
+太阳系	Solsystemet
+氢	Väte
+维基共享	Wikimedia Commons
+揚聲器	Högtalare
+东帝汶	Östtimor
+维嘞合朋纳	Villeurbanne
+学纳河	Rhône
+迪拜	Dubai
+瀑瑶兰葡萄酒	Beaujolais
+哥白尼	Nicolaus Copernicus
+碳	Kol
+音乐	Musik
+圣皮得斯堡	Sankt Petersburg
+北	Norr
+新西兰	Nya Zeeland
+南	Söder
+印度	Indien
+西	Väster
+氯气	Klor
+铅	Bly
+蒙古国	Mongoliet
+委内瑞拉	Venezuela
+国际象棋	Schack
+缅因	Maine
+苏里南	Surinam
+巴拉圭	Paraguay
+圭亚那	Guyana
+艺术	Konst
+厄瓜多尔	Ecuador
+哥伦比亚	Colombia
+佛教	Buddhism
+玻利维亚	Bolivia
+特里尼达搭仔多巴哥	Trinidad och Tobago
+新罕布什爾	New Hampshire
+马萨诸塞	Massachusetts
+康涅狄格	Connecticut
+鸡	Tamhöna
+澤西島	Jersey
+猪猡	Gris
+伊朗	Iran
+伊拉克	Irak
+阿拉斯加	Alaska
+以色列	Israel
+巴拿马	Panama
+也門	Jemen
+约旦	Jordanien
+佛罗里达州	Florida
+吉尔吉斯斯坦	Kirgizistan
+科威特	Kuwait
+老挝	Laos
+黎巴嫩	Libanon
+俄勒冈	Oregon
+马尔代芙	Maldiverna
+马来西亚	Malaysia
+缅甸	Burma
+尼泊尔	Nepal
+阿曼	Oman
+巴基斯坦	Pakistan
+卡塔尔	Qatar
+沙特阿拉伯	Saudiarabien
+斯里兰卡	Sri Lanka
+史太林	Josef Stalin
+叙利亚	Syrien
+塔吉克斯坦	Tadzjikistan
+口袋妖怪	Pokémon
+中华民国	Taiwan
+泰国	Thailand
+火车	Tåg
+土库曼斯坦	Turkmenistan
+阿拉伯联合酋长国	Förenade Arabemiraten
+越南	Vietnam
+新西伯利亚	Novosibirsk
+大韩民国	Sydkorea
+阿富汗	Afghanistan
+金	Guld
+喀山	Kazan
+孟加拉	Bangladesh
+马里	Mali
+安哥拉	Angola
+不丹	Bhutan
+文莱	Brunei
+菲律宾	Filippinerna
+牛顿	Isaac Newton
+OpenStreetMap	Open Street Map
+量子力学	Kvantmekanik
+突尼斯	Tunisien
+赞比亚	Zambia
+津巴布韦	Zimbabwe
+北京	Peking
+贝宁	Benin
+博茨瓦纳	Botswana
+布隆迪	Burundi
+刚果共和国	Kongo-Brazzaville
+刚果民主共和国	Kongo-Kinshasa
+甘地	Mahatma Gandhi
+连环画	Tecknad serie
+冈比亚	Gambia
+科特迪瓦	Elfenbenskusten
+喀麦隆	Kamerun
+尼日利亚	Nigeria
+索马里	Somalia
+铌	Niob
+凱撒	Julius Caesar
+苏丹	Sudan
+汉堡	Hamburg
+联合国	Förenta nationerna
+唐担	Dante Alighieri
+艾哈迈德堡	Ahmedabad
+锡	Tenn
+克林顿总统	Bill Clinton
+孟买	Bombay
+波多黎各	Puerto Rico
+卡纳塔克邦	Karnataka
+列农	John Lennon
+爱达荷州	Idaho
+华盛顿州	Washington (delstat)
+科索沃	Kosovo
+潘基文	Ban Ki-moon
+Kofi Annan	Kofi Annan
+分类:页面分类	Kategori:Topp
+多特蒙德	Dortmund
+冬天	Vinter
+西班牙语	Spanska
+匹兹堡	Pittsburgh
+费城	Philadelphia
+金奈	Chennai
+班加罗尔	Bangalore
+钞票	Pengar
+纽约州	New York (delstat)
+罗德岛	Rhode Island
+昆虫	Insekter
+宾夕法尼亚	Pennsylvania
+Uetersen	Uetersen
+奧古斯都	Augustus
+微软视窗	Microsoft Windows
+直布罗陀	Gibraltar
+布宜诺斯艾利斯	Buenos Aires
+东京都	Tokyo prefektur
+爱荷华州	Iowa
+里昂地铁	Lyons tunnelbana
+印地语	Hindi
+艾迪托·比娅呋	Édith Piaf
+因斯孛鲁克	Innsbruck
+都柏林	Dublin
+法兰克福	Frankfurt am Main
+天主教	Katolicism
+圣经	Bibeln
+金边	Phnom Penh
+胡志明市	Ho Chi Minh-staden
+河內市	Hanoi
+真耶稣教会	The True Jesus Church
+英语	Engelska
+曼谷	Bangkok
+臺北市	Taipei
+同海市	Dong Hoi
+Końskowola	Końskowola
+达累斯萨拉姆	Dar es-Salaam
+Al-Khartoum	Khartoum
+疾画合	Givors
+1月11号	11 januari
+明斯克	Minsk
+微软公司	Microsoft
+库鲁夫	Kurów
+化学	Kemi
+2月19号	19 februari
+Visual Basic	Visual Basic
+本笃十六世	Benedictus XVI
+12月25号	25 december
+8月4号	4 augusti
+8月31号	31 augusti
+迈克尔·杰克逊	Michael Jackson
+巴西利亞	Brasília
+圣地牙哥	Santiago de Chile
+坎培拉	Canberra
+悉尼	Sydney
+墨尔本	Melbourne
+木卫三	Ganymedes (måne)
+珀斯	Perth, Western Australia
+西澳大利亚州	Western Australia
+北领地 (澳大利亚)	Northern Territory
+苏门答腊岛	Sumatra
+突尼斯市	Tunis
+德黑兰	Teheran
+亚的斯亚贝巴	Addis Abeba
+安卡拉	Ankara
+贝尔格莱德	Belgrad
+分类:维基百科模板	Kategori:Mallar
+爪哇岛	Java
+法属圭亚娜	Franska Guyana
+安曼	Amman
+贝鲁特	Beirut
+分类:国家模板	Kategori:Mallar med anknytning till länder
+内罗毕	Nairobi
+分类:地理模板	Kategori:Geografimallar
+学堂	Skola
+大学	Universitet
+Wikipedia:沙盘	Wikipedia:Sandlådan
+屋	Hus
+卡尔梅克共和国	Kalmuckien
+地图	Karta
+奥萨斯库	Osasco
+弗杭歇维嘞（学纳）	Francheville, Rhône
+同海机场	Dong Hoi flygplats
+世界言话排名	Lista över världens största språk efter antal talare
+分类:日本历史	Kategori:Japans historia
+孔子	Konfucius
+分类:数学	Kategori:Matematik
+法罗群岛	Färöarna
+分类:印度历史	Kategori:Indiens historia
+分类:泰国历史	Kategori:Thailands historia
+巴厘岛	Bali
+分类:缅甸历史	Kategori:Burmas historia
+欧元	Euro
+美元	Amerikansk dollar
+地中海	Medelhavet
+威尼斯共和国	Republiken Venedig
+杭州市	Hangzhou
+基督教	Kristendom
+模板:亚洲行政区划	Mall:Asien
+金国	Jindynastin (1115–1234)
+洲	Världsdelar och kontinenter
+阿德来得	Adelaide
+首都	Huvudstad
+葡萄牙语	Portugisiska
+模板:Portal	Mall:Portal
+公元1949年	1949
+阿嘞玛桑	Almazán
+黄现璠	Huang Xianfan
+日语	Japanska
+百科全书	Uppslagsverk
+封面	Portal:Huvudsida
+路由器	Router
+棒球	Baseboll
+奧林匹克运动会	Olympiska spelen
+长江	Yangtze
+里海	Kaspiska havet
+拉斐尔	Rafael (konstnär)
+电车	Spårväg
+加泰罗尼亚	Katalonien
+毛泽东	Mao Zedong
+西安	Xi'an
+拉萨市	Lhasa
+性行为	Samlag
+加夫列尔·加西亚·马尔克斯	Gabriel García Márquez
+分类:快速删除候选	Kategori:Snabbraderingar
+莎里 嘛克嘞朗	Sally Pearson
+马可·波罗	Marco Polo
+共产主义	Kommunism
+1368年	1368
+國家	Land
+Joe Biden	Joe Biden
+希拉里·克林顿	Hillary Clinton
+Yelena Isinbayeva	Jelena Isinbajeva
+大英博物馆	British Museum
+蒙彼利埃	Montpellier
+分类:天文学	Kategori:Astronomi
+汉堡包	Hamburgare
+班合比让	Perpignan
+标致汽车	Peugeot
+李白	Li Bai
+图书馆	Bibliotek
+世界银行	Världsbanken
+汉武帝	Han Wudi
+女权主义	Feminism
+元朝	Yuandynastin
+库克船长	James Cook
+郑和	Zheng He
+黃河	Gula floden
+蚂蚁	Myror
+宋朝	Songdynastin
+落苏	Aubergine
+龙	Drake
+姆妈	Moder
+隆波岛	Lombok
+小人	Barn
+俄语	Ryska
+人家	Hem
+普京	Vladimir Putin
+东南亚国家联盟	Association of Southeast Asian Nations
+面包	Bröd
+国际货币基金组织	Internationella valutafonden
+联合国教育科学文化组织	Unesco
+联合国卫生组织	Världshälsoorganisationen
+漢語	Kinesiska
+雨	Regn
+全球暖化	Global uppvärmning
+纳尔逊·曼德拉	Nelson Mandela
+马丁·路德·金	Martin Luther King
+蛋白质	Protein
+天灾	Naturkatastrof
+海啸	Tsunami
+云	Moln
+几何学	Geometri
+日圆	Yen
+单词	Ord
+漢字	Kinesiska tecken
+希腊字母	Grekiska alfabetet
+諺文	Hangul
+分类:法国	Kategori:Frankrike
+分类:音乐	Kategori:Musik
+红楼梦	Drömmar om röda gemak
+漫画	Manga
+哈利波特	Harry Potter
+小提琴	Violin
+肛交	Analsex
+教育	Bildning
+男性	Man
+婚姻	Äktenskap
+法语维基百科	Franskspråkiga Wikipedia
+咖啡	Kaffe
+果汁	Juice
+山	Berg
+第29届奧林匹克运动会	Olympiska sommarspelen 2008
+孙中山	Sun Yat-sen
+香港	Hongkong
+首尔	Seoul
+上海	Shanghai
+伦敦 海斯楼 飞机场	London-Heathrow flygplats
+清朝	Qingdynastin
+越南战争	Vietnamkriget
+巴斯克语	Baskiska
+阿拉贡语	Aragonska
+瓦伦西亚	Valencia
+玛丽咏·高帝娅	Marion Cotillard
+麦克斯韦	James Clerk Maxwell
+原子	Atom
+光	Ljus
+罗鲍斯	Dayron Robles
+韩语	Koreanska
+官話	Mandarin (språk)
+高棉文	Khmer (språk)
+弗洛伊德	Sigmund Freud
+泰语	Thai
+马来语	Malajiska
+蒙古语	Mongoliska
+犹太教	Judendom
+万象	Vientiane
+莫白桑	Guy de Maupassant
+司马迁	Sima Qian
+朱熹	Zhu Xi
+廷巴克图	Timbuktu
+伦理学	Etik
+沙·卢克·康	Shahrukh Khan
+什叶派	Shia
+道教	Taoism
+子宫	Livmoder
+颈	Hals
+富克朗特群岛	Falklandsöarna
+马恩岛	Isle of Man
+戴安娜王妃	Diana, prinsessa av Wales
+唐玄宗	Tang Xuanzong
+Α	Alfa
+Ω	Omega
+Μ	My
+明朝	Mingdynastin
+朱元璋	Zhu Yuanzhang
+Φ	Fi
+朱由检	Chongzhen-kejsaren
+Laura Robson	Laura Robson
+2008年欧罗维竞唱歌比赛	Eurovision Song Contest 2008
+强·马凯恩	John McCain
+金正日	Kim Jong Il
+元素周期表	Periodiska systemet
+罗別脫 姆格比	Robert Mugabe
+自杀	Självmord
+爬蟲類	Kräldjur
+Λ	Lambda
+伍老虎	Tiger Woods
+洋山芋	Potatis
+三宝垄	Semarang
+报纸	Tidning
+电话	Telefon
+?	Frågetecken
+美国空军	USA:s flygvapen
+菲德尔·卡斯特罗	Fidel Castro
+元素单子	Grundämne
+广域网	Wide Area Network
+围棋	Go (brädspel)
+电影	Film
+气体	Gas
+液体	Vätska
+固体	Fast form
+脚踏车	Cykel
+农业	Jordbruk
+温度	Temperatur
+面积	Area
+数	Tal
+玛丽亚·莎拉波娃	Marija Sjarapova
+重慶	Chongqing
+天津市	Tianjin
+武汉	Wuhan
+世界地理索引	Lista över självständiga stater
+担桑身	Graviditet
+Google地图	Google Maps
+癌	Cancer
+残疾人	Funktionsnedsättning
+抗生素	Antibiotikum
+青霉素	Penicillin
+肺炎	Lunginflammation
+克来普	Crêpes
+麻将	Mahjong
+运河	Kanal
+坝	Dammbyggnad
+牛顿 (单位)	Newton (enhet)
+世界报 (法国)	Le Monde
+万里长城	Kinesiska muren
+可再生能源	Förnybara energikällor
+电	Elektricitet
+核武器	Kärnvapen
+Joomla!	Joomla
+吉卜赛语	Romani
+壮语	Zhuang (språk)
+自由人报 (法国)	Libération
+安吉丽娜	Angelina Jolie
+阿拉伯语	Arabiska
+马多符	Bernard Madoff
+扬马延岛	Jan Mayen
+弗	Dollar
+科西嘉岛	Korsika
+奥克语	Occitanska
+克里斯蒂娜 艾伐脱	Chris Evert
+李明博	Lee Myung-bak
+Β	Beta
+Γ	Gamma
+Δ	Delta
+Ε	Epsilon
+Ζ	Zeta
+Η	Eta
+Θ	Theta
+Ι	Jota
+Κ	Kappa (bokstav)
+Ν	Ny
+Ξ	Xi
+Ο	Omikron
+Ρ	Rho
+Σ	Sigma
+Τ	Tau
+Υ	Ypsilon
+Χ	Chi
+Ψ	Psi
+复活节岛	Påskön
+澳门	Macao
+联想计算机公司	Lenovo
+梁振英	CY Leung
+董建华	Tung Chee-hwa
+胡锦涛	Hu Jintao
+习近平	Xi Jinping
+深圳市	Shenzhen
+廣東省	Guangdong
+广西壮族自治区	Guangxi
+施蒂文 呼克	Steven Hooker
+鹿儿岛县	Kagoshima prefektur
+C语言	C (programspråk)
+手铐	Handbojor
+艾米·麦克唐纳 (歌手)	Amy Macdonald
+Wikipedia:Featured articles	Wikipedia:Utmärkta artiklar
+模板:Link FA	Mall:Link FA
+Wikipedia:红茶坊	Wikipedia:Bybrunnen
+釜山广域市	Pusan
+佛蒙特	Vermont
+广州	Guangzhou
+蔣中正	Chiang Kai-shek
+江泽民	Jiang Zemin
+温家宝	Wen Jiabao
+南京市	Nanjing
+首都圈电铁	Seouls tunnelbana
+北京大学	Pekinguniversitetet
+清華大學	Tsinghuauniversitetet
+江苏省	Jiangsu
+浙江省	Zhejiang
+邓小平	Deng Xiaoping
+琶兰那克	Parañaque
+菲律宾比索	Filippinsk peso
+西藏	Autonoma regionen Tibet
+圆	Cirkel
+同性婚姻	Samkönat äktenskap
+Francesc Fàbregas	Cesc Fàbregas
+手机	Mobiltelefoni
+太平山 (香港)	Victoria Peak
+欧洲杯足球赛	Uefa Champions League
+马来亚半岛	Malackahalvön
+平壤市	Pyongyang
+奥斯卡奖	Oscar
+各经济实体国内生产总值列表	Lista över länder efter BNP
+ی	Yod
+黑龍江省	Heilongjiang
+芽庄市	Nha Trang
+教皇	Påve
+波多黎各独立党	Puertoricanska självständighetspartiet
+四川省	Sichuan
+蔡元培	Cai Yuanpei
+圣诞	Jul
+闰年	Skottår
+大田广域市	Daejeon
+大邱广域市	Daegu
+仁川国际机场	Incheon International Airport
+仁川广域市	Inchon
+京畿道	Gyeonggi
+计算机科学	Datavetenskap
+阿鲁巴	Aruba
+国际音标	Internationella fonetiska alfabetet
+河北省	Hebei
+GNU自由文档许可证	GNU Free Documentation License
+陈水扁	Chen Shui-bian
+台湾	Taiwan (ö)
+纽约	New York (olika betydelser)
+2012年欧洲足球冠军赛	Europamästerskapet i fotboll 2012
+路由	Dirigering (nätverk)
+人口密度	Befolkningstäthet
+爱尔兰	Irland (ö)
+鲁迅	Lu Xun
+湖	Insjö
+黄瓜	Gurka
+南奥赛西亚	Sydossetien
+阿什哈巴德	Asjchabad
+岛屿	Ö (landområde)
+马赛	Marseille
+风牙己榜国家公园	Phong Nha-Ke Bang nationalpark
+广平省	Quang Binh
+赤道	Ekvator
+字典	Ordbok
+北塞浦路斯	Nordcypern
+死海	Döda havet
+英镑	Brittiskt pund
+金兰国际机场	Cam Ranhs internationella flygplats
+荷属安地列斯	Nederländska Antillerna
+根西岛	Guernsey
+斯瓦尔巴群岛	Svalbard
+Benetice	Benetice (Světlá nad Sázavou)
+摄氏温标	Grad Celsius
+大叻市	Da Lat
+岘港市	Da Nang
+Washington	Washington (olika betydelser)
+甴巴子	Kackerlackor
+鱷魚	Krokodildjur
+中国工商银行	Industrial and Commercial Bank of China
+人造卫星	Satellit
+太原省 (越南)	Thai Nguyen (provins)
+杀人鲸	Späckhuggare
+印科软件	Infosys
+日本海	Japanska havet
+东亚	Östasien
+北亚	Nordasien
+南欧	Sydeuropa
+东欧	Östeuropa
+北欧	Nordeuropa
+西欧	Västeuropa
+中欧	Centraleuropa
+琉球国	Kungariket Ryukyu
+县	County
+氨基糖苷类抗生素	Aminoglykosider
+伊斯兰历	Muslimska kalendern
+柳京饭店	Ryugyong Hotel
+霍顿汽车	Holden
+市长	Borgmästare
+中文维基百科	Kinesiskspråkiga Wikipedia
+总统	President
+满洲国	Manchukuo
+安娜·伊凡诺维琪	Ana Ivanović
+圣诞岛	Julön
+臺灣省	Taiwan (provins)
+拳击	Boxning
+樟宜国际机场	Singapore Changi Airport
+大西洋处女	Virgin Atlantic Airways
+快达航空	Qantas Airways
+斑马	Zebror
+同奈省	Dong Nai
+广义省	Quang Ngai (provins)
+金瓯省	Ca Mau (provins)
+广南省 (越南)	Quang Nam
+槟椥省	Ben Tre (provins)
+庆和省	Khanh Hoa
+客家语	Hakka (språk)
+北宁省	Bac Ninh (provins)
+优八克	International Union of Pure and Applied Chemistry
+赣语	Gan (dialekt)
+海地克里奥耳语	Haitisk kreol
+大熊猫	Jättepanda
+孤立語言	Isolatspråk
+卡纳达语	Kannada
+杜甫	Du Fu
+瓦尔帕莱索	Valparaíso
+演员	Skådespelare
+分类:程序编制言话	Kategori:Programspråk
+瓦哈卡	Oaxaca
+侗台语	Tai–kadaispråk
+白脱	Smör
+尼亚加拉瀑布	Niagarafallen
+吴语	Wu (dialekt)
+塔斯马尼亚	Tasmanien
+贝拉齐尔‧布托	Benazir Bhutto
+费利佩二世 (西班牙)	Filip II av Spanien
+牛津大学	Oxfords universitet
+基地 (恐怖组织)	Al-Qaida
+英吉利海峡	Engelska kanalen
+柴尔兹孛格	Salzburg
+秦国	Qin (stat)
+半岛	Halvö
+新疆維吾爾自治區	Xinjiang
+布里司班	Brisbane
+东正教	Ortodoxa kyrkor
+各国首都列表	Lista över huvudstäder
+平面镜	Spegel
+锡金语	Sikkimesiska
+孛拉特 皮此	Brad Pitt
+欧洲足球联合会	Uefa
+议会	Parlament
+大阪市	Osaka
+剑桥大学	Universitetet i Cambridge
+牙膏	Tandkräm
+通货膨胀	Inflation
+艾美 羅森	Emmy Rossum
+竹	Bambu
+刚果	Kongo
+马失拉地	Maserati
+科科斯群岛	Kokosöarna
+昆士兰州	Queensland
+明尼阿波利斯	Minneapolis
+顺化市	Hué
+马拉雅南语	Malayalam
+逻辑语	Lojban
+北江省	Bac Giang (provins)
+耶稣会	Jesuitorden
+承天顺化省	Thua Thien-Hué
+北𣴓省	Bac Kan (provins)
+阿伯丁	Aberdeen
+莱州省	Lai Chau (provins)
+河南省 (越南)	Ha Nam
+上海浦东国际机场	Shanghai Pudong International Airport
+政治學	Statsvetenskap
+闽东语	Mindong
+闽南语	Minnan
+安江省	An Giang
+茶荣省	Tra Vinh (provins)
+Tycho Brahe	Tycho Brahe
+薄辽省	Bac Lieu (provins)
+嘉莱省	Gia Lai
+平福省	Binh Phuoc
+同塔省	Dong Thap
+约旦河西岸	Västbanken
+河江省	Ha Giang (provins)
+维克多利亚州	Victoria, Australien
+多乐省	Dak Lak
+平定省	Binh Dinh
+得农省	Dak Nong
+水晶之夜	Kristallnatten
+台语	Taiwanesiska
+门	Dörr
+猪流感	Svininfluensa
+高平省	Cao Bang (provins)
+平阳省	Binh Duong
+平顺省	Binh Thuan
+巴地头顿省	Ba Ria-Vung Tau
+奠边省	Dien Bien
+三船敏郎	Toshiro Mifune
+AK-47	AK-47
+八国集团	G8
+孙武	Sun Zi
+国际商用机器公司	IBM
+互聯網電影數據庫	Internet Movie Database
+贝克特	Samuel Beckett
+达赖喇嘛	Dalai lama
+邮政编码	Postnummer
+Nicole Kidman	Nicole Kidman
+联合国安理会	FN:s säkerhetsråd
+洋火棒儿	Tändsticka
+雹	Hagel
+南海	Sydkinesiska havet
+肯波拉圣吉奥瓦尼	Campora San Giovanni
+朝鮮世宗	Sejong den store
+奥克兰格兰玛学校	Auckland Grammar School
+电冰箱	Kylskåp
+黄海	Gula havet
+大仲马	Alexandre Dumas den äldre
+孟加拉湾	Bengaliska viken
+哈马斯	Hamas
+阿斯旺水坝	Assuandammen
+人民币	Renminbi
+富士山	Fuji
+小鼠	Möss
+索契	Sotji
+迈克尔·菲尔普斯	Michael Phelps
+卡地马党	Kadima
+加沙地带	Gazaremsan
+霍巴特	Hobart
+金草莓奖	Golden Raspberry Awards
+律师	Advokat
+相扑	Sumobrottning
+希斯·莱杰	Heath Ledger
+安徽省	Anhui
+内蒙古自治区	Inre Mongoliet
+金日成	Kim Il Sung
+全罗北道	Nordjeolla
+济州特别自治道	Jeju
+湄公河	Mekong
+索尼	Sony
+巴別塔	Babels torn
+力学	Mekanik
+南半球	Södra halvklotet
+蔚山广域市	Ulsan
+光州广域市	Gwangju
+温室效应	Växthuseffekten
+Julia Gillard	Julia Gillard
+华国锋	Hua Guofeng
+福建省	Fujian
+克拉耿富合脱	Klagenfurt
+小熊猫	Kattbjörn
+大溪地	Tahiti
+安东市	Andong
+海南省	Hainan
+汉语拼音	Pinyin
+远东	Fjärran Östern
+西班牙国家足球队	Spaniens herrlandslag i fotboll
+华氏温标	Grad Fahrenheit
+海峡群岛	Kanalöarna
+甘肃省	Gansu
+苏州市	Suzhou
+无锡市	Wuxi
+湖州市	Huzhou
+绍兴市	Shaoxing
+汉族	Hankineser
+昆山	Kunshan
+宁波市	Ningbo
+ETA (民族组织)	Euskadi ta Askatasuna
+隆城国际机场	Long Thanh Internationell flygplats
+数据	Data (representation)
+迪马 皮郎	Dima Bilan
+记者	Reporter
+基本粒子	Elementarpartikel
+陆克文	Kevin Rudd
+沙菲娅 劳塔露	Sofija Rotaru
+些拉·班琳	Sarah Palin
+云南省	Yunnan
+苏丹 (称谓)	Sultan
+德国国家足球队	Tysklands herrlandslag i fotboll
+山东省	Shandong
+福楼拜	Gustave Flaubert
+英属印度洋领地	Brittiska territoriet i Indiska oceanen
+地质年代	Geologisk tidsskala
+河南省	Henan
+乃堂雅虎	Benjamin Netanyahu
+护照	Pass
+遼寧省	Liaoning
+件西卡 阿尔白	Jessica Alba
+桑•班	Sean Penn
+GNOME	GNOME
+台湾桃园国际机场	Taiwan Taoyuan Internationella Flygplats
+色子	Tärning
+吉林省	Jilin
+东海	Östkinesiska havet
+2008年美国总统选举	Presidentvalet i USA 2008
+阿南德	Viswanathan Anand
+湖南省	Hunan
+水族馆	Akvarium
+青海省	Qinghai
+豪納省	Rhône (departement)
+陸龜	Landsköldpaddor
+話筒	Mikrofon
+山西省	Shanxi
+魔方	Rubiks kub
+尼德兰国家足球队	Nederländernas herrlandslag i fotboll
+谜子	Gåta
+艾西瓦娅·巴克罕	Aishwarya Rai
+贵州省	Guizhou
+Warren Buffett	Warren Buffett
+蹔𧉆	Syrsor
+纸币	Sedel
+加沙城	Gaza
+白斯克	Baskien
+安达曼海	Andamansjön
+胡适	Hu Shi
+孛路內 (Blu-Ray)	Blu-ray Disc
+法国国家足球队	Frankrikes herrlandslag i fotboll
+后现代	Postmodernism
+宮城县	Miyagi prefektur
+帕荔斯 希尔顿	Paris Hilton
+陕西省	Shaanxi
+模板:Commonscat	Mall:Commonscat
+岩手县	Iwate
+死人	Lik
+莱纳斯·鲍林	Linus Pauling
+Patrick Swayze	Patrick Swayze
+嫦娥1号	Chang'e 1
+純合子	Homozygot
+水彩画	Akvarell
+李舜臣	Yi Sun-shin
+巴黎地铁	Paris metro
+陈方安生	Anson Chan
+釜山地铁	Pusans tunnelbana
+清迈	Chiang Mai
+对马海峽	Tsushimasundet
+珍珠港事件	Attacken mot Pearl Harbor
+分类:化学模板	Kategori:Kemimallar
+模板:Taxobox	Mall:Taxobox
+松下电器	Panasonic Corporation
+丰田汽车	Toyota
+田鸡	Stjärtlösa groddjur
+艾奇亚	Ikea
+火车站	Järnvägsstation
+洛东江	Nakdong
+模板:中国历史	Mall:Kinas historia
+金正恩	Kim Jong-un
+豪萨语	Hausa
+闽语	Min (språk)
+江西省	Jiangxi
+纳姆耶尔·旺楚克 (不丹国王)	Jigme Khesar Namgyal Wangchuck
+阮明哲	Nguyen Minh Triet
+宁夏回族自治区	Ningxia
+拿督阿都拉萨	Najib Tun Razak
+吉格梅·廷礼	Jigme Thinley
+约翰·菲利普·凯伊	John Key
+宿迁市	Suqian
+扬州市	Yangzhou
+泰州	Taizhou, Jiangsu
+南通	Nantong
+镇江市	Zhenjiang
+常州市	Changzhou
+嘉兴市	Jiaxing
+金华市	Jinhua
+衢州	Quzhou
+台州市	Taizhou, Zhejiang
+舟山市	Zhoushan
+迪斯科	Disco
+阉	Kastrering
+以色列国防军	Israels försvarsmakt
+寿春机场	Sao Vang flygplats
+嘟嘟車	Tuk-tuk
+海蒂·克鲁姆	Heidi Klum
+阿拉伯文数字	Öst-arabiska siffror
+空军	Flygvapen
+大名	Daimyo
+太仓	Taicang
+劳莱士表	Rolex
+数码照相机	Digitalkamera
+数词	Räkneord
+哈里发	Kalif
+汇率	Växelkurs
+青森县	Aomori prefektur
+福岛县	Fukushima (prefektur)
+青蛙	Rana (släkte)
+海防市	Hai Phong
+斯堪的纳维亚半岛	Skandinaviska halvön
+里尔克	Rainer Maria Rilke
+排列组合	Kombinatorik
+鲍林标度	Elektronegativitet
+街道	Gata
+Wikipedia:新闻发布	Wikipedia:Tillkännagivanden
+机器翻译	Maskinöversättning
+阿根廷国家足球队	Argentinas herrlandslag i fotboll
+面向对象程式编制	Objektorienterad programmering
+千叶县	Chiba prefektur
+定积分	Integral
+故宫	Förbjudna staden
+泰米尔猛虎解放组织	Tamilska befrielsetigrarna
+印度卢比	Indisk rupie
+Microsoft Outlook	Microsoft Outlook
+早饭	Frukost
+自动银行出纳机	Uttagsautomat
+秋田县	Akita prefektur
+乌克兰元	Hryvnja
+Ségolène Royal	Ségolène Royal
+通用汽车	General Motors
+1998年个中国水灾	Yangtzeflodens översvämning 1998
+差头	Taxi
+乌赛	Region
+拿塔莎 康埔西	Natascha Kampusch
+新浪微博	Sina Weibo
+模板:Cite book	Mall:Bokref
+香农 (计算数学家)	Claude Shannon
+宝莱坞	Bollywood
+索里亚省	Kommuner i Soriaprovinsen
+三角函数	Trigonometrisk funktion
+2009年甲型H1N1流感疫情	H1N1-utbrottet 2009
+草	Ogräs
+文瑾莹	Moon Geun-young
+2004年欧洲足球冠军赛	Europamästerskapet i fotboll 2004
+严重急性呼吸道综合症	Sars (sjukdom)
+Flickr	Flickr
+John C. Mather	John C. Mather
+索尔·珀尔马特	Saul Perlmutter
+希腊数字	Grekiska siffror
+人民力量党 (泰国)	Folkmaktspartiet
+俞正声	Yu Zhengsheng
+克里米亚鞑靼人	Krimtatarer
+伊斯兰圣战组织 (巴勒斯坦)	Islamiska jihad
+爱媛县	Ehime prefektur
+圣灰星期三	Askonsdagen
+沙地	Stäpp
+鸡窠生凤凰 (电影)	Slumdog Millionaire
+浦东新区	Pudong
+天坛	Himmelens tempel
+外滩	Bund (Shanghai)
+山形县	Yamagata prefektur
+基呒湖	Kivusjön
+台湾海峡	Taiwansundet
+神奈川县	Kanagawa prefektur
+中国地区	Chugoku
+长野县	Nagano prefektur
+埼玉县	Saitama prefektur
+笼	Bur
+英属印度	Brittiska Indien
+法国高速铁路	TGV
+Ϝ	Digamma
+群马县	Gunma prefektur
+Ϙ	Koppa
+Hugh Jackman	Hugh Jackman
+兵库县	Hyogo prefektur
+2004年东南亚大地震搭海啸	Jordbävningen i Indiska oceanen 2004
+安娜·库妮可娃	Anna Kurnikova
+天线	Antenn
+泰国湾	Thailandviken
+2000年欧洲足球冠军赛	Europamästerskapet i fotboll 2000
+Ϛ	Stigma
+兵房	Kasern
+石川县	Ishikawa prefektur
+妓院	Bordell
+国际单位制词头	SI-prefix
+静冈县	Shizuoka prefektur
+对话	Dialog
+Ͳ	Sampi
+农民	Bonde
+葡蛮郎	Bumerang
+渧拉米酥	Tiramisu
+Ϻ	San
+毛巾	Handduk
+钱包	Plånbok
+春节	Kinesiskt nyår
+麻生太郎	Taro Aso
+无产阶级	Proletariat
+弥撒	Mässa
+Naomi Watts	Naomi Watts
+座头鲸	Knölval
+冈山县	Okayama prefektur
+赌场	Kasino
+撒旦教	Satanism
+农历	Kinesiska kalendern
+克罗地亚国家足球队	Kroatiens herrlandslag i fotboll
+巴尔喀什湖	Balchasjsjön
+丹尼·波尔	Danny Boyle
+泰国旗	Thailands flagga
+希腊国家足球队	Greklands herrlandslag i fotboll
+峨眉山	Emeishan
+Zip	Zip
+冰壶	Curling
+巴拉同 斯里恰乓	Paradorn Srichaphan
+台风	Tyfon
+台南市	Tainan
+太湖	Tai Hu
+研究生	Forskarnivå
+加蒂诺市 (魁北克)	Gatineau
+针	Synål
+加合拉·孛何妮	Carla Bruni
+北仑区	Beilun
+欧楂	Mispel
+袁枚	Yuan Mei
+卡哟儿	Kajol
+魔幻现实主义	Magisk realism
+勒	Betsel
+义和团	Boxarupproret
+李芙妮	Tzipi Livni
+列宁搿拉德围城搭仔保卫战	Belägringen av Leningrad
+1988年欧洲足球冠军赛	Europamästerskapet i fotboll 1988
+皇家夜总会 (电影)	Casino Royale (film, 2006)
+薯条	Pommes frites
+吉赛尔·邦臣	Gisele Bündchen
+塔塔拿挪	Tata Nano
+特强气旋风暴纳尔吉斯	Tropiska cyklonen Nargis
+2008年希腊街头骚乱	Kravallerna i Grekland 2008
+半岛战争	Spanska självständighetskriget
+日本杯	Japan Cup
+丽水县	Lệ Thủy
+锅	Kokkärl
+Bipasha Basu	Bipasha Basu
+英国电视电影艺术学院奖	British Academy of Film and Television Arts
+毛纳洛火山	Mauna Loa
+荷兰东印度公司	Nederländska Ostindiska Kompaniet
+富牌国际机场	Phu Bais internationella flygplats
+铁路轨道	Järnvägsspår
+斷背山	Brokeback Mountain
+雀巢公司	Nestlé
+环球小姐	Miss Universum
+1992年欧洲足球冠军赛	Europamästerskapet i fotboll 1992
+奥斯区亚国家足球队	Österrikes herrlandslag i fotboll
+伦敦德里城	Londonderry
+新干线	Shinkansen
+达新	Thaksin Shinawatra
+Olga Kurylenko	Olga Kurylenko
+瑞士国家足球队	Schweiz herrlandslag i fotboll
+莲姜国际机场	Lien Khuong Internationell flygplats
+金泳三	Kim Young-sam
+星海爭霸	Starcraft
+波兰国家足球队	Polens herrlandslag i fotboll
+姑蘇區	Gusu
+环球影视城	Universal Studios
+罗马尼亚国家足球队	Rumäniens herrlandslag i fotboll
+唐宁街10号	10 Downing Street
+小仲马	Alexandre Dumas den yngre
+芹苴机场	Can Tho internationella flygplats
+罗杰·科恩伯格	Roger D. Kornberg
+2008年末─2009年初加沙地带大规模军事行动	Gazakriget (2008–2009)
+利息	Ränta
+直接民主制	Direktdemokrati
+橡胶擦子	Radergummi
+幽老猫	Kurragömma
+萨丽	Sari
+1960年欧洲足球国家杯	Europacupen i fotboll för landslag 1960
+几何原本	Elementa
+数码信号处理	Digital signalbehandling
+解热镇痛药	Analgetika
+木版画	Träsnitt
+世界小姐	Miss World
+长沙市	Changsha
+阿披实	Abhisit Vejjajiva
+越南国家航空公司	Vietnam Airlines
+伦敦政治经济学院	London School of Economics
+油画	Oljemåleri
+Portal:历史	Portal:Historia
+泥石流	Slamström
+洲际弹道飞弹	Interkontinental ballistisk robot
+物流	Logistik
+遗传转录	Transkription (genetik)
+繁体字	Traditionella kinesiska tecken
+宦官	Eunuck
+虱误	Bugg (dator)
+阿歷克山德拉·柯倫泰	Aleksandra Kollontaj
+George F. Smoot	George F. Smoot
+Ϸ	Sjo
+锡克金庙	Gyllene templet
+酋长航空公司	Emirates (flygbolag)
+1996年欧洲足球冠军赛	Europamästerskapet i fotboll 1996
+消费者物价指数	Konsumentprisindex
+国际足球联合会世界排名表	Fifas världsranking för herrar
+卡本塔里亚湾	Carpentariaviken
+超级市场	Snabbköp
+章子怡	Zhang Ziyi
+Heineken	Heineken
+威尔士国家足球队	Wales herrlandslag i fotboll
+千分比	Promille
+高雄市	Kaohsiung
+病人	Patient
+1980年欧洲足球冠军赛	Europamästerskapet i fotboll 1980
+1968年欧洲足球冠军赛	Europamästerskapet i fotboll 1968
+1964年欧洲足球国家杯	Europacupen i fotboll för landslag 1964
+印第安纳琼斯 —— 水晶骷髅王国	Indiana Jones och Kristalldödskallens rike
+1972年欧洲足球冠军赛	Europamästerskapet i fotboll 1972
+Bayes定理	Bayes sats
+美人魚	Sjöjungfru
+普吉府	Phuket
+1984年欧洲足球冠军赛	Europamästerskapet i fotboll för herrar 1984
+亚历山大	Alexandria (olika betydelser)
+昆明	Kunming
+老呒所依	No Country for Old Men (film)
+东京铁塔	Tokyo Tower
+兰州市	Lanzhou
+佛來崮	Le Puy-en-Velay
+头趟公开募股	Börsintroduktion
+羅迪尼亞	Rodinia
+欧里维娅	Olivia Newton-John
+Knol	Knol
+Ͱ	Heta
+法国航空447号班机	Air France Flight 447
+共享软件	Shareware
+简化字	Förenklade kinesiska tecken
+Mike Myers	Mike Myers
+文雅信使	Mercure de France
+薄拉特 (电影)	Borat (film)
+張勉	Chang Myon
+耳機	Hörlurar
+利库德党	Likud
+洛阳	Luoyang
+淞河	Saône
+白鳍豚	Asiatisk floddelfin
+1976年欧洲足球冠军赛	Europamästerskapet i fotboll 1976
+平昌郡	Pyeongchang
+藤球	Sepak takraw
+奖学金	Stipendium
+矮马	Ponny
+匈奴编年史	Xiongnu
+孟子	Mencius
+帝国理工	Imperial College London
+曾国藩	Zeng Guofan
+卫生	Folkhälsa
+桂林	Guilin
+雪兰莪州	Selangor
+海口市	Haikou
+海拔	Altitud
+挪威广播公司	Norsk Rikskringkasting
+第一趟鸦片战争	Första opiumkriget
+声调	Ordton
+基督山伯爵	Greven av Monte Cristo
+玛丽女王2号	RMS Queen Mary 2
+法国总统	Frankrikes president
+尹潽善	Yun Bo-seon
+伊顿公学	Eton College
+越盾	Dong (valuta)
+解剖学治疗学及化学分类系统	ATC-kod
+尹致昊	Yun Chi-ho
+终结者3	Terminator 3: Rise of the Machines
+北卡罗莱纳大学教堂山分校	University of North Carolina at Chapel Hill
+我有一只梦	I Have a Dream
+上海世博会	Expo 2010
+梦工厂	Dreamworks
+谢列梅捷沃国际机场	Sjeremetevos internationella flygplats
+麵	Nudlar
+瑞联银行	UBS
+观世音	Avalokiteshvara
+新曼谷国际机场	Suvarnabhumi flygplats
+张爱玲	Eileen Chang
+章太炎	Zhang Binglin
+张居正	Zhang Juzheng
+张家港	Zhangjiagang
+浙江大学	Zhejianguniversitetet
+郑洁	Zheng Jie
+正阳门	Qianmen
+镇海区	Zhenhai
+月饼	Månkaka
+周迅	Zhou Xun
+诸暨	Zhuji
+株洲市	Zhuzhou
+壯學	Zhuangologi
+中国人民解放军	Folkets befrielsearmé
+辛格·旺楚克 (不丹国王)	Jigme Singye Wangchuck
+利尿药	Vätskedrivande medel
+华南虎	Sydkinesisk tiger
+精神疾病诊断搭仔统计手冊	Diagnostic and Statistical Manual of Mental Disorders
+米尔克 (电影)	Milk
+高棉帝国	Khmerriket
+狙击手	Prickskytt
+鼻衄	Näsblod
+开脱•文斯莱脱	Kate Winslet
+平均	Lägesmått
+富国机场	Phu Quoc flygplats
+曹操	Cao Cao
+火山湖	Kratersjö
+水粉画	Gouache
+拨人忽视个真相	En obekväm sanning
+Isaac Hayes	Isaac Hayes
+春武里府	Chon Buri
+武夷山	Wuyishan
+塔麻可吉电子小鸡	Tamagotchi
+泰王国国歌	Phleng Chat
+二氧化氮	Kvävedioxid
+冬至	Vintersolståndet
+风月俏佳人	Pretty Woman
+新台币	Taiwanesisk dollar
+混成词	Teleskopord
+法国省份一览表	Frankrikes provinser
+BOINC	Berkeley Open Infrastructure for Network Computing
+袁世凯	Yuan Shikai
+袋鼠岛	Kangaroo Island
+泰拉 蕾	Tara Reid
+刘翔	Liu Xiang (idrottare)
+蒙古人民共和国	Mongoliska folkrepubliken
+DTD	Document Type Definition
+开脱•末斯	Kate Moss
+娜塔莎·李察遜	Natasha Richardson
+三聚氰胺	Melamin
+高隆皮亚国家足球队	Colombias herrlandslag i fotboll
+莫尼卡-莱温斯基	Monica Lewinsky
+雷曼兄弟公司	Lehman Brothers
+大使馆	Beskickning
+喫	Ätande
+IPod Shuffle	Ipod Shuffle
+泼水节	Songkran
+7-Zip	7-Zip
+洋油盏	Fotogenlampa
+南沙群岛	Spratlyöarna
+湘潭市	Xiangtan
+费加罗报 (法国)	Le Figaro
+汽车旅馆	Motell
+垃圾桶	Soptunna
+金刚 (电影)	King Kong
+泻药	Laxermedel
+老鼠会	Ponzibedrägeri
+赌城风云 (电影)	Casino (film)
+化学品登记、评估、准许搭限制法规	REACH
+学科	Akademiskt ämne
+性用品商店	Porrbutik
+ISO/IEC 8859	ISO/IEC 8859
+关公	Guan Yu
+龟	Sköldpaddor
+东方明珠	Pearl Tower
+国际足联世界冠军俱乐部杯赛	Världsmästerskapet i fotboll för klubblag
+卢旺达旅馆	Hotel Rwanda
+重见日头 (1996年电影)	Daylight
+Isla Fisher	Isla Fisher
+石泰凡妮 莱斯	Stephanie Rice
+印度空间研究组织	Indian Space Research Organisation
+臺灣 (消歧義)	Taiwan (olika betydelser)
+酱油	Sojasås
+新山	Johor Baharu
+Euro	Euro (olika betydelser)
+MT	MT
+国富论	Nationernas välstånd
+清迈府	Chiang Mai (provins)
+蔡英文	Tsai Ing-wen
+宋卡府	Songkhla (provins)
+平年	År med 365 dagar
+玫瑰人生 (2007年电影)	La vie en rose – berättelsen om Edith Piaf
+沙吞府	Satun
+泰文字母表	Thailändska alfabetet
+清莱府	Chiang Rai (provins)
+拉廊府	Ranong (provins)
+披集府	Phichit
+We Are the Champions	We Are the Champions
+九龙	Kowloon
+末尔悬岩	Cliffs of Moher
+IT狂人	IT-supporten
+北榄坡府	Nakhon Sawan
+碧差汶府	Phetchabun
+普吉国际机场	Phuket International Airport
+2008年欧洲足球冠军赛	Europamästerskapet i fotboll 2008
+五代十国	De fem dynastierna och De tio rikena
+森理世	Riyo Mori
+QED	QED
+索马里内战	Inbördeskriget i Somalia
+沙马	Samak Sundaravej
+金砖国家	BRICS
+安纳乍能府	Amnat Charoen
+董里府	Trang (provins)
+博他仑府	Phatthalung
+血色将至	There Will Be Blood
+乌泰他尼府	Uthai Thani
+臺中市	Taichung
+真爱个火焰 (印度电影)	Devdas
+新竹市	Hsinchu
+鹅	Tamgås
+年号	Nianhao
+高丽航空	Air Koryo
+环球银行金融电信协会	Society for Worldwide Interbank Financial Telecommunication
+Motorola	Motorola
+赛义巴巴	Shirdi Sai Baba
+欧洲足球冠军赛	Europamästerskapet i fotboll
+汽水	Bordsvatten
+天狼星号油轮	M/T Sirius Star
+保合多伽勒国家足球队	Portugals herrlandslag i fotboll
+苏梅岛	Koh Samui
+爱尔兰镑	Irländskt pund
+陈冯富珍	Margaret Chan
+Lauren Jackson	Lauren Jackson
+安娜 米亚里斯	Anna Meares
+邓亚萍	Deng Yaping
+里斯班斯 齐凯脱	Lisbeth Trickett
+西跋榭滴	Shilpa Shetty
+石泰凡妮 孛朗	Stephanie Brown Trafton
+Melissa Etheridge	Melissa Etheridge
+陈冲	Joan Chen
+陈若琳 (运动员)	Chen Ruolin
+Jennifer Hawkins	Jennifer Hawkins
+Sheryl Swoopes	Sheryl Swoopes
+Pamela Jelimo	Pamela Jelimo
+挪威公主阿斯特丽德	Prinsessan Astrid av Norge
+莱索尔 强斯	Leisel Jones
+诗丽黛玮	Sridevi
+郭晶晶	Guo Jingjing
+头孢菌素	Cefalosporiner
+沙没巴干府	Samut Prakan
+呵叻府	Nakhon Ratchasima (provins)
+藏羚羊	Chiru
+生个利亚酒	Sangria
+浮罗交怡	Langkawi
+攀牙府	Phang Nga
+馅饼统计图	Cirkeldiagram
+艾管里	Écully
+抗酸剂	Antacida
+早稻田大学	Wasedauniversitetet
+吴 (三国)	Östra Wu
+氯霉素	Kloramfenikol
+猜也贲府	Chaiyaphum
+计程车3	Taxi 3
+马肖·米切姆	Matthew Mitcham
+耶莲娜	Jelena Dokić
+海宁市	Haining
+硫酸镁	Magnesiumsulfat
+拉喇·杜打	Lara Dutta
+汽车租赁	Biluthyrning
+澳大利亚搭新西兰军团纪念日	Anzac Day
+ANZ大球场	ANZ Stadium
+杨玉环	Yang Guifei
+颂猜·旺沙瓦	Somchai Wongsawat
+奥特莱•导都	Audrey Tautou
+Β－内酰胺类抗生素	Beta-laktam
+金城武	Takeshi Kaneshiro
+周星驰	Stephen Chow
+多尼尔228	Dornier Do 228
+孙权	Sun Quan
+蒋经国	Chiang Ching-kuo
+墨尔本胜利	Melbourne Victory FC
+纳维语	Na'vi (språk)
+Al Burj大厦 (迪拜)	Nakheel Tower
+神舟七号飞船	Shenzhou 7
+鬼勒耳朵边头讲	Ghost Whisperer
+Grant George Hackett	Grant Hackett
+松浦晃一郎	Koïchiro Matsuura
+韩愈	Han Yu
+梁朝伟	Tony Leung Chiu Wai
+丁俊晖	Ding Junhui
+澳大利亚总理	Australiens premiärminister
+投资银行	Investmentbank
+阿宾拿夫 宾德拉	Abhinav Bindra
+巴真府	Prachin Buri
+精工表	Seiko
+杭州灣大橋	Bron över Hangzhoubukten
+武里喃府	Buri Ram
+坤敬府	Khon Kaen (provins)
+德国无线通信	T-Mobile
+廊开府	Nong Khai
+基斯孔哈拉斯	Kiskunhalas
+日本中央银行	Japans centralbank
+李自成	Li Zicheng
+哈桑式火箭弹	Qassam-raket
+林语堂	Lin Yutang
+朴憲永	Pak Hon-yong
+金枓捧	Kim Tu-bong
+龙仔厝府	Samut Sakhon
+信武里府	Sing Buri
+镐立 (泰国)	Khao Lak
+VOC	VOC
+阿德来德联队	Adelaide United FC
+芜湖市	Wuhu
+安庆市	Anqing
+亳州市	Bozhou
+上饶	Shangrao
+冯玉祥	Feng Yuxiang
+佛历	Buddhistisk kalender
+银河处女	Virgin Galactic
+2007年加沙地带争夺战	Slaget om Gaza (2007)
+拗廊 (泰国)	Ao Nang
+新兴工业国家	Nyligen industrialiserat land
+李鸿章	Li Hongzhang
+中秋节	Månfestivalen
+元均	Won Gyun
+浅野忠信	Tadanobu Asano
+以蒙 苏里房	Eamon Sullivan
+雷锋	Lei Feng
+梁启超	Liang Qichao
+多尔衮	Dorgon
+素可泰府	Sukhothai (provins)
+彭德怀	Peng Dehuai
+依善	Isan
+姚文元	Yao Wenyuan
+斯瓦特县	Swat, Pakistan
+悉尼晨锋报	The Sydney Morning Herald
+TCL	TCL
+金牌	Guldmedalj
+亚洲航空	AirAsia
+秋叶原	Akihabara
+徐光启	Xu Guangqi
+SDS	Natriumdodecylsulfat
+大环内酯类抗生素	Makrolid
+喹诺酮	Kinolon
+靖江	Jingjiang
+通州	Tongzhou
+Моа	Moafåglar
+1976年河北唐山大地震	Jordbävningen i Tangshan 1976
+上海地铁	Shanghais tunnelbana
+以色列空军	Israels flygvapen
+玩转身前事	Nu eller aldrig
+秋瑾	Qiu Jin
+嫦娥	Chang'e
+Liudmila Blonska	Ludmila Blonska
+吴三桂	Wu Sangui
+宋吉 (拳手)	Somjit Jongjohor
+滑水	Vattenskidåkning
+泰国人	Thai (etnisk grupp)
+亚罗士打	Alor Setar
+國際馬術聯合會	Fédération Équestre Internationale
+新山一国际机场	Tan Son Nhat internationella flygplats
+宏碁电脑	Acer Inc.
+运动场	Stadium
+朝鲜半岛	Koreahalvön
+圣保罗地铁	São Paulos tunnelbana
+亚运会	Asiatiska spelen
+捷克国家足球队	Tjeckiens herrlandslag i fotboll
+朝鲜族	Koreaner
+吕克·贝松	Luc Besson
+Tesco	Tesco
+供应链管理	Supply chain management
+复旦大学	Fudanuniversitetet
+李光洙	Yi Kwang-su
+六方会谈	Sexpartssamtalen
+奶粉	Mjölkpulver
+班地戈 (维克多利亚)	Bendigo
+朝鲜核问题	Nordkoreas kärnvapenprogram
+韩国放送公社	Korean Broadcasting System
+莎阿南	Shah Alam
+玉山	Yushan
+雜合子	Heterozygot
+西湖	Xihu
+澳大利亚日	Australiendagen
+大屿山	Lantau
+60秒惊天动地	Gone in 60 Seconds
+伊斯兰祈愿团	Jemaah Islamiyah
+Andry Laffita	Andry Laffita
+德文语法	Tysk grammatik
+温岭	Wenling
+上海交通大學	Shanghai Jiao Tong-universitetet
+卡卡	Kaká
+南印度	Sydindien
+柏林宣言	Berlinförklaringen
+安吉	Anji
+视力	Synskärpa
+星期四岛	Torsdagsön
+陈英雄	Tran Anh Hung
+徐志摩	Xu Zhimo
+趙元任	Yuen Ren Chao
+巴彦淖尔	Bayannur
+抗真菌药	Antimykotikum
+南京路	Nanjing Lu
+意大利杂菜汤	Minestrone
+咳嗽药	Hostmedicin
+罗得乃斯脱岛	Rottnest
+萧山	Xiaoshan
+世界大婶	Mrs World
+琅琴表	Longines
+醴陵市	Liling
+奠边府战役	Slaget vid Dien Bien Phu
+如东	Rudong
+正大集团	Charoen Pokphand
+法拉备拉矮马	Falabella
+水 (2005年电影)	Water (film)
+依夫城堡	Château d'If
+皮蛋	Tusenåriga ägg
+庐山	Lushan (berg)
+必和必拓矿业公司	BHP Billiton
+零假设	Nollhypotes
+世纪报	The Age
+霍元甲 (电影)	Fearless (film)
+饺子	Jiaozi
+乃米湖	Lago di Nemi
+维杰式坦克 (印度)	Vijayanta
+广州地铁	Guangzhou Metro
+性旅游者	Sexturism
+教堂山 (北卡罗来纳州)	Chapel Hill
+启德机场	Kai Tak Airport
+昆剧	Kunqu
+意大利国家足球队	Italiens herrlandslag i fotboll
+国际先驱论坛报	International Herald Tribune
+流亡政府	Exilregering
+发声态	Fonation
+海门市	Haimen
+日本色情业	JAV
+輔仁大學	Fu Jen katolska universitet
+号子	Cell (rum)
+鹰式教练机	BAE Systems Hawk
+搿连搭罗格 (爱尔兰)	Glendalough
+快门	Slutare
+白朗	Blaupunkt
+Shooting Dogs	Shooting Dogs
+金刚	Vajra
+谥号	Postumt namn
+吴佩孚	Wu Peifu
+叶永烈	Ye Yonglie
+段祺瑞	Duan Qirui
+中法战争	Fransk-kinesiska kriget
+庙号	Tempelnamn
+台湾问题	Taiwans politiska status
+陈仪	Chen Yi (Kuomintang)
+启东	Qidong, Nantong
+奉化市	Fenghua
+西德	Västtyskland
+春卷	Vårrulle
+林世荣	Lam Tsai Wing
+林明达	Sondhi Limthongkul
+沼蛙	Hylarana guentheri
+色，戒	Lust, Caution
+鲸体爆炸事件	Exploderande val
+中子彈	Neutronbomb
+澳大利亚电信公司	Telstra Corporation
+金坛	Jintan
+上海申花足球俱乐部	Shanghai Greenland FC
+俄罗斯国家足球队	Rysslands herrlandslag i fotboll
+计程车(1998年电影)	Taxi (film)
+XUL	XUL
+蓝天处女	Virgin Australia
+現代標準漢語	Standardkinesiska
+金边粉	Pad Thai
+James Angleton	James Jesus Angleton
+大漠孤雄 (电影)	Mongol (film)
+墨尔本机场。	Melbourne Airport
+西昌卫星发射中心	Xichangs satellituppskjutningscenter
+镇	Köping (Kina)
+2008年欧洲足球冠军赛资格赛C组	Grupp C i kvalspelet till Europamästerskapet i fotboll för herrar 2008
+鲁国	Lu (stat)
+苏州码子	Suzhou-talsystemet
+克里米亚共和国	Autonoma republiken Krim
+医疗游客	Medicinsk turism
+ISO/IEC 646	ISO/IEC 646
+捷星航空	Jetstar Airways
+暖武里市	Nonthaburi (stad)
+岘港国际机场	Da Nang internationella flygplats
+国王岛	King Island
+宋卡市	Songkhla
+应召女郎	Callgirl
+北塘区	Beitang
+黑人	Svart (hudfärg)
+普腾汽车	Proton (bilmärke)
+生-丰	Saint-Fons
+码头	Kaj (sjöfart)
+购物	Shopping
+金磚四國	BRIC
+富通银行	Fortis
+远古侵略	Primeval (TV-serie)
+韶山市	Shaoshan
+Schweppes	Schweppes
+东突厥斯坦	Östturkestan
+內排国际机场	Noi Bai Internationell flygplats
+普吉市	Phuket (stad)
+F-15雷暴式战斗机	McDonnell Douglas F-15E Strike Eagle
+抗病毒药	Antiviralt medel
+國際語音學學會	International Phonetic Association
+火锅	Eldgryta
+银牌	Silvermedalj
+阿嘞白拿湖	Albanosjön
+冠军	Champion
+印度行政区人口列表	Lista över Indiens delstater efter folkmängd
+性工作者	Sexarbetare
+越捷航空	VietJet Air
+巴乃到乃	Panettone
+拉玛九世	Bhumibol Adulyadej
+外国口音综合症	Foreign accent syndrome
+卡嘞吞澳式足球俱乐部	Carlton FC
+日落大道	Sunset Boulevard
+东南亚国家杯足球比赛	ASEAN-mästerskapet i fotboll
+公主	Prinsessa
+滨湖区	Binhu
+苏丹航空公司	Sudan Airways
+阴蒂	Klitoris
+三清山	Sanqingshans nationalpark
+铜牌	Bronsmedalj
+胡志明纪念堂	Ho Chi Minh-mausoleet
+喃字	Chu nom
+坤敬市	Khon Kaen (stad)
+粥	Rissoppa
+巴亭郡	Ba Đình
+孛拉先拿湖	Braccianosjön
+金瓯机场	Ca Mau flygplats
+Debian自由软件指导方针	Debian Free Software Guidelines
+挥发性有机化合物	Lättflyktiga organiska föreningar
+吴国	Wu (stat)
+合艾国际机场	Hat Yai internationella flygplats
+帮助:目录	Wikipedia:Hjälp
+Wikipedia:Tutorial	Wikipedia:Introduktion
+澳洲电信大球场	Etihad Stadium (Melbourne)
+澎湖列岛	Pescadorerna
+申報	Shenbao
+龙游县	Longyou
+吴中区	Wuzhong, Suzhou
+印度储备银行	Indiens centralbank
+2007年友谊快线大爆炸	Attentatet mot Samjhauta Express
+泰国王家军队	Thailands försvarsmakt
+曼谷大桥	Krungthepbron
+阿根廷，勿要为奴哭泣	Don't Cry for Me Argentina
+福布斯	Forbes
+马拉浦南	Malappuram
+塔斯马尼亚州立大学	University of Tasmania
+国王湖 (维克多利亚)	Kinglake
+相城区	Xiangcheng, Suzhou
+草原	Gräsmarker
+金球奖	Golden Globe Award
+宜兴市	Yixing
+常熟	Changshu
+江阴	Jiangyin
+天长	Tianchang
+如皋市	Rugao
+江山市	Jiangshan
+浏阳市	Liuyang
+海曙区	Haishu
+新昌	Xinchang
+吴兴区	Wuxing
+香港航空	Hong Kong Airlines
+龙虾	Hummer
+常山县	Changshan
+大报恩寺（南京）	Porslinstornet i Nanjing
+宋国	Song (stat)
+泰鸟航空公司	Nok Air
+后羿	Yi (mytologisk gestalt)
+颂圣歌	Phleng Sansaroen Phra Barami
+2008年欧洲足球冠军赛资格赛A组	Grupp A i kvalspelet till Europamästerskapet i fotboll för herrar 2008
+2008年欧洲足球冠军赛资格赛E组	Grupp E i kvalspelet till Europamästerskapet i fotboll för herrar 2008
+龙井茶	Longjing-te
+中国国家博物馆	Kinas nationalmuseum
+百万富豪	Miljonär
+崇安区	Chong'an
+崇川区	Chongchuan
+河西省	Ha Tay
+2008年欧洲足球冠军赛资格赛B组	Grupp B i kvalspelet till Europamästerskapet i fotboll för herrar 2008
+手写体	Skrivstil
+人民民主联盟 (泰国)	Folkalliansen för demokrati
+韓國 (消歧義)	Korea (olika betydelser)
+迪拜大商场	Dubai Mall
+婚礼歌手	Wedding Singer
+本田爵士 (汽车)	Honda Jazz
+盛宣怀	Sheng Xuanhuai
+越国	Yue (stat)
+为泰党 (泰国)	Puea Thai
+科廷科技大学	Curtin University of Technology
+中华人民共和国国庆节	Folkrepubliken Kinas nationaldag
+2008年欧洲足球冠军赛资格赛G组	Grupp G i kvalspelet till Europamästerskapet i fotboll för herrar 2008
+2008年欧洲足球冠军赛资格赛F组	Grupp F i kvalspelet till Europamästerskapet i fotboll för herrar 2008
+2008年欧洲足球冠军赛资格赛D组	Grupp D i kvalspelet till Europamästerskapet i fotboll för herrar 2008
+孛相	Lek
+1931年个江淮大水	Översvämningskatastrofen i Kina 1931
+还剑湖	Hoan Kiem (sjö)
+泾县	Jing, Xuancheng
+惠山区	Huishan
+阿含经	Agama
+岱山县	Daishan
+当涂县	Dangtu
+侬	Du
+蒙古	Mongoliet (olika betydelser)
+法国人口	Frankrikes demografi
+梅林	Merlin (TV-serie)
+法师旅馆 (日本)	Hoshi Ryokan
+全椒县	Quanjiao
+湘乡市	Xiangxiang
+定海区	Dinghai
+机场	Flygplats
+勾践	Goujian
+伍子胥	Wu Zixu
+夫差	Fuchai av Wu
+朱温	Zhu Wen (senare Liangdynastin)
+阖闾	Helü av Wu
+土星运载火箭	Saturn (raketserie)
+核放射事故	Lista över civila kärnkraftsolyckor
+果敢	Kokang
+办酒窠	Mamma, pappa, barn
+泰国人民反独裁民主联盟	Demokratiska alliansen mot diktatur
+乔石	Qiao Shi
+南潯區	Nanxun
+南湖区	Nanhu
+嵊泗縣	Shengsi
+衢江区	Qujiang, Quzhou
+中山陵	Sun Yat-sens mausoleum
+澳大利亚偶像唱歌比赛	Australian Idol
+通州市	Tongzhou, Nantong
+港闸区	Gangzha
+开县	Kai, Chongqing
+扬中市	Yangzhong
+锡山区	Xishan, Wuxi
+乌镇	Wuzhen
+开化县	Kaihua
+吴江区	Wujiang, Suzhou
+海安县	Hai'an
+玉环县	Yuhuan
+柯城区	Kecheng
+路桥	Luqiao
+南长区	Nanchang, Wuxi
+凡合乃从	Vernaison
+分类:德国	Kategori:Tyskland
+分类:意大利	Kategori:Italien
+分类:美国	Kategori:USA
+分类:俄罗斯	Kategori:Ryssland
+分类:英国	Kategori:Storbritannien
+分类:西班牙	Kategori:Spanien
+分类:中国	Kategori:Kina
+分类:日本	Kategori:Japan
+分类:澳大利亚	Kategori:Australien
+分类:墨西哥	Kategori:Mexiko
+分类:印度	Kategori:Indien
+分类:阿根廷	Kategori:Argentina
+门牌号码	Husnummer
+富国国际机场	Phu Quoc Internationell flygplats
+密封剂	Fogmassa
+分类:印度尼西亚	Kategori:Indonesien
+分类:乃特朗特	Kategori:Nederländerna
+分类:新加坡	Kategori:Singapore
+分类:韩国	Kategori:Sydkorea
+分类:泰国	Kategori:Thailand
+分类:越南	Kategori:Vietnam
+分类:哺乳动物	Kategori:Däggdjur
+分类:植物	Kategori:Växter
+分类:物理	Kategori:Fysik
+分类:生物学	Kategori:Biologi
+分类:化学	Kategori:Kemi
+分类:历史	Kategori:Historia
+分类:地理	Kategori:Geografi
+分类:社会	Kategori:Samhälle
+分类:宗教	Kategori:Religion
+分类:体育运动	Kategori:Sport
+分类:科学	Kategori:Vetenskap
+分类:电影	Kategori:Film
+分类:建筑物	Kategori:Byggnader
+澳洲人报	The Australian
+中国宗教	Kinesisk religion
+乡	Socken (Kina)
+西芳寺	Saihoji
+素岳寺	Wat Phrathat Doi Suthep
+弹跳城堡	Hoppborg
+哈里·尼古拉德斯	Harry Nicolaides
+樟宜	Changi
+神舟十号	Shenzhou 10
+巴士底獄	Bastiljen
+马里斯维嘞 (维克多利亚)	Marysville, Victoria
+官恩娜	Ella Koon
+定向圖	Orienteringskarta
+分类:消歧义	Kategori:Förgreningssidor
+分类:佛教	Kategori:Buddhism
+分类:基督教	Kategori:Kristendom
+分类:伊斯兰教	Kategori:Islam
+蓝星行动 (印度)	Massakern i Gyllene templet
+江孜	Gyantse
+萨斯系统	SAS System
+华东师范大学	East China Normal University
+渠	Dike
+运动员	Atlet
+表字	Stilnamn
+The Triffids (乐队)	The Triffids
+吴	Wu
+艾士菲 (新南威尔士州)	Ashfield, New South Wales
+女阴	Vulva
+Bochotnica	Bochotnica
+堤岸 (越南)	Cholon
+背越式	Fosbury-flopp
+小小马鞍子	Stallkompisar (TV-serie)
+选美	Skönhetstävling
+分类:未完个文章	Kategori:Stubbar
+分类:维基百科分类	Kategori:Wikipedia:Strukturering
+分类:维基百科管理	Kategori:Wikipedia:Administration
+分类:文化	Kategori:Kultur
+分类:大洲	Kategori:Världsdelar
+分类:地质学	Kategori:Geologi
+高棉日报	Cambodia Daily
+Wikipedia:Selected anniversaries	Wikipedia:Dagens händelser
+Wikipedia:命名常规	Wikipedia:Artikelnamn
+剃刀	Rakhyvel
+淮海路	Huaihaigatan
+Portal:地理	Portal:Geografi
+春运	Chunyun
+可口可乐公司	The Coca-Cola Company
+Wikipedia:HotCat	Wikipedia:Hotcat
+菲兹洛伊花园	Fitzroy Gardens
+分类:维基百科机器人	Kategori:Wikipedia:Robotar
+Cooliris	PicLens
+Portal:艺术	Portal:Konst
+分类:美国人	Kategori:Amerikaner
+分类:演员	Kategori:Skådespelare
+分类:英国人	Kategori:Britter
+分类:法国人	Kategori:Fransmän
+模板:Tl	Mall:Mall
+模板:Userbox	Mall:Användarbox
+模板:Itn	Portal:Huvudsida/Aktuella händelser
+Wikipedia:问题	Wikipedia:Wikipediafrågor
+分类:自由软件	Kategori:Fri programvara och öppen källkod
+分类:国家	Kategori:Världens länder
+Wikipedia:Changing username	Wikipedia:Byte av användarnamn
+Wikipedia:管理员	Wikipedia:Administratörer
+分类:人物	Kategori:Personer
+分类:职业	Kategori:Yrken
+分类:各行各业个人	Kategori:Personer efter verksamhetsområde
+Wikipedia:机器人	Wikipedia:Robotar
+分类:工程學	Kategori:Ingenjörsvetenskap
+Wikipedia:100个核心页面	Wikipedia:100 viktiga artiklar
+Wikipedia:AutoWikiBrowser	Wikipedia:AutoWikiBrowser
+分类:医学	Kategori:Medicin
+分类:政治	Kategori:Politik
+分类:教育	Kategori:Utbildning
+分类:光学	Kategori:Optik
+分类:艺术	Kategori:Konst
+马来西亚伊斯兰银行	Bank Islam Malaysia
+埃及	Egypten
+Wikipedia:手傀儡	Wikipedia:Marionetter
+Wikipedia:Categorization	Wikipedia:Strukturering
+模板:Bot	Mall:Bot
+加拿大	Kanada
+分类:倍尔奇姆	Kategori:Belgien
+分类:捷克	Kategori:Tjeckien
+Wikipedia:版权	Wikipedia:Upphovsrätt
+Wikipedia:关于	Wikipedia:Om
+分类:电子游戏	Kategori:Datorspel
+分类:游戏	Kategori:Spel
+工业工程	Industriell ekonomi
+帮助:編輯摘要	Wikipedia:Sammanfattningsfältet
+Portal:科学	Portal:Naturvetenskap
+模板:Flagicon	Mall:Flaggbild
+分类:欧洲国家	Kategori:Europas länder
+分类:欧洲	Kategori:Europa
+Wikipedia:Subpages	Wikipedia:Undersidor
+Wikipedia:近段辰光个事体	Portal:Aktuella händelser
+模板:Documentation	Mall:Dokumentation
+Wikipedia:User access levels	Wikipedia:Typer av användare
+分类:已保护页面	Kategori:Wikipedia:Skrivskydd
+Wikipedia:聊天频道	Wikipedia:IRC
+分类:维基人	Kategori:Wikipedia:Användare
+Wikipedia:社区门堂	Wikipedia:Deltagarportalen
+分类:User by languages	Kategori:Användare efter språk
+帮助:用词指南	Wikipedia:Undvik försåtliga referenser
+模板:Soft redirect	Mall:Mjuk omdirigering
+模板:Delete	Mall:Radera
+分类:维基百科版权	Kategori:Wikipedia:Upphovsrätt
+分类:技术	Kategori:Teknologi
+卫星天线	Parabolantenn
+分类:言话	Kategori:Språk
+分类:历法	Kategori:Kalendrar
+分类:维基百科	Kategori:Wikipedia
+分类:各样言话个维基百科	Kategori:Wikipediautgåvor
+分类:朆索引个页	Kategori:Icke-indexerade sidor
+分类:有无用文件链接个页	Kategori:Sidor med trasiga fillänkar
+Wikipedia:模板消息	Wikipedia:Meddelandemall
+分类:現在正發生個事體	Kategori:Pågående
+分类:欧洲城市	Kategori:Städer i Europa
+Wikipedia:維基休息	Wikipedia:Vit vecka
+模板:Navbox	Mall:Navbox
+模板:Fact	Mall:Källa behövs
+分类:維基百科維護	Kategori:Kvalitetskontroll
+分类:泰国网球运动员	Kategori:Thailändska tennisspelare
+寺	Buddhistiska tempel
+模板:Error	Mall:Error
+模板:!	Mall:!
+模板:((	Mall:((
+模板:))	Mall:))
+模板:!!	Mall:!!
+模板:=	Mall:=
+模板:Tnavbar	Mall:Navbar
+模板:Unicode	Mall:Unicode
+模板:Transclude	Mall:Transclude
+模板:Small	Mall:Small
+模板:Clear	Mall:Clear
+模板:Col-break	Mall:Col-break
+模板:Col-begin	Mall:Col-begin
+模板:Col-end	Mall:Col-end
+模板:Nowrap	Mall:Nowrap
+模板:Bots	Mall:Bots
+Wikipedia:必有个页面	Wikipedia:Artiklar som bör finnas på Wikipedia
+分类:非洲	Kategori:Afrika
+分类:數字	Kategori:Tal
+分类:电子学	Kategori:Elektronik
+分类:书	Kategori:Böcker
+模板:Wikisource	Mall:Wikisource
+模板:Babel	Mall:Babel
+模板:Commons	Mall:Commons
+模板:Link GA	Mall:Link GA
+模板:AFG	Mall:AFG
+Wikipedia:列明來源	Wikipedia:Källhänvisningar
+模板:Stub	Mall:Stub
+模板:See also	Mall:Se även
+模板:User de	Mall:Användare de
+模板:User de-1	Mall:Användare de-1
+模板:User es	Mall:Användare es
+模板:User de-3	Mall:Användare de-3
+模板:User en-3	Mall:Användare en-3
+模板:User en-1	Mall:Användare en-1
+模板:User en-2	Mall:Användare en-2
+模板:User en-4	Mall:Användare en-4
+模板:User en	Mall:Användare en
+模板:User de-2	Mall:Användare de-2
+模板:User es-1	Mall:Användare es-1
+模板:User fa	Mall:Användare fa
+模板:User fr-1	Mall:Användare fr-1
+分类:各国个文化	Kategori:Kultur efter land
+分类:物质	Kategori:Materia
+模板:User ja-4	Mall:Användare ja-4
+模板:User sk	Mall:Användare sk
+模板:User fr-2	Mall:Användare fr-2
+模板:User ja	Mall:Användare ja
+模板:User ja-1	Mall:Användare ja-1
+模板:User it-1	Mall:Användare it-1
+模板:User fr	Mall:Användare fr
+模板:Unsigned	Mall:Signatur
+模板:HRV	Mall:HRV
+分类:亚洲	Kategori:Asien
+分类:智利	Kategori:Chile
+分类:21世紀	Kategori:2000-talet
+分类:User uk	Kategori:Användare uk
+分类:南美洲	Kategori:Sydamerika
+分类:User uk-N	Kategori:Användare uk-N
+模板:Intricate template	Mall:Komplicerad kod
+分类:马来西亚	Kategori:Malaysia
+分类:食物	Kategori:Mat
+分类:足球	Kategori:Fotboll
+模板:Mod	Mall:Mod
+模板:User uk	Mall:Användare uk
+模板:User es-2	Mall:Användare es-2
+模板:WikipediaSister	Mall:Wikipediasystrar
+模板:USA	Mall:USA
+分类:年历	Kategori:Almanackor
+分类:组织	Kategori:Organisationer
+分类:语言学	Kategori:Lingvistik
+模板:ITA	Mall:ITA
+模板:GEO	Mall:GEO
+分类:鏈接模板	Kategori:Länkmallar
+模板:MEX	Mall:MEX
+分类:User fr-1	Kategori:Användare fr-1
+模板:Wikiquote	Mall:Wikiquote
+模板:Image label	Mall:Image label
+模板:Category other	Mall:Kategori annan
+模板:Translated page	Mall:Översatt
+模板:MAR	Mall:MAR
+模板:Ja icon	Mall:Ja ikon
+模板:PSE	Mall:PSE
+模板:Sidebar	Mall:Sidebar
+模板:Es icon	Mall:Es ikon
+模板:Ambox	Mall:Ambox
+模板:Update	Mall:Inaktuell
+模板:SVK	Mall:SVK
+模板:EGY	Mall:EGY
+模板:KGZ	Mall:KGZ
+模板:Infobox School	Mall:Infobox skola
+模板:ISR	Mall:ISR
+模板:Nobel Prize in Physics	Mall:Nobelpristagare i fysik
+模板:Infobox Country	Mall:Landsfakta
+模板:VEN	Mall:VEN
+模板:Airline infobox	Mall:Flygbolag
+模板:Wide image	Mall:Panorama
+模板:UKR	Mall:UKR
+模板:Px	Mall:Px
+模板:好哉	Mall:Utfört
+模板:Audio	Mall:Audio
+模板:PHL	Mall:PHL
+模板:ROU	Mall:ROU
+模板:BHR	Mall:BRN
+模板:TUR	Mall:TUR
+模板:Expand section	Mall:Stubavsnitt
+模板:清理	Mall:Städa
+模板:DJI	Mall:DJI
+模板:Infobox university	Mall:Universitet
+模板:Wikibooks	Mall:Wikibooks
+模板:S-after	Mall:S-aft
+分类:巴黎	Kategori:Paris
+分类:User en-4	Kategori:Användare en-4
+分类:User en	Kategori:Användare en
+分类:User zh	Kategori:Användare zh
+分类:User zh-N	Kategori:Användare zh-N
+分类:User en-2	Kategori:Användare en-2
+模板:Infobox	Mall:Faktamall
+模板:Right TOC	Mall:TOChöger
+模板:Main other	Mall:Artikel annan
+模板:User zh	Mall:Användare zh
+模板:Template other	Mall:Mall annan
+模板:Legend	Mall:Legend
+模板:Cite web	Mall:Webbref
+模板:Youtube	Mall:Youtube
+模板:Current	Mall:Pågående
+分类:軍事裝備	Kategori:Militär utrustning
+模板:IMDb title	Mall:IMDb-titel
+模板:国际足球	Mall:Internationell fotboll
+模板:User ru-4	Mall:Användare ru-4
+分类:饮食	Kategori:Mat och dryck
+模板:Coor URL	Mall:Coor URL
+模板:Wiktionary	Mall:Wiktionary
+薄拉特	Borat Sagdijev
+模板:Languageicon	Mall:Språkikon
+分类:英国个博物馆	Kategori:Museer i Storbritannien
+模板:大韩民国行政区划	Mall:Sydkorea
+Wikipedia:Selected anniversaries/October 3	Mall:3 oktober
+分类:总统	Kategori:Presidenter
+模板:User ru	Mall:Användare ru
+分类:20世紀	Kategori:1900-talet
+模板:IPA	Mall:IPA
+分类:美洲	Kategori:Amerika
+模板:Otheruses	Mall:Olika betydelser
+韩邦庆	Han Bangqing
+分类:各国个人	Kategori:Personer efter nationalitet
+模板:Did you know	Portal:Huvudsida/Visste du att
+模板:MONTHNAME	Mall:MÅNADSNAMN
+Wikipedia:GNU自由文档许可证文本	Wikipedia:Texten till GNU Free Documentation License
+模板:CPV	Mall:CPV
+模板:Death date and age	Mall:Död datum och ålder
+模板:Infobox Model	Mall:Infobox fotomodell
+模板:(	Mall:(
+分类:人物小作品	Kategori:Personstubbar
+模板:)	Mall:)
+分类:作家	Kategori:Författare
+分类:軍事	Kategori:Militärväsen
+模板:Hidden begin	Mall:Hidden begin
+模板:Talkback	Mall:Talkback
+模板:MYS	Mall:MAS
+模板:TJK	Mall:TJK
+模板:Infobox Website	Mall:Infobox webbplats
+模板:Image label end	Mall:Image label end
+模板:Documentation subpage	Mall:Dokumentationssida
+模板:Winners	Mall:Winners
+模板:Ref label	Mall:Ref label
+模板:GHA	Mall:GHA
+模板:Uncategorized	Mall:Okategoriserad
+模板:IDN	Mall:IDN
+模板:ZAF	Mall:RSA
+模板:POL	Mall:POL
+模板:Oldid	Mall:Permalink
+模板:URY	Mall:URU
+模板:CUB	Mall:CUB
+模板:CMR	Mall:CMR
+模板:BIH	Mall:BIH
+模板:FIN	Mall:FIN
+模板:CAN	Mall:CAN
+模板:Purge	Mall:Rensa
+模板:Infobox Cyrillic	Mall:Kyrilliska alfabetet
+模板:Dead link	Mall:Död länk
+分类:跨性别	Kategori:Transpersoner
+模板:Provinces of China	Mall:Kina
+模板:SAU	Mall:SAU
+模板:Userpage	Mall:Wikipediaanvändare
+模板:BEN	Mall:BEN
+模板:SWE	Mall:SWE
+模板:Note label	Mall:Note label
+分类:中国个建筑	Kategori:Arkitektur i Kina
+模板:User	Mall:Anv-data
+模板:YEM	Mall:YEM
+模板:Spoken Wikipedia	Mall:Talad artikel
+模板:Lorem ipsum	Mall:Lorem ipsum
+分类:越南机场	Kategori:Flygplatser i Vietnam
+模板:Note	Mall:Note
+分类:公司	Kategori:Företag
+模板:Footballbox	Mall:Resultat
+模板:Renameuser	Mall:Byt namn
+模板:CIA World Factbook link	Mall:CIA World Factbook link
+模板:Image label small	Mall:Image label small
+模板:Iaaf name	Mall:IAAF-namn
+模板:瑞士城市	Mall:Faktaruta kommun Schweiz
+模板:Japanese	Mall:Nihongo
+模板:User fr-3	Mall:Användare fr-3
+模板:UEFA	Mall:Europamästerskapet i fotboll
+模板:Infobox Military Unit	Mall:Militär enhet
+模板:IMDb name	Mall:IMDb-namn
+模板:Ar icon	Mall:Ar ikon
+模板:ABW	Mall:ABW
+分类:突尼斯	Kategori:Tunisien
+模板:Th	Mall:Th ikon
+模板:S-title	Mall:S-ttl
+模板:JPN	Mall:JPN
+分类:韩国电视	Kategori:Television i Sydkorea
+模板:Cmbox	Mall:Cmbox
+模板:PAN	Mall:PAN
+模板:SOM	Mall:SOM
+模板:SWZ	Mall:SWZ
+模板:Infobox Spacecraft	Mall:Rymdsond
+模板:PAK	Mall:PAK
+模板:User nds-1	Mall:Användare nds-1
+模板:S-before	Mall:S-bef
+模板:ISL	Mall:ISL
+模板:COL	Mall:COL
+模板:ERI	Mall:ERI
+模板:Pagetype	Mall:Namntyp
+模板:GAB	Mall:GAB
+模板:IRN	Mall:IRN
+模板:MLI	Mall:MLI
+模板:JOR	Mall:JOR
+模板:NAM	Mall:NAM
+模板:CAF	Mall:CAF
+模板:MKD	Mall:MKD
+模板:KAZ	Mall:KAZ
+模板:PER	Mall:PER
+模板:MOZ	Mall:MOZ
+模板:SUR	Mall:SUR
+模板:GUY	Mall:GUY
+模板:ETH	Mall:ETH
+模板:HKG	Mall:HKG
+模板:NGA	Mall:NGA
+模板:PRK	Mall:PRK
+模板:NIC	Mall:NIC
+模板:LBR	Mall:LBR
+模板:TKM	Mall:TKM
+模板:THA	Mall:THA
+模板:BFA	Mall:BFA
+模板:PRY	Mall:PRY
+模板:ECU	Mall:ECU
+模板:MDV	Mall:MDV
+模板:SLE	Mall:SLE
+模板:LTU	Mall:LTU
+模板:IND	Mall:IND
+模板:MAC	Mall:MAC
+模板:User fr-0	Mall:Användare fr-0
+分类:User ja-N	Kategori:Användare ja-N
+分类:用戶名字空間模板	Kategori:Användarmallar
+模板:CHE	Mall:CHE
+分类:社会阶层	Kategori:Samhällsklasser
+分类:印度电影	Kategori:Indisk film
+模板:Hidden end	Mall:Hidden end
+模板:Disambiguation	Mall:Förgrening
+分类:公共交通	Kategori:Kollektivtrafik
+分类:中东	Kategori:Mellanöstern
+分类:报纸	Kategori:Tidningar
+模板:Para	Mall:Para
+模板:Fb	Mall:Hff
+分类:維基百科元模板	Kategori:Metamallar
+模板:LAO	Mall:LAO
+模板:PRT	Mall:POR
+模板:User ksh	Mall:Användare ksh
+模板:User zh-yue-3	Mall:Användare zh-yue-3
+模板:AUS	Mall:AUS
+模板:User zh-yue-1	Mall:Användare zh-yue-1
+模板:CZE	Mall:CZE
+模板:AZE	Mall:AZE
+模板:Infobox Film	Mall:Filmfakta
+分类:语言标示模板	Kategori:Språkmallar
+分类:甜品	Kategori:Desserter
+分类:新加坡个机场	Kategori:Flygplatser i Singapore
+模板:WAD	Mall:WAD
+模板:KHM	Mall:KHM
+模板:NLD	Mall:NLD
+模板:Resize	Mall:Resize
+模板:辅音	Mall:Pulmoniska konsonanter
+模板:VNM	Mall:VNM
+模板:LIE	Mall:LIE
+模板:SEN	Mall:SEN
+模板:NZL	Mall:NZL
+分类:广州	Kategori:Guangzhou
+模板:KOR	Mall:KOR
+分类:各类电影	Kategori:Filmer efter genre
+模板:!(	Mall:!(
+分类:中国外交官	Kategori:Kinesiska diplomater
+模板:NATO	Mall:NATO
+分类:生物	Kategori:Organismer
+模板:De icon	Mall:De ikon
+模板:SVN	Mall:SLO
+模板:LBN	Mall:LIB
+模板:FRA	Mall:FRA
+模板:Hang on	Mall:Låtvara
+模板:Infobox Biography	Mall:Infobox biografi
+分类:蒙古	Kategori:Mongoliet
+模板:InterWiki	Mall:Interwiki
+分类:泰国个大学	Kategori:Universitet och högskolor i Thailand
+分类:澳大利亚个报纸	Kategori:Australiska tidningar
+分类:历年个电影	Kategori:Filmer indelade efter år
+分类:美国黑人	Kategori:Afroamerikaner
+模板:Chem-stub	Mall:Kemistub
+模板:Thailand-stub	Mall:Thailandstub
+分类:1992年个歌曲	Kategori:Sånger 1992
+分类:姊妹计划链接模板	Kategori:Interwikimallar
+模板:User la-1	Mall:Användare la-1
+模板:APEC	Mall:Apec
+模板:歐洲行政區劃	Mall:Europa
+分类:模板說明文檔	Kategori:Malldokumentation
+分类:User zh-yue	Kategori:Användare zh-yue
+分类:User sk	Kategori:Användare sk
+分类:User fr	Kategori:Användare fr
+分类:User ja	Kategori:Användare ja
+分类:User la	Kategori:Användare la
+分类:User fr-3	Kategori:Användare fr-3
+分类:User fr-2	Kategori:Användare fr-2
+分类:User ja-2	Kategori:Användare ja-2
+分类:User la-2	Kategori:Användare la-2
+分类:User ko-N	Kategori:Användare ko-N
+分类:User fr-N	Kategori:Användare fr-N
+分类:User nl-N	Kategori:Användare nl-N
+分类:User ru-N	Kategori:Användare ru-N
+分类:泰国拳击运动员	Kategori:Thailändska boxare
+分类:政治经济学	Kategori:Politisk ekonomi
+模板:User zh-yue	Mall:Användare zh-yue
+分类:文字	Kategori:Skrift
+分类:岛	Kategori:Öar
+分类:广平省	Kategori:Quang Binh
+分类:User sk-N	Kategori:Användare sk-N
+分类:User de	Kategori:Användare de
+分类:User de-2	Kategori:Användare de-2
+分类:User de-3	Kategori:Användare de-3
+分类:User de-4	Kategori:Användare de-4
+分类:User de-N	Kategori:Användare de-N
+分类:User en-3	Kategori:Användare en-3
+分类:User en-N	Kategori:Användare en-N
+分类:User es	Kategori:Användare es
+分类:User es-1	Kategori:Användare es-1
+分类:User es-2	Kategori:Användare es-2
+分类:User es-N	Kategori:Användare es-N
+分类:首尔	Kategori:Seoul
+分类:日本模板	Kategori:Japanmallar
+模板:User la-3	Mall:Användare la-3
+分类:阿德来得	Kategori:Adelaide
+分类:法国个公园	Kategori:Parker i Frankrike
+分类:各国个公园	Kategori:Parker efter land
+分类:各国个政治	Kategori:Politik efter land
+模板:Multiple image	Mall:Multiple image
+分类:User it	Kategori:Användare it
+分类:User it-1	Kategori:Användare it-1
+分类:User ja-1	Kategori:Användare ja-1
+分类:User ko	Kategori:Användare ko
+分类:美国州	Kategori:USA:s delstater
+分类:User ksh	Kategori:Användare ksh
+分类:User ksh-N	Kategori:Användare ksh-N
+分类:User la-1	Kategori:Användare la-1
+分类:User la-3	Kategori:Användare la-3
+分类:澳大利亚地理	Kategori:Australiens geografi
+感谢倷	Thank You
+分类:火山	Kategori:Vulkaner
+模板:NOR	Mall:NOR
+模板:He icon	Mall:He ikon
+分类:天气	Kategori:Väder
+分类:日本个县	Kategori:Japans prefekturer
+模板:BRA	Mall:BRA
+分类:User ru-1	Kategori:Användare ru-1
+Wikipedia:巴别	Wikipedia:Babel
+模板:Humor	Mall:Humor
+分类:北京人	Kategori:Personer från Peking
+分类:化学小作品	Kategori:Kemistubbar
+分类:各国个军事	Kategori:Militärväsen efter land
+模板:TUN	Mall:TUN
+分类:日本地方	Kategori:Japans regioner
+分类:海	Kategori:Hav
+分类:泰国模板	Kategori:Thailandmallar
+分类:工具书	Kategori:Referenslitteratur
+分类:计算机科学	Kategori:Datavetenskap
+分类:User nds	Kategori:Användare nds
+分类:User nds-1	Kategori:Användare nds-1
+模板:LUX	Mall:LUX
+分类:神奈川县	Kategori:Kanagawa prefektur
+分类:福岛县	Kategori:Fukushima prefektur
+分类:广东省	Kategori:Guangdong
+分类:安徽	Kategori:Anhui
+分类:江西省	Kategori:Jiangxi
+分类:江苏省	Kategori:Jiangsu
+分类:经济	Kategori:Ekonomi
+模板:Title without disambig	Mall:Exkludera särskiljning
+分类:饮料	Kategori:Drycker
+分类:1980年代出生	Kategori:Födda 1980-talet
+分类:社会科学	Kategori:Samhällsvetenskap
+分类:办拉路斯	Kategori:Vitryssland
+分类:苏州人	Kategori:Personer från Suzhou
+分类:中国电影	Kategori:Kinesisk film
+分类:澳大利亚教育	Kategori:Utbildning i Australien
+分类:非洲国家	Kategori:Afrikas länder
+分类:各国教育	Kategori:Utbildning efter land
+模板:(((	Mall:(((
+模板:)!	Mall:)!
+模板:)))	Mall:)))
+Wikipedia:AutoWikiBrowser/Typos	Wikipedia:AutoWikiBrowser/Typos
+模板:User ru-2	Mall:Användare ru-2
+分类:科幻片	Kategori:Science fiction-filmer
+分类:User ru	Kategori:Användare ru
+分类:User ru-2	Kategori:Användare ru-2
+分类:User ru-4	Kategori:Användare ru-4
+分类:User zh-yue-1	Kategori:Användare zh-yue-1
+分类:User zh-yue-3	Kategori:Användare zh-yue-3
+模板:En icon	Mall:En ikon
+分类:浙江省	Kategori:Zhejiang
+模板:!((	Mall:!((
+模板:))!	Mall:))!
+模板:Lang	Mall:Lang
+分类:泰国电影	Kategori:Thailändska filmer
+分类:社会学	Kategori:Sociologi
+模板:IRL	Mall:IRL
+分类:1981年出生	Kategori:Födda 1981
+分类:1986年出生	Kategori:Födda 1986
+模板:ALB	Mall:ALB
+模板:AND	Mall:AND
+模板:ARG	Mall:ARG
+模板:ARM	Mall:ARM
+模板:Africa-stub	Mall:Afrikastub
+分类:美国慈善家	Kategori:Amerikanska filantroper
+分类:各国个电影	Kategori:Film efter nationalitet
+分类:人类	Kategori:Människor
+分类:分類名字空間模板	Kategori:Kategorimallar
+模板:Car-stub	Mall:Bilstub
+模板:BDI	Mall:BDI
+模板:BLR	Mall:BLR
+模板:CIV	Mall:CIV
+模板:CRI	Mall:CRI
+模板:CHY	Mall:CYP
+分类:泰国交通	Kategori:Transport i Thailand
+模板:Fr	Mall:Fr ikon
+模板:Ko icon	Mall:Ko ikon
+分类:法国铁路	Kategori:Järnväg i Frankrike
+分类:1951年个电影	Kategori:Filmer 1951
+模板:物理学粒子	Mall:Navigationsruta partiklar
+分类:佛罗里达州	Kategori:Florida
+模板:EST	Mall:EST
+分类:泰国政党	Kategori:Politiska partier i Thailand
+Wikipedia:Lua	Wikipedia:Lua
+分类:大規模殺傷性武器	Kategori:Massförstörelsevapen
+模板:QAT	Mall:QAT
+模板:RUS	Mall:RUS
+模板:AUT	Mall:AUT
+模板:History-stub	Mall:Historiestub
+分类:2005年个歌曲	Kategori:Sånger 2005
+分类:动作片	Kategori:Actionfilmer
+模板:CHL	Mall:CHL
+分类:英语电影	Kategori:Engelskspråkiga filmer
+模板:SYR	Mall:SYR
+模板:CHN	Mall:CHN
+模板:Switzerland-stub	Mall:Schweizstub
+分类:所有页面需要清理	Kategori:Städa
+模板:IRQ	Mall:IRQ
+模板:Citation/core	Mall:Citation/core
+分类:法国交通	Kategori:Transport i Frankrike
+分类:澳大利亚个湖	Kategori:Insjöar i Australien
+分类:各国经济	Kategori:Ekonomi efter land
+分类:各国个报纸	Kategori:Tidningar efter geografiskt område
+分类:各国个银行	Kategori:Banker efter land
+分类:各国个地震	Kategori:Jordbävningar efter land
+分类:韩国政治	Kategori:Politik i Sydkorea
+分类:澳大利亚个政治	Kategori:Politik i Australien
+分类:泰国政治	Kategori:Politik i Thailand
+分类:越南经济	Kategori:Vietnams ekonomi
+分类:柬埔寨经济	Kategori:Kambodjas ekonomi
+分类:朝鲜民主主义人民共和国政治	Kategori:Politik i Nordkorea
+分类:泰国经济	Kategori:Thailands ekonomi
+模板:Infobox Language/family-color	Mall:Språk/familj-färg
+分类:澳大利亚体育运动	Kategori:Sport i Australien
+分类:泰国体育	Kategori:Sport i Thailand
+分类:澳大利亚足球	Kategori:Fotboll i Australien
+分类:河	Kategori:Vattendrag
+模板:User ko	Mall:Användare ko
+模板:User la-2	Mall:Användare la-2
+模板:User ru-1	Mall:Användare ru-1
+分类:韩国交通	Kategori:Transport i Sydkorea
+分类:中国交通	Kategori:Transport i Kina
+分类:世界各国个博物馆	Kategori:Museer efter land
+分类:马来西亚经济	Kategori:Malaysias ekonomi
+分类:泰国军事	Kategori:Thailands militär
+分类:菲律宾模板	Kategori:Filippinernamallar
+模板:Multi-listen end	Mall:Multi-listen end
+分类:澳大利亚个交通	Kategori:Transport i Australien
+分类:蘇聯政治家	Kategori:Sovjetiska politiker
+分类:日本教育	Kategori:Utbildning i Japan
+分类:泰国教育	Kategori:Utbildning i Thailand
+分类:韩国人	Kategori:Sydkoreaner
+分类:台湾人	Kategori:Taiwaneser
+分类:菲律宾	Kategori:Filippinerna
+分类:各行业澳大利亚人	Kategori:Australier efter yrke
+分类:马来西亚歌手	Kategori:Malaysiska sångare
+分类:泰国歌星	Kategori:Thailändska sångare
+分类:User nl	Kategori:Användare nl
+分类:User zh-1	Kategori:Användare zh-1
+分类:User zh-4	Kategori:Användare zh-4
+分类:User zh-3	Kategori:Användare zh-3
+分类:User zh-2	Kategori:Användare zh-2
+分类:力学	Kategori:Mekanik
+分类:不丹	Kategori:Bhutan
+分类:澳大利亚跳水运动员	Kategori:Australiska simhoppare
+分类:印度模特	Kategori:Indiska fotomodeller
+分类:印度科学技术	Kategori:Vetenskap i Indien
+分类:泰国旅游	Kategori:Turism i Thailand
+分类:中国演员	Kategori:Kinesiska skådespelare
+分类:泰国演员	Kategori:Thailändska skådespelare
+分类:澳大利亚游泳运动员	Kategori:Australiska simmare
+分类:电视	Kategori:Television
+分类:中国诗人	Kategori:Kinesiska poeter
+分类:蘇聯外敎官	Kategori:Sovjetiska diplomater
+分类:印度演员	Kategori:Indiska skådespelare
+分类:中国田径运动员	Kategori:Kinesiska friidrottare
+分类:澳大利亚脚踏车运动员	Kategori:Australiska tävlingscyklister
+分类:泰国运动员	Kategori:Thailändska idrottare
+分类:中国运动员	Kategori:Kinesiska idrottare
+分类:泰国府	Kategori:Thailands provinser
+分类:海滩	Kategori:Stränder
+分类:泰国个海滩	Kategori:Stränder i Thailand
+分类:柬埔寨人	Kategori:Kambodjaner
+分类:泰国政治人物	Kategori:Thailändska politiker
+分类:香港人	Kategori:Personer från Hongkong
+分类:泰国人	Kategori:Thailändare
+分类:意大利个湖	Kategori:Insjöar i Italien
+分类:光学仪器	Kategori:Optiska instrument
+分类:机场	Kategori:Flygplatser
+分类:泰国机场	Kategori:Flygplatser i Thailand
+分类:日本个机场	Kategori:Flygplatser i Japan
+分类:化学元素	Kategori:Grundämnen
+分类:澳大利亚运动员	Kategori:Australiska idrottare
+分类:香港演员	Kategori:Skådespelare från Hong Kong
+分类:环球小姐	Kategori:Miss Universum
+分类:不丹总理	Kategori:Bhutans regeringschefer
+分类:澳大利亚总理	Kategori:Australiens premiärministrar
+分类:泰国总理	Kategori:Thailands premiärministrar
+分类:地理小作品	Kategori:Geografistubbar
+分类:饮食小作品	Kategori:Matstubbar
+分类:朝鲜	Kategori:Nordkorea
+分类:柬埔寨	Kategori:Kambodja
+分类:澳大利亚人	Kategori:Australier
+分类:中国人	Kategori:Kineser
+分类:台湾歌手	Kategori:Taiwanesiska sångare
+分类:韩国演员	Kategori:Sydkoreanska skådespelare
+分类:蘇聯作家	Kategori:Sovjetiska författare
+分类:中国历史	Kategori:Kinas historia
+分类:不丹国王	Kategori:Bhutans kungligheter
+分类:老挝	Kategori:Laos
+分类:缅甸	Kategori:Burma
+分类:台湾	Kategori:Taiwan
+分类:法国演员	Kategori:Franska skådespelare
+分类:電影模板	Kategori:Filmmallar
+分类:爱尔兰模板	Kategori:Irlandsmallar
+分类:伊朗模板	Kategori:Iranmallar
+分类:英国模板	Kategori:Storbritannienmallar
+分类:美国模板	Kategori:USA-mallar
+分类:中国古代朝代	Kategori:Kinesiska kungahus
+分类:多語言支援模板	Kategori:Flerspråkiga stödmallar
+分类:新加坡模板	Kategori:Singaporemallar
+分类:法国模板	Kategori:Frankrikemallar
+分类:越南模板	Kategori:Vietnammallar
+分类:加拿大模板	Kategori:Kanadamallar
+分类:马来西亚模板	Kategori:Malaysiamallar
+分类:維基百科工具模板	Kategori:Verktygsmallar
+分类:香港模板	Kategori:Hongkongmallar
+分类:泰国个公司	Kategori:Thailändska företag
+分类:马来西亚公司	Kategori:Malaysiska företag
+分类:常州人	Kategori:Personer från Changzhou
+分类:陕西人	Kategori:Personer från Shaanxi
+分类:安徽人	Kategori:Personer från Anhui
+分类:云南人	Kategori:Personer från Yunnan
+分类:江苏人	Kategori:Personer från Jiangsu
+分类:浙江人	Kategori:Personer från Zhejiang
+分类:上海人	Kategori:Personer från Shanghai
+分类:出生	Kategori:Födda
+分类:法国总统	Kategori:Frankrikes presidenter
+分类:亚洲历史	Kategori:Asiens historia
+分类:约旦	Kategori:Jordanien
+分类:大洋洲国家	Kategori:Oceaniens länder
+分类:鱼类	Kategori:Fiskar
+分类:北京	Kategori:Peking
+分类:国家足球队	Kategori:Fotbollslandslag
+分类:日本关东地方	Kategori:Kanto
+分类:柬埔寨电影	Kategori:Kambodjanska filmer
+分类:剧情片	Kategori:Dramafilmer
+分类:1971年个电影	Kategori:Filmer 1971
+分类:2003年个电影	Kategori:Filmer 2003
+分类:1994年个电影	Kategori:Filmer 1994
+分类:2004年个电影	Kategori:Filmer 2004
+分类:2005年个电影	Kategori:Filmer 2005
+分类:2007年个电影	Kategori:Filmer 2007
+分类:2008年个电影	Kategori:Filmer 2008
+分类:香港电影	Kategori:Hongkongsk film
+分类:法国电影	Kategori:Fransk film
+分类:阿拉伯语	Kategori:Arabiska
+分类:印度言话	Kategori:Språk i Indien
+分类:人类学	Kategori:Antropologi
+分类:抗生素	Kategori:Antibiotika
+分类:操作系统	Kategori:Operativsystem
+分类:昆士兰州	Kategori:Queensland
+分类:维克多利亚州	Kategori:Victoria, Australien
+分类:电影奖	Kategori:Priser och utmärkelser inom filmen
+分类:奥斯卡金像奖	Kategori:Oscar
+分类:金球奖	Kategori:Golden Globe Awards
+分类:明朝	Kategori:Mingdynastin
+分类:泰国王室	Kategori:Thailands kungligheter
+分类:里昂	Kategori:Lyon
+模板:Incubator	Mall:Incubator
+分类:中国文化	Kategori:Kultur i Kina
+分类:法国文化	Kategori:Kultur i Frankrike
+分类:越南文化	Kategori:Kultur i Vietnam
+分类:韩国文化	Kategori:Kultur i Sydkorea
+模板:ESP	Mall:ESP
+分类:动物	Kategori:Djur
+分类:泰国航空公司	Kategori:Thailändska flygbolag
+分类:製造品	Kategori:Produkter
+分类:国际象棋	Kategori:Schack
+分类:武器	Kategori:Vapen
+分类:核武器	Kategori:Kärnvapen
+分类:马来西亚个银行	Kategori:Malaysiska banker
+分类:物理量	Kategori:Fysikaliska storheter
+分类:温标	Kategori:Temperaturenheter
+羌活	Notopterygium incisum
+分类:小吃	Kategori:Tilltugg
+分类:热力学	Kategori:Termodynamik
+分类:气象学	Kategori:Meteorologi
+分类:航空事故	Kategori:Flygincidenter
+分类:香港	Kategori:Hongkong
+分类:菲律宾群岛	Kategori:Filippinernas öar
+分类:大西洋岛屿	Kategori:Öar i Atlanten
+分类:上海	Kategori:Shanghai
+分类:节日	Kategori:Festivaler
+分类:印度城市	Kategori:Orter i Indien
+分类:俄罗斯城市	Kategori:Orter i Ryssland
+分类:Web 2.0	Kategori:Web 2.0
+分类:事体	Kategori:Evenemang
+分类:電信	Kategori:Telekommunikation
+分类:交通	Kategori:Transport
+分类:选美	Kategori:Skönhetstävlingar
+分类:电视剧	Kategori:TV-serier
+分类:北美洲	Kategori:Nordamerika
+分类:歌手	Kategori:Sångare
+分类:亚洲个湖泊	Kategori:Insjöar i Asien
+分类:欧洲个湖泊	Kategori:Insjöar i Europa
+分类:湖泊	Kategori:Insjöar
+分类:大韩民国机场	Kategori:Flygplatser i Sydkorea
+分类:围棋棋手	Kategori:Go-spelare
+模板:Infobox Language	Mall:Språk
+分类:大洋洲	Kategori:Oceanien
+分类:中国城市	Kategori:Orter i Kina
+分类:瀑布	Kategori:Vattenfall
+分类:自然灾害	Kategori:Naturkatastrofer
+分类:日本九州	Kategori:Kyushu
+分类:1998年个电影	Kategori:Filmer 1998
+分类:2006年个电影	Kategori:Filmer 2006
+分类:恐怖片	Kategori:Skräckfilmer
+分类:美国电影	Kategori:Amerikansk film
+分类:汉语	Kategori:Kinesiska
+分类:泰国言话	Kategori:Språk i Thailand
+分类:新南威尔士州	Kategori:New South Wales
+分类:澳大利亚文化	Kategori:Kultur i Australien
+分类:泰国文化	Kategori:Kultur i Thailand
+分类:澳大利亚城市	Kategori:Städer i Australien
+分类:泰国城市	Kategori:Orter i Thailand
+分类:泰国个岛	Kategori:Thailands öar
+分类:印度文化	Kategori:Kultur i Indien
+分类:印度尼西亚个岛	Kategori:Indonesiens öar
+分类:中东国家	Kategori:Mellanösterns länder
+分类:澳大利亚旅游	Kategori:Turism i Australien
+分类:中国个公园	Kategori:Parker i Kina
+分类:银行	Kategori:Banker
+分类:維基百科文化	Kategori:Wikipedia:Wikipediakultur
+分类:澳大利亚运动场	Kategori:Sportanläggningar i Australien
+东京	Tokyo
+分类:学堂	Kategori:Skolor
+分类:澳大利亚风光	Kategori:Sevärdheter i Australien
+分类:越南航空	Kategori:Vietnamesiska flygbolag
+分类:中国地铁	Kategori:Tunnelbanesystem i Kina
+模板:Geo stub	Mall:Geografistub
+模板:UGA	Mall:UGA
+模板:UZB	Mall:UZB
+分类:香港交通	Kategori:Transport i Hongkong
+中国	China
+模板:Module other	Mall:Modul annan
+Portal:数学	Portal:Matematik
+分类:新南威尔士州个地方	Kategori:Orter i New South Wales
+分类:亚洲国家	Kategori:Asiens länder
+模板:Japan stub	Mall:Japanstub
+模板:Mexico-stub	Mall:Mexikostub
+模板:User zh-yue-2	Mall:Användare zh-yue-2
+分类:維基百科幽默	Kategori:Wikipediahumor
+模板:RWA	Mall:RWA
+模板:MLT	Mall:MLT
+模板:KEN	Mall:KEN
+模板:JAM	Mall:JAM
+分类:南美洲国家模板	Kategori:Sydamerikamallar
+模板:Sister project	Mall:Interwikimall
+分类:清理模板	Kategori:Städmallar
+分类:澳大利亚模板	Kategori:Australienmallar
+分类:大桥	Kategori:Broar
+分类:布里司班	Kategori:Brisbane
+分类:粤语	Kategori:Kantonesiska
+分类:中美洲国家	Kategori:Centralamerikas länder
+分类:戏曲	Kategori:Kinesisk opera
+分类:江苏城市	Kategori:Orter i Jiangsu
+分类:地震	Kategori:Jordbävningar
+分类:中国地震	Kategori:Jordbävningar i Kina
+分类:香港教育	Kategori:Utbildning i Hongkong
+分类:环境	Kategori:Miljö
+模板:IAST	Mall:IAST
+分类:中国水灾	Kategori:Översvämningar i Kina
+分类:香港文化	Kategori:Kultur i Hongkong
+分类:印度小作品	Kategori:Indienstubbar
+分类:爱尔兰	Kategori:Ön Irland
+模板:India-stub	Mall:Indienstub
+分类:苏州	Kategori:Suzhou
+帮助:Special characters	Wikipedia:Specialtecken
+模板:Listen	Mall:Lyssna
+分类:香港河流	Kategori:Vattendrag i Hongkong
+分类:泰国报纸	Kategori:Thailändska tidningar
+分类:性学	Kategori:Sexologi
+模板:MNG	Mall:MNG
+分类:无锡人	Kategori:Personer från Wuxi
+分类:相态	Kategori:Aggregationstillstånd
+分类:南澳大利亚州	Kategori:South Australia
+模板:BEL	Mall:BEL
+分类:韩国模板	Kategori:Sydkoreamallar
+分类:广东人	Kategori:Personer från Guangdong
+分类:墨尔本	Kategori:Melbourne
+分类:電話號碼	Kategori:Telefonnummer
+分类:電話	Kategori:Telefoni
+分类:海啸	Kategori:Tsunamier
+分类:悉尼	Kategori:Sydney
+分类:朝鲜模板	Kategori:Nordkoreamallar
+分类:澳大利亚个公园	Kategori:Parker i Australien
+分类:应用科学	Kategori:Tillämpade vetenskaper
+分类:法国个报纸	Kategori:Franska tidningar
+模板:Image label begin	Mall:Image label begin
+分类:澳大利亚大学	Kategori:Universitet och högskolor i Australien
+分类:消费行为	Kategori:Konsumtion
+分类:中国个银行	Kategori:Kinesiska banker
+分类:中国个报纸	Kategori:Kinesiska tidningar
+分类:高分子化学	Kategori:Polymerkemi
+分类:日本大学	Kategori:Universitet och högskolor i Japan
+分类:宁波	Kategori:Ningbo
+分类:浙江城市	Kategori:Orter i Zhejiang
+甲型流感病毒H7N9亚型	Influensa A virus subtyp H7N9
+模板:Babels	Mall:Babels
+分类:天津	Kategori:Tianjin
+分类:巴黎交通	Kategori:Transport i Paris
+分类:非洲国家模板	Kategori:Afrikamallar
+模板:HUN	Mall:HUN
+分类:90年代个歌曲	Kategori:1990-talets sånger
+模板:Aero-stub	Mall:Flygplansstub
+分类:柬埔寨文化	Kategori:Kultur i Kambodja
+分类:User en-1	Kategori:Användare en-1
+分类:User de-1	Kategori:Användare de-1
+分类:法国省份	Kategori:Franska departement
+分类:工具	Kategori:Verktyg
+分类:德国城市	Kategori:Städer i Tyskland
+分类:美国演员	Kategori:Amerikanska skådespelare
+分类:瑞典贵族	Kategori:Svensk adel
+分类:电影人	Kategori:Personer inom film
+分类:人物模板	Kategori:Personmallar
+分类:古巴拳击运动员	Kategori:Kubanska boxare
+模板:Lua	Mall:Lua
+Wikipedia:弗要犯常见个错误	Wikipedia:Vanliga nybörjarfel på Wikipedia
+Wikipedia:How to read a taxobox	Mall:Taxobox/Hjälp
+模板:Italy-stub	Mall:Italienstub
+模板:Start date	Mall:Startdatum
+琉球群岛	Ryukyuöarna
+模板:Bio-stub	Mall:Personstub
+模板:Indonesia stub	Mall:Indonesienstub
+模板:Wayback	Mall:Wayback
+模板:Ireland stub	Mall:Irlandstub
+Wikipedia:VisualEditor	Wikipedia:VisualEditor
+模板:Multi-listen item	Mall:Multi-listen item
+曼谷枪手 2	Bangkok Dangerous
+模板:User zh-yue-0	Mall:Användare zh-yue-0
+模板:TemplateDataHeader	Mall:TemplateDataHeader
+模板:Reply to	Mall:Ping
+模块:Yesno	Modul:Yesno
+惡病質	Kakeksi
+模块:Arguments	Modul:Arguments
+特殊:最近更改	Special:Senaste ändringar
+模块:HtmlBuilder	Modul:HtmlBuilder
+模块:String	Modul:String
+模块:Navbox	Modul:Navbox
+模块:Infobox	Modul:Infobox
+Wikipedia:VisualEditor/TemplateData	Wikipedia:VisualEditor/TemplateData
+模板:Aligned table	Mall:Aligned table
+馬來西亞航空17號班機空难	Malaysia Airlines Flight 17
+雨傘運動	Protesterna i Hongkong 2014
+新加坡总理一览	Lista över Singapores premiärministrar

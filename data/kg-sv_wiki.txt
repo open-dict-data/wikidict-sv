@@ -1,0 +1,695 @@
+Afelika	Afrika
+Japan	Japan
+Norge	Norge
+Hongrie	Ungern
+Espania	Spanien
+Belezi	Belgien
+Luxembourg	Luxemburg
+Ntoto	Jorden
+Muntu	Människa
+Finlandi	Finland
+Suedi	Sverige
+Danemark	Danmark
+Pologne	Polen
+Lietuva	Litauen
+Italia	Italien
+Suisi	Schweiz
+Autriche	Österrike
+Gelesi	Grekland
+Turki	Turkiet
+Mputulukesi	Portugal
+Mputu	Europa
+Azia	Asien
+Pays-Bas	Nederländerna
+Berlin	Berlin
+Ludinatelo	Dator
+Paris	Paris
+Kenya	Kenya
+Itiopia	Etiopien
+Gana	Ghana
+Nkosi	Lejon
+Fwalansa	Frankrike
+Royaume-Uni	Storbritannien
+Nyawu	Katt
+Sina	Kina
+Kifalanse	Franska
+Brazil	Brasilien
+François Hollande	François Hollande
+Rusia	Ryssland
+Kalunga	Hav
+Alemanyi	Tyskland
+Belarusia	Vitryssland
+Kidoitce	Tyska
+Islande	Island
+Estonia	Estland
+Ndèke	Flygplan
+Vita	Krig
+4 (ntalu)	4 (tal)
+Latvia	Lettland
+Uklenyi	Ukraina
+République tchèque	Tjeckien
+Slovakia	Slovakien
+Slovenia	Slovenien
+Vilnius	Vilnius
+Moldova	Moldavien
+Romania	Rumänien
+Balgaria	Bulgarien
+Roma	Rom
+Makedonia	Makedonien
+Albania	Albanien
+Kroatia	Kroatien
+Bosna	Bosnien och Hercegovina
+Azerbaidjan	Azerbajdzjan
+Andora	Andorra
+Kipros	Cypern
+Kazakhstan	Kazakstan
+Malta	Malta
+Monako	Monaco
+Monte Negro	Montenegro
+Vatican	Vatikanstaten
+Saint-Marin	San Marino
+Repubilika ya Afelika ya Sudi	Sydafrika
+Algeria	Algeriet
+Uzbekistan	Uzbekistan
+Maza	Vatten
+Chile	Chile
+Yesu	Jesus
+Ndinga	Språk
+Kizabu	Vetenskap
+Liechtenstein	Liechtenstein
+Ubuntu	Ubuntu
+Skopje	Skopje
+Kilatini	Latin
+Bahrain	Bahrain
+Armenia	Armenien
+Serbie	Serbien
+Australia	Australien
+Fizika	Fysik
+Kisilamu	Islam
+Dinu	Tänder
+Mweta	Planet
+Moskva	Moskva
+Saint Petersburg	Sankt Petersburg
+Tasadi	Tchad
+Nôde	Norr
+India	Indien
+Kibende	Järn
+Kibulu	Djur
+Mutako	Koppar
+Ayiti	Haiti
+Iran	Iran
+Israel	Israel
+Jordan	Jordanien
+Kuwait	Kuwait
+Amelika	Amerika
+Oman	Oman
+Qatar	Qatar
+Lukalu	Tåg
+Vietnam	Vietnam
+Wolo	Guld
+Mali	Mali
+Ngola	Angola
+Tanzania	Tanzania
+Repubilika ya Afelika ya Kati	Centralafrikanska republiken
+Togo	Togo
+Tunisia	Tunisien
+Zambia	Zambia
+Zimbabwe	Zimbabwe
+Beijing (kizunga)	Peking
+Sudan ya Sudi	Sydsudan
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Komoro	Komorerna
+Repubilika ya Kôngo	Kongo-Brazzaville
+Repubilika ya Kôngo ya Dimokalasi	Kongo-Kinshasa
+Djibuti	Djibouti
+Bavaria	Bayern
+Ginea ya Ekwatelo	Ekvatorialguinea
+Baden-Württemberg	Baden-Württemberg
+Eritrea	Eritrea
+Ngabu	Gabon
+Gambia	Gambia
+Ginea	Guinea
+Ginea-Bisau	Guinea-Bissau
+Côte d'Ivoire	Elfenbenskusten
+Kamerun	Kamerun
+Kap Verde	Kap Verde
+Lesotho	Lesotho
+Liberia	Liberia
+Libia	Libyen
+Malagasi	Madagaskar
+Malawi	Malawi
+Stuttgart	Stuttgart
+Moritania	Mauretanien
+Mauritius	Mauritius
+Maroko	Marocko
+Musambiki	Moçambique
+Namibia	Namibia
+Nijer	Niger
+Nizeria	Nigeria
+Uganda	Uganda
+Rwanda	Rwanda
+Santu Tome na Prinsipe	São Tomé och Príncipe
+Senangale	Senegal
+Seychell	Seychellerna
+Sierra Leone	Sierra Leone
+Sômâlia	Somalia
+Sudan	Sudan
+Swati	Swaziland
+Hamburg	Hamburg
+Langi	Färg
+Prague	Prag
+Bule	Blå
+Schleswig-Holstein	Schleswig-Holstein
+Mecklenburg-Vorpommern	Mecklenburg-Vorpommern
+Niedersachsen	Niedersachsen
+Nordrhein-Westfalen	Nordrhein-Westfalen
+Hessen	Hessen
+Rheinland-Pfalz	Rheinland-Pfalz
+Saarland	Saarland
+Sachsen	Sachsen
+Thüringen	Thüringen
+Sachsen-Anhalt	Sachsen-Anhalt
+Brandenburg	Brandenburg
+Bremen (kizunga)	Bremen (delstat)
+Kalasi:Categories	Kategori:Topp
+Kispanya	Spanska
+Mbuma	Frukt
+Uetersen	Uetersen
+Tomabîlu	Bil
+Bordo	Bordeaux
+Barcelona	Barcelona
+Nanasi	Ananas
+Kihindi	Hindi
+Potsdam	Potsdam
+Munich	München
+Stockholm	Stockholm
+Vaduz	Vaduz
+Biblia	Bibeln
+Ho Chi Minh City	Ho Chi Minh-staden
+Dibundu ya Kieleka ya Yesu	The True Jesus Church
+Kingelezi	Engelska
+Đồng Hới	Dong Hoi
+Concepción	Concepción, Chile
+Końskowola	Końskowola
+1917	1917
+Kurów	Kurów
+1971	1971
+1969	1969
+Santiago de Chile	Santiago de Chile
+Loire-Atlantique	Loire-Atlantique
+Ain (kizunga)	Ain
+Aisne (kizunga)	Aisne
+Vosges (kizunga)	Vosges (departement)
+Allier (kizunga)	Allier (departement)
+Jura (kizunga)	Jura (departement)
+Hautes-Alpes	Hautes-Alpes
+Alpes-de-Haute-Provence	Alpes-de-Haute-Provence
+Alpes-Maritimes	Alpes-Maritimes
+Ardèche (kizunga)	Ardèche
+Ardennes (kizunga)	Ardennes
+Ariège (kizunga)	Ariège
+Aube (kizunga)	Aube
+Aude (kizunga)	Aude
+Aveyron (kizunga)	Aveyron
+Bouches-du-Rhône	Bouches-du-Rhône
+Calvados (kizunga)	Calvados
+Cantal (kizunga)	Cantal
+Charente (kizunga)	Charente (departement)
+Charente-Maritime	Charente-Maritime
+Cher (kizunga)	Cher (departement)
+Corrèze (kizunga)	Corrèze
+Haute-Corse	Haute-Corse
+Corse-du-Sud	Corse-du-Sud
+Côte-d'Or	Côte-d’Or
+Côtes-d'Armor	Côtes-d'Armor
+Creuse (kizunga)	Creuse
+Dordogne (kizunga)	Dordogne
+Doubs (kizunga)	Doubs
+Drôme (kizunga)	Drôme
+Essonne (kizunga)	Essonne
+Eure (kizunga)	Eure
+Eure-et-Loir	Eure-et-Loir
+Finistère	Finistère
+Nilo	Nilen
+Nzâdi Kôngo	Kongofloden
+Adis Abeba	Addis Abeba
+Ndjamena	N'Djamena
+Bamako	Bamako
+Guyane	Franska Guyana
+Chillán	Chillán
+Abuja	Abuja
+Tübingen	Tübingen
+Libreville	Libreville
+Kinsasa	Kinshasa
+Balazavile	Brazzaville
+Dodoma	Dodoma
+Lwanda	Luanda
+Windhoek	Windhoek
+Mubu	Flod
+Osasko	Osasco
+Kuritiba	Curitiba
+Afelika ya Lumonso	Västafrika
+Georgia (country)	Georgia (olika betydelser)
+Kiyesu	Kristendom
+Kontina	Världsdelar och kontinenter
+Mbanza ya kimfumu	Huvudstad
+Monzón	Monzón
+Kimputulukesi	Portugisiska
+Ngonda (manaka)	Månad
+Almazán	Almazán
+Mukânda ya ngudi	Portal:Huvudsida
+Saratov	Saratov
+Troyes	Troyes
+Kalasi:Candidates for speedy deletion	Kategori:Snabbraderingar
+Montpellier	Montpellier
+Carcassonne	Carcassonne
+Poitiers	Poitiers
+Agen	Agen
+Kimvuka ya Afelika	Afrikanska unionen
+Dimokalasi	Demokrati
+Bayuda	Judar
+Nyama ya mabele	Däggdjur
+Kiswahili	Swahili
+Kitsunkwo	Kinesiska
+Kalasi:Falanse	Kategori:Frankrike
+Kalasi:Musique	Kategori:Musik
+Bumpika	Slaveri
+Shanghai (kizunga)	Shanghai
+Málaga	Málaga
+Lukwikilu	Religion
+Kibang'la	Bengali
+Ronald Reagan	Ronald Reagan
+Kizulu	Zulu (språk)
+Sasa	Zazaiska
+Kutanga	Aritmetik
+Dikâlu (velo)	Cykel
+Chongqing (kizunga)	Chongqing
+Tianjin (kizunga)	Tianjin
+Yinsi	Lista över självständiga stater
+Mukaba ya ntangu	Tidszon
+Sida	Aids
+Gard	Gard
+Gers (kizunga)	Gers
+Gironde (kizunga)	Gironde (departement)
+Haute-Garonne	Haute-Garonne
+Hauts-de-Seine	Hauts-de-Seine
+Hérault (kizunga)	Hérault
+Ille-et-Vilaine	Ille-et-Vilaine
+Indre (kizunga)	Indre (departement)
+Indre-et-Loire	Indre-et-Loire
+Isère (kizunga)	Isère
+Landes (kizunga)	Landes
+Loir-et-Cher	Loir-et-Cher
+Loire (kizunga)	Loire (departement)
+Haute-Loire	Haute-Loire
+Loiret (kizunga)	Loiret
+Lot (kizunga)	Lot (departement)
+Lot-et-Garonne	Lot-et-Garonne
+Lozère (kizunga)	Lozère
+Maine-et-Loire	Maine-et-Loire
+Manche (kizunga)	Manche
+Marne (kizunga)	Marne (departement)
+Haute-Marne	Haute-Marne
+Mayenne (kizunga)	Mayenne
+Meurthe-et-Moselle	Meurthe-et-Moselle
+Meuse (kizunga)	Meuse
+Morbihan	Morbihan
+Moselle (kizunga)	Moselle
+Nièvre (kizunga)	Nièvre
+Nord (kizunga)	Nord
+Oise (kizunga)	Oise
+Orne (kizunga)	Orne
+Pas-de-Calais	Pas-de-Calais
+Puy-de-Dôme	Puy-de-Dôme
+Hautes-Pyrénées	Hautes-Pyrénées
+Pyrénées-Atlantiques	Pyrénées-Atlantiques
+Pyrénées-Orientales	Pyrénées-Orientales
+Bas-Rhin	Bas-Rhin
+Haut-Rhin	Haut-Rhin
+Haute-Saône	Haute-Saône
+Saône-et-Loire	Saône-et-Loire
+Sarthe (kizunga)	Sarthe
+Savoie (kizunga)	Savoie
+Haute-Savoie	Haute-Savoie
+Seine-et-Marne	Seine-et-Marne
+Seine-Maritime	Seine-Maritime
+Seine-Saint-Denis	Seine-Saint-Denis
+Deux-Sèvres	Deux-Sèvres
+Somme (kizunga)	Somme (departement)
+Tarn (kizunga)	Tarn
+Tarn-et-Garonne	Tarn-et-Garonne
+Territoire de Belfort	Territoire de Belfort
+Val-d'Oise	Val-d'Oise
+Val-de-Marne	Val-de-Marne
+Var (kizunga)	Var (departement)
+Vaucluse (kizunga)	Vaucluse
+Vendée (kizunga)	Vendée
+Vienne (kizunga)	Vienne (departement)
+Haute-Vienne	Haute-Vienne
+Yonne (kizunga)	Yonne
+Yvelines	Yvelines
+Nerja	Nerja
+Ronda	Ronda
+Kixhosa	Xhosa
+Kilabu	Arabiska
+Kapoti	Kondom
+Kiunsita	Occitanska
+Guangdong	Guangdong
+Guangxi Zhuang	Guangxi
+Template:Link FA	Mall:Link FA
+Los Ángeles (Chile)	Los Ángeles
+Jiangsu	Jiangsu
+Zhejiang	Zhejiang
+Guadeloupe	Guadeloupe
+Madinina	Martinique
+Mayota	Mayotte
+La Réunion	Réunion
+Xizang	Autonoma regionen Tibet
+Heilongjiang	Heilongjiang
+San Pedro de la Paz	San Pedro de la Paz
+Nha Trang	Nha Trang
+Rafael Correa	Rafael Correa
+Motorhead	Motörhead
+Mbuluku	Åsna
+Sichuan	Sichuan
+Juan Carlos I	Juan Carlos I av Spanien
+Vung Tau	Vung Tau
+API	Internationella fonetiska alfabetet
+Hebei	Hebei
+Kibaha	Bahá'í
+Irlande	Irland (ö)
+Mposo	Vecka
+Lordi	Lordi
+Marseille	Marseille
+Moshchena	Mosjtjena
+Paltoga	Paltoga
+Entrena	Entrena
+Podgorica	Podgorica
+Ntu	Huvud
+Muyimbu ya nsi	Nationalsång
+Nzila ya busula	Väderstreck
+Rammstein	Rammstein
+Ca Mau	Ca Mau
+Da Lat	Da Lat
+Da Nang	Da Nang
+Racibórz	Racibórz
+Phan Thiet	Phan Thiet
+Université Niccolò Cusano	Università degli Studi Niccolò Cusano
+Afelika ya Node	Nordafrika
+Afelika ya Sudi	Södra Afrika
+Afelika ya Lunene	Östafrika
+Modern Talking	Modern Talking
+Afelika ya Kati	Centralafrika
+Magribia	Maghreb
+Nyosi	Honungsbi
+Mbele	Kniv
+Bandinga ya kibantu	Bantuspråk
+Patua	Dialekt
+Kisikôngo	Kikongo
+Nice	Nice
+Kishona	Shona
+Nsangu ya mbote	Evangelium (bok)
+Yingo	Leopard
+Kifalu	Noshörningar
+Busula	Kompass
+Bambangi ya Yehowa	Jehovas vittnen
+Kongo	Kongo
+Dingala	Lingala
+Kibubu	Gorillor
+Arancón	Arancón
+Zandu	Marknad (ekonomi)
+Tosa Inu	Tosa
+Soka	Yxa
+Radio Studio 54 Network	Radio Studio 54 Network
+Sizo	Sax
+Anhui	Anhui
+Nei Mongol	Inre Mongoliet
+Świnoujście	Świnoujście
+Fujian	Fujian
+Talcahuano	Talcahuano
+Clermont-Ferrand	Clermont-Ferrand
+Hainan	Hainan
+Gansu	Gansu
+Dikûmbi	Fordon
+Mafuta	Olja
+Yunnan	Yunnan
+Shandong	Shandong
+Henan	Henan
+Liaoning	Liaoning
+Dikongo	Spjut
+Jilin	Jilin
+Hunan	Hunan
+Qinghai	Qinghai
+Rhône (kizunga)	Rhône (departement)
+Hubei	Hubei
+Shanxi	Shanxi
+Guizhou	Guizhou
+Charleville-Mézières	Charleville-Mézières
+Shaanxi	Shaanxi
+Template:Commonscat	Mall:Commonscat
+Jiangxi	Jiangxi
+Joseph Kabila	Joseph Kabila
+Deni Sasu Ngeso	Denis Sassou-Nguesso
+Ningxia Hui	Ningxia
+Kimpenzi	Schimpanser
+Nzeniele	Ingenjör
+La Rochelle	La Rochelle
+Mandioko	Maniok
+Dalapo ya Ngabu	Gabons flagga
+Maniema	Maniema
+Kôngo ya Kati	Kongo-Central
+Kivu ya Node	Norra Kivu-provinsen
+Nkwezo	Gummi
+Bourges	Bourges
+Albi	Albi
+Bourg-en-Bresse	Bourg-en-Bresse
+Angoulême	Angoulême
+Bansi ya balabu	Arabvärlden
+Tulle	Tulle
+Nzila ya lukalu	Järnvägsspår
+Dalapo ya Repubilika ya Kôngo	Kongo-Brazzavilles flagga
+Dalapo ya Repubilika ya Kongo Demokratiki	Kongo-Kinshasas flagga
+Laon	Laon
+Kabinda (kizunga)	Kabinda
+Bambenga	Pygméer
+Babantu	Bantu
+Châteauroux	Châteauroux
+Villa Alemana	Villa Alemana
+Gap	Gap
+Vodu	Voodoo
+Digne	Digne-les-Bains
+Saint-Lô	Saint-Lô
+Foix	Foix
+Moulins	Moulins
+Mont-de-Marsan	Mont-de-Marsan
+Guéret	Guéret
+Berat (kizunga)	Beratprefekturen
+La Roche-sur-Yon	La Roche-sur-Yon
+Bengo	Bengo
+Mende	Mende, Lozère
+Vlorë (kizunga)	Vlorë prefektur
+Durrës (kizunga)	Durrës prefektur
+Dibër	Dibër prefektur
+Privas	Privas
+Lezhë (kizunga)	Lezhë prefektur
+Shkodër (kizunga)	Shkodër prefektur
+Gjirokastër (kizunga)	Gjirokastër prefektur
+Korçë (kizunga)	Korçë prefektur
+Elbasan (kizunga)	Elbasan prefektur
+Łobez	Łobez
+Kizûnga Nzâdi	Zaire (provins)
+Goma	Goma
+Joseph Kasa Vubu	Joseph Kasavubu
+Bandinga ya Afrika	Språk i Afrika
+Bidimbu ya Repubilika ya Kongo Demokratiki	Kongo-Kinshasas statsvapen
+Gaitana	Gaitana
+Mbandaka	Mbandaka
+Matadi	Matadi
+Kizûnga Wizi	Uíge
+Telama besi Kongo	Debout Congolais
+Lubitu	Lobito
+Mboma	Boma
+Ndindi	Pointe-Noire
+Angola Avante	Angola Avante
+Tirana (kizunga)	Tiranë prefektur
+Muamba	Palmolja
+Kukës (kizunga)	Kukës prefektur
+Fier (kizunga)	Fier prefektur
+Wanzio	Ängel
+Kimpubensawu	Provensalska
+Mobilisa	Mobilisering
+Dolizi	Dolisie
+Kasâyi (kizûnga)	Kasaï (provins)
+Kikwit	Kikwit
+Antoine Gizenga	Antoine Gizenga
+Serebro	Serebro
+Bizunga ya Ngola	Angolas provinser
+Pascal Lisuba	Pascal Lissouba
+Tshuapa	Tshuapa
+Marien Nguabi	Marien Ngouabi
+Mbizi	Ambriz
+Masuku	Franceville
+Bambundu	Mbundufolket
+Kimpa Mvita	Kimpa Vita
+Kaudai	Cao Dai
+Paramore	Paramore
+Medinaceli	Medinaceli
+Marbella	Marbella
+Láchar	Láchar
+Kivu ya Sudi	Södra Kivu-provinsen
+Benalmádena	Benalmádena
+Fuengirola	Fuengirola
+Torremolinos	Torremolinos
+Mijas	Mijas
+Estepona	Estepona
+Mbânza Kôngo	Mbanza-Kongo
+Kwilu (Kikwit)	Kwilu
+Antequera	Antequera
+Kamina	Kamina
+FLEC	Cabindaenklavens befrielsefront
+Repubilika ya Kongo ya Kati	Kongo-Léopoldville
+Bakôngo	Kongo (folk)
+Arenas	Arenas Club de Getxo
+Bandundu	Bandundu (stad)
+Dizanga Malebo	Malebodammen
+CAKE	Cake
+Kizunga Kwango	Kwango
+Kôngo ya Ntotila	Kongoriket
+Baluba	Luba
+Banana	Banana
+Bateke	Teke
+Kisinto	Shinto
+Aldealafuente	Aldealafuente
+Alhaurín el Grande	Alhaurín el Grande
+Ilebo	Ilebo
+Mbanza-Ngungu	Mbanza-Ngungu
+Casares	Casares
+Manilva	Manilva
+Ekwatelo	Équateur
+Muanda (RKD)	Muanda
+Kizunga Luwalaba	Lualaba (provins)
+Kizunga Mayi-Ndombe	Mai-Ndombe
+Kalasi:Alemanyi	Kategori:Tyskland
+Kalasi:Italia	Kategori:Italien
+Kalasi:Rusia	Kategori:Ryssland
+Kalasi:Espania	Kategori:Spanien
+Kalasi:Sina	Kategori:Kina
+Kalasi:Australia	Kategori:Australien
+Kalasi:Repubilika ya Kongo ya Dimokalasi	Kategori:Kongo-Kinshasa
+Kalasi:Republika ya Itiopia	Kategori:Etiopien
+Kalasi:Repubilika ya Tanzania	Kategori:Tanzania
+Kalasi:Vietnam	Kategori:Vietnam
+Kalasi:Lukwikilu	Kategori:Religion
+Kalasi:Bizabu	Kategori:Vetenskap
+Kalasi:Ntoto	Kategori:Jorden
+Nsi ya Luangu	Loango
+Nzinga Nkuwu	João I av Kongo
+Dibûndu ya Kimbangu	Kimbanguism
+Kalasi:Kikristo	Kategori:Kristendom
+Bundu ya Kongo	Bundu dia Kongo
+Kwamuntu	Kwamouth
+Basuku	Suku
+Template:Tl	Mall:Mall
+Template:Userbox	Mall:Användarbox
+Wikipedia:Administrators	Wikipedia:Administratörer
+Wikipedia:Vital 100	Wikipedia:100 viktiga artiklar
+Misiri	Egypten
+Template:Bot	Mall:Bot
+Kalasi:Hongrie	Kategori:Ungern
+Kalasi:Bansi ya Mputu	Kategori:Europas länder
+Kalasi:Mputu	Kategori:Europa
+Template:Documentation	Mall:Dokumentation
+Wikipedia:Community Portal	Wikipedia:Deltagarportalen
+Kalasi:Users by language	Kategori:Användare efter språk
+Template:Softredirect	Mall:Mjuk omdirigering
+Template:Delete	Mall:Radera
+Kalasi:Ndinga	Kategori:Språk
+Kalasi:Wikipedia	Kategori:Wikipedia
+Wikipedia:Privacy policy	Wikipedia:Integritetspolicy
+Template:!	Mall:!
+Template:!-	Mall:!-
+Template:E	Mall:E
+Template:Clear	Mall:Clear
+Wikipedia:Vital articles	Wikipedia:Artiklar som bör finnas på Wikipedia
+Kalasi:Afelika	Kategori:Afrika
+Kalasi:Bantalu	Kategori:Tal
+Template:Babel	Mall:Babel
+Template:Babel de	Mall:Användare de
+Template:Babel en-2	Mall:Användare en-2
+Template:Babel en-4	Mall:Användare en-4
+Template:Babel en-0	Mall:Användare en-0
+Template:Babel fr-1	Mall:Användare fr-1
+Template:Babel it-3	Mall:Användare it-3
+Template:User sk	Mall:Användare sk
+Template:Babel tr	Mall:Användare tr
+Kalasi:Azia	Kategori:Asien
+Kalasi:Castilla y León	Kategori:Kastilien och Leon
+Template:Mod	Mall:Mod
+Template:Afrika	Mall:Afrika
+Template:Music	Mall:Infobox musiker
+Kalasi:User en-4	Kategori:Användare en-4
+Kalasi:User en	Kategori:Användare en
+Kalasi:User en-2	Kategori:Användare en-2
+Template:Template other	Mall:Mall annan
+Template:·	Mall:·
+Kalasi:Amelika	Kategori:Amerika
+Template:Kanda	Mall:Folkgrupp
+Wikipedia:Nospam	Wikipedia:Skyddade sidnamn
+Template:Bisongidila	Mall:Förgrening
+Kalasi:Bizunga ya Ngola	Kategori:Angolas provinser
+Template:Mputu	Mall:Europa
+Kalasi:Bapolitiki ya Repubilika ya Kongo ya Dimokalasi	Kategori:Kinshasa-kongolesiska politiker
+Kalasi:User sk	Kategori:Användare sk
+Kalasi:User fr	Kategori:Användare fr
+Kalasi:User la	Kategori:Användare la
+Kalasi:User oc	Kategori:Användare oc
+Kalasi:User sh	Kategori:Användare sh
+Kalasi:User cs-3	Kategori:Användare cs-3
+Kalasi:User it-3	Kategori:Användare it-3
+Kalasi:User sk-2	Kategori:Användare sk-2
+Kalasi:User sh-2	Kategori:Användare sh-2
+Kalasi:User fr-N	Kategori:Användare fr-N
+Kalasi:User ca	Kategori:Användare ca
+Kalasi:User ca-3	Kategori:Användare ca-3
+Kalasi:User cs	Kategori:Användare cs
+Kalasi:User sk-N	Kategori:Användare sk-N
+Kalasi:User de	Kategori:Användare de
+Kalasi:User en-0	Kategori:Användare en-0
+Kalasi:User es	Kategori:Användare es
+Kalasi:User es-3	Kategori:Användare es-3
+Template:Babel la-3	Mall:Användare la-3
+Kalasi:User it	Kategori:Användare it
+Kalasi:User la-3	Kategori:Användare la-3
+Kalasi:La Rioja	Kategori:La Rioja, Spanien
+Kalasi:Bansi ya Afelika	Kategori:Afrikas länder
+Template:Babel es-3	Mall:Användare es-3
+Kalasi:User tr	Kategori:Användare tr
+Kalasi:User tr-N	Kategori:Användare tr-N
+Kalasi:Kizunga ya Alemanyi	Kategori:Tysklands delstater
+Kalasi:Repubilika ya Ngola	Kategori:Angola
+Kalasi:Ngabu	Kategori:Gabon
+Kalasi:Namibia	Kategori:Namibia
+Kalasi:Repubilika ya Kongo	Kategori:Kongo-Brazzaville
+Template:Babel ca-3	Mall:Användare ca-3
+Kalasi:Bapolitiki ya Espania	Kategori:Spanska politiker
+Kalasi:Bapolitiki ya Repubilika ya Kongo	Kategori:Brazzaville-kongolesiska politiker
+Kalasi:Bapolitiki ya Fwalansa	Kategori:Franska politiker
+Kalasi:Albania	Kategori:Albanien
+Kalasi:Université en Italia	Kategori:Universitet och högskolor i Italien
+Kalasi:Babwala ya Ngola	Kategori:Orter i Angola
+Kalasi:Andalucía	Kategori:Andalusien
+Kalasi:Dalapo	Kategori:Flaggor
+Kalasi:Babwala ya Ngabu	Kategori:Orter i Gabon
+The Prodigy	The Prodigy
+Kalasi:Babwala ya Namibia	Kategori:Orter i Namibia
+Kalasi:Málaga	Kategori:Malaga
+Trojany	Trojany
+Kalasi:Bizunga ya Repubilika ya Kongo ya Dimokalasi	Kategori:Kongo-Kinshasas provinser
+Kalasi:Kizunga ya Albania	Kategori:Albaniens prefekturer
+Kalasi:Kizunga ya Sina	Kategori:Kinas provinser
+Kalasi:Babantu	Kategori:Städer
+Kipele-pele	Dagfjärilar
+Special:RecentChanges	Special:Senaste ändringar

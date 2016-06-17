@@ -1,0 +1,530 @@
+Afirka	Afrika
+Japan	Japan
+Norway	Norge
+Ireland	Irland
+Hungariya	Ungern
+An Spàinn	Spanien
+Amurika	USA
+Beljik	Belgien
+Luksamburg	Luxemburg
+Duniya	Jorden
+Yan-adam	Människa
+Finland	Finland
+Sweden	Sverige
+Denmark	Danmark
+Poland	Polen
+Lithuania	Litauen
+Italiya	Italien
+Switzerland	Schweiz
+Austriya	Österrike
+Greek	Grekland
+Turkiyya	Turkiet
+Portugal	Portugal
+Turai	Europa
+Asiya	Asien
+Amirka ta Arewa	Nordamerika
+Wikipedia	Wikipedia
+Berlin	Berlin
+Airbus	Airbus
+Na'ura	Dator
+Yanar gizo	Internet
+Barack Obama	Barack Obama
+Pariis	Paris
+Kenya	Kenya
+Ethiopia	Etiopien
+Zaki	Lejon
+Faransa	Frankrike
+Esperanto	Esperanto
+Kare	Hund
+Birtaniya	Storbritannien
+Kyanwa	Katt
+Sin	Kina
+Kifi	Fiskar
+Rasha	Ryssland
+Teku	Hav
+São Paulo	São Paulo
+Jamus	Tyskland
+Iceland	Island
+Istoniya	Estland
+Jirgin sama	Flygplan
+Ɗaya	1 (tal)
+Biyu	2 (tal)
+Uku	3 (tal)
+Huɗu	4 (tal)
+Biyar	5 (tal)
+Laitfiya	Lettland
+Ukraniya	Ukraina
+Kazech	Tjeckien
+Slofakiya	Slovakien
+Sloveniya	Slovenien
+MOldufiniya	Moldavien
+Romainiya	Rumänien
+Bulgairiya	Bulgarien
+Masadoiniya	Makedonien
+Albaniya	Albanien
+Kroatiya	Kroatien
+Azerbaijan	Azerbajdzjan
+Andorra	Andorra
+Cyprus	Cypern
+Georgia (country)	Georgien
+Kazakystan	Kazakstan
+Malta	Malta
+Monaco	Monaco
+Montenegro	Montenegro
+Vatican	Vatikanstaten
+San Marino	San Marino
+Indonesiya	Indonesien
+Afirka ta kudu	Sydafrika
+Aljeriya	Algeriet
+Uzbekistan	Uzbekistan
+Ruwa	Vatten
+Chile	Chile
+Isa Almasihu	Jesus
+Singafora	Singapore
+Ilmi	Vetenskap
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Bahrain
+Armeniya	Armenien
+Serbiya	Serbien
+Wata	Månen
+Santanbul	Istanbul
+Asturaliya	Australien
+Koriya ta Arewa	Nordkorea
+Kambodiya	Kambodja
+Musulunci	Islam
+Rana	Solen
+Angela Merkel	Angela Merkel
+Timor-Leste	Östtimor
+Duniyoyi	Planet
+Cadi	Tchad
+Indiya	Indien
+Mangolia	Mongoliet
+Dabba	Djur
+Shuka	Växt
+Kaza	Tamhöna
+Jersey	Jersey
+Aladu	Gris
+Iran	Iran
+Irak	Irak
+Isra'ila	Israel
+Yemen	Jemen
+Jordan	Jordanien
+Kyrgystan	Kirgizistan
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Libanon
+Maldives	Maldiverna
+Maleziya	Malaysia
+Myanmar	Burma
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudiyya	Saudiarabien
+Sri Lanka	Sri Lanka
+Siriya	Syrien
+Tajikistan	Tadzjikistan
+Thailand	Thailand
+Turkmenistan	Turkmenistan
+Taraiyar larabawa	Förenade Arabemiraten
+Vietnam	Vietnam
+Koriya ta Kudu	Sydkorea
+Da Simpsons	Simpsons
+Afghanistan	Afghanistan
+Bangladash	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Filipin	Filippinerna
+Togo	Togo
+Benin	Benin
+Botswana	Botswana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	Kongo-Kinshasa
+Gine	Guinea
+Kameru	Kamerun
+Libya	Libyen
+Muritaniya	Mauretanien
+Nijar	Niger
+Nijeriya	Nigeria
+Uganda	Uganda
+Senegal	Senegal
+Julius Caesar	Julius Caesar
+Sudan	Sudan
+Majalisar Ɗinkin Duniya	Förenta nationerna
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo
+Augustus	Augustus
+Gibraltar	Gibraltar
+Mota	Bil
+Buenos Aires	Buenos Aires
+Abarba	Ananas
+Zinedine Yazid Zidane	Zinedine Zidane
+Baibûl	Bibeln
+Gaskiyan Cocin Isa	The True Jesus Church
+Concepción, Chile	Concepción, Chile
+Końskowola	Końskowola
+Maciji	Ormar
+Kimiya	Kemi
+Lima	Lima
+Santiago de Chile	Santiago de Chile
+Osasco	Osasco
+Dong Hoi Filin	Dong Hoi flygplats
+Curitiba	Curitiba
+Confucius	Konfucius
+Kiristancìì	Kristendom
+Nahiya	Världsdelar och kontinenter
+Tsuntsu	Fåglar
+Main Page	Portal:Huvudsida
+Saratov	Saratov
+Bus	Buss
+Åland	Åland
+Makkah	Mecka
+Canary Islands	Kanarieöarna
+Category:Candidates for speedy deletion	Kategori:Snabbraderingar
+Sahara	Sahara
+Kyautar Nobel	Nobelpriset
+Sauro	Stickmyggor
+Raƙumi	Kameler
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Kategori:Frankrike
+Hakkokin Yan-adam	Mänskliga rättigheter
+Hong Kong	Hongkong
+Rio de Janeiro	Rio de Janeiro
+Addini	Religion
+Muhammad	Muhammed
+Isle of Man	Isle of Man
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Träd
+APACHE	Apache HTTP Server
+Lissafi	Tal
+Masara	Majs
+Ƙasashen Duniya	Lista över självständiga stater
+Dabbar beya	Björnar
+Sankara	Cancer
+Kurãme	Dövhet
+Polio	Polio
+Makaman nukiliya	Kärnvapen
+Macau	Macao
+Raƙumin dawa	Giraff
+Template:Link FA	Mall:Link FA
+Wikipedia:Community Portal	Wikipedia:Bybrunnen
+Jimina	Struts
+Tara	9 (tal)
+Jaki	Åsna
+Tuje	Trappar
+Jamhuriyar Sin	Taiwan (ö)
+Bakwai	7 (tal)
+Takwas	8 (tal)
+Dabbar rendiya	Hjortdjur
+Tafarnuwa	Vitlök
+Shida	6 (tal)
+Moshchena	Mosjtjena
+Paltoga	Paltoga
+Selena	Selena Quintanilla
+Goma	10 (tal)
+Guernsey	Guernsey
+Kahuhu	Härfågel
+Kyankyaso	Kackerlackor
+Galantoyi	Vit stork
+Kada	Krokodildjur
+Zaƙami	Spikklubba
+Hausawa	Hausa (folk)
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmoud Ahmadinejad
+Dokokin nan goma	De tio budorden
+Damisa	Leopard
+Ido	Ido
+Larabawa	Araber
+Madinah	Medina
+Gyaɗa	Jordnöt
+Ɗari	100 (tal)
+Hawainiya	Kameleonter
+Firinji	Kylskåp
+Khomeini	Ruhollah Khomeini
+Ɗaɗɗoya	Basilika (krydda)
+Zirin Gaza	Gazaremsan
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20 (tal)
+Arbaʼin	40 (tal)
+Palestin autonomija	Palestinska myndigheten
+Talatin	30 (tal)
+Dubu	1000 (tal)
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Bermudatriangeln
+Dabgi	Jordsvin
+Kotun Shari'ar Miyagun Laifuka	Internationella brottmålsdomstolen
+Template:Commonscat	Mall:Commonscat
+Afirnawan Amirka	Afroamerikaner
+Ƙwayoyin cuta na Ebola	Ebolafeber
+Hausa	Hausa
+Ali Khamenei	Ali Khamenei
+Sao Vang Filin	Sao Vang flygplats
+Sittin	60 (tal)
+Tsamiya	Tamarind
+Kuɓewa	Okra
+Rogo	Maniok
+Karkandan	Spetsnoshörning
+Cutar murar aladu	H1N1-utbrottet 2009
+Umaru Musa Yar'Adua	Umaru Yar’Adua
+Abbott (bakin dutse)	Abbot (månkrater)
+Abbe (bakin dutse)	Abbe (månkrater)
+Tattalin arzikin duniya	Finanskris
+Dila	Guldschakal
+Balbela	Kohäger
+Rimi	Kapok
+Ashuwaki	Salvadora persica
+Zamfara	Zamfara
+Zariya	Zaria
+Zirman	Ricin (växt)
+Kuka	Baobab
+Ɓauna	Afrikansk buffel
+Alkama	Vete
+Kwari	Husfluga
+Gweba	Guava
+Zabo	Pärlhöns
+Dage	Honungsgrävling
+Herzegovina	Hercegovina
+CFA franc ( sefar yammaci Afirka)	CFA-franc
+Magaryar kura	Ziziphus mucronata
+Kaduna	Kaduna
+Gwaggon biri	Anubisbabian
+Boko Haram	Boko Haram
+Jaffna	Jaffna
+Maiduguri	Maiduguri
+Afifiya	Sköldpaddor
+Gwaza	Taro
+Soso	Luffasläktet
+Zogale	Moringa oleifera
+Casaʼin	90 (tal)
+Jibda	Civett
+Dumya	Sporrgås
+Ƙirƙa	Chlorocebus aethiops
+Giginya	Borassus aethiopum
+Batsiya	Oribi
+Benik Afobe	Benik Afobe
+43 (adadan)	43 (tal)
+Zawo	Nilgädda
+Barewa	Rödpannad gasell
+Shamuwa	Abdimstork
+Baba	Indigosläktet
+Kanya	Diospyros mespiliformis
+Dadis Mousa Camara	Moussa Dadis Camara
+Mayen kifi	Gråfiskare
+Agadez	Agadez
+Mazo	Buskbock
+Jan baki	Blodnäbbsvävare
+Gauraka	Svart krontrana
+Baƙurna	Blåbandad dykare
+Kumurci	Svart spottkobra
+Matiyu	Matteusevangeliet
+Ahmadu Bello	Ahmadu Bello
+Kwara	Kwara
+Julia Savicheva	Julija Savitjeva
+Gwamki	Hästantilop
+Tan Son Nhat Filin	Tan Son Nhat internationella flygplats
+Gaiwa	Protopterus annectens
+Babba da jaka	Maraboustork
+Waaken Santanbul	Cajanus cajan
+Carki	Oxhackare
+Jihar Katsina	Katsina (delstat)
+Danya	Marula
+Kano	Kano (delstat)
+Ybe	Yobe
+Tamanin	80 (tal)
+Sabaʼin	70 (tal)
+Hamsin	50 (tal)
+Yanyawa	Sandräv
+Wushi-wushi	Brun visseland
+Ƙirinjijiya	Vithuvad visseland
+Gada	Grådykare
+Da Nang Filin	Da Nang internationella flygplats
+Yankan Allah	Rödstrupig amadin
+VietJet Air	VietJet Air
+Hazbiya	Guineaduva
+51 (adadan)	51 (tal)
+Ca Mau Filin	Ca Mau flygplats
+Help:Contents	Wikipedia:Hjälp
+Katsina	Katsina
+Zakaran ƙeƙuwa	Svarthuvad vipa
+Hankaka	Svartvit kråka
+Tsanwaka	Savannblåkråka
+Kurege	Västafrikansk jordekorre
+Kabarai	Byvävare
+Sisita	Rödkindad fjärilsfink
+Cilakowa	Afrikansk gråtoko
+Jetstar Pacific Airlines	Jetstar Pacific Airlines
+Aya	Jordmandel
+Suda	Svartkronad tchagra
+Category:Turkiyya	Kategori:Turkiet
+Category:Afirka ta kudu	Kategori:Sydafrika
+Category:Nijeriya	Kategori:Nigeria
+Category:Vietnam	Kategori:Vietnam
+Category:Tsuntsu	Kategori:Fåglar
+Category:Shuka	Kategori:Växter
+Category:Addini	Kategori:Religion
+Category:Duniya	Kategori:Jorden
+Duniyar Computer	Computer Sweden
+Gafiya	Gambiansk jättepåsråtta
+Shaho	Örnar
+Gamba	Andropogon gayanus
+Tarwaɗa	Clarias anguillaris
+Tsada	Ximenia americana
+Garafuni	Momordica balsamina
+Albert Adomah	Albert Adomah
+Kimba	Xylopia aethiopica
+Riɗi	Sesam (växt)
+Category:Stubs	Kategori:Stubbar
+ESB Villeneuve-d'Ascq	ESB Villeneuve-d'Ascq
+Edmond Debeaumarché	Edmond Debeaumarché
+Rukuɓu	Smalamarant
+Template:Tl	Mall:Mall
+Template:Userbox	Mall:Användarbox
+Adebayo Akinfenwa	Adebayo Akinfenwa
+Category:Ƙasā̀shē	Kategori:Världens länder
+Wikipedia:Administrators	Wikipedia:Administratörer
+Wikipedia:Vital 100	Wikipedia:100 viktiga artiklar
+Misra	Egypten
+Template:Bot	Mall:Bot
+Kanada	Kanada
+Category:Slovakia	Kategori:Slovakien
+Category:Tūrai	Kategori:Europa
+Template:Documentation	Mall:Dokumentation
+Wikipedia:Community portal	Wikipedia:Deltagarportalen
+Category:User languages	Kategori:Användare efter språk
+Template:Softredirect	Mall:Mjuk omdirigering
+Template:Delete	Mall:Radera
+Category:Wikipedia	Kategori:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Allmänt förbehåll
+Wikipedia:Statistics	Wikipedia:Statistik
+Template:Navbox	Mall:Navbox
+Cliff Akurang	Cliff Akurang
+Template:!	Mall:!
+Template:=	Mall:=
+Template:Navbar	Mall:Navbar
+Template:Unicode	Mall:Unicode
+Template:Col-break	Mall:Col-break
+Template:Col-begin	Mall:Col-begin
+Template:Col-end	Mall:Col-end
+Wikipedia:Vital articles	Wikipedia:Artiklar som bör finnas på Wikipedia
+Category:Afirka	Kategori:Afrika
+Category:Adadan	Kategori:Tal
+Template:Babel	Mall:Babel
+Template:Stub	Mall:Stub
+Template:User af-1	Mall:Användare af-1
+Template:User als-1	Mall:Användare als-1
+Template:User ar-1	Mall:Användare ar-1
+Template:User ast-1	Mall:Användare ast-1
+Template:User az	Mall:Användare az
+Template:See also	Mall:Se även
+Template:User da-2	Mall:Användare da-2
+Template:User da	Mall:Användare da
+Template:User ca-1	Mall:Användare ca-1
+Template:User ca-4	Mall:Användare ca-4
+Template:User be-2	Mall:Användare be-2
+Template:User da-1	Mall:Användare da-1
+Template:User cs-1	Mall:Användare cs-1
+Template:User bg-1	Mall:Användare bg-1
+Template:User de	Mall:Användare de
+Template:User de-1	Mall:Användare de-1
+Template:User el	Mall:Användare el
+Template:User de-3	Mall:Användare de-3
+Template:User en-3	Mall:Användare en-3
+Template:User el-1	Mall:Användare el-1
+Template:User en-1	Mall:Användare en-1
+Template:User en-2	Mall:Användare en-2
+Template:User en-4	Mall:Användare en-4
+Template:User en	Mall:Användare en
+Template:User de-2	Mall:Användare de-2
+Template:User tr-2	Mall:Användare tr-2
+Template:User tr	Mall:Användare tr
+Category:Asiya	Kategori:Asien
+Category:User uk	Kategori:Användare uk
+Category:User uk-N	Kategori:Användare uk-N
+Template:Mod	Mall:Mod
+Template:SIL	Mall:Språk/kodlista
+Template:User uk	Mall:Användare uk
+Template:ITA	Mall:ITA
+Template:Wikivar	Mall:Wikivar
+Template:Country showdata	Mall:Land showdata
+Template:Image label	Mall:Image label
+Template:Ambox	Mall:Ambox
+Template:Infobox Country	Mall:Landsfakta
+Template:Cite journal	Mall:Tidskriftsref
+Category:User en-4	Kategori:Användare en-4
+Category:User en	Kategori:Användare en
+Category:User en-2	Kategori:Användare en-2
+Template:Infobox	Mall:Faktamall
+Template:Cite web	Mall:Webbref
+Template:Country data	Mall:Landsdata
+Template:IPA	Mall:IPA
+Category:Amurika	Kategori:Amerika
+Template:MONTHNAME	Mall:MÅNADSNAMN
+Template:Country data Nigeria	Mall:Landsdata Nigeria
+Template:Image label end	Mall:Image label end
+Wikipedia:Nospam	Wikipedia:Skyddade sidnamn
+Template:Purge	Mall:Rensa
+Template:Sportivo	Mall:Faktaruta idrottare
+Kungiyar Agaji Ta Red Cross Ta Duniya	Internationella Rödakorskommittén
+Template:Image label small	Mall:Image label small
+Template:Disambig	Mall:Förgrening
+Category:User az	Kategori:Användare az
+Category:User be	Kategori:Användare be
+Category:User cs-1	Kategori:Användare cs-1
+Category:User da-1	Kategori:Användare da-1
+Category:User ar-1	Kategori:Användare ar-1
+Category:User be-2	Kategori:Användare be-2
+Category:User da-2	Kategori:Användare da-2
+Category:User tr-2	Kategori:Användare tr-2
+Category:User af	Kategori:Användare af
+Category:User af-1	Kategori:Användare af-1
+Category:User als	Kategori:Användare als
+Category:User als-1	Kategori:Användare als-1
+Category:User ar	Kategori:Användare ar
+Category:User ast	Kategori:Användare ast
+Category:User ast-1	Kategori:Användare ast-1
+Category:User az-N	Kategori:Användare az-N
+Category:User bg	Kategori:Användare bg
+Category:User bg-1	Kategori:Användare bg-1
+Category:User ca	Kategori:Användare ca
+Category:User ca-1	Kategori:Användare ca-1
+Category:User ca-4	Kategori:Användare ca-4
+Category:User cs	Kategori:Användare cs
+Category:User da	Kategori:Användare da
+Category:User de	Kategori:Användare de
+Category:User de-2	Kategori:Användare de-2
+Category:User de-3	Kategori:Användare de-3
+Category:User el	Kategori:Användare el
+Category:User el-1	Kategori:Användare el-1
+Category:User el-N	Kategori:Användare el-N
+Category:User en-3	Kategori:Användare en-3
+Category:User en-N	Kategori:Användare en-N
+Category:User tr	Kategori:Användare tr
+Category:User tr-N	Kategori:Användare tr-N
+Category:Bishiya	Kategori:Träd
+Category:Kudi	Kategori:Valutor
+Category:Ingila kwallon kafa players	Kategori:Engelska fotbollsspelare
+Category:Kifi	Kategori:Fiskar
+Category:Amfani	Kategori:Frukter
+Category:Dabba	Kategori:Djur
+Template:Flag	Mall:Flagga
+Trojany	Trojany
+Doya	Jams
+Template:Image label begin	Mall:Image label begin
+Category:User en-1	Kategori:Användare en-1
+Category:User de-1	Kategori:Användare de-1
+Category:User da-N	Kategori:Användare da-N
+Template:Start date	Mall:Startdatum
+Malan boɗe ido	Dagfjärilar
+Chuba Akpom	Chuba Akpom
+Special:RecentChanges	Special:Senaste ändringar
+Tsaure	Cymbopogon giganteus
+Module:Infobox	Modul:Infobox
